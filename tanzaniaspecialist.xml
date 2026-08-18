@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-18T13:38:18.934Z" count="10">
+<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-18T13:40:07.953Z" count="10">
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00001</get-trip-id>
     <get_trip_status>Okay</get_trip_status>
