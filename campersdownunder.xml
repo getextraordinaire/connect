@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-18T14:07:46.021Z" count="13">
+<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-18T14:26:23.574Z" count="13">
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00001</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Melbourne - Perth</get-trip-name>
     <get-trip-duration>42</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/camperreis-australie-melbourne-perth/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis Melbourne - Perth
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-australie-melbourne-perth/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis Melbourne - Perth
 
 Een camperreis van Melbourne naar Perth is een avontuur vol natuurschoon en afwisseling. Begin met een bezoek aan Philip Island, beroemd om zijn pinguïnparade, en vervolg je reis naar de Grampians voor adembenemende uitzichten en watervallen. In Adelaide kun je de heerlijke wijnen van de Barossa Valley proeven. Reis via de wijngaarden verder naar de Flinders Ranges, waar unieke rotsformaties en fascinerende landschappen wachten. Geniet van de kustlijn bij Port Lincoln, waar je ook kunt kooiduiken met witte haaien. Je vervolgt je via de Nullarbor Plain, dat wordt vaak gezien als the middle of nowhere. De uitgestrekte, onbewoonde gebieden en lange afstanden tussen steden, draagt bij aan een gevoel van isolatie en benadrukt de enorme afstanden in Australië. Maar daarna wordt je beloond met prachtige stranden bij Esperance, waar je geregeld kangoeroes op het strand kunt zien. Vervolgens passeer je bijzondere zoutvlaktes en de spectaculaire Wave Rock op weg naar Perth. De beste reisperiode voor deze route langs de zuidkust is tussen oktober en april.
 
@@ -171,45 +171,45 @@ Deze prachtige route van Melbourne naar Perth is ruim 5.000 km – vaak rijd je 
 
 #REGELEN WE OOK VOOR JE
 
-Heb je plannen om naar Kangaroo Island te gaan, 4WD te rijden in de Flinders Ranges of te zwemmen met dolfijnen in Mornington Peninsula? Misschien wil je vooral flexibel zijn en je excursies ter plekke regelen. Maar voor veel klanten die hun reis graag plannen of wanneer het handig is dit vooraf te boeken vanwege het hoogseizoen, regelen we de excursies vooraf bij het boeken van de reis. Dit kan overigens ook met een 'open datum'. We denken graag met je mee.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Southern-Ocean-Lodge_Kangaroo-Island_Seal-573.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Melbourne-centraal-station.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/the-twelve-apostles-2101864_640.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/AU-Grampians.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Remarkable-Rocks-KI.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Adelaide-grapevines.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sa-flinders-ranges.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/Duiken-met-haaien-Port-Lincoln.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Nullarbor-Plain.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Hillier-Toursim-Australia.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lucky-Bay-Esperance.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hellfire-Bay-Australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Kangoeroe.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Porongurup.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bluff-Knoll.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Grace-West-Australia.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/tin-horse-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Wave-Rock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hippos-yawn.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Mulkas-cave.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Perth.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bottlenose-dolfijnen.jpg</get_trip_image-url-trips>
+Heb je plannen om naar Kangaroo Island te gaan, 4WD te rijden in de Flinders Ranges of te zwemmen met dolfijnen in Mornington Peninsula? Misschien wil je vooral flexibel zijn en je excursies ter plekke regelen. Maar voor veel klanten die hun reis graag plannen of wanneer het handig is dit vooraf te boeken vanwege het hoogseizoen, regelen we de excursies vooraf bij het boeken van de reis. Dit kan overigens ook met een 'open datum'. We denken graag met je mee.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Southern-Ocean-Lodge_Kangaroo-Island_Seal-573.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Melbourne-centraal-station.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/the-twelve-apostles-2101864_640.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/AU-Grampians.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Remarkable-Rocks-KI.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Adelaide-grapevines.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sa-flinders-ranges.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/Duiken-met-haaien-Port-Lincoln.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Nullarbor-Plain.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Hillier-Toursim-Australia.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lucky-Bay-Esperance.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hellfire-Bay-Australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Kangoeroe.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Porongurup.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bluff-Knoll.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Grace-West-Australia.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/tin-horse-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Wave-Rock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hippos-yawn.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Mulkas-cave.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Perth.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bottlenose-dolfijnen.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00002</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>2WD Camperreis Broome - Darwin</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/camperreis-broome-darwin-2wd-australie/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#2WD Camperreis Broome - Darwin
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-broome-darwin-2wd-australie/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#2WD Camperreis Broome - Darwin
 
 Hoewel de route van Broome naar Darwin vaak met een 4WD wordt gereden (via een ruigere route), kan deze ook met een 2WD camper over de geasfalteerde hoofdwegen worden afgelegd. Houd er rekening mee dat sommige bezienswaardigheden in nationale parken alleen met een 4WD bereikbaar zijn; in dat geval is een georganiseerde excursie aan te raden.
 
@@ -314,32 +314,32 @@ Als je Darwin en omstreken met een georganiseerde tour wilt zien, is het verstan
 #Camperreis Broome - Darwin
 #Vraag nu een offerte aan
 
-Interesse in deze camperreis van Broome naar Darwin? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Boab-prison-tree.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Geikie-Gorge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/bungle-bungles.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Lake-Argyle.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Hidden-Valley.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Katherine.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-Aboriginal-Art.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-waterval.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-East-Point-Reserve.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-ocean-view-sunset.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Krokodil-Northern-Territory.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get_trip_image-url-trips>
+Interesse in deze camperreis van Broome naar Darwin? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Boab-prison-tree.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Geikie-Gorge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/bungle-bungles.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Lake-Argyle.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Hidden-Valley.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Katherine.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-Aboriginal-Art.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-waterval.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-East-Point-Reserve.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-ocean-view-sunset.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Krokodil-Northern-Territory.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00003</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis West-Australië: Perth - Broome</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/camperreis-west-australie-perth-broome/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis West-Australië: Perth - Broome
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-west-australie-perth-broome/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis West-Australië: Perth - Broome
 
 De meeste mensen kiezen voor een camperreis langs de Oostkust van Australië als ze voor de eerste keer naar Australië reizen. Heel begrijpelijk, want het is een prachtig deel van dit immens grote continent. Onze ervaring is dat velen zo gecharmeerd raken van Australië dat ze al snel plannen hebben voor een tweede camperreis: naar West Australië. Een camperreis in West Australië vanaf Perth richting het noorden is namelijk weer een heel andere ervaring. Meer outback, ruiger, rustiger en een prachtige onderwaterwereld om te verkennen. Ongerepte natuur. Kenmerkend voor het rijden langs de kust van West Australia zijn de eindeloze graanvelden, het lage struikgewas met veel Banksia bomen en de vele wildflowers. Houd er rekening mee dat sommige (onverharde) wegen alleen toegankelijk zijn met een 4WD camper. Ook bestaat de kans op (tijdelijke) overstromingen waardoor je moet wachten totdat deze weer zijn weggezakt om verder te kunnen rijden.
 
@@ -419,33 +419,33 @@ De westkust van Australië is lang, de wegen niet altijd zoals we gewend zijn en
 #Excursies
 #Regelen we ook voor je
 
-Rijd je in een 2WD camper dan kun je een aantal bezienswaardigheden niet aandoen met je camper vanwege de onverharde wegen. Vaak is het wel mogelijk om excursies er naar toe te boeken. Indien gewenst kan dat via ons. Denk ook aan duik- of snorkeltripjes, ook die kunnen wij voor je regelen. Vraag naar de mogelijkheden bij je aanvraag.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Ningaloo-Reef-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/perth-744266_640-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Nambung-National-Park-Pinnacles.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/kalbarri-national-park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Francois-Perron-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Coral-Bay.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/whaleshark.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Karijini-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/eighty-mile-beach-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/RedSands-4WD-5-personen-met-luifel.webp</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/duiken-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Ningaloo-Reef-1024x575.jpg</get_trip_image-url-trips>
+Rijd je in een 2WD camper dan kun je een aantal bezienswaardigheden niet aandoen met je camper vanwege de onverharde wegen. Vaak is het wel mogelijk om excursies er naar toe te boeken. Indien gewenst kan dat via ons. Denk ook aan duik- of snorkeltripjes, ook die kunnen wij voor je regelen. Vraag naar de mogelijkheden bij je aanvraag.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Ningaloo-Reef-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/perth-744266_640-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Nambung-National-Park-Pinnacles.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/kalbarri-national-park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Francois-Perron-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Coral-Bay.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/whaleshark.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Karijini-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/eighty-mile-beach-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/RedSands-4WD-5-personen-met-luifel.webp</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/duiken-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Ningaloo-Reef-1024x575.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00004</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperroute Noordereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Nieuw-Zeeland</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/noordereiland/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperroute Noordereiland
+    <get-trip-country>Nieuw-Zeeland</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/noordereiland/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperroute Noordereiland
 #Nieuw-Zeeland
 
 Je camperreis op het Noordereiland begint bijna altijd in Auckland waar je de camper ophaalt. We beschrijven een route voor je reis op het Noordereiland op hoofdlijnen vanaf Auckland naar Wellington. Nadat je bij Campers Down Under hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel. Op deze pagina zetten we alvast een aantal suggesties voor een reis op het Noordereiland op een rijtje.
@@ -510,28 +510,28 @@ Een boottocht door de Bay of Islands, een dagtour naar het schiereiland Coromand
 #Camperreis Noordereiland
 #Vraag nu een offerte aan
 
-Interesse in deze camperreis op het Noordereiland van Nieuw Zeeland (eventueel in combinatie met het Zuidereiland)? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Auckland-skytower-haven-Depositphotos_208010076_L.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Waipoua-forest-northland-Noordereiland-Nieuw-Zeeland.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Cathedral-Cove-Coromandel-Depositphotos_442409454_L.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/NZ-Rotorua.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/janvangenten-113732_640-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/NZ-Whangaui.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/tongariro-1174977_1280-hike-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/wellington-2144119_1280-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/maui_River_Tongariro-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Hobbiton-Waikato.jpg</get_trip_image-url-trips>
+Interesse in deze camperreis op het Noordereiland van Nieuw Zeeland (eventueel in combinatie met het Zuidereiland)? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Auckland-skytower-haven-Depositphotos_208010076_L.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Waipoua-forest-northland-Noordereiland-Nieuw-Zeeland.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Cathedral-Cove-Coromandel-Depositphotos_442409454_L.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/NZ-Rotorua.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/janvangenten-113732_640-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/NZ-Whangaui.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/tongariro-1174977_1280-hike-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/wellington-2144119_1280-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/maui_River_Tongariro-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Hobbiton-Waikato.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00005</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Darwin - Australië</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/rondreis-noord-australie-darwin/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis Darwin - Australië
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-noord-australie-darwin/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis Darwin - Australië
 
 Plan je een camperreis naar Australië, ruim dan ook minimaal 10 dagen in voor een rondreis vanaf Darwin, in het Noordelijk Territorium van Australië. Deze levendige, tropische stad in combinatie met de oude cultuur van de Aboriginals, de natuurwonderen in Kakadu Park, Nitmiluk National Parks nabij Katherine en Litchfield National Park plus alle flora en fauna staat garant voor een memorabele camperreis. De route vanaf Darwin gaat over verharde wegen. Sommige bezienswaardigheden kun je alleen zien met een 4WD camper of een toer. De beste reisperiode voor the Northern Territory is tussen april en november.
 
@@ -599,26 +599,26 @@ Interesse in deze camperreis inclusief Darwin? Wij helpen je graag met een gesch
 
 #Beste reistijd
 
-De beste reisperiode voor the Northern Territory is tussen april en november.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Drive-on-left-crop.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kakadu-Yellow-River-Billabong.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kakadu-Ubirr-Aboriginal-art.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Katherine-Gorge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/krkodil-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/redsands-4wd-camper-2-personen.jpg</get_trip_image-url-trips>
+De beste reisperiode voor the Northern Territory is tussen april en november.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Drive-on-left-crop.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kakadu-Yellow-River-Billabong.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kakadu-Ubirr-Aboriginal-art.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Katherine-Gorge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/krkodil-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/redsands-4wd-camper-2-personen.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00006</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Rondreis Perth (zuidwest Australië)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/rondreis-perth-australie-camper/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Rondreis Perth (zuidwest Australië)
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-perth-australie-camper/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Rondreis Perth (zuidwest Australië)
 
 Tijdens deze afwisselende camperrondreis ontdek je het mooiste van Zuidwest-Australië. Vanuit Perth rijd je langs de kust naar het zuiden, met als eerste stop het charmante Penguin Island. Onderweg passeer je witte stranden, indrukwekkende grotten, wijngaarden, ruige kliffen en torenhoge bomen. Via hoogtepunten als Margaret River, Pemberton, Albany en het hagelwitte strand van Lucky Bay bij Esperance, kom je helemaal tot rust in de natuur. Terug richting Perth reis je via het outbacklandschap naar het spectaculaire Wave Rock bij Hyden, en doorkruis je de historische vallei van de Avon River. Een route vol unieke dieren, ongerepte natuur en lokale charme – perfect voor een avontuurlijke roadtrip met de camper!
 
@@ -751,44 +751,44 @@ De meeste hoofd- en toegangswegen op deze route zijn geasfalteerd en goed begaan
 #Reisduur camperrondreis Perth
 #Minimaal 17 dagen
 
-Western Australia is enorm: met 2,5 miljoen km² ongeveer even groot als West-Europa en goed voor een derde van heel Australië. De afstanden zijn groot, dus onderschat ze niet. Voor deze camperrondreis vanaf Perth, inclusief Esperance (ca. 2500 km), raden we minimaal 2,5 weken aan. Wil je echter in een rustiger tempo reizen en meer tijd hebben voor wandelingen, stranden en natuur, dan is 3 weken of langer aan te raden voor een ontspannen route.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Perth.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Kings-Park-Perth.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bottlenose-dolfijnen.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Busselton-Jetty.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Margaret-River.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Karri-forest-margaret-river.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Pemberton.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/DEntrecasteaux-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Valley-of-the-Giants.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/William-Bay-elephant-rocks.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hellfire-Bay-Australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lucky-Bay-Esperance.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Hillier-Toursim-Australia.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Porongurup.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bluff-Knoll.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Grace-West-Australia.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/tin-horse-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Wave-Rock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hippos-yawn.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Mulkas-cave.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Cruisin-Adventurer-4-Berth-hero.jpg</get_trip_image-url-trips>
+Western Australia is enorm: met 2,5 miljoen km² ongeveer even groot als West-Europa en goed voor een derde van heel Australië. De afstanden zijn groot, dus onderschat ze niet. Voor deze camperrondreis vanaf Perth, inclusief Esperance (ca. 2500 km), raden we minimaal 2,5 weken aan. Wil je echter in een rustiger tempo reizen en meer tijd hebben voor wandelingen, stranden en natuur, dan is 3 weken of langer aan te raden voor een ontspannen route.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Perth.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Kings-Park-Perth.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bottlenose-dolfijnen.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Busselton-Jetty.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Margaret-River.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Karri-forest-margaret-river.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Pemberton.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/DEntrecasteaux-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Valley-of-the-Giants.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/William-Bay-elephant-rocks.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hellfire-Bay-Australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lucky-Bay-Esperance.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Hillier-Toursim-Australia.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Porongurup.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Bluff-Knoll.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Grace-West-Australia.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/tin-horse-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Wave-Rock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Hippos-yawn.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Mulkas-cave.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Cruisin-Adventurer-4-Berth-hero.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00007</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Perth (westkust Australië)</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/rondreis-perth-westkust-australie/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis Perth (westkust Australië)
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-perth-westkust-australie/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis Perth (westkust Australië)
 
 Een camperreis in West-Australië vanaf Perth richting het noorden biedt een unieke ervaring in ongerepte natuur. Je rijdt door de ruige en rustige outback, met eindeloze graanvelden en laag struikgewas, waaronder talloze Banksia-bomen en schitterende wildflowers. De uitgestrektheid van het landschap geeft je een gevoel van vrijheid. Houd er echter rekening mee dat sommige onverharde wegen alleen toegankelijk zijn met een 4WD camper. Bovendien bestaat de kans op (tijdelijke) overstromingen, waardoor je mogelijk moet wachten totdat deze zijn weggezakt om verder te kunnen rijden.
 
@@ -894,35 +894,35 @@ Of huur een comfortabele 2WD camper. In dat geval kun je er voor kiezen de beste
 #Reisduur camperrondreis Perth (westkust en outback)
 #Minimaal 5 weken
 
-De westkust van Australië is lang, de wegen niet altijd zoals we gewend zijn en onderweg wil je vast vaak stoppen om het landschap echt te ervaren. Wij raden je aan om minimaal 5 weken uit te trekken voor deze rondreis in West Australië vanaf Perth. Je zult namelijk circa 4.500 km rijden.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/08/karijini-national-park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/perth-744266_640-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Perth-fietspad-canva.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Nambung-National-Park-Pinnacles.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/kalbarri-national-park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Francois-Perron-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Coral-Bay.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/whaleshark.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Karijini-National-Park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Newman-australia-canva.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/South-of-newman-australia-canva.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/12/Wave-rock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get_trip_image-url-trips>
+De westkust van Australië is lang, de wegen niet altijd zoals we gewend zijn en onderweg wil je vast vaak stoppen om het landschap echt te ervaren. Wij raden je aan om minimaal 5 weken uit te trekken voor deze rondreis in West Australië vanaf Perth. Je zult namelijk circa 4.500 km rijden.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/08/karijini-national-park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/perth-744266_640-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Perth-fietspad-canva.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Rottnest-Island-quokka.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/koala.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Nambung-National-Park-Pinnacles.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/kalbarri-national-park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Francois-Perron-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Coral-Bay.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/whaleshark.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Karijini-National-Park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Newman-australia-canva.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/South-of-newman-australia-canva.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/12/Wave-rock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Northam-Avon-Valley-Australia-Tourism.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Fairy-pinguin-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/03/Lake-Clifton-thrombolites.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00008</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camper rondreis Tasmanië</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/rondreis-tasmanie/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camper rondreis Tasmanië
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-tasmanie/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camper rondreis Tasmanië
 
 Tasmanië! Heb je genoeg tijd in Australië? Dan is het zeker de moeite waard om minimaal een week Tasmanië aan je reis toe te voegen. Met de camper is het goed te doen om dit prachtige eiland te verkennen. Er zijn voldoende campings en kampeergelegenheden te vinden. Tasmanië, is een prachtig natuurparadijs en ligt 240 km ten zuiden van Melbourne. Qua omvang is het ca. twee keer zo groot als België.
 
@@ -1004,33 +1004,33 @@ Misschien wil je vooral flexibel zijn en je excursies ter plekke regelen. Maar v
 #Camperreis Tasmanië
 #Vraag nu een offerte aan
 
-Interesse in deze camperreis op Tasmanië? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/regenwoud-tasmanie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Hobart-haven-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/tasmanian-devil-small-bek-open-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Mount-Field-NP-Tasmanie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/russell-falls-staand-small2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/lake-st-clair-liggend-small-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/platypus-goed.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Dunes-Tasmania-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/cradle-mountain-tasmanie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/zeehond-australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Bay-of-fires-small-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Australia-Wineglass-Bay-Image-Bay-Scenic-Coastal-Beach-Nature.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Tasman-Arch-Tasmanie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Cruisin-Sandpiper-camper.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/bay-of-fires-tasmanie-met-bootje.jpg</get_trip_image-url-trips>
+Interesse in deze camperreis op Tasmanië? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/regenwoud-tasmanie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Hobart-haven-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/tasmanian-devil-small-bek-open-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Mount-Field-NP-Tasmanie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/russell-falls-staand-small2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/lake-st-clair-liggend-small-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/platypus-goed.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Dunes-Tasmania-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/cradle-mountain-tasmanie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/zeehond-australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Bay-of-fires-small-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Australia-Wineglass-Bay-Image-Bay-Scenic-Coastal-Beach-Nature.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Tasman-Arch-Tasmanie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Cruisin-Sandpiper-camper.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/bay-of-fires-tasmanie-met-bootje.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00009</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>4WD camperreis Broome - Darwin (Gibb River Road)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/route-broome-darwin-via-gibb-river-road-4wd/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[# 4WD camperreis Broome - Darwin (Gibb River Road)
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/route-broome-darwin-via-gibb-river-road-4wd/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[# 4WD camperreis Broome - Darwin (Gibb River Road)
 
 De route van Broome naar Darwin (of andersom) is het meest avontuurlijk met een 4WD via de 660 km lange Gibb River Road: dwars door het Kimberley National Park. 'The Gibb' is een van de weinig nog echte off road avonturen ter wereld. Met een 4WD kan je bovendien op veel meer plekken in de Nationale Parken komen.
 
@@ -1151,37 +1151,37 @@ Voor de route van Broome naar Darwin via de Gibb River Road met een 4WD camper, 
 # Camperreis Broome - Darwin
 ## Vraag nu een offerte aan
 
-Interesse in deze 4WD camperreis van Broome naar Darwin (of in tegenstelde richting)? Wij helpen je graag met een geschikte 4WD camper en regelen indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Boab-prison-tree.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Windjana-gorge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Bell-Gorge-Australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Galvans-Gorge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/pentecost-river-crossing-gibb-river-rd-klein.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Emma-gorge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Lake-Argyle.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Hidden-Valley.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Katherine.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-waterval.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-Aboriginal-Art.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-East-Point-Reserve.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-ocean-view-sunset.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Krokodil-Northern-Territory.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2023/09/Britz-Maverick-4wd-camper-huren-Australie-Campers-Down-Under-pop-up-tent-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kununurra-1024x628.jpg</get_trip_image-url-trips>
+Interesse in deze 4WD camperreis van Broome naar Darwin (of in tegenstelde richting)? Wij helpen je graag met een geschikte 4WD camper en regelen indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Broome-kamelen.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Boab-prison-tree.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Windjana-gorge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Bell-Gorge-Australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Galvans-Gorge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/pentecost-river-crossing-gibb-river-rd-klein.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Emma-gorge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Lake-Argyle.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Hidden-Valley.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Katherine.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-waterval.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kakadu-Aboriginal-Art.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-East-Point-Reserve.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/04/Darwin-ocean-view-sunset.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Litchfield-waterval.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Krokodil-Northern-Territory.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2022/11/Arnhem-Land.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2023/09/Britz-Maverick-4wd-camper-huren-Australie-Campers-Down-Under-pop-up-tent-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2025/05/Kununurra-1024x628.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00010</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Sydney naar Adelaide</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/route-sydney-adelaide/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[# Camperreis Sydney naar Adelaide
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/route-sydney-adelaide/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[# Camperreis Sydney naar Adelaide
 
 Ook de Zuidkust is erg afwisselend: de prachtige kustlijn vanaf Sydney, de Great Ocean Road, Grampians, Kangaroo Island, Flinders Ranges.
 
@@ -1233,30 +1233,30 @@ Heb je plannen om naar Kangaroo Island te gaan, 4WD te rijden in de Flinders Ran
 Interesse in deze camperreis langs de zuidkust van Australië? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!
 
 #Beste reistijd
-De beste reisperiode voor de zuidkust is tussen oktober en april.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5788-Wilsons-Prom-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kangaroo-island-2054999_640-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sydney-1-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/beach-1627409_1280.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/New-South-Wales-Killalea-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6028-GOR-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6012-GOR-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/AU-Grampians.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Remarkable-Rocks-KI.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Flinders-Ranges-5.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Apollo-Euro-Deluxe-camper-huren-Australie-Nieuw-Zeeland-Campers-Down-Under-emu-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Flinders-Ranges-4WD.jpg</get_trip_image-url-trips>
+De beste reisperiode voor de zuidkust is tussen oktober en april.]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5788-Wilsons-Prom-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kangaroo-island-2054999_640-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sydney-1-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/beach-1627409_1280.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/New-South-Wales-Killalea-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6028-GOR-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6012-GOR-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/AU-Grampians.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Remarkable-Rocks-KI.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Flinders-Ranges-5.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/Apollo-Euro-Deluxe-camper-huren-Australie-Nieuw-Zeeland-Campers-Down-Under-emu-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/Flinders-Ranges-4WD.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00011</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Sydney naar Cairns - Oostkust</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/route-sydney-cairns/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis Sydney naar Cairns - Oostkust
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/route-sydney-cairns/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis Sydney naar Cairns - Oostkust
 
 De meeste mensen die voor het eerst naar Australië gaan, gaan reizen aan de Oostkust: van Sydney naar Cairns of andersom. Dat is een begrijpelijke keuze: de Oostkust heeft veel te bieden en is zeer afwisselend. Allereerst trekt Sydney natuurlijk enorm om een paar dagen te verblijven. Als je daarna de camper ophaalt en je camperreis noordwaarts start, kom je een enorme verscheidenheid aan natuur en bezienswaardigheden op je route tegen. Prachtige stranden, veel nationale parken, tropisch regenwoud, kangoeroes en koala's, leuke stadjes, het Great Barrier Reef. Ook kun je op verschillende plekken een stuk binnenland rijden en zo een indruk krijgen van de Outback. En er zijn meer dan voldoende campings en kampeergelegenheden te vinden langs de hele kust.
 
@@ -1373,42 +1373,42 @@ Lees ook onze blogs voor meer informatie en inspiratie:
 - Camperreis door Australië met baby of peuter
 - Bezoek aan Cairns tips van collega Luuk
 - 6 Leukste steden van Australië
-- 10 x Typisch Australië]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/14.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/qld-duiken-great-barrier-reef.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sydney-1-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Blue-Mountains-New-South-Wales.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/20.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/22.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/03/Noosa-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/7.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/26.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/24.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/29.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/28.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/8.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/10.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/36.png</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/32.png</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/Paronella-Park-Queensland-Australie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/18.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/17.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/15.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/22-Cruisin-Seeker-4-Berth-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/whitsunday-island-796006_1280-gratis.jpg</get_trip_image-url-trips>
+- 10 x Typisch Australië]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/14.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/qld-duiken-great-barrier-reef.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/sydney-1-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2024/07/Blue-Mountains-New-South-Wales.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/20.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/22.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/03/Noosa-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/7.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/26.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/24.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/29.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/28.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/8.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/10.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/36.png</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/32.png</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/Paronella-Park-Queensland-Australie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/18.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/17.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/05/15.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2017/11/22-Cruisin-Seeker-4-Berth-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/whitsunday-island-796006_1280-gratis.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00012</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camper rondreis Zuidereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Nieuw-Zeeland</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute/zuidereiland/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camper rondreis Zuidereiland
+    <get-trip-country>Nieuw-Zeeland</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute/zuidereiland/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camper rondreis Zuidereiland
 
 Je camperreis op het Zuidereiland begint bijna altijd in Christchurch als je daar de camper ophaalt. Of in Picton als je met de camper van de ferry komt. We beschrijven je reis op het Zuidereiland op hoofdlijnen vanuit Christchurch. Nadat je bij Campers Down Under hebt geboekt, ontvang je van ons een uitgebreid routevoorstel. Op deze pagina zetten we alvast een aantal suggesties voor een reis op het Zuidereiland op een rijtje.
 
@@ -1468,30 +1468,30 @@ Een meerdaagse wandeltocht op het prachtige Banks Peninsula ten zuiden van Chris
 #Camperreis Zuidereiland
 #Vraag nu een offerte aan
 
-Interesse in deze camperreis op het Zuidereiland van Nieuw Zeeland (eventueel in combinatie met het Noordereiland)? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kaikoura-Canterbury-zeehonden.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kaikoura-Canterbury.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Pancake-Rocks-Punakaiki.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/4292_Rob_Roy_Glacier_Mt_Aspiring_Julian_Apse-kopie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Aoraki_Mount-Cook-National-Park-South-Island.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Lake-Matheson-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/lake-tekapo-1960263_1280-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Milford-Sound-Fiordland-Depositphotos_60-996093_L.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/new-zealand-3021090_640-gratis.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Dunedin-Railway-Station-Central-Otago.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Apollo-Euro-Quest_Nieuw-Zeeland.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Milford-Sound-boottocht-Depositphotos_729111586_L.jpg</get_trip_image-url-trips>
+Interesse in deze camperreis op het Zuidereiland van Nieuw Zeeland (eventueel in combinatie met het Noordereiland)? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kaikoura-Canterbury-zeehonden.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Kaikoura-Canterbury.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Pancake-Rocks-Punakaiki.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/4292_Rob_Roy_Glacier_Mt_Aspiring_Julian_Apse-kopie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Aoraki_Mount-Cook-National-Park-South-Island.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Lake-Matheson-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/lake-tekapo-1960263_1280-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Milford-Sound-Fiordland-Depositphotos_60-996093_L.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/new-zealand-3021090_640-gratis.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Dunedin-Railway-Station-Central-Otago.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Apollo-Euro-Quest_Nieuw-Zeeland.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Milford-Sound-boottocht-Depositphotos_729111586_L.jpg</get-trip-image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00013</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Camperreis Red Centre Australië</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
-    <get_trip_country>Australie</get_trip_country>
-    <get_trip_url>https://www.campersdownunder.nl/camperroute-route-red-centre/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Camperreis Red Centre Australië
+    <get-trip-country>Australie</get-trip-country>
+    <get-trip-url>https://www.campersdownunder.nl/camperroute-route-red-centre/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Camperreis Red Centre Australië
 
 Bij het Red Centre denken veel mensen meteen aan Uluru, oftewel Ayers Rock. Terecht, want dit iconische herkenningspunt is enorm indrukwekkend! Maar in deze regio is nog veel meer prachtige natuur te ontdekken. Denk aan de West MacDonnell Ranges, Kings Canyon, Kata Tjuta (The Olgas) en de uitgestrekte Australische Outback. Houd je camera dus gereed…
 
@@ -1582,23 +1582,23 @@ Interesse in deze camperreis in het Red Centre? Wij helpen je graag met een gesc
 
 Beste reistijd: tussen april en november
 Totale routeafstand: ca. 1.300 km (rondreis Alice Springs)
-Mogelijk met: 2WD camper en 4WD camper]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Nieuwe-route-Alice-Springs-Red-Centre.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6027-Uluru-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Alice-Springs-vanuit-de-lucht.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5531-Royal-Flying-Docters-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Ormiston_Gorge_West_MacDonnell_Ranges_credit_Tourism_NT.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/mc-donnell-ranges-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/10.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/9.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5818-Kings-Canyon-eigen-foto.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/AU-Kings-Canyon-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/kingscanyon-rim-walk.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/uluru-1076323_640.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Uluru-Ayers-Rock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kata-Tjuta-wandeling.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/maui-ultima-Ayers-Rock-Uluru-NT-DEC-2012_4-kopie.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Alice-Springs-scaled.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/PHS-Helicopter-Uluru-Daytime-480x480.jpg</get_trip_image-url-trips>
+Mogelijk met: 2WD camper en 4WD camper]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Nieuwe-route-Alice-Springs-Red-Centre.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6027-Uluru-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Alice-Springs-vanuit-de-lucht.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5531-Royal-Flying-Docters-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/Ormiston_Gorge_West_MacDonnell_Ranges_credit_Tourism_NT.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/mc-donnell-ranges-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/10.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/9.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_5818-Kings-Canyon-eigen-foto.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/AU-Kings-Canyon-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/kingscanyon-rim-walk.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/02/uluru-1076323_640.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Uluru-Ayers-Rock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/07/Kata-Tjuta-wandeling.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/maui-ultima-Ayers-Rock-Uluru-NT-DEC-2012_4-kopie.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Alice-Springs-scaled.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/01/PHS-Helicopter-Uluru-Daytime-480x480.jpg</get-trip-image-url-trips>
   </trip>
 </trips>
