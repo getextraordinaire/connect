@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-18T14:07:46.021Z" count="8">
+<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-18T14:26:23.574Z" count="8">
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00083</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>16-daagse Privé Rondreis Bohol &amp; Palawan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest_price_2p>3.470</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>3.470</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/bohol-palawan</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Bohol & Palawan
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/bohol-palawan</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Bohol & Palawan
 16-daagse Privé Rondreis Filipijnen
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -167,35 +167,35 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/kayaking-coron/large/50x50/kayaking-coron.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/prive-lunch-miniloc/large/50x50/prive-lunch-miniloc.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/01-miniloc-island-aerial-view/large/50x60/01-miniloc-island-aerial-view.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/fox-firefly-accommodatie-filipijnen-2/large/50x64/fox-firefly-accommodatie-filipijnen-2.png</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/kayak-2/large/50x61/kayak-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/1matinloc-island-istock/large/50x53/1matinloc-island-istock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-148148573/large/37x56/shutterstock-148148573.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/jr-suite/large/50x50/jr-suite.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/04-miniloc-island-beachside-room/large/50x50/04-miniloc-island-beachside-room.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/newly-renovated-deluxe-room/large/50x50/newly-renovated-deluxe-room.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/kayaking-coron/large/50x50/kayaking-coron.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/prive-lunch-miniloc/large/50x50/prive-lunch-miniloc.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/01-miniloc-island-aerial-view/large/50x60/01-miniloc-island-aerial-view.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/fox-firefly-accommodatie-filipijnen-2/large/50x64/fox-firefly-accommodatie-filipijnen-2.png</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/kayak-2/large/50x61/kayak-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/1matinloc-island-istock/large/50x53/1matinloc-island-istock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-148148573/large/37x56/shutterstock-148148573.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/jr-suite/large/50x50/jr-suite.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/04-miniloc-island-beachside-room/large/50x50/04-miniloc-island-beachside-room.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/newly-renovated-deluxe-room/large/50x50/newly-renovated-deluxe-room.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00084</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>22-daagse Privé Rondreis Borneo &amp; Philippines</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest_price_2p>3.110</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>3.110</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Maleisië</get_trip_country>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/borneo-philippines</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Borneo & Philippines
+    <get-trip-country>Maleisië</get-trip-country>
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/borneo-philippines</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Borneo & Philippines
 22-daagse Privé Rondreis Filipijnen & Borneo
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -404,44 +404,44 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/227799-10150183911042043-2948640-n/large/50x50/227799-10150183911042043-2948640-n.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/sar140/large/50x50/sar140.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/apo-island-snorkelaar-schildpad/large/50x50/apo-island-snorkelaar-schildpad.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/baai/large/50x50/baai.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/14952030954sepilokoran-1495203095/large/50x50/14952030954sepilokoran-1495203095.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/rice-paddy/large/50x50/rice-paddy.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/dsc-0234/large/49x40/dsc-0234.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/bekerplanten/large/50x50/bekerplanten.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-679343518/large/50x50/istock-679343518.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/turtle-in-apo/large/50x50/turtle-in-apo.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/dsc01509/large/50x50/dsc01509.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/foxfirefly-48/large/50x50/foxfirefly-48.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/deluxe-suite/large/50x50/deluxe-suite.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/bakonationalparkchalet/large/50x50/bakonationalparkchalet.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/ngemah-longhouse/large/50x50/ngemah-longhouse.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/521982-405071096196768-888917870-n/large/50x50/521982-405071096196768-888917870-n.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/belmont-pool/large/50x50/belmont-pool.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/hi520351502/large/50x50/hi520351502.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/overviewbayleaf/large/50x50/overviewbayleaf.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/227799-10150183911042043-2948640-n/large/50x50/227799-10150183911042043-2948640-n.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/sar140/large/50x50/sar140.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/apo-island-snorkelaar-schildpad/large/50x50/apo-island-snorkelaar-schildpad.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/baai/large/50x50/baai.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/14952030954sepilokoran-1495203095/large/50x50/14952030954sepilokoran-1495203095.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/rice-paddy/large/50x50/rice-paddy.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/dsc-0234/large/49x40/dsc-0234.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/bekerplanten/large/50x50/bekerplanten.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-679343518/large/50x50/istock-679343518.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/turtle-in-apo/large/50x50/turtle-in-apo.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/dsc01509/large/50x50/dsc01509.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/foxfirefly-48/large/50x50/foxfirefly-48.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/deluxe-suite/large/50x50/deluxe-suite.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/bakonationalparkchalet/large/50x50/bakonationalparkchalet.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/ngemah-longhouse/large/50x50/ngemah-longhouse.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/521982-405071096196768-888917870-n/large/50x50/521982-405071096196768-888917870-n.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/belmont-pool/large/50x50/belmont-pool.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/hi520351502/large/50x50/hi520351502.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/overviewbayleaf/large/50x50/overviewbayleaf.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00085</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Classic Philippines</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest_price_2p>3.360</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>3.360</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/classic-philippines</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Classic Philippines
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/classic-philippines</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Classic Philippines
 17-daagse Privé Rondreis Filipijnen
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -614,38 +614,38 @@ Ook al is de Filipijnen nog sterk in ontwikkeling qua toerisme, zijn er toch pie
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/banaue-rice-terraces-2/large/50x50/banaue-rice-terraces-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-345640415/large/50x50/shutterstock-345640415.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/underground-river/large/50x53/underground-river.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-679343518/large/50x50/istock-679343518.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-297455192/large/50x50/shutterstock-297455192.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/ifugao-people/large/50x37/ifugao-people.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/sagada/large/50x50/sagada.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/68e81631fbe9948c3d5756a4b27d5865/large/50x50/68e81631fbe9948c3d5756a4b27d5865.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/jeepney-banaue/large/50x50/jeepney-banaue.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/underground-river-national-park/large/50x50/underground-river-national-park.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/mangrove-foto-van-villan/large/50x50/mangrove-foto-van-villan.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-24301516/large/50x50/shutterstock-24301516.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/banaue-grand-view-hotel-1/large/50x50/banaue-grand-view-hotel-1.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/the-shire-sagada-1/large/50x50/the-shire-sagada-1.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/azalea-baguio-1/large/50x50/azalea-baguio-1.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/overviewbayleaf/large/50x50/overviewbayleaf.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/banaue-rice-terraces-2/large/50x50/banaue-rice-terraces-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-345640415/large/50x50/shutterstock-345640415.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/underground-river/large/50x53/underground-river.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-679343518/large/50x50/istock-679343518.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-297455192/large/50x50/shutterstock-297455192.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/ifugao-people/large/50x37/ifugao-people.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/sagada/large/50x50/sagada.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/68e81631fbe9948c3d5756a4b27d5865/large/50x50/68e81631fbe9948c3d5756a4b27d5865.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/jeepney-banaue/large/50x50/jeepney-banaue.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/underground-river-national-park/large/50x50/underground-river-national-park.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/mangrove-foto-van-villan/large/50x50/mangrove-foto-van-villan.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-24301516/large/50x50/shutterstock-24301516.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/banaue-grand-view-hotel-1/large/50x50/banaue-grand-view-hotel-1.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/the-shire-sagada-1/large/50x50/the-shire-sagada-1.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/azalea-baguio-1/large/50x50/azalea-baguio-1.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/overviewbayleaf/large/50x50/overviewbayleaf.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00086</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Distant Shores</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest_price_2p>3.430</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>3.430</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/distant-shores</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Distant Shores
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/distant-shores</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Distant Shores
 18-daagse Privé Rondreis
 Filipijnen
 
@@ -809,33 +809,33 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-148148573/large/37x56/shutterstock-148148573.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/dugong/large/50x50/dugong.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/darocotan-island/large/50x50/darocotan-island.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/el-nido-palawan-philippines-aerial-view-of-secret-lagoon-beach-874125172-3465x2599/large/50x50/el-nido-palawan-philippines-aerial-view-of-secret-lagoon-beach-874125172-3465x2599.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/entalula-paradise-beach/large/62x59/entalula-paradise-beach.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/nacpan-beach-2/large/50x50/nacpan-beach-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/darocotan-1/large/50x50/darocotan-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/sunset-villa-standard-veranda/large/50x50/sunset-villa-standard-veranda.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/nacpan-beach-glamping-5/large/50x50/nacpan-beach-glamping-5.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/dryft-camp2/large/50x50/dryft-camp2.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/94068136-10156903637126689-591197781528412160-n/large/50x50/94068136-10156903637126689-591197781528412160-n.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-148148573/large/37x56/shutterstock-148148573.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/dugong/large/50x50/dugong.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/darocotan-island/large/50x50/darocotan-island.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/el-nido-palawan-philippines-aerial-view-of-secret-lagoon-beach-874125172-3465x2599/large/50x50/el-nido-palawan-philippines-aerial-view-of-secret-lagoon-beach-874125172-3465x2599.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/entalula-paradise-beach/large/62x59/entalula-paradise-beach.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/nacpan-beach-2/large/50x50/nacpan-beach-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/darocotan-1/large/50x50/darocotan-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/sunset-villa-standard-veranda/large/50x50/sunset-villa-standard-veranda.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/nacpan-beach-glamping-5/large/50x50/nacpan-beach-glamping-5.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/dryft-camp2/large/50x50/dryft-camp2.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/94068136-10156903637126689-591197781528412160-n/large/50x50/94068136-10156903637126689-591197781528412160-n.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00087</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Enchanting Visayas</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest_price_2p>2.150</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>2.150</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/enchanting-visayas</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Enchanting Visayas
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/enchanting-visayas</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Enchanting Visayas
 15-daagse Privé Rondreis
 Filipijnen
 
@@ -983,34 +983,34 @@ Ook al is de Filipijnen nog sterk in ontwikkeling qua toerisme, zijn er toch pie
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/turtle-swimming/large/47x52/turtle-swimming.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/anemonefish1/large/50x50/anemonefish1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/malatapay-market-2/large/50x50/malatapay-market-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/1apo-reefs/large/50x50/1apo-reefs.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/dsc01509/large/50x50/dsc01509.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/spa-ccba401e/large/50x50/spa-ccba401e.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/lounge-pool-in-evening-lighting/large/50x50/lounge-pool-in-evening-lighting.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/94068136-10156903637126689-591197781528412160-n/large/50x50/94068136-10156903637126689-591197781528412160-n.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/turtle-swimming/large/47x52/turtle-swimming.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/aloha-beach-in-panglao-bohol-phlippines-000070767389-large/large/62x56/aloha-beach-in-panglao-bohol-phlippines-000070767389-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/anemonefish1/large/50x50/anemonefish1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/malatapay-market-2/large/50x50/malatapay-market-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/1apo-reefs/large/50x50/1apo-reefs.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/dsc01509/large/50x50/dsc01509.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/spa-ccba401e/large/50x50/spa-ccba401e.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/lounge-pool-in-evening-lighting/large/50x50/lounge-pool-in-evening-lighting.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/94068136-10156903637126689-591197781528412160-n/large/50x50/94068136-10156903637126689-591197781528412160-n.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00088</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>18-daagse Privé Rondreis Hidden Gems</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest_price_2p>2.450</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>2.450</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/hidden-gems</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Hidden Gems
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/hidden-gems</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Hidden Gems
 18-daagse Privé Rondreis Filipijnen
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -1167,36 +1167,36 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/siquijor-island/large/50x50/siquijor-island.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/club-paradise-palawan-aerial-view/large/50x50/club-paradise-palawan-aerial-view.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/curious-turtle-in-apo-island-by-david-hettich/large/46x51/curious-turtle-in-apo-island-by-david-hettich.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-612857422/large/55x67/istock-612857422.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/support-boat/large/50x50/support-boat.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/hr-filip-palawan-rvp-hoofd-selectie-13/large/50x50/hr-filip-palawan-rvp-hoofd-selectie-13.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/dugong/large/50x50/dugong.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/sunset-villa-standard-veranda/large/50x50/sunset-villa-standard-veranda.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/lagoon-lake-000061812650-large/large/50x50/lagoon-lake-000061812650-large.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/siquijor-island/large/50x50/siquijor-island.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/club-paradise-palawan-aerial-view/large/50x50/club-paradise-palawan-aerial-view.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/curious-turtle-in-apo-island-by-david-hettich/large/46x51/curious-turtle-in-apo-island-by-david-hettich.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-612857422/large/55x67/istock-612857422.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/2bohol-chocolate-hills-119072460-8000x2715-1/large/50x50/2bohol-chocolate-hills-119072460-8000x2715-1.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/support-boat/large/50x50/support-boat.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/hr-filip-palawan-rvp-hoofd-selectie-13/large/50x50/hr-filip-palawan-rvp-hoofd-selectie-13.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/dugong/large/50x50/dugong.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/sunset-villa-standard-veranda/large/50x50/sunset-villa-standard-veranda.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00090</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Philippine Experience</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest_price_2p>2.950</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>2.950</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/philippine-experience</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Philippine Experience
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/philippine-experience</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Philippine Experience
 18-daagse Privé Rondreis – Filipijnen
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -1379,40 +1379,40 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/donsol/large/50x50/donsol.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-551532385/large/27x18/shutterstock-551532385.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/kayak-2/large/50x61/kayak-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/camping-tribal-adventures/large/50x50/camping-tribal-adventures.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/tommy-schultz-com-373/large/50x50/tommy-schultz-com-373.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-1461455069/large/50x50/shutterstock-1461455069.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-6840/large/50x50/img-6840.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-612857422/large/55x67/istock-612857422.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/bike-tour/large/50x50/bike-tour.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-24301516/large/50x50/shutterstock-24301516.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/hr-filip-palawan-rvp-aanvullende-selectie-8/large/50x50/hr-filip-palawan-rvp-aanvullende-selectie-8.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1-pool-30c35703/large/50x50/1-pool-30c35703.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/casa-simeon/large/50x50/casa-simeon.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/donsol/large/50x50/donsol.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-517043086/large/50x50/shutterstock-517043086.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-551532385/large/27x18/shutterstock-551532385.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/kayak-2/large/50x61/kayak-2.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/camping-tribal-adventures/large/50x50/camping-tribal-adventures.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/tommy-schultz-com-373/large/50x50/tommy-schultz-com-373.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-1461455069/large/50x50/shutterstock-1461455069.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-6840/large/50x50/img-6840.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-612857422/large/55x67/istock-612857422.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/bike-tour/large/50x50/bike-tour.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-24301516/large/50x50/shutterstock-24301516.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/hennan-resorts-beach-front/large/50x50/hennan-resorts-beach-front.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-000015909068xlarge/large/46x68/istock-000015909068xlarge.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/hr-filip-palawan-rvp-aanvullende-selectie-8/large/50x50/hr-filip-palawan-rvp-aanvullende-selectie-8.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/malcapuya-shutterstock/large/50x50/malcapuya-shutterstock.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1-pool-30c35703/large/50x50/1-pool-30c35703.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/casa-simeon/large/50x50/casa-simeon.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/schermafbeelding-2025-11-27-121043_1/large/50x50/schermafbeelding-2025-11-27-121043_1.png</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/funny-lion/large/50x50/funny-lion.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/the-henry-manila-1/large/50x50/the-henry-manila-1.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00091</get-trip-id>
-    <get_trip_status>Okay</get_trip_status>
+    <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Visayas Islandhopping</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest_price_2p>2.250</get-trip-lowest_price_2p>
+    <get-trip-lowest-price-2p>2.250</get-trip-lowest-price-2p>
     <get-trip-flight>excluded</get-trip-flight>
-    <get_trip_country>Filipijnen</get_trip_country>
-    <get_trip_url>https://www.undiscovered.nl/filipijnen/rondreis/visayas-islandhopping</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#Visayas Islandhopping
+    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/visayas-islandhopping</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#Visayas Islandhopping
 21-daagse Privé Rondreis Filipijnen
 
 Privé reizen op maat | Kleinschalig toerisme | Volledige ontzorging | Unieke belevingen
@@ -1577,23 +1577,23 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
 - Reizen op privé basis met een privé gids of huurauto
 - Reizen naar bestemmingen met kleinschalig toerisme
 - Volledige ontzorging vóór, tijdens en na de reis
-- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/siquijor-island/large/50x50/siquijor-island.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/siargao4/large/50x50/siargao4.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/atmosphere-beach/large/50x50/atmosphere-beach.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/apo-island-snorkelaar-schildpad/large/50x50/apo-island-snorkelaar-schildpad.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/foxfirefly-48/large/50x50/foxfirefly-48.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-4960/large/50x50/img-4960.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/img-1429/large/50x50/img-1429.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/istock-000016011198medium/large/50x50/istock-000016011198medium.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://www.undiscovered.nl/media/shutterstock-2131453347/large/50x59/shutterstock-2131453347.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/hi520351502/large/50x50/hi520351502.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1soultribe/large/50x50/1soultribe.jpg</get_trip_image-url-acco>
-    <get_trip_image-url-acco image_size="" image_weight="">https://www.undiscovered.nl/media/1-picasso-malaga/large/50x50/1-picasso-malaga.webp</get_trip_image-url-acco>
+- Verblijf in kleine, met zorg geselecteerde accommodaties]]></get-trip-scraped-content>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/siquijor-island/large/50x50/siquijor-island.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/siargao4/large/50x50/siargao4.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/atmosphere-beach/large/50x50/atmosphere-beach.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/apo-island-snorkelaar-schildpad/large/50x50/apo-island-snorkelaar-schildpad.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/casaroro-waterfalls-1/large/50x50/casaroro-waterfalls-1.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/white-sand-beach-siquijor-island-philippines-91842497-3334x2223/large/50x68/white-sand-beach-siquijor-island-philippines-91842497-3334x2223.jpeg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/foxfirefly-48/large/50x50/foxfirefly-48.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-4960/large/50x50/img-4960.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/img-1429/large/50x50/img-1429.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/istock-000016011198medium/large/50x50/istock-000016011198medium.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-trips image-size="" image-weight="">https://www.undiscovered.nl/media/shutterstock-2131453347/large/50x59/shutterstock-2131453347.jpg</get-trip-image-url-trips>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/hi520351502/large/50x50/hi520351502.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1img-1870/large/50x50/1img-1870.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1-img-1946/large/50x50/1-img-1946.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1soultribe/large/50x50/1soultribe.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.undiscovered.nl/media/1-picasso-malaga/large/50x50/1-picasso-malaga.webp</get-trip-image-url-acco>
   </trip>
 </trips>
