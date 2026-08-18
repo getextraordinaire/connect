@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-18T13:40:07.953Z" count="13">
+<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-18T14:07:46.021Z" count="13">
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00001</get-trip-id>
     <get_trip_status>Okay</get_trip_status>
