@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-17T21:33:28.178Z" count="12">
+<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-18T11:51:44.424Z" count="8">
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00001</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>10-daagse rondreis Tanzania, alle noordelijke parken in één reis!</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>2.936</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/10-daagse-rondreis-tanzania/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#10-daagse rondreis Tanzania, alle noordelijke parken in één reis!
@@ -66,75 +68,61 @@ Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies
 - Dag 9 - 10: Vlucht naar huis vanaf Kilimanjaro International Airport
 
 #Dag 1
-
 ##Aankomst op Kilimanjaro International Airport
-
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 2
-
 ##Arusha National Park
-
 Je eerste echte ontmoeting met wilde dieren staat vandaag op je te wachten in Arusha National Park. Het park dicht bij Arusha staat bekend om de overvloed aan tropische vogels, de aanwezigheid van de zwarte en witte Colobus aap en een paar zeldzame albinobavianen. Je spot er dus waarschijnlijk de Colobus aap en zeldzame vogelsoorten, zoals de zilveroorneushoornvogel. En als je heel veel geluk hebt, zie je de albino. Naast de bijzondere dieren, is er ook een meer, een paar kraters, watervallen, bergen en prachtige uitgestrekte glasvlakten.
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 3
-
 ##Tarangire National Park
-
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Sangaiwe Tented Lodge
 - Gold: Ang'ata Tarangire Camp
 - Platinum: Nimali Tarangire
 
 #Dag 4
-
 ##Lake Manyara National Park
-
 Lake Manyara National Park ligt tussen het Tarangire National Park en de Ngorongoro krater, pal langs de 400 meter diepe Great Rift Valley. Het bijzondere aan dit park is de enorme diversiteit in het landschap, dat erg veel wilde dieren aantrekt. Je kunt het meer bezoeken, dat zelfs 75 percent van de oppervlakte van het park bestrijkt, of gaan wandelen door het regenwoud met zijn honderden apen en vogels, waar je de olifanten gewoon door het bos ziet lopen.
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara's Secret
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
 #Dag 5 - 7
-
 ##Serengeti National Park (centraal west/oost)
-
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Serengeti Sound of Silence Tented Camp
 - Gold: Signature Serengeti Luxury Tented Camp
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
 #Dag 8
-
 ##Ngorongoro Conservation Area (incl. Krater)
-
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
-##Accommodaties:
+###Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara Best View Lodge and Spa
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
 #Dag 9 - 10
-
 ##Vlucht naar huis vanaf Kilimanjaro International Airport
-
 De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan je eerst nog wat langer in de lodge, voordat de chauffeur je naar Kilimanjaro International Airport (JRO) brengt. Wil je dat deze ervaring nog een paar dagen duurt? Voeg dan een paar dagen aan je vakantie toe en geniet op één van de paradijselijke eilanden van Tanzania: Zanzibar, Pemba of Mafia!
 
 #Waarom Tanzania Specialist?
@@ -148,20 +136,16 @@ De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan j
 - Worry-free Hakuna Matata pakket
 
 #Beste reistijd
-
-- Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
-- Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
+- Het droge seizoen (juni tot oktober en december tot februari): Ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Hotelprijzen liggen hoger en er is meer drukte in parken en attracties.
+- Middenseizoen (maart en november): Gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Nog steeds geweldige mogelijkheid voor het spotten van wilde dieren.
 - Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
 
 #Wat kan ik verwachten van een safari in Tanzania met Tanzania Specialist?
-
-Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou. Het diverse wildlife van Tanzania is op verschillende tijdstippen van de dag actief, dus je hebt volop gelegenheid om de dieren in actie te zien.
+Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou.
 
 #Kan ik de Big Five zien in Tanzania?
-
-Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens leeuw, luipaard, olifant, neushoorn en buffel kunnen worden waargenomen in hun natuurlijke omgeving, waardoor Tanzania een voorkeurskeuze is voor natuurliefhebbers.]]></get_trip_scraped_content>
+Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens – leeuw, luipaard, olifant, neushoorn en buffel – kunnen worden waargenomen in hun natuurlijke omgeving, waardoor Tanzania een voorkeurskeuze is voor natuurliefhebbers.]]></get_trip_scraped_content>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/10-Days-Tanzania-safari-all-northern-parks-in-1-trip-wildebeest-migration-1920x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-1b-Arusha-10-days.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Giraffes2C-zebras-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Elephant-calf-scaled.avif</get_trip_image-url-trips>
@@ -169,13 +153,14 @@ Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de 
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28529-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Rhino-Website-pics-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-5-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00005</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>11-daagse rondreis Tanzania &amp; Zanzibar</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>2.474</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/11-dagen-rondreis-tanzania-zanzibar/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#11-daagse rondreis Tanzania & Zanzibar
@@ -195,24 +180,23 @@ Begint het al te kriebelen? Kies uit onze Zilver, Gouden of vijfsterren Platinum
 #Prijzen
 
 ##Laagseizoen (1 april - 19 mei)
-- 2 personen: € 2.473,97 *
-- 4 personen: € 2.064,85 *
-- 6 personen: € 1.951,62 *
+- 2 personen: € 2.473,97 p.p.
+- 4 personen: € 2.064,85 p.p.
+- 6 personen: € 1.951,62 p.p.
 
 ##Midseizoen (de rest van het jaar)
-- 2 personen: € 2.685,84 *
-- 4 personen: € 2.188,07 *
-- 6 personen: € 2.046,08 *
+- 2 personen: € 2.685,84 p.p.
+- 4 personen: € 2.188,07 p.p.
+- 6 personen: € 2.046,08 p.p.
 
 ##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 3.127,15 *
-- 4 personen: € 2.484,46 *
-- 6 personen: € 2.295,13 *
+- 2 personen: € 3.127,15 p.p.
+- 4 personen: € 2.484,46 p.p.
+- 6 personen: € 2.295,13 p.p.
 
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
 #Inclusief
-
 - 24/7 service
 - 11 dagen
 - Overnachtingen
@@ -226,13 +210,11 @@ Begint het al te kriebelen? Kies uit onze Zilver, Gouden of vijfsterren Platinum
 - Maaltijden op Zanzibar: afhankelijk van de reservering.
 
 #Exclusief
-
 - Visa
 - Reisverzekering
 - Internationale vluchten (boeken we alleen op verzoek)
 
 #Reisroute
-
 - Dag 1: Aankomst op Kilimanjaro International Airport
 - Dag 2: Tarangire National Park
 - Dag 3: Serengeti National Park (centraal west/oost)
@@ -244,80 +226,65 @@ Begint het al te kriebelen? Kies uit onze Zilver, Gouden of vijfsterren Platinum
 - Dag 9: Zanzibar
 - Dag 10 - 11: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
 
-#Dag 1
-
-##Aankomst op Kilimanjaro International Airport
+#Dag 1: Aankomst op Kilimanjaro International Airport
 
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
-##Accommodaties:
+Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 2
-
-##Tarangire National Park
+#Dag 2: Tarangire National Park
 
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
-##Accommodaties:
+Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara's Secret
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
-#Dag 3 - 4
-
-##Serengeti National Park (centraal west/oost)
+#Dag 3 - 4: Serengeti National Park (centraal west/oost)
 
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
-##Accommodaties:
+Accommodaties:
 - Silver: Serengeti Sound of Silence Tented Camp
 - Gold: Luwela Camp
 - Platinum: Ole Serai Luxury Camp - Turner Springs by Wellworth
 
-#Dag 5
-
-##Ngorongoro Conservation Area (incl. Krater)
+#Dag 5: Ngorongoro Conservation Area (incl. Krater)
 
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
-##Accommodaties:
+Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara Best View Lodge and Spa
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
-#Dag 6
-
-##Vlucht naar Zanzibar (bij de prijs inbegrepen)
+#Dag 6: Vlucht naar Zanzibar (bij de prijs inbegrepen)
 
 Vandaag vliegen jullie naar specerijeneiland Zanzibar. Bij aankomst staat de gids te wachten om jullie naar het hotel te brengen. De komende dagen staan in het teken van witte zandstranden, kristalhelder turquoise water en kleurrijke koraalriffen. Zin in cultuur? Ga dan naar Stone Town en duik in de geschiedenis van dit fascinerend stadje. Ben je een Bourgondiër en houd je van lekker eten? Bezoek dan de specerijenplantages en ontdek de heerlijke gevarieerde smaken van de plaatselijke keuken. Een tropisch paradijs!
 
-##Accommodaties:
+Accommodaties:
 - Silver: Fun Beach Resort
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 7 - 9
-
-##Zanzibar
+#Dag 7 - 9: Zanzibar
 
 Het ultieme paradijs? Dat is Zanzibar! Prachtig en tropisch. Met helderblauw water van de Indische Oceaan, palmbomen en witte zandstranden die je bijzondere plaatjes opleveren. Relax op het strand met een verse kokosdrank in je hand, geniet van de warmte, neem een duik in de oceaan of proef het verrukkelijke eten van Zanzibar. Houd je meer van actie? Ontdek het strand, het leven in de oceaan of de cultuur op het eiland met allerlei activiteiten. Onze favoriet is de Safari Blue Cruise of een rondleiding door Stone Town!
 
-##Accommodaties:
+Accommodaties:
 - Silver: Fun Beach Resort
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 10 - 11
-
-##Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
+#Dag 10 - 11: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
 
 De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
 
 #Waarom Tanzania Specialist?
-
 - Beste service
 - Snelste reactietijd
 - 100% gespecialiseerd in Tanzania
@@ -326,7 +293,6 @@ De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze o
 - Concurrerende tarieven
 - Best beoordeelde privésafari's
 - Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-3-11days-Jro-Tar-Ser-Ngo-Ark-Znz.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Elephant-calf-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28529-scaled.avif</get_trip_image-url-trips>
@@ -334,13 +300,14 @@ De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze o
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2025/08/IM_TZ_ZNZ_Flight-to-Zanzibar_View-from-flight28129.jpeg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Dhow--scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00008</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>13-daagse rondreis Tanzania &amp; Zanzibar</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>2.891</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/13-daagse-safari-zanzibar-vakantie/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#13-daagse rondreis Tanzania & Zanzibar
@@ -349,15 +316,8 @@ Tijdens deze 13-daagse reis door Tanzania en Zanzibar ontdek je snel waarom Tanz
 
 Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies zoals jij het wil. Je beschikt over een eigen jeep en een ervaren gids.
 
-#Beste reistijd
-
-- Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
-- Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
-- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
-
-#Privésafari
-
-Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou.
+#Vanaf € 2.300* / Veelzijdige dierenwereld / 13 dagen
+*prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
 
 #Prijzen
 
@@ -379,7 +339,6 @@ Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildli
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
 #Inclusief
-
 - 24/7 service
 - 13 dagen
 - Overnachtingen
@@ -393,13 +352,11 @@ Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildli
 - Maaltijden op Zanzibar: afhankelijk van de reservering.
 
 #Exclusief
-
 - Visa
 - Reisverzekering
 - Internationale vluchten (boeken we alleen op verzoek)
 
 #Reisroute
-
 - Dag 1: Aankomst op Kilimanjaro International Airport
 - Dag 2: Een dagje heerlijk relaxen in Arusha
 - Dag 3: Arusha National Park
@@ -414,9 +371,7 @@ Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildli
 - Dag 12 - 13: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
 
 #Dag 1
-
 ##Aankomst op Kilimanjaro International Airport
-
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
 Accommodaties:
@@ -425,9 +380,7 @@ Accommodaties:
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 2
-
 ##Een dagje heerlijk relaxen in Arusha
-
 Vandaag is het tijd voor ontspanning, op een manier waar jij behoefte aan hebt. Blijf je de hele dag chillen in de lodge en genieten van heerlijke lokale drankjes terwijl je de authentieke Afrikaanse sfeer in je opneemt? Of heb je zin in meer actie? Ga dan voor een andere activiteit in Arusha: verken de stad op een mountainbike of scoor een lokaal cadeautje voor jezelf op de bruisende Maasai-markt.
 
 Accommodaties:
@@ -436,9 +389,7 @@ Accommodaties:
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 3
-
 ##Arusha National Park
-
 Je eerste echte ontmoeting met wilde dieren staat vandaag op je te wachten in Arusha National Park. Het park dicht bij Arusha staat bekend om de overvloed aan tropische vogels, de aanwezigheid van de zwarte en witte Colobus aap en een paar zeldzame albinobavianen. Je spot er dus waarschijnlijk de Colobus aap en zeldzame vogelsoorten, zoals de zilveroorneushoornvogel. En als je heel veel geluk hebt, zie je de albino. Naast de bijzondere dieren, is er ook een meer, een paar kraters, watervallen, bergen en prachtige uitgestrekte glasvlakten.
 
 Accommodaties:
@@ -447,9 +398,7 @@ Accommodaties:
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 4
-
 ##Ontspannen of inspannen...in Arusha!
-
 Vandaag geniet je in het hotel van de vriendelijke service of je gaat voor actie buiten de deur! Je kan bijvoorbeeld de prachtige Mount Meru watervallen bezoeken. Je start met een korte wandeling en beloont jezelf bij aankomst met een verfrissende duik onder de waterval. Heb je lunch mee? Neem dan, voordat je teruggaat een extra moment voor rust. Het geluid van de fluitende vogels en het kabbelende water op de achtergrond maken de pauze bijzonder. Dan heb je op de terugweg focus op het spotten van de geweldige Colobus-aap of de zilveroorneushoornvogel.
 
 Accommodaties:
@@ -458,9 +407,7 @@ Accommodaties:
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 5
-
 ##Tarangire National Park
-
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
 Accommodaties:
@@ -469,9 +416,7 @@ Accommodaties:
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
 #Dag 6 - 7
-
 ##Serengeti National Park (centraal west/oost)
-
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
 Accommodaties:
@@ -480,9 +425,7 @@ Accommodaties:
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
 #Dag 8
-
 ##Ngorongoro Conservation Area (incl. Krater)
-
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
 Accommodaties:
@@ -491,9 +434,7 @@ Accommodaties:
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
 #Dag 9
-
 ##Vlucht naar Zanzibar (bij de prijs inbegrepen)
-
 Vandaag vliegen jullie naar specerijeneiland Zanzibar. Bij aankomst staat de gids te wachten om jullie naar het hotel te brengen. De komende dagen staan in het teken van witte zandstranden, kristalhelder turquoise water en kleurrijke koraalriffen. Zin in cultuur? Ga dan naar Stone Town en duik in de geschiedenis van dit fascinerend stadje. Ben je een Bourgondiër en houd je van lekker eten? Bezoek dan de specerijenplantages en ontdek de heerlijke gevarieerde smaken van de plaatselijke keuken. Een tropisch paradijs!
 
 Accommodaties:
@@ -502,9 +443,7 @@ Accommodaties:
 - Platinum: Qambani Luxury Resort
 
 #Dag 10 - 11
-
 ##Zanzibar
-
 Het ultieme paradijs? Dat is Zanzibar! Prachtig en tropisch. Met helderblauw water van de Indische Oceaan, palmbomen en witte zandstranden die je bijzondere plaatjes opleveren. Relax op het strand met een verse kokosdrank in je hand, geniet van de warmte, neem een duik in de oceaan of proef het verrukkelijke eten van Zanzibar. Houd je meer van actie? Ontdek het strand, het leven in de oceaan of de cultuur op het eiland met allerlei activiteiten. Onze favoriet is de Safari Blue Cruise of een rondleiding door Stone Town!
 
 Accommodaties:
@@ -513,13 +452,10 @@ Accommodaties:
 - Platinum: Qambani Luxury Resort
 
 #Dag 12 - 13
-
 ##Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
-
-De laatste dag! Afhankelijk van de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
+De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
 
 #Waarom Tanzania Specialist?
-
 - Beste service
 - Snelste reactietijd
 - 100% gespecialiseerd in Tanzania
@@ -527,9 +463,13 @@ De laatste dag! Afhankelijk van de tijd dat je vlucht gaat, ontspan je deze ocht
 - Geweldige privégidsen met veel kennis
 - Concurrerende tarieven
 - Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
+- Worry-free Hakuna Matata pakket
+
+#Beste reistijd
+- Het droge seizoen (juni tot oktober en december tot februari): Ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Hotelprijzen liggen hoger en er is meer drukte in parken en attracties.
+- Middenseizoen (maart en november): Gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Nog steeds geweldige mogelijkheid voor het spotten van wilde dieren.
+- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.]]></get_trip_scraped_content>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/13-Days-Safari-Zanzibar-holiday-1920x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-3-Arusha-12-days.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/10/Relaxing-Day-in-Arusha-1.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Giraffes2C-zebras-scaled.avif</get_trip_image-url-trips>
@@ -540,44 +480,46 @@ De laatste dag! Afhankelijk van de tijd dat je vlucht gaat, ontspan je deze ocht
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2025/08/IM_TZ_ZNZ_Flight-to-Zanzibar_View-from-flight28129.jpeg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Dhow--scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00009</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>15-daagse rondreis Tanzania &amp; Zanzibar</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>3.349</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/15-daagse-rondreis-tanzania-zanzibar/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#15-daagse rondreis Tanzania & Zanzibar
+    <get_trip_scraped_content><![CDATA[# 15-daagse rondreis Tanzania & Zanzibar
 
-Tijdens deze 15-daagse rondreis door Tanzania en Zanzibar ervaar je niet het beste van twee, maar van drie werelden. Natuur, wildlife en prachtige stranden: check! Spot de zeldzame zwart-witte Colobus apen in Arusha National Park. Of laat je verwonderen door een kudde van 300 trompetterende olifanten in het Tarangire National Park. Bovendien geniet je van het spectaculaire wildleven en de adembenemende landschappen van Serengeti en de Ngorongoro krater voordat je naar Zanzibar vliegt. Daar sluit je het avontuur af met een cocktail op het parelwitte zandstrand. Klinkt goed, nietwaar?
+Tijdens deze 15-daagse rondreis door Tanzania en Zanzibar ervaar je niet het beste van twee, maar van drie werelden. Natuur, wildlife en prachtige stranden: check! Spot de zeldzame zwart-witte Colobus apen in Arusha National Park. Of laat je verwonderen door een kudde van 300 trompetterende olifanten in het Tarangire National Park. Bovendien geniet je van het spectaculaire wildleven en de adembenemende landschappen van Serengeti en de Ngorongoro krater voordat je naar Zanzibar vliegt. Daar sluit je het avontuur af met een cocktail op het parelwitte zandstrand.
 
 Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies zoals jij het wil. Je beschikt over een eigen jeep en een ervaren gids.
 
-#Vanaf € 2.683* / Paradijselijke stranden op Zanzibar / 15 dagen
+# Vanaf
+
 *prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
 
-#Prijzen
+# Prijzen
 
-##Laagseizoen (1 april - 19 mei)
+## Laagseizoen (1 april - 19 mei)
 - 2 personen: € 3.348,60 *
 - 4 personen: € 2.831,95 *
 - 6 personen: € 2.682,88 *
 
-##Midseizoen (de rest van het jaar)
+## Midseizoen (de rest van het jaar)
 - 2 personen: € 3.643,94 *
 - 4 personen: € 3.005,09 *
 - 6 personen: € 2.816,07 *
 
-##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
+## Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
 - 2 personen: € 4.260,19 *
 - 4 personen: € 3.420,81 *
 - 6 personen: € 3.165,92 *
 
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
-#Inclusief
+# Inclusief
 - 24/7 service
 - 15 dagen
 - Overnachtingen
@@ -590,118 +532,89 @@ Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies
 - Reserveringskosten
 - Maaltijden op Zanzibar: afhankelijk van de reservering.
 
-#Exclusief
+# Exclusief
 - Visa
 - Reisverzekering
 - Internationale vluchten (boeken we alleen op verzoek)
 
-#Reisroute
-- Dag 1: Aankomst op Kilimanjaro International Airport
-- Dag 2: Een dagje heerlijk relaxen in Arusha
-- Dag 3: Arusha National Park
-- Dag 4: Ontspannen of inspannen...in Arusha!
-- Dag 5: Tarangire National Park
-- Dag 6: Serengeti National Park (centraal west/oost)
-- Dag 7: Serengeti National Park (centraal west/oost)
-- Dag 8: Serengeti National Park (centraal west/oost)
-- Dag 9: Ngorongoro Conservation Area (incl. Krater)
-- Dag 10: Vlucht naar Zanzibar (bij de prijs inbegrepen)
-- Dag 11: Zanzibar
-- Dag 12: Zanzibar
-- Dag 13: Zanzibar
-- Dag 14 - 15: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
+# Reisroute
 
-#Dag 1
-##Aankomst op Kilimanjaro International Airport
+## Dag 1: Aankomst op Kilimanjaro International Airport
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
-###Accommodaties:
+Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 2
-##Een dagje heerlijk relaxen in Arusha
+## Dag 2: Een dagje heerlijk relaxen in Arusha
 Vandaag is het tijd voor ontspanning, op een manier waar jij behoefte aan hebt. Blijf je de hele dag chillen in de lodge en genieten van heerlijke lokale drankjes terwijl je de authentieke Afrikaanse sfeer in je opneemt? Of heb je zin in meer actie? Ga dan voor een andere activiteit in Arusha: verken de stad op een mountainbike of scoor een lokaal cadeautje voor jezelf op de bruisende Maasai-markt.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 3
-##Arusha National Park
+## Dag 3: Arusha National Park
 Je eerste echte ontmoeting met wilde dieren staat vandaag op je te wachten in Arusha National Park. Het park dicht bij Arusha staat bekend om de overvloed aan tropische vogels, de aanwezigheid van de zwarte en witte Colobus aap en een paar zeldzame albinobavianen. Je spot er dus waarschijnlijk de Colobus aap en zeldzame vogelsoorten, zoals de zilveroorneushoornvogel. En als je heel veel geluk hebt, zie je de albino. Naast de bijzondere dieren, is er ook een meer, een paar kraters, watervallen, bergen en prachtige uitgestrekte glasvlakten.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 4
-##Ontspannen of inspannen...in Arusha!
+## Dag 4: Ontspannen of inspannen...in Arusha!
 Vandaag geniet je in het hotel van de vriendelijke service of je gaat voor actie buiten de deur! Je kan bijvoorbeeld de prachtige Mount Meru watervallen bezoeken. Je start met een korte wandeling en beloont jezelf bij aankomst met een verfrissende duik onder de waterval. Heb je lunch mee? Neem dan, voordat je teruggaat een extra moment voor rust. Het geluid van de fluitende vogels en het kabbelende water op de achtergrond maken de pauze bijzonder. Dan heb je op de terugweg focus op het spotten van de geweldige Colobus-aap of de zilveroorneushoornvogel.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 5
-##Tarangire National Park
+## Dag 5: Tarangire National Park
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Ang'ata Tarangire Camp
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
-#Dag 6 - 8
-##Serengeti National Park (centraal west/oost)
+## Dag 6 - 8: Serengeti National Park (centraal west/oost)
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Serengeti Sound of Silence Tented Camp
 - Gold: Signature Serengeti Luxury Tented Camp
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
-#Dag 9
-##Ngorongoro Conservation Area (incl. Krater)
+## Dag 9: Ngorongoro Conservation Area (incl. Krater)
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
-###Accommodaties:
+Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara Best View Lodge and Spa
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
-#Dag 10
-##Vlucht naar Zanzibar (bij de prijs inbegrepen)
+## Dag 10: Vlucht naar Zanzibar (bij de prijs inbegrepen)
 Vandaag vliegen jullie naar specerijeneiland Zanzibar. Bij aankomst staat de gids te wachten om jullie naar het hotel te brengen. De komende dagen staan in het teken van witte zandstranden, kristalhelder turquoise water en kleurrijke koraalriffen. Zin in cultuur? Ga dan naar Stone Town en duik in de geschiedenis van dit fascinerend stadje. Ben je een Bourgondiër en houd je van lekker eten? Bezoek dan de specerijenplantages en ontdek de heerlijke gevarieerde smaken van de plaatselijke keuken. Een tropisch paradijs!
 
-###Accommodaties:
+Accommodaties:
 - Silver: Fun Beach Resort
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 11 - 13
-##Zanzibar
+## Dag 11 - 13: Zanzibar
 Het ultieme paradijs? Dat is Zanzibar! Prachtig en tropisch. Met helderblauw water van de Indische Oceaan, palmbomen en witte zandstranden die je bijzondere plaatjes opleveren. Relax op het strand met een verse kokosdrank in je hand, geniet van de warmte, neem een duik in de oceaan of proef het verrukkelijke eten van Zanzibar. Houd je meer van actie? Ontdek het strand, het leven in de oceaan of de cultuur op het eiland met allerlei activiteiten. Onze favoriet is de Safari Blue Cruise of een rondleiding door Stone Town!
 
-###Accommodaties:
+Accommodaties:
 - Silver: Fun Beach Resort
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 14 - 15
-##Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
+## Dag 14 - 15: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
 De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
 
-#Beste reistijd
-- Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
-- Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
-- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
-
-#Waarom Tanzania Specialist?
+# Waarom Tanzania Specialist?
 - Beste service
 - Snelste reactietijd
 - 100% gespecialiseerd in Tanzania
@@ -709,7 +622,12 @@ De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze o
 - Geweldige privégidsen met veel kennis
 - Concurrerende tarieven
 - Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
+- Worry-free Hakuna Matata pakket
+
+# Beste reistijd
+- Het droge seizoen (juni tot oktober en december tot februari): Ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Hotelprijzen liggen hoger en er is meer drukte in parken en attracties.
+- Middenseizoen (maart en november): Gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Nog steeds geweldige mogelijkheid voor het spotten van wilde dieren.
+- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.]]></get_trip_scraped_content>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/10/Relaxing-Day-in-Arusha-1.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Giraffes2C-zebras-scaled.avif</get_trip_image-url-trips>
@@ -720,13 +638,15 @@ De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze o
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2025/08/IM_TZ_ZNZ_Flight-to-Zanzibar_View-from-flight28129.jpeg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Dhow--scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
+    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/10/Tanzania-Specialist-safari-vehicule-1.jpg</get_trip_image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00011</get-trip-id>
-    <get-trip-name>18-daagse rondreis Tanzania &amp; Zanzibar: de grote trek!</get-trip-name>
+    <get_trip_status>Okay</get_trip_status>
+    <get-trip-name>18-daagse rondreis Tanzania &amp; Zanzibar [De Grote Trek]</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>3.536</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/18-daagse-tanzania-safari-zanzibar-vakantie/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#18-daagse rondreis Tanzania & Zanzibar: de grote trek!
@@ -735,25 +655,22 @@ Deze 18-daagse Tanzania & Zanzibar rondreis neemt je mee naar weelderige wildpar
 
 Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies zoals jij het wil. Je beschikt over een eigen jeep en een ervaren gids.
 
-#Vanaf € 2.870* / Ontmoet de Big Five / 18 dagen
-*prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
-
 #Prijzen
 
-##Laagseizoen (1 april - 19 mei)
-- 2 personen: € 3.535,56 *
-- 4 personen: € 3.018,91 *
-- 6 personen: € 2.869,84 *
+**Laagseizoen (1 april - 19 mei)**
+- 2 personen: € 3.535,56 p.p.
+- 4 personen: € 3.018,91 p.p.
+- 6 personen: € 2.869,84 p.p.
 
-##Midseizoen (de rest van het jaar)
-- 2 personen: € 3.830,06 *
-- 4 personen: € 3.191,21 *
-- 6 personen: € 3.002,19 *
+**Midseizoen (de rest van het jaar)**
+- 2 personen: € 3.830,06 p.p.
+- 4 personen: € 3.191,21 p.p.
+- 6 personen: € 3.002,19 p.p.
 
-##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 4.453,93 *
-- 4 personen: € 3.614,55 *
-- 6 personen: € 3.359,66 *
+**Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)**
+- 2 personen: € 4.453,93 p.p.
+- 4 personen: € 3.614,55 p.p.
+- 6 personen: € 3.359,66 p.p.
 
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
@@ -776,26 +693,8 @@ Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies
 - Internationale vluchten (boeken we alleen op verzoek)
 
 #Reisroute
-- Dag 1: Aankomst op Kilimanjaro International Airport
-- Dag 2: Een dagje heerlijk relaxen in Arusha
-- Dag 3: Arusha National Park
-- Dag 4: Ontspannen of inspannen...in Arusha!
-- Dag 5: Tarangire National Park
-- Dag 6: Serengeti National Park (centraal west/oost)
-- Dag 7: Serengeti National Park (centraal west/oost)
-- Dag 8: Serengeti National Park (centraal west/oost)
-- Dag 9: Ngorongoro Conservation Area (incl. Krater)
-- Dag 10: Vlucht naar Zanzibar (bij de prijs inbegrepen)
-- Dag 11: Zanzibar
-- Dag 12: Zanzibar
-- Dag 13: Zanzibar
-- Dag 14: Zanzibar
-- Dag 15: Zanzibar
-- Dag 16: Zanzibar
-- Dag 17 - 18: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
 
-#Dag 1
-##Aankomst op Kilimanjaro International Airport
+**Dag 1: Aankomst op Kilimanjaro International Airport**
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
 Accommodaties:
@@ -803,8 +702,7 @@ Accommodaties:
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 2
-##Een dagje heerlijk relaxen in Arusha
+**Dag 2: Een dagje heerlijk relaxen in Arusha**
 Vandaag is het tijd voor ontspanning, op een manier waar jij behoefte aan hebt. Blijf je de hele dag chillen in de lodge en genieten van heerlijke lokale drankjes terwijl je de authentieke Afrikaanse sfeer in je opneemt? Of heb je zin in meer actie? Ga dan voor een andere activiteit in Arusha: verken de stad op een mountainbike of scoor een lokaal cadeautje voor jezelf op de bruisende Maasai-markt.
 
 Accommodaties:
@@ -812,8 +710,7 @@ Accommodaties:
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 3
-##Arusha National Park
+**Dag 3: Arusha National Park**
 Je eerste echte ontmoeting met wilde dieren staat vandaag op je te wachten in Arusha National Park. Het park dicht bij Arusha staat bekend om de overvloed aan tropische vogels, de aanwezigheid van de zwarte en witte Colobus aap en een paar zeldzame albinobavianen. Je spot er dus waarschijnlijk de Colobus aap en zeldzame vogelsoorten, zoals de zilveroorneushoornvogel. En als je heel veel geluk hebt, zie je de albino. Naast de bijzondere dieren, is er ook een meer, een paar kraters, watervallen, bergen en prachtige uitgestrekte glasvlakten.
 
 Accommodaties:
@@ -821,8 +718,7 @@ Accommodaties:
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 4
-##Ontspannen of inspannen...in Arusha!
+**Dag 4: Ontspannen of inspannen...in Arusha!**
 Vandaag geniet je in het hotel van de vriendelijke service of je gaat voor actie buiten de deur! Je kan bijvoorbeeld de prachtige Mount Meru watervallen bezoeken. Je start met een korte wandeling en beloont jezelf bij aankomst met een verfrissende duik onder de waterval. Heb je lunch mee? Neem dan, voordat je teruggaat een extra moment voor rust. Het geluid van de fluitende vogels en het kabbelende water op de achtergrond maken de pauze bijzonder. Dan heb je op de terugweg focus op het spotten van de geweldige Colobus-aap of de zilveroorneushoornvogel.
 
 Accommodaties:
@@ -830,8 +726,7 @@ Accommodaties:
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
-#Dag 5
-##Tarangire National Park
+**Dag 5: Tarangire National Park**
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
 Accommodaties:
@@ -839,8 +734,7 @@ Accommodaties:
 - Gold: Ang'ata Tarangire Camp
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
-#Dag 6 - 8
-##Serengeti National Park (centraal west/oost)
+**Dag 6 - 8: Serengeti National Park (centraal west/oost)**
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
 Accommodaties:
@@ -848,8 +742,7 @@ Accommodaties:
 - Gold: Signature Serengeti Luxury Tented Camp
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
-#Dag 9
-##Ngorongoro Conservation Area (incl. Krater)
+**Dag 9: Ngorongoro Conservation Area (incl. Krater)**
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
 Accommodaties:
@@ -857,8 +750,7 @@ Accommodaties:
 - Gold: Manyara Best View Lodge and Spa
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
-#Dag 10
-##Vlucht naar Zanzibar (bij de prijs inbegrepen)
+**Dag 10: Vlucht naar Zanzibar (bij de prijs inbegrepen)**
 Vandaag vliegen jullie naar specerijeneiland Zanzibar. Bij aankomst staat de gids te wachten om jullie naar het hotel te brengen. De komende dagen staan in het teken van witte zandstranden, kristalhelder turquoise water en kleurrijke koraalriffen. Zin in cultuur? Ga dan naar Stone Town en duik in de geschiedenis van dit fascinerend stadje. Ben je een Bourgondiër en houd je van lekker eten? Bezoek dan de specerijenplantages en ontdek de heerlijke gevarieerde smaken van de plaatselijke keuken. Een tropisch paradijs!
 
 Accommodaties:
@@ -866,8 +758,7 @@ Accommodaties:
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 11 - 16
-##Zanzibar
+**Dag 11 - 16: Zanzibar**
 Het ultieme paradijs? Dat is Zanzibar! Prachtig en tropisch. Met helderblauw water van de Indische Oceaan, palmbomen en witte zandstranden die je bijzondere plaatjes opleveren. Relax op het strand met een verse kokosdrank in je hand, geniet van de warmte, neem een duik in de oceaan of proef het verrukkelijke eten van Zanzibar. Houd je meer van actie? Ontdek het strand, het leven in de oceaan of de cultuur op het eiland met allerlei activiteiten. Onze favoriet is de Safari Blue Cruise of een rondleiding door Stone Town!
 
 Accommodaties:
@@ -875,11 +766,11 @@ Accommodaties:
 - Gold: Legendary Zanzibar Beach Resort
 - Platinum: Qambani Luxury Resort
 
-#Dag 17 - 18
-##Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)
-De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
+**Dag 17 - 18: Internationale vlucht huiswaarts vanaf Zanzibar Airport (ZNZ)**
+De laatste dag! Afhankelijk van de tijd dat je vlucht gaat, ontspan je deze ochtend op het strand of verken je het eiland. Als het moment daar is, brengt een chauffeur je naar de internationale luchthaven van Zanzibar. Wil je nog langer genieten? Verleng je reis met een tripje naar een van de andere paradijzen: Mnemba, Pemba of Mafia.
 
 #Beste reistijd
+
 - Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
 - Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
 - Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
@@ -903,200 +794,25 @@ De laatste dag! Afhankelijk van je de tijd dat je vlucht gaat, ontspan je deze o
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2025/08/IM_TZ_ZNZ_Flight-to-Zanzibar_View-from-flight28129.jpeg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Dhow--scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
-  </trip>
-  <trip>
-    <get-trip-id>GT-TANZANIASPECIALIST-00014</get-trip-id>
-    <get-trip-name>6 daagse vakantie Mafia Island (verlenging van je safari)</get-trip-name>
-    <get-trip-duration>6</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
-    <get_trip_country>Tanzania</get_trip_country>
-    <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/6-daagse-vakantie-mafia-island/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#6 daagse vakantie Mafia Island (verlenging van je safari)
-
-Wil je na de safari nog even lekker genieten van een strandvakantie op Mafia Island? Voeg dan dit arrangement aan de reis toe.
-
-Geniet van Tanzania in alle luxe. Deze lodges bieden de beste culinaire ervaringen en accommodaties en liggen bovendien op de meest prachtige locaties van Mafia Island.
-
-#Vanaf € 599* / Magische ontmoeting met walvishaaien / 6 dagen
-
-#Prijzen
-
-##Laagseizoen (1 april - 19 mei)
-- 2 personen: € 647,82 *
-- 4 personen: € 613,10 *
-- 6 personen: € 624,67 *
-
-##Midseizoen (de rest van het jaar)
-- 2 personen: € 634,47 *
-- 4 personen: € 598,58 *
-- 6 personen: € 610,54 *
-
-##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 660,48 *
-- 4 personen: € 623,12 *
-- 6 personen: € 635,57 *
-
-* Indicatieve kosten per persoon, exclusief internationale vliegtickets
-
-#Inclusief
-- Overnachtingen
-- 6 dagen
-- Ontbijt
-
-#Exclusief
-- Visa
-- Reisverzekering
-
-#Reisroute
-- Dag 1: Aankomst op Mafia
-- Dag 2: Mafia Island
-- Dag 3: Mafia Island
-- Dag 4: Mafia Island
-- Dag 5 - 6: Vertrek vanaf Mafia
-
-#Dag 1
-##Aankomst op Mafia
-
-Een betovering van de zintuigen - dat is wat je op Mafia te wachten staat! Met haar prachtige stranden, kristalhelder turquoise water en haar rijke maritieme ecosysteem, is Mafia een waar paradijs. Duik in de diepte van het Mafia Marine Park, verken de koraalriffen en zie allerlei soorten vissen en anderen wezens van de zee. Laat je meevoeren in de verhalen over de lokale cultuur en geschiedenis, en bezoek oude ruïnes en pittoreske vissersdorpjes. Geniet van verse vis en zeevruchten en ervaar de rust van dit nog haast onontdekte paradijs. Dit belooft een onvergetelijk avontuur te worden!
-
-##Accommodaties:
-- Silver: Mafia Kivulini Lodge
-- Gold: Basecamp Eco Resort Mafia Island
-- Platinum: Pole Pole Bungalows
-
-#Dag 2 - 4
-##Mafia Island
-
-In de betoverende Indische Oceaan vind je een parel: Mafia Island. Met ongerepte witte zandstranden, kristalhelder turquoise water en levendige koraalriffen kan je een bezoek niet aan je voorbij laten gaan. Mafia Island is de ultieme bestemming als je zoekt naar een onvergetelijk avontuur. Duik in de wereld onder water, zwem met vriendelijke walvishaaien en ontdek de wonderen van het ecosysteem. Maar ook boven water is van alles te beleven: de rijke cultuur en tradities van lokale gemeenschappen. Relax en ervaar de rust van dit ongerepte eilandparadijs.
-
-##Accommodaties:
-- Silver: Mafia Kivulini Lodge
-- Gold: Basecamp Eco Resort Mafia Island
-- Platinum: Pole Pole Bungalows
-
-#Dag 5 - 6
-##Vertrek vanaf Mafia
-
-Na een paar onvergetelijke dagen op Mafia Island, is het tijd om afscheid te nemen van dit exotische paradijs. Wellicht geeft het een bitter gevoel om dit heerlijke paradijs achter je te laten. Maar je hebt in ieder geval nog de herinneringen en foto's van het snorkelen boven koraalriffen vol kleur en misschien zelfs van zwemmen met reusachtige walvishaaien. Sta even stil bij de weldadige rust op Mafia terwijl je op het vliegtuig stapt, en neem vanuit de lucht afscheid van haar stranden, palmbomen en natuurlijk de zee.
-
-#Waarom Tanzania Specialist?
-- Beste service
-- Snelste reactietijd
-- 100% gespecialiseerd in Tanzania
-- Onze reisadviseurs wonen in Tanzania
-- Geweldige privégidsen met veel kennis
-- Concurrerende tarieven
-- Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/11/mafia-island-1960x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mafia-island-shore-Website-pics-1-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mafia-island-shore-Website-pics-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-1-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
-  </trip>
-  <trip>
-    <get-trip-id>GT-TANZANIASPECIALIST-00015</get-trip-id>
-    <get-trip-name>6 daagse vakantie Pemba Island (verlenging van je safari)</get-trip-name>
-    <get-trip-duration>6</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
-    <get_trip_country>Tanzania</get_trip_country>
-    <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/6-daagse-vakantie-pemba-island/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#6 daagse vakantie Pemba Island (verlenging van je safari)
-
-Wil je na de safari nog even lekker genieten van een strandvakantie op het tropische Pemba Island? Voeg dan dit arrangement toe aan je reis.
-
-#Vanaf € 892* / Verken de mangrove / 6 dagen
-
-#Prijzen
-
-##Laagseizoen (1 april - 19 mei)
-2 personen: € 904,80 *
-4 personen: € 904,80 *
-6 personen: € 904,80 *
-
-##Midseizoen (de rest van het jaar)
-2 personen: € 892,41 *
-4 personen: € 892,41 *
-6 personen: € 892,41 *
-
-##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-2 personen: € 973,81 *
-4 personen: € 973,81 *
-6 personen: € 973,81 *
-
-* Indicatieve kosten per persoon, exclusief internationale vliegtickets
-
-#Inclusief
-- Overnachtingen
-- 6 dagen
-- Ontbijt
-
-#Exclusief
-- Visa
-- Reisverzekering
-
-#Reisroute
-- Dag 1: Aankomst op Pemba
-- Dag 2: Een bezoek aan het heuvelachtige Pemba
-- Dag 3: Een bezoek aan het heuvelachtige Pemba
-- Dag 4: Een bezoek aan het heuvelachtige Pemba
-- Dag 5 - 6: Vertrek vanaf Pemba
-
-#Dag 1
-##Aankomst op Pemba
-Geniet van het adembenemend mooie Pemba, een eiland voor de kust van Tanzania. Bij aankomst op Pemba staat de chauffeur klaar om jullie op te halen en naar het hotel te brengen. Bereid je voor op een vakantie vol ongerept witte zandstranden, een kristalheldere turquoise zee en een overdadig tropisch groene natuur. Duik in de rijke Swahili-cultuur, geniet van heerlijke vis en zeevruchten op het menu en vergeet vooral niet te gaan duiken. Pemba is een paradijs dat erop wacht om ontdekt te worden!
-
-##Accommodaties:
-- Silver: Pemba Paradise Lodge
-- Gold: Fundu Lagoon
-- Platinum: The Manta Resort
-
-#Dag 2 - 4
-##Een bezoek aan het heuvelachtige Pemba
-Net voor de kust van Tanzania ligt Pemba Island; een verborgen parel in de Indische Oceaan. De pure schoonheid, ongerepte stranden en het leven onder water maken het eiland perfect voor natuurliefhebbers en avonturiers. Een bezoek aan dit eiland is garantie voor een avontuur dat je altijd bij blijft. Of je nu snorkelt in kraakhelder water, de mangrovebossen verkent of de bijzondere cultuur van dit eiland ontdekt. Op Pemba Island vind je de essentie van tropisch geluk.
-
-##Accommodaties:
-- Silver: Pemba Paradise Lodge
-- Gold: Fundu Lagoon
-- Platinum: The Manta Resort
-
-#Dag 5 - 6
-##Vertrek vanaf Pemba
-De dagen op Pemba zijn bijna voorbij, dus het is tijd om afscheid te nemen van dit tropische eiland. Onze chauffeur brengt jullie van het hotel naar de luchthaven, zodat je zonder zorgen aan boord kunt gaan. Neem het er even van terwijl je terugdenkt aan een ongelooflijke mooie tijd op Pemba, nog een laatste blik werpt op de ongerepte stranden en de turquoise wateren en met een heerlijk ontspannen gevoel het luchtruim kiest. Dag Pemba!
-
-#Waarom Tanzania Specialist?
-- Beste service
-- Snelste reactietijd
-- 100% gespecialiseerd in Tanzania
-- Onze reisadviseurs wonen in Tanzania
-- Geweldige privégidsen met veel kennis
-- Concurrerende tarieven
-- Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/pemba_island-1920x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/11/pemba-island.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/11/Pemba-Island-2.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Plane-2-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
+    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/10/Tanzania-Specialist-safari-vehicule-1.jpg</get_trip_image-url-trips>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00017</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>7-daagse safari Tanzania</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>1.936</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/7-daagse-safari-tanzania/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#7-daagse safari Tanzania
 
 #Vanaf € 1.436* / Gevarieerde landschappen onderweg / 7 dagen
-
 *prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
 
 Combinatie met bijvoorbeeld Zanzibar mogelijk!
 
 #7-daagse safari in Tanzania
-
 Op safari in Tanzania voor 7 dagen? Dat is ideaal om de grootste nationale parken van Afrika te ontdekken. Begin in Arusha en beleef een onvergetelijke week. Je bezoekt niet één, maar liefst twee van Afrika's natuurwonderen.
 
 Tijdens dit avontuur verken je de uitgestrekte vlaktes van Serengeti. Hier vind je een overvloed aan wilde dieren. De grootste trekpleister van Serengeti? Dat is ongetwijfeld de Grote Trek. Sluit de safari af in de Ngorongoro krater, een natuurwonder met de hoogste concentratie wilde dieren van Afrika.
@@ -1104,43 +820,38 @@ Tijdens dit avontuur verken je de uitgestrekte vlaktes van Serengeti. Hier vind 
 Beleef het avontuur in je eigen privéjeep met ervaren safarigids. Zo heb je de vrijheid om op jouw tempo te reizen, precies zoals jij het wil. Onze reisexperts van Tanzania Specialist kiezen de hotels en lodges zorgvuldig voor jou uit.
 
 #Wat is de beste reistijd voor Tanzania?
-
 - Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
 - Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
 - Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
 
 #Wat kan ik verwachten van een safari in Tanzania met Tanzania Specialist?
-
 Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou. Het diverse wildlife van Tanzania is op verschillende tijdstippen van de dag actief, dus je hebt volop gelegenheid om de dieren in actie te zien.
 
 #Hoe kan ik mijn reis naar Tanzania personaliseren?
-
 Bij Tanzania Specialist draait alles om het samenstellen van jouw perfecte reis. Wanneer je je Tanzania-avontuur met ons plant, boek je niet zomaar een reis; je begint aan een gepersonaliseerde ervaring. We beginnen met het begrijpen van jouw wensen en voorkeuren, en we stoppen niet totdat elk aspect van jouw reis perfect aansluit bij jouw visie. Ons team werkt nauw met je samen om ervoor te zorgen dat je hele reis op maat gemaakt is naar jouw tevredenheid. En voor extra gemak bieden we een selectie van onze meest populaire Tanzania-reizen en safari's als startpunt voor jouw overweging.
 
 #Kan ik de Big Five zien in Tanzania?
-
 Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens leeuw, luipaard, olifant, neushoorn en buffel kunnen worden waargenomen in hun natuurlijke omgeving, waardoor Tanzania een voorkeurskeuze is voor natuurliefhebbers.
 
 #Is het veilig om naar Tanzania te reizen?
-
 Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het land biedt een gastvrije omgeving, vooral in toeristische gebieden zoals Arusha, en je kunt met vertrouwen de prachtige landschappen en wildlife verkennen. De lokale bevolking is vriendelijk, en veiligheidsmaatregelen, zoals het goed in de gaten houden van je spullen, zijn altijd aan te raden, net zoals je dat in elk ander deel van de wereld zou doen. De natuurlijke schoonheid van Tanzania en de hartelijkheid van de mensen maken het tot een fantastische plek om te bezoeken.
 
 #Prijzen
 
 #Laagseizoen (1 april - 19 mei)
-- 2 personen: € 1.935,40 *
-- 4 personen: € 1.561,00 *
-- 6 personen: € 1.436,20 *
+- 2 personen: € 1.935,40 p.p.
+- 4 personen: € 1.561,00 p.p.
+- 6 personen: € 1.436,20 p.p.
 
 #Midseizoen (de rest van het jaar)
-- 2 personen: € 2.138,59 *
-- 4 personen: € 1.676,71 *
-- 6 personen: € 1.522,75 *
+- 2 personen: € 2.138,59 p.p.
+- 4 personen: € 1.676,71 p.p.
+- 6 personen: € 1.522,75 p.p.
 
 #Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 2.557,48 *
-- 4 personen: € 1.952,14 *
-- 6 personen: € 1.750,36 *
+- 2 personen: € 2.557,48 p.p.
+- 4 personen: € 1.952,14 p.p.
+- 6 personen: € 1.750,36 p.p.
 
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
@@ -1164,7 +875,6 @@ Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het la
 - Internationale vluchten (boeken we alleen op verzoek)
 
 #Reisroute
-
 - Dag 1: Aankomst op Kilimanjaro International Airport
 - Dag 2: Lake Manyara National Park
 - Dag 3: Serengeti National Park (centraal west/oost)
@@ -1173,9 +883,7 @@ Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het la
 - Dag 6 - 7: Vlucht naar huis vanaf Kilimanjaro International Airport
 
 #Dag 1
-
 #Aankomst op Kilimanjaro International Airport
-
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
 #Accommodaties:
@@ -1184,9 +892,7 @@ Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzani
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 2
-
 #Lake Manyara National Park
-
 Lake Manyara National Park ligt tussen het Tarangire National Park en de Ngorongoro krater, pal langs de 400 meter diepe Great Rift Valley. Het bijzondere aan dit park is de enorme diversiteit in het landschap, dat erg veel wilde dieren aantrekt. Je kunt het meer bezoeken, dat zelfs 75 percent van de oppervlakte van het park bestrijkt, of gaan wandelen door het regenwoud met zijn honderden apen en vogels, waar je de olifanten gewoon door het bos ziet lopen.
 
 #Accommodaties:
@@ -1195,9 +901,7 @@ Lake Manyara National Park ligt tussen het Tarangire National Park en de Ngorong
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
 #Dag 3 - 4
-
 #Serengeti National Park (centraal west/oost)
-
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
 #Accommodaties:
@@ -1206,9 +910,7 @@ Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kan
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
 #Dag 5
-
 #Ngorongoro Conservation Area (incl. Krater)
-
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
 #Accommodaties:
@@ -1217,13 +919,10 @@ De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. T
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
 #Dag 6 - 7
-
 #Vlucht naar huis vanaf Kilimanjaro International Airport
-
 De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan je eerst nog wat langer in de lodge, voordat de chauffeur je naar Kilimanjaro International Airport (JRO) brengt. Wil je dat deze ervaring nog een paar dagen duurt? Voeg dan een paar dagen aan je vakantie toe en geniet op één van de paradijselijke eilanden van Tanzania: Zanzibar, Pemba of Mafia!
 
 #Waarom Tanzania Specialist?
-
 - Beste service
 - Snelste reactietijd
 - 100% gespecialiseerd in Tanzania
@@ -1233,19 +932,19 @@ De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan j
 - Best beoordeelde privésafari's
 - Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/7-DAYS-SAFARI-TANZANIA--1920x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-2-7days-Jro-Man-Ser-Ngo-Jro.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28329-4-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28529-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Rhino-Website-pics-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-5-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00019</get-trip-id>
-    <get-trip-name>8-daagse safari in Tanzania voor wie de grote trek niet wil missen</get-trip-name>
+    <get_trip_status>Okay</get_trip_status>
+    <get-trip-name>8-daagse safari in Tanzania - voor wie de grote trek niet wil missen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>2.332</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/8-daagse-tanzania-vakantie/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#8-daagse safari in Tanzania - voor wie de grote trek niet wil missen.
@@ -1254,7 +953,7 @@ De 8-daagse Tanzania safari is een van onze bestsellers! Wil je de drie mooiste 
 
 Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies zoals jij het wil. Je beschikt over een eigen jeep en een ervaren gids.
 
-#Wat is de beste reistijd voor Tanzania?
+#Beste reistijd
 
 - Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
 - Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
@@ -1262,36 +961,36 @@ Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies
 
 #Wat kan ik verwachten van een safari in Tanzania met Tanzania Specialist?
 
-Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou. Het diverse wildlife van Tanzania is op verschillende tijdstippen van de dag actief, dus je hebt volop gelegenheid om de dieren in actie te zien.
+Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou.
 
 #Hoe kan ik mijn reis naar Tanzania personaliseren?
 
-Bij Tanzania Specialist draait alles om het samenstellen van jouw perfecte reis. Wanneer je je Tanzania-avontuur met ons plant, boek je niet zomaar een reis; je begint aan een gepersonaliseerde ervaring. We beginnen met het begrijpen van jouw wensen en voorkeuren, en we stoppen niet totdat elk aspect van jouw reis perfect aansluit bij jouw visie. Ons team werkt nauw met je samen om ervoor te zorgen dat je hele reis op maat gemaakt is naar jouw tevredenheid. En voor extra gemak bieden we een selectie van onze meest populaire Tanzania-reizen en safari's als startpunt voor jouw overweging.
+Bij Tanzania Specialist draait alles om het samenstellen van jouw perfecte reis. Wanneer je je Tanzania-avontuur met ons plant, boek je niet zomaar een reis; je begint aan een gepersonaliseerde ervaring. We beginnen met het begrijpen van jouw wensen en voorkeuren, en we stoppen niet totdat elk aspect van jouw reis perfect aansluit bij jouw visie. Ons team werkt nauw met je samen om ervoor te zorgen dat je hele reis op maat gemaakt is naar jouw tevredenheid.
 
 #Kan ik de Big Five zien in Tanzania?
 
-Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens leeuw, luipaard, olifant, neushoorn en buffel kunnen worden waargenomen in hun natuurlijke omgeving, waardoor Tanzania een voorkeurskeuze is voor natuurliefhebbers.
+Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens — leeuw, luipaard, olifant, neushoorn en buffel — kunnen worden waargenomen in hun natuurlijke omgeving.
 
 #Is het veilig om naar Tanzania te reizen?
 
-Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het land biedt een gastvrije omgeving, vooral in toeristische gebieden zoals Arusha, en je kunt met vertrouwen de prachtige landschappen en wildlife verkennen. De lokale bevolking is vriendelijk, en veiligheidsmaatregelen, zoals het goed in de gaten houden van je spullen, zijn altijd aan te raden, net zoals je dat in elk ander deel van de wereld zou doen. De natuurlijke schoonheid van Tanzania en de hartelijkheid van de mensen maken het tot een fantastische plek om te bezoeken.
+Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het land biedt een gastvrije omgeving, vooral in toeristische gebieden zoals Arusha, en je kunt met vertrouwen de prachtige landschappen en wildlife verkennen.
 
 #Prijzen
 
-#Laagseizoen (1 april - 19 mei)
-- 2 personen: € 2.331,21 *
-- 4 personen: € 1.900,73 *
-- 6 personen: € 1.757,24 *
+##Laagseizoen (1 april - 19 mei)
+- 2 personen: € 2.331,21 p.p.
+- 4 personen: € 1.900,73 p.p.
+- 6 personen: € 1.757,24 p.p.
 
-#Midseizoen (de rest van het jaar)
-- 2 personen: € 2.571,74 *
-- 4 personen: € 2.036,93 *
-- 6 personen: € 1.858,66 *
+##Midseizoen (de rest van het jaar)
+- 2 personen: € 2.571,74 p.p.
+- 4 personen: € 2.036,93 p.p.
+- 6 personen: € 1.858,66 p.p.
 
-#Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 3.094,23 *
-- 4 personen: € 2.388,06 *
-- 6 personen: € 2.152,67 *
+##Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
+- 2 personen: € 3.094,23 p.p.
+- 4 personen: € 2.388,06 p.p.
+- 6 personen: € 2.152,67 p.p.
 
 * Indicatieve kosten per persoon, exclusief internationale vliegtickets
 
@@ -1326,51 +1025,51 @@ Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het la
 
 #Dag 1
 
-#Aankomst op Kilimanjaro International Airport
+##Aankomst op Kilimanjaro International Airport
 
 Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
 
-#Accommodaties:
+##Accommodaties:
 - Silver: Ahadi Lodge
 - Gold: Giraffe Manor Tanzania
 - Platinum: Giraffe Manor Tanzania
 
 #Dag 2
 
-#Tarangire National Park
+##Tarangire National Park
 
 Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
 
-#Accommodaties:
+##Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Ang'ata Tarangire Camp
 - Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
 
 #Dag 3 - 5
 
-#Serengeti National Park (centraal west/oost)
+##Serengeti National Park (centraal west/oost)
 
 Zeg je safari, dan zeg je Serengeti National Park. Waarom? Je krijgt hier de kans om de Grote Trek te zien. De enorme, stampende kuddes zijn indrukwekkend, net als het grote aantal roofdieren: meer dan 4000 leeuwen, ruim 200 jachtluipaarden, 1000 luipaarden, 3500 hyena's en honderden wilde honden. En natuurlijk zijn er genoeg andere bijzondere wilde dieren die je samen met een gids kunt zoeken.
 
-#Accommodaties:
+##Accommodaties:
 - Silver: Serengeti Sound of Silence Tented Camp
 - Gold: Signature Serengeti Luxury Tented Camp
 - Platinum: Serengeti Sametu Camp by Karibu Camps and Lodges
 
 #Dag 6
 
-#Ngorongoro Conservation Area (incl. Krater)
+##Ngorongoro Conservation Area (incl. Krater)
 
 De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
 
-#Accommodaties:
+##Accommodaties:
 - Silver: Manyara Best View Lodge and Spa
 - Gold: Manyara Best View Lodge and Spa
 - Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
 
 #Dag 7 - 8
 
-#Vlucht naar huis vanaf Kilimanjaro International Airport
+##Vlucht naar huis vanaf Kilimanjaro International Airport
 
 De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan je eerst nog wat langer in de lodge, voordat de chauffeur je naar Kilimanjaro International Airport (JRO) brengt. Wil je dat deze ervaring nog een paar dagen duurt? Voeg dan een paar dagen aan je vakantie toe en geniet op één van de paradijselijke eilanden van Tanzania: Zanzibar, Pemba of Mafia!
 
@@ -1384,294 +1083,20 @@ De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan j
 - Concurrerende tarieven
 - Best beoordeelde privésafari's
 - Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/8-Days-Tanzania-holiday-Wildebeest-migration-1920x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-3b-8-days.jpg</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Elephant-calf-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28529-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Rhino-Website-pics-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-5-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
-  </trip>
-  <trip>
-    <get-trip-id>GT-TANZANIASPECIALIST-00038</get-trip-id>
-    <get-trip-name>4-daagse Tanzania Safari verlenging: 2 noordelijke parken</get-trip-name>
-    <get-trip-duration>4</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
-    <get_trip_country>Tanzania</get_trip_country>
-    <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/safari-verlenging-4-dagen-2-parken/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#4-daagse Tanzania Safari verlenging: 2 parken
-
-#Vanaf € 712* / Sprookjesachtige Ngorongoro krater / 4 dagen
-
-*prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
-
-#4-daagse Tanzania Safari verlenging: 2 noordelijke parken
-
-Het beste van Tanzania in een paar dagen ervaren? Spring dan aan boord van onze luxe safari in Tanzania. Verken twee prachtige nationale parken in het noorden van het land: de Ngorongoro krater en het Tarangire National Park. De Ngorongoro krater staat bekend om de hoogste concentratie wilde dieren in Afrika. Bovendien is het een van 's werelds beste bestemmingen om de iconische Big Five te spotten. Voor liefhebbers van olifanten is het Tarangire National Park een absolute must. Verken de Afrikaanse wildernis onder de majestueuze baobab bomen en ontmoet de grootste kudde wilde olifanten ter wereld. Met deze safari beleef je de wildernis op zijn best!
-
-De safari in Tanzania biedt je de vrijheid om op je eigen tempo te reizen met een privéjeep en een ervaren Engelstalige gids.
-
-#Wat is de beste reistijd voor Tanzania?
-
-Het is de meest gestelde vraag: wanneer kan ik Tanzania het beste bezoeken? Het antwoord is… er is niet één antwoord. Wat wil je zien? Waar wil je heen? Wat is je budget? Daar hangt het allemaal vanaf.
-
-- Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
-- Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
-- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.
-
-#Wat kan ik verwachten van een safari in Tanzania met Tanzania Specialist?
-
-Onze safarireizen in Tanzania bieden de mogelijkheid om het ongelooflijke wildlife en de prachtige landschappen van het land te verkennen. We zijn gespecialiseerd in privésafari's, wat betekent dat je een 4x4 Landcruiser of jeep helemaal voor jezelf hebt. Je hebt de flexibiliteit om te bepalen wanneer de safari begint en eindigt, en onze ervaren gidsen kunnen je helpen die beslissing te nemen op de dag van je avontuur. Of je nu de dieren wilt zien op hun meest actieve momenten tijdens zonsopgang en zonsondergang, wanneer de temperaturen aangenaam zijn, of als je de dag liever afsluit bij het zwembad, de keuze is helemaal aan jou. Het diverse wildlife van Tanzania is op verschillende tijdstippen van de dag actief, dus je hebt volop gelegenheid om de dieren in actie te zien.
-
-#Hoe kan ik mijn reis naar Tanzania personaliseren?
-
-Bij Tanzania Specialist draait alles om het samenstellen van jouw perfecte reis. Wanneer je je Tanzania-avontuur met ons plant, boek je niet zomaar een reis; je begint aan een gepersonaliseerde ervaring. We beginnen met het begrijpen van jouw wensen en voorkeuren, en we stoppen niet totdat elk aspect van jouw reis perfect aansluit bij jouw visie. Ons team werkt nauw met je samen om ervoor te zorgen dat je hele reis op maat gemaakt is naar jouw tevredenheid. En voor extra gemak bieden we een selectie van onze meest populaire Tanzania-reizen en safari's als startpunt voor jouw overweging.
-
-#Kan ik de Big Five zien in Tanzania?
-
-Absoluut, Tanzania staat bekend als een van de belangrijkste bestemmingen om de Big Five tegen te komen. Deze prachtige wezens leeuw, luipaard, olifant, neushoorn en buffel kunnen worden waargenomen in hun natuurlijke omgeving, waardoor Tanzania een voorkeurskeuze is voor natuurliefhebbers.
-
-#Is het veilig om naar Tanzania te reizen?
-
-Absoluut, Tanzania is een veilige en gastvrije bestemming voor reizigers. Het land biedt een gastvrije omgeving, vooral in toeristische gebieden zoals Arusha, en je kunt met vertrouwen de prachtige landschappen en wildlife verkennen. De lokale bevolking is vriendelijk, en veiligheidsmaatregelen, zoals het goed in de gaten houden van je spullen, zijn altijd aan te raden, net zoals je dat in elk ander deel van de wereld zou doen. De natuurlijke schoonheid van Tanzania en de hartelijkheid van de mensen maken het tot een fantastische plek om te bezoeken.
-
-#Prijzen
-
-#Laagseizoen (1 april - 19 mei)
-- 2 personen: € 1.052,52 *
-- 4 personen: € 796,89 *
-- 6 personen: € 711,68 *
-
-#Midseizoen (de rest van het jaar)
-- 2 personen: € 1.177,94 *
-- 4 personen: € 868,77 *
-- 6 personen: € 765,72 *
-
-#Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-- 2 personen: € 1.385,77 *
-- 4 personen: € 989,21 *
-- 6 personen: € 857,03 *
-
-* Indicatieve kosten per persoon, exclusief internationale vliegtickets
-
-#Inclusief
-- 24/7 service
-- 4 dagen
-- Overnachtingen
-- Engelssprekende privé-gids
-- Vol pension tijdens de safari
-- Gamedrives
-- Luxe 4×4 safari jeep
-- Parkkosten
-- Pick up- en transfer luchthaven
-- Reserveringskosten
-
-#Exclusief
-- Visa
-- Reisverzekering
-- Internationale vluchten (boeken we alleen op verzoek)
-
-#Reisroute
-- Dag 1: Aankomst op Kilimanjaro International Airport
-- Dag 2: Tarangire National Park
-- Dag 3: Ngorongoro Conservation Area (incl. Krater)
-- Dag 4: Vlucht naar huis vanaf Kilimanjaro International Airport
-
-#Dag 1
-
-#Aankomst op Kilimanjaro International Airport
-
-Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
-
-#Accommodaties:
-- Silver: Ahadi Lodge
-- Gold: Giraffe Manor Tanzania
-- Platinum: Giraffe Manor Tanzania
-
-#Dag 2
-
-#Tarangire National Park
-
-Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
-
-#Accommodaties:
-- Silver: Manyara Best View Lodge and Spa
-- Gold: Ang'ata Tarangire Camp
-- Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
-
-#Dag 3
-
-#Ngorongoro Conservation Area (incl. Krater)
-
-De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
-
-#Accommodaties:
-- Silver: Manyara Best View Lodge and Spa
-- Gold: Manyara Best View Lodge and Spa
-- Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
-
-#Dag 4
-
-#Vlucht naar huis vanaf Kilimanjaro International Airport
-
-De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan je eerst nog wat langer in de lodge, voordat de chauffeur je naar Kilimanjaro International Airport (JRO) brengt. Wil je dat deze ervaring nog een paar dagen duurt? Voeg dan een paar dagen aan je vakantie toe en geniet op één van de paradijselijke eilanden van Tanzania: Zanzibar, Pemba of Mafia!
-
-#Waarom Tanzania Specialist?
-- Beste service
-- Snelste reactietijd
-- 100% gespecialiseerd in Tanzania
-- Onze reisadviseurs wonen in Tanzania
-- Geweldige privégidsen met veel kennis
-- Concurrerende tarieven
-- Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/09/Tarangire-NP-4.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Elephant-calf-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Rhino-Website-pics-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-5-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
-  </trip>
-  <trip>
-    <get-trip-id>GT-TANZANIASPECIALIST-00040</get-trip-id>
-    <get-trip-name>5-daagse Tanzania Safari verlenging: 3 noordelijke parken</get-trip-name>
-    <get-trip-duration>5</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
-    <get_trip_country>Tanzania</get_trip_country>
-    <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/safari-verlenging-5-dagen-3-parken/</get_trip_url>
-    <get_trip_scraped_content><![CDATA[#5-daagse Tanzania Safari verlenging: 3 parken
-
-#Vanaf € 960* / Heel veel wilde dierensoorten / 5 dagen
-
-*prijs p.p. incl. gids, safari-jeep, hotel en toegang tot het park, excl. internationale vlucht (gebaseerd op 6 personen)
-
-Kort, krachtig en buitengewoon mooi: ontdek het noordelijke deel van deze Tanzania safari. Om te beginnen is de Ngorongoro krater voor de meeste mensen een van de vele redenen om Tanzania te bezoeken. Het herbergt de hoogste concentratie aan wildlife in Afrika. Bovendien is het dé plaats om de Big Five te spotten. Daarnaast biedt Lake Manyara één van de kleinere parken fenomenale landschappen, een zoutmeer vol flamingo's en een schat aan vogelsoorten. Ten slotte sluit je het avontuur af in het koninkrijk der olifanten, Tarangire National Park. Hier pronken de majestueuze baobab bomen tegen de blauwe hemel!
-
-Deze privésafari biedt je de vrijheid om op jouw eigen tempo te reizen, precies zoals je zelf wil. Je beschikt over een eigen jeep en ervaren gids.
-
-#Prijzen
-
-#Laagseizoen (1 april - 19 mei)
-2 personen: € 1.383,73 *
-4 personen: € 1.065,92 *
-6 personen: € 959,98 *
-
-#Midseizoen (de rest van het jaar)
-2 personen: € 1.580,80 *
-4 personen: € 1.192,39 *
-6 personen: € 1.062,92 *
-
-#Hoogseizoen (juli + augustus + september + 20 dec - 10 jan)
-2 personen: € 1.854,95 *
-4 personen: € 1.350,99 *
-6 personen: € 1.183,01 *
-
-* Indicatieve kosten per persoon, exclusief internationale vliegtickets
-
-#Inclusief
-- 24/7 service
-- 5 dagen
-- Overnachtingen
-- Crater Fee
-- Drinkwater in onze safari jeeps
-- Engelssprekende privé-gids
-- Vol pension tijdens de safari
-- Gamedrives
-- Luxe 4×4 safari jeep
-- Parkkosten
-- Pick up- en transfer luchthaven
-- Reserveringskosten
-
-#Exclusief
-- Visa
-- Reisverzekering
-- Internationale vluchten (boeken we alleen op verzoek)
-
-#Reisroute
-- Dag 1: Aankomst op Kilimanjaro International Airport
-- Dag 2: Tarangire National Park
-- Dag 3: Lake Manyara National Park
-- Dag 4: Ngorongoro Conservation Area (incl. Krater)
-- Dag 5: Vlucht naar huis vanaf Kilimanjaro International Airport
-
-#Dag 1
-
-#Aankomst op Kilimanjaro International Airport
-
-Als je Kilimanjaro International Airport uitloopt, staat je persoonlijke Tanzania Specialist gids al met een grote glimlach op je te wachten: 'Karibu Tanzania - welkom in Tanzania!' De gids brengt je direct naar je hotel, waar je kunt uitrusten van de reis en kunt genieten van de Afrikaanse sfeer. De volgende dag neemt de gids je mee op een exclusieve, privé-safari waarvan je zelf het tempo bepaalt. Geniet van de luxe van een eigen safarijeep en maak gebruik van de vrijheid door zo lang je wilt naar de dieren te kijken!
-
-#Accommodaties:
-- Silver: Ahadi Lodge
-- Gold: Giraffe Manor Tanzania
-- Platinum: Giraffe Manor Tanzania
-
-#Dag 2
-
-#Tarangire National Park
-
-Het is de hemel op aarde voor grote groepen olifanten: Het Tarangire National Park. Dit komt door de grote hoeveelheid baobabbomen die in het droge seizoen een bron van water zijn voor olifanten. Deze bomen kunnen honderden jaren oud worden en olifanten gebruiken een speciale techniek om er vocht uit te halen. Daarnaast is de Tarangire-rivier die door het park loopt, de enige andere waterbron in dit seizoen. Dus je kunt je voorstellen dat deze plek een paradijs is voor grote groepen van wel 250 olifanten.
-
-#Accommodaties:
-- Silver: Sangaiwe Tented Lodge
-- Gold: Ang'ata Tarangire Camp
-- Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
-
-#Dag 3
-
-#Lake Manyara National Park
-
-Lake Manyara National Park ligt tussen het Tarangire National Park en de Ngorongoro krater, pal langs de 400 meter diepe Great Rift Valley. Het bijzondere aan dit park is de enorme diversiteit in het landschap, dat erg veel wilde dieren aantrekt. Je kunt het meer bezoeken, dat zelfs 75 percent van de oppervlakte van het park bestrijkt, of gaan wandelen door het regenwoud met zijn honderden apen en vogels, waar je de olifanten gewoon door het bos ziet lopen.
-
-#Accommodaties:
-- Silver: Manyara Best View Lodge and Spa
-- Gold: Manyara's Secret
-- Platinum: Lake Manyara Kilimamoja Lodge by Wellworth
-
-#Dag 4
-
-#Ngorongoro Conservation Area (incl. Krater)
-
-De beroemde Ngorongoro-krater is één van de zeven natuurwonderen van Afrika. Toen er twee miljoen jaar geleden een enorme vulkaan uitbarstte, ontstond deze krater. Door de vruchtbare lava is er een uniek ecosysteem gecreëerd, waardoor dit nu het dichtstbevolkte gebied met dieren in Afrika is. Als je in de krater bent, kijk je je ogen uit. Duizenden leeuwen, zebra's, buffels en zwarte neushoorns omringen je. Er is meer, want de uitzichten zijn indrukwekkend.
-
-#Accommodaties:
-- Silver: Manyara Best View Lodge and Spa
-- Gold: Manyara Best View Lodge and Spa
-- Platinum: Ngorongoro O'ldeani Mountain Lodge by Wellworth
-
-#Dag 5
-
-#Vlucht naar huis vanaf Kilimanjaro International Airport
-
-De laatste dag is aangebroken! Vlieg je later op de dag naar huis? Dan ontspan je eerst nog wat langer in de lodge, voordat de chauffeur je naar Kilimanjaro International Airport (JRO) brengt. Wil je dat deze ervaring nog een paar dagen duurt? Voeg dan een paar dagen aan je vakantie toe en geniet op één van de paradijselijke eilanden van Tanzania: Zanzibar, Pemba of Mafia!
-
-#Waarom Tanzania Specialist?
-- Beste service
-- Snelste reactietijd
-- 100% gespecialiseerd in Tanzania
-- Onze reisadviseurs wonen in Tanzania
-- Geweldige privégidsen met veel kennis
-- Concurrerende tarieven
-- Best beoordeelde privésafari's
-- Worry-free Hakuna Matata pakket
-
-#Beste reistijd
-- Het droge seizoen (juni tot oktober en december tot februari): Deze maanden zijn ideaal voor safari's en strandbezoeken, dankzij het lekkere weer en alle opties voor het spotten van de wilde dieren. Wel liggen in deze periode de hotelprijzen vaak hoger en is er meer drukte in parken en attracties.
-- Middenseizoen (maart en november): Deze periode geeft je van alles wat: gemiddelde hotelprijzen en minder toeristen. Het weer kan wisselend zijn en de beschikbaarheid van sommige attracties is bij regen minder. Aan de andere kant krijg je nog steeds de geweldige mogelijkheid voor het spotten van wilde dieren.
-- Het regenseizoen (april en mei): Perfect voor prijsbewuste reizigers met de laagste hotelprijzen en de minst drukke parken. De zware regenval maakt het landschap levendig en weelderig, maar het weer kan de reisplannen beïnvloeden.]]></get_trip_scraped_content>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kaart-4-6days-Jro-Tar-Man-Ngo-Jro-1.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Elephant-calf-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Design-with-right-dimensions-for-website-28329-4-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Rhino-Website-pics-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-5-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
+    <get_trip_image-url-acco image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/8-Days-Tanzania-holiday-Wildebeest-migration-1920x800.jpg</get_trip_image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00041</get-trip-id>
+    <get_trip_status>Okay</get_trip_status>
     <get-trip-name>Beklimming van de Kilimanjaro via de populaire 6-daagse Machame Route</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
-    <get-trip-lowest_price_2p>Prijs op aanvraag</get-trip-lowest_price_2p>
+    <get-trip-lowest_price_2p>2.234</get-trip-lowest_price_2p>
+    <get-trip-flight>excluded</get-trip-flight>
     <get_trip_country>Tanzania</get_trip_country>
     <get_trip_url>https://tanzaniaspecialist.com/reisaanbod/machame-route-kilimanjaro/</get_trip_url>
     <get_trip_scraped_content><![CDATA[#Beklimming van de Kilimanjaro via de populaire 6-daagse Machame Route
@@ -1684,7 +1109,7 @@ De klim via de Machame route beslaat zes dagen, maar kan ook worden uitgebreid t
 
 De Kilimanjaro beklimmen is de ultieme uitdaging! Bij zo'n uitdaging zit het verschil 'm vaak in de details, en daarom klim je bij ons met professionele gidsen, dragers en een kok. Zij zorgen voor je tijdens de beklimming via de Machame route, door bijvoorbeeld twee keer per dag met speciale apparatuur een gezondheidscheck te doen, en door voor heerlijk eten* te zorgen. Een beetje overdreven? Niet als je de top wil bereiken! Want wij weten als geen ander hoe hoogteziekte je ineens kan overvallen, en dat goede voeding essentieel is voor je uithoudingsvermogen bij een uitdagende beklimming.
 
-Behalve dat hebben we een uitgebreid informatiepakket om je te helpen bij de voorbereiding van je beklimming via de Machame route. Hierin vind je algemene informatie over Tanzania en de Kilimanjaro, maar ook tips voor een goede voorbereiding en een overzicht van te kopen of te huren klimuitrusting. En hadden we al gezegd dat we een partner zijn van de Kilimanjaro Responsible Travel Organisation (KRTO)? Hierdoor heb je de garantie dat we goed voor onze teamleden en de berg zorgen tijdens een beklimming, waardoor je dus met een gerust hart en een schoon geweten de berg op kunt. Klaar voor een onvergetelijke ervaring??
+Behalve dat hebben we een uitgebreid informatiepakket om je te helpen bij de voorbereiding van je beklimming via de Machame route. Hierin vind je algemene informatie over Tanzania en de Kilimanjaro, maar ook tips voor een goede voorbereiding en een overzicht van te kopen of te huren klimuitrusting. En hadden we al gezegd dat we een partner zijn van de Kilimanjaro Responsible Travel Organisation (KRTO)? Hierdoor heb je de garantie dat we goed voor onze teamleden en de berg zorgen tijdens een beklimming, waardoor je dus met een gerust hart en een schoon geweten de berg op kunt.
 
 *Nieuwsgierig naar het menu? Vermeld het in je aanvraag en we sturen het toe!
 
@@ -1738,59 +1163,39 @@ Behalve dat hebben we een uitgebreid informatiepakket om je te helpen bij de voo
 - Dag 8: Vlucht naar huis vanaf Kilimanjaro (JRO) na de beklimming van de Mount Kilimanjaro
 
 #Dag 1
-
 ##Aankomst op Kilimanjaro International Airport voor je beklimming
+Bij aankomst op de internationale luchthaven Kilimanjaro wacht onze Tanzania Specialist gids je op. Hij brengt je naar je hotel, waar je kunt ontspannen na je vlucht. Voorbereiding voor de beklimming: je ontmoet je gids vóór het begin van je beklimming. Hij informeert je en geeft je advies over de kleding die je best draagt, wat je meeneemt in je rugzak en alles wat je helpt om de beklimming zo comfortabel mogelijk te maken.
 
-Bij aankomst op de internationale luchthaven Kilimanjaro wacht onze Tanzania Specialist gids je op. Hij brengt je naar je hotel, waar je kunt ontspannen na je vlucht. Voorbereiding voor de beklimming: je ontmoet je gids vóór het begin van je beklimming. Hij informeert je en geeft je advies over de kleding die je best draagt, wat je meeneemt je rugzak en alles wat je helpt om de beklimming zo comfortabel mogelijk te maken.
-
-Accommodaties:
-- Silver: Shose Chalets
+Accommodatie: Silver – Shose Chalets
 
 #Dag 2
-
 ##Beklimming Machame Route (1/6) | Machame Gate (1800 m) - Machame Camp (2835 m)
-
 De eerste ochtend haalt je gids je op bij het hotel en brengt je naar Machame Gate. Het eerste deel leidt je door koffie- en bananenplantages en een ongerept, eeuwig groen regenwoud. Na een wandeling van vijf tot zes uur bereik je het Machame Camp aan de grens van het bosgebied met de heidezone. Dit is je eerste dag op deze hoogte, dus vergeet niet om veel water te drinken.
 
 #Dag 3
-
 ##Beklimming Machame Route (2/6) | Machame Camp (2835 m) - Shira Camp (3839 m)
-
 Deze tweede dag op de berg begint met alweer een mooie klim die iets steiler is. Je komt eerst bij een kleine ronde klif die bekend staat als de picknickrots en waar je wordt beloond met een prachtig uitzicht op Kibo (een piek van de Kilimanjaro) en Shira (een van de andere vulkaantoppen). Vanaf Picnic Rock wandel je via een prachtige route verder naar Shira Camp om te lunchen en uit te rusten. Als je wilt, kun je een acclimatisatiewandeling maken naar de Lava Tower (tot een hoogte van 4120 meter over een afstand van 2 km).
 
 #Dag 4
-
 ##Beklimming Machame Route (3/6) | Shira Camp (3839 m) - Lava Tower (4630 m) - Barranco Camp (3950 m)
-
 Het pad van Shira Camp naar de prachtige Lava Tower is veel stijgen en dalen maar biedt prachtige uitzichten onderweg. Je luncht een tot twee uur bij Lava Tower om je lichaam te laten acclimatiseren, omdat je je misschien wat ongemakkelijk voelt door de toename in hoogte. Na de lunch daal je af naar Barranco Camp. Kijk uit naar de bizar uitziende bloeiende planten die wel vijf meter hoog kunnen worden! Barranco Camp ligt aan de voet van de imposante Barranco Wall, die zowel enorm groot als erg steil is.
 
 #Dag 5
-
 ##Beklimming Machame Route (4/6) | Barranco Camp (3950 m) - Barafu Camp (4645 m)
-
 Na het ontbijt verlaat je Barranco Camp en wandel je naar Barranco Wall. Na een mooie maar uitdagende hike bereik je de top van de Barranco Wall en heb je een spectaculair uitzicht op de Kibo vulkaan links van je en de Mount Meru in de verte rechts van je. Dan begint een moeilijkere wandeling door Karanga Camp, met veel klimmen en dalen, waarna je je kamp voor de nacht bereikt: Barafu Camp, de laatste slaapplaats voor de top! Geniet van een warme maaltijd en zorg ervoor dat je ontspant en vroeg slaapt, voordat je aan je laatste klim naar de top begint!
 
 #Dag 6
-
 ##Beklimming Machame Route (5/6) | Barafu Camp (4645 m) - Uhuru Peak (5895 m) - Millennium Camp (3820 m)
-
 Vandaag is de dag! Rond middernacht start je vanuit Barafu Camp naar Uhuru Peak. De klim gaat over goede paden en het meest uitdagende deel is de grote hoogte. Eenmaal op de top kun je genieten van een prachtige zonsopgang, die op deze hoogte behoorlijk indrukwekkend is! Na een korte pauze op de top, waar je je ultieme overwinning viert, daal je langzaam af naar het schilderachtige Millennium Camp.
 
 #Dag 7
-
 ##Beklimming Machame Route (6/6) | Millennium Camp (3,820 m) - Mweka Gate (1640 m)
+Het Millenium kamp ligt in een tropisch regenwoud. Als je vandaag wakker wordt, ervaar je een gevoel van opluchting door de verminderde hoogte en voldoening door het bereiken van de top. Na het ontbijt maak je een gemakkelijke wandeling naar de uitgang van het park. Je chauffeur brengt je vervolgens terug naar het hotel voor wat welverdiende rust!
 
-Het Millenium kamp ligt in een tropisch regenwoud. Als je vandaag wakker wordt, ervaar je een gevoel van opluchting door de verminderde hoogte en voldoening door het bereiken van de top. Na het ontbijt maak je een gemakkelijke wandeling naar de uitgang van het park.
-
-Je chauffeur brengt je vervolgens terug naar het hotel voor wat welverdiende rust!
-
-Accommodaties:
-- Silver: Shose Chalets
+Accommodatie: Silver – Shose Chalets
 
 #Dag 8
-
 ##Vlucht naar huis vanaf Kilimanjaro (JRO) na de beklimming van de Mount Kilimanjaro
-
 Helaas is dit het einde van je vakantie en is het tijd om naar huis te gaan. Geniet nog van je laatste uren in Tanzania, voordat onze chauffeur je ophaalt en naar de luchthaven Kilimanjaro International Airport brengt voor je vlucht naar huis. Krijg je er nog niet genoeg van? Voeg een paar dagen safari of strandvakantie toe aan je Kilimanjaro-avontuur!
 
 #Waarom Tanzania Specialist?
@@ -1803,15 +1208,11 @@ Helaas is dit het einde van je vakantie en is het tijd om naar huis te gaan. Gen
 - Best beoordeelde privésafari's
 - Worry-free Hakuna Matata pakket]]></get_trip_scraped_content>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/07/Kilimanjaro-Tanzania-full-view-1060x800.jpg</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/08/Kilimanjaro-routes.png</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-1-scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Machame-Route-7-days_Day-1-Machame-Camp-sign-Website-pics-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Shira-camp--scaled.avif</get_trip_image-url-trips>
-    <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Machame-Route-7-days_Day-3-Lava-Tower-Camp-sign-Website-pics-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/View-from-Barafu-Camp--scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Uhuru-peak-sign-scaled.avif</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2023/10/MWEKA.webp</get_trip_image-url-trips>
     <get_trip_image-url-trips image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Title-28129-18.57.46-scaled.avif</get_trip_image-url-trips>
-    <get_trip_status>Okay</get_trip_status>
+    <get_trip_image-url-acco image_size="" image_weight="">https://tanzaniaspecialist.com/wp-content/uploads/sites/7/2026/04/Mount-Kilimanjaro-snow-1-scaled.avif</get_trip_image-url-acco>
   </trip>
 </trips>
