@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-19T07:17:12.112Z" count="21">
+<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-19T16:38:35.703Z" count="21">
   <trip>
     <get-trip-id>GT-FIVESENSES-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>A room with a view</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
     <get-trip-lowest-price-2p>6.150</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/a-room-with-a-view/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#A room with a view
@@ -55,11 +55,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'A room with a view'.]
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australia by 4WD</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>6.250</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australia-by-4wd/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australia by 4WD
@@ -107,11 +107,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verde
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australia by 4WD met kids</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>5.100</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australia-by-4wd-met-kids/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australia by 4WD met kids
@@ -157,11 +157,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verde
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië CamperCombi Kids</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
     <get-trip-lowest-price-2p>4.430</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-kids/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australië CamperCombi Kids
@@ -214,11 +214,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië CamperCombi Oost</get-trip-name>
     <get-trip-duration>39</get-trip-duration>
     <get-trip-lowest-price-2p>5.175</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-oost/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australië CamperCombi Oost
@@ -274,11 +274,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië CamperCombi Zuid</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>4.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-zuid/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australië CamperCombi Zuid
@@ -332,11 +332,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nature North</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>6.245</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/nature-north/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nature North
@@ -389,11 +389,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nature North'.]]></ge
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nature South</get-trip-name>
     <get-trip-duration>36</get-trip-duration>
     <get-trip-lowest-price-2p>6.875</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/nature-south/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nature South
@@ -458,11 +458,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nature South'.]]></ge
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Noord en zuid in de lente</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>5.855</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/noord-en-zuid-in-de-lente/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Noord en zuid in de lente
@@ -517,11 +517,11 @@ De prijs van de 30-daagse reis 'Noord en zuid in de lente' is vanaf € 5855 per
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Walk &amp; Ride South</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
     <get-trip-lowest-price-2p>7.750</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/walk-ride-south/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Walk & Ride South
@@ -577,11 +577,11 @@ De prijs van de 31-daagse reis 'Walk & Ride South' is vanaf € 7750 per volwass
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>100% Noord</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>6.285</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/100-noord/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#100% Noord
@@ -636,11 +636,11 @@ Neem contact op voor een persoonlijk reisplan van de reis '100% Noord'.]]></get-
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>100% Zuid</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>6.885</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/100-zuid/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#100% Zuid
@@ -693,11 +693,11 @@ Neem contact op voor een persoonlijk reisplan van de reis '100% Zuid'.]]></get-t
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>360° Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
     <get-trip-lowest-price-2p>6.805</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/360-nieuw-zeeland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#360° Nieuw-Zeeland
@@ -750,11 +750,11 @@ Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland'.
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>360° Nieuw-Zeeland in de lente</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
     <get-trip-lowest-price-2p>6.025</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/360-nieuw-zeeland-in-de-lente/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#360° Nieuw-Zeeland in de lente
@@ -809,11 +809,11 @@ Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland i
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Actie op het Zuidereiland</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>5.910</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/actie-op-het-zuidereiland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Actie op het Zuidereiland
@@ -866,11 +866,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Actie op het Zuiderei
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>De Indian Summer van Nieuw-Zeeland per camper</get-trip-name>
     <get-trip-duration>38</get-trip-duration>
     <get-trip-lowest-price-2p>5.125</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/de-indian-summer-van-nieuw-zeeland-per-camper/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#De Indian Summer van Nieuw-Zeeland per camper
@@ -924,11 +924,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'De Indian Summer van 
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland CamperCombi</get-trip-name>
     <get-trip-duration>41</get-trip-duration>
     <get-trip-lowest-price-2p>6.080</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi
@@ -977,11 +977,11 @@ De prijs van de 41-daagse reis 'Nieuw-Zeeland CamperCombi' is vanaf € 6080 per
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland CamperCombi Kids</get-trip-name>
     <get-trip-duration>40</get-trip-duration>
     <get-trip-lowest-price-2p>4.390</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi-kids/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi Kids
@@ -1031,11 +1031,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperC
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland CamperCombi Zuidereiland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>4.890</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi-zuidereiland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi Zuidereiland
@@ -1086,11 +1086,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperC
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Camper Kids</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
     <get-trip-lowest-price-2p>3.895</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-camper-kids/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Camper Kids
@@ -1141,11 +1141,11 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland Camper 
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Southern Comfort</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>5.820</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/southern-comfort/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Southern Comfort
