@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="toperu" partner="ToPeru" generated="2026-08-19T07:17:12.112Z" count="4">
+<trips feed="toperu" partner="ToPeru" generated="2026-08-19T16:38:35.703Z" count="4">
   <trip>
     <get-trip-id>GT-TOPERU-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>10-daagse Rondreis Peru | Hart van Peru</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>1.357</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://toperu.nl/peru-rondreizen/10-daagse-rondreis-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#10-DAAGSE RONDREIS PERU | HART VAN PERU
@@ -82,11 +82,11 @@ In de ochtend volgt de transfer naar de luchthaven van Cuzco voor de vlucht naar
   </trip>
   <trip>
     <get-trip-id>GT-TOPERU-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>12-daagse rondreis Peru | Cuzco &amp; Manu</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>2.165</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://toperu.nl/peru-rondreizen/12-daagse-rondreis-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#12-DAAGSE RONDREIS PERU | CUZCO & MANU
@@ -164,11 +164,11 @@ De ochtend is vrij te besteden. U wordt op het afgesproken uur naar het vliegvel
   </trip>
   <trip>
     <get-trip-id>GT-TOPERU-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>16-daagse rondreis Peru | Pittoresk Peru</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.548</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://toperu.nl/peru-rondreizen/16-daagse-rondreis-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#16-DAAGSE RONDREIS PERU | PITTORESK PERU
@@ -266,11 +266,11 @@ U vliegt van Cuzco naar het stadje Puerto Maldonado in het Tambopata reservaat. 
   </trip>
   <trip>
     <get-trip-id>GT-TOPERU-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>3-weekse rondreis Peru | Absoluut Peru</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.896</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://toperu.nl/peru-rondreizen/3-weekse-rondreis-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#3-WEEKSE RONDREIS PERU | ABSOLUUT PERU
