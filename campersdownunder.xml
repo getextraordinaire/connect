@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-18T14:50:50.470Z" count="13">
+<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-19T05:00:25.200Z" count="13">
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00001</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
@@ -1590,6 +1590,7 @@ Interesse in deze camperreis in het Red Centre? Wij helpen je graag met een gesc
 Beste reistijd: tussen april en november
 Totale routeafstand: ca. 1.300 km (rondreis Alice Springs)
 Mogelijk met: 2WD camper en 4WD camper]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0001/62/ef4672c0954e34e50a3d2cb601dce61285ae85d9.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Nieuwe-route-Alice-Springs-Red-Centre.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2018/03/IMG_6027-Uluru-eigen-foto.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.campersdownunder.nl/wp-content/uploads/2026/05/Alice-Springs-vanuit-de-lucht.jpg</get-trip-image-url-overview>
