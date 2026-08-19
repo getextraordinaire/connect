@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-19T07:17:12.112Z" count="36">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-19T16:38:35.703Z" count="36">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië Flycamper Vrijheid ten top!</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>5.150</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/australie/australie-flycamper-met-qantas-airways/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -90,11 +90,11 @@ De luxe 2-persoons camper. Ontdek de mooiste plekken van Australië met deze 2-p
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australie Flydrive East Coast Discovery Autorondreis</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>6.250</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/australie/australie-flydrive-east-coast-discovery/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -289,11 +289,11 @@ Ontdek het bergdorp Kuranda op eigen initiatief. U maakt een rit met de historis
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië verlaten westkust</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
     <get-trip-lowest-price-2p>3.904</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/australie/australie-verlaten-westkust/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -479,11 +479,11 @@ Vertrekperiode 01.07.2026 – 31.12.2027
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Flydrive Australie Sydney Outback Reef Explorer</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>4.975</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/australie/flydrive-australie-sydney-outback-reef-explorer/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -653,11 +653,11 @@ Prachtige appartementen die op Noosa Hill gelegen zijn met schitterende vergezic
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Authentiek Melanesië en Polynesië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
     <get-trip-lowest-price-2p>6.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Samoa</get-trip-country>
@@ -809,11 +809,11 @@ Gunstig gelegen op korte loopafstand van de lokale markt en het centrum van Apia
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bounty Reis Fiji, Cook Eilanden en Frans-Polynesië</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
     <get-trip-lowest-price-2p>10.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Cookeilanden</get-trip-country>
     <get-trip-country>Frans-Polynesië</get-trip-country>
@@ -945,11 +945,11 @@ Direct gelegen aan een zandstrand langs de westkust van Moorea. U heeft hier gra
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Fiji Escape to Paradise reis</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>9.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Singapore</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/aanbiedingen/fiji-escape-to-paradise-reis/</get-trip-url>
@@ -1074,11 +1074,11 @@ Gelegen op het privé-eiland Matangi. De afgelegen baaien en de tropische vegeta
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Fiji Off the beaten track</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nederland</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Japan</get-trip-country>
@@ -1205,11 +1205,11 @@ Matava Resort op Fiji – Kleine oase in ongerepte natuur, prachtig om te duiken
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Fiji Discovery &amp; Hong Kong</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>5.775</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/aanbiedingen/fiji-reis-hong-kong-discovery/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -1322,11 +1322,11 @@ Het Club Fiji Resort biedt bungalows en villa's bij het strand aan een afgelegen
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Melanesian Explorer Sydney, Vanuatu en Fiji</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>6.960</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Vanuatu</get-trip-country>
@@ -1440,11 +1440,11 @@ Yatule Resort & Spa biedt directe toegang tot het beroemde strand van Natadola e
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Stille Zuidzee Symfonie – Hawaii, Samoa, Tonga en Fiji</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
     <get-trip-lowest-price-2p>8.450</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Samoa</get-trip-country>
@@ -1571,11 +1571,11 @@ Het complex werd samen met de dorpelingen gebouwd en ligt in het noorden van Ha'
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Blue Lagoon Cruises</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
     <get-trip-lowest-price-2p>3.554</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/cruises/blue-lagoon-cruises/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -1645,11 +1645,11 @@ Vertrekperiode: 01.11.2025 – 18.12.2025 / 19.12.2025 – 07.01.2026 / 08.01.20
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Polynesian Explorer Reis Cook Eilanden Frans-Polynesië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
     <get-trip-lowest-price-2p>7.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Frans-Polynesië</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/frans-polynesie/aanbiedingen/frans-polynesie-en-cookeilanden-reis/</get-trip-url>
@@ -1763,11 +1763,11 @@ Le Maitai Polynesia ligt aan het zuidelijk einde van Bora Bora, aan een klein st
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Frans-Polynesië Reis Bora Bora</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>4.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Frans-Polynesië</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/frans-polynesie/aanbiedingen/frans-polynesie-reis-bora-bora/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Frans-Polynesië Reis Bora Bora
@@ -1871,11 +1871,11 @@ Het comfortabele alternatief voor de Tuamotus aan een van mooiste stranden. Idea
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Frans-Polynesie reis Kontiki</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>5.750</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Frans-Polynesië</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/frans-polynesie/aanbiedingen/frans-polynesie-reis-kontiki/</get-trip-url>
@@ -1983,11 +1983,11 @@ Het Tahiti Pearl Beach Resort ligt aan Lafayette Beach, op ca. 20 minuten van de
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Leilani</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>3.825</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/familiereis-leilani-oahu-kauai-hawaii-maui/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -2061,11 +2061,11 @@ Gelegen aan de overkant van het Kamaole Beach Park in het strandplaatsje Kihei o
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Makai</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>3.095</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/familiereis-makai-oahu-hawaii-maui/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Makai
@@ -2127,11 +2127,11 @@ Gelegen aan de overkant van het Kamaole Beach Park in het strandplaatsje Kihei o
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hawaii Hula Reis</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>3.650</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/hawaii-vakantie-reis-hula/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -2208,11 +2208,11 @@ Luxueus 5* hotel. Prachtig hotel op een geweldige locatie, direct aan het mooie 
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Leilani Reis</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>4.250</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/hawaii-vakantie-reis-leilani/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Leilani Reis
@@ -2315,11 +2315,11 @@ Luxueus 5* hotel. Prachtig hotel op een geweldige locatie, direct aan het mooie 
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00022</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>San Francisco en Hawaii</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>2.250</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/san-francisco-en-hawaii/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#San Francisco en Hawaii
@@ -2360,11 +2360,11 @@ Gelegen op minder dan 5 minuten lopen van Waikiki Beach en het Royal Hawaiian Ce
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00023</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Autorondreis Nieuw-Zeeland standaard</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>6.975</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/nieuw-zeeland/aanbiedingen/autorondreis-nieuw-zeeland-standaard/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -2565,11 +2565,11 @@ Prijs p.p. Vanaf | Standaard: € 6.975
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00024</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Droomreis Nieuw-Zeeland en de Stille Zuidzee</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>4.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Frans-Polynesië</get-trip-country>
@@ -2673,11 +2673,11 @@ Direct gelegen aan een zandstrand langs de westkust van Moorea. U heeft hier gra
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00025</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Flycamper – Vrijheid ten top!</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>5.075</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/nieuw-zeeland-flycamper/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -2737,11 +2737,11 @@ De luxe 2-persoons camper. Deze camper is ideaal voor 2 personen die een camper 
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00026</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Flycamper en Fiji</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>6.825</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-country>Singapore</get-trip-country>
@@ -2849,11 +2849,11 @@ De luxe 2-persoons camper. Deze camper is ideaal voor 2 personen die een camper 
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00027</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>In kleine groep over de Nullarbor Plain</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>5.943</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-australie/inkleinegroepoverdenullarborplain/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -2926,11 +2926,11 @@ Vertrekperiode: 01.09.2024 – 31.03.2025
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00028</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kimberley Complete Deluxe 4WD-Safari - 15 dagen</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-australie/kimberley-complete-deluxe-4wd-safari-15-dagen/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Kimberley Complete Deluxe 4WD-kampeersafari
@@ -3014,11 +3014,11 @@ U kunt een offerte voor deze reis met optionele excursies aanvragen. Geef uw voo
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00029</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Best of New Zealand</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.266</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-nieuw-zeeland/best-of-new-zealand/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -3158,11 +3158,11 @@ Vertrekperiode 01.04.2026 – 15.09.2026 / 16.09.2026 – 31.03.2027
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00030</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>MoaTrek</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>9.216</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-nieuw-zeeland/kakapo-moatrek/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -3280,11 +3280,11 @@ Vertrekperiode: 01.10.2025 – 30.04.2026 | 01.05.2026 – 30.09.2026 | 01.10.20
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00031</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>New Zealand Exclusive</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>5.430</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-nieuw-zeeland/new-zealand-exclusive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -3397,11 +3397,11 @@ Vertrekperiode 01.05.2026 – 15.09.2026 en 16.09.2026 – 31.03.2027
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00032</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis per 4WD</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>2.626</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/rondreis-nieuw-zeeland/rondreis-per-4wd/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis per 4WD
@@ -3562,11 +3562,11 @@ Prijzen voor een triple kamer of personen die alleen reizen op aanvraag. Prijzen
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00033</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>21-daagse selfdrive Darwin naar Adelaide</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/selfdrives-australie/darwin-adelaide-selfdrive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#21-daagse selfdrive Darwin naar Adelaide
@@ -3632,11 +3632,11 @@ De routekaart geeft een overzicht van de route die u volgt tijdens deze selfdriv
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00034</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Perth Darwin selfdrive</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/selfdrives-australie/perth-darwin-selfdrive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Perth Darwin selfdrive
@@ -3695,11 +3695,11 @@ De routekaart geeft een overzicht van de route die u volgt tijdens deze selfdriv
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00035</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>17-daagse selfdrive Zuid Australië (Sydney - Adelaide)</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/selfdrives-australie/sydney-adelaide/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#17-daagse selfdrive Zuid Australië
@@ -3752,11 +3752,11 @@ De routekaart geeft een overzicht van de route die u volgt tijdens deze selfdriv
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00036</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Sydney Cairns Selfdrive</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/selfdrives-australie/sydney-cairns-selfdrive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Sydney Cairns Selfdrive
@@ -3817,11 +3817,11 @@ De routekaart geeft een overzicht van de route die u volgt tijdens deze selfdriv
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00037</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Island hopping &amp; bultruggen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
     <get-trip-lowest-price-2p>2.821</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Tonga</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/tonga/rondreis/island-hopping-bultruggen/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
@@ -3896,11 +3896,11 @@ Geen vlucht mogelijk op zondag. Uw reisprogramma wordt dan aangepast.]]></get-tr
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00038</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vanuatu Highlights 10 Dagen</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>2.176</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vanuatu</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/vanuatu/rondreis-vanuatu/vanuatu-highlights-10-dagen/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Over de reis
