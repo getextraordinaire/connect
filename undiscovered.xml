@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-19T07:17:12.112Z" count="7">
+<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-19T16:38:35.703Z" count="7">
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00083</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>16-daagse Privé Rondreis Bohol &amp; Palawan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>3.470</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/bohol-palawan</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bohol & Palawan
@@ -188,11 +188,11 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00085</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Classic Philippines</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>3.360</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/classic-philippines</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Classic Philippines
@@ -393,11 +393,11 @@ Ook al is de Filipijnen nog sterk in ontwikkeling qua toerisme, zijn er toch pie
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00086</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Distant Shores</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>3.430</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/distant-shores</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Distant Shores
@@ -584,11 +584,11 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00087</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Enchanting Visayas</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.150</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/enchanting-visayas</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Enchanting Visayas
@@ -760,11 +760,11 @@ Ook al is de Filipijnen nog sterk in ontwikkeling qua toerisme, zijn er toch pie
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00088</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>18-daagse Privé Rondreis Hidden Gems</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.450</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/hidden-gems</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hidden Gems
@@ -947,11 +947,11 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00090</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Philippine Experience</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.950</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/philippine-experience</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Philippine Experience
@@ -1164,11 +1164,11 @@ De Filipijnen kent een tropisch klimaat dat grotendeels wordt bepaald door twee 
   </trip>
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00091</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Visayas Islandhopping</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.250</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
     <get-trip-url>https://www.undiscovered.nl/filipijnen/rondreis/visayas-islandhopping</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Visayas Islandhopping
