@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-19T07:17:12.112Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-19T16:38:35.703Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Denemarken met kinderen</get-trip-name>
-    <get-trip-duration>unknown</get-trip-duration>
+    <get-trip-duration>Unknown</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Denemarken</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-denemarken-met-kinderen/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Een camperreis door Denemarken met kinderen
@@ -68,11 +68,11 @@ Benieuwd welke campers er te huur zijn? Bekijk alle campers en filter op Duitsla
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis IJsland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>IJsland</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-ijsland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondje IJsland
@@ -142,11 +142,11 @@ Stel je maakt deze reis in de eerste twee weken van juni en je huurt een semi-in
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Noord Spanje</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>3.054</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Spanje</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-noord-spanje/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Een camperreis in Noord-Spanje
@@ -233,11 +233,11 @@ Stel je maakt deze reis in de eerste 3 weken van juni vanuit Madrid. Je huurt ee
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Portugal – Van Porto naar Lissabon</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.803</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Portugal</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-portugal/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Van Porto naar Lissabon
@@ -302,11 +302,11 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!]
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Schotland</get-trip-name>
-    <get-trip-duration>unknown</get-trip-duration>
+    <get-trip-duration>Unknown</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Verenigd Koninkrijk</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-schotland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Een camperreis in Schotland
@@ -388,11 +388,11 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!]
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Zweden (Zuid-Zweden)</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>1.400</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zweden</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-zweden/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Een camperreis in Zuid-Zweden
