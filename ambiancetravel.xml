@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-19T07:17:12.112Z" count="11">
+<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-19T16:38:35.703Z" count="11">
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Namibië, Botswana en Zimbabwe: magnifieke natuur en fabelachtig wildlife</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>6.800</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-country>Botswana</get-trip-country>
     <get-trip-country>Zimbabwe</get-trip-country>
@@ -137,11 +137,11 @@ Accommodatie: Saguni Safari Lodge Moremi, Okavango]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kleurrijk Malawi: Het warme hart van Afrika</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>5.400</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Malawi</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-malawi/kleurrijk-malawi-het-warme-hart-van-afrika/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Kleurrijk Malawi: Het warme hart van Afrika
@@ -266,11 +266,11 @@ Onderstaande vanaf-prijzen zijn per persoon en indicatief. Als u wilt weten hoe 
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Exclusieve groepsreis magisch Namibië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>5.300</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-namibie/exclusieve-groepsreis-magisch-namibie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Exclusieve groepsreis magisch Namibië
@@ -419,11 +419,11 @@ Vanaf € 5300,- per persoon]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Hoogtepunten van Namibië (comfort 19 dagen)</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>6.200</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-namibie/rondreis-hoogtepunten-van-namibie-comfort/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Hoogtepunten van Namibië (comfort 19 dagen)
@@ -586,11 +586,11 @@ Accommodatie: Otjiwa Safari Lodge Waterberg
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Namibië: De wonderen van Namibië</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>7.200</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-namibie/rondreis-namibie-de-wonderen-van-namibie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Namibië: De wonderen van Namibië
@@ -763,11 +763,11 @@ Accommodatie: GocheGanas Lodge and Spa]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Individuele rondreis: De hoogtepunten van Zuid-Afrika</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>4.850</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>eSwatini (voorheen Swaziland)</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/individuele-rondreis-de-hoogtepunten/</get-trip-url>
@@ -873,11 +873,11 @@ U slaapt in Floreal House (3 nachten).]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kaapstad, Stellenbosch en Kruger Luxe</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>5.200</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/kaapstad-stellenbosch-en-kruger-luxe/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Kaapstad, Stellenbosch en Kruger Luxe
@@ -980,11 +980,11 @@ Vanaf € 5200,- per persoon]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Luxe lodges in mooiste wildparken van Zuid-Afrika</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>4.900</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>eSwatini (voorheen Swaziland)</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/rondreis-luxe-lodges-in-mooiste-wildparken-van-zuidafrika/</get-trip-url>
@@ -1168,11 +1168,11 @@ Vanaf € 4900,- per persoon]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Zuid-Afrika: Kaapstad, wijn, natuur en safari</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>3.050</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/rondreis-zuidafrika-kaapstad-wijn-natuur-en-safari/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Rondreis Zuid-Afrika: Kaapstad, wijn, natuur en safari
@@ -1301,11 +1301,11 @@ vanaf € 3050,- per persoon]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Zuid-Afrika met golf en safari</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>4.100</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/rondreis-zuid-afrika-met-golf-en-safari/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Zuid-Afrika met golf en safari
@@ -1426,11 +1426,11 @@ Vanaf € 4100,- per persoon]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Unieke roadtrip: Van Johannesberg langs de Wild Coast naar de Westkaap (met wildparken en golfbanen)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.600</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.ambiancetravel.nl/rondreis-zuid-afrika/unieke-reis-van-johannesberg-langs-de-wild-coast-naar-de-westkaap-met-wildparken-en-voor-wie-dat-wil-golfbanen/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Unieke roadtrip: Van Johannesberg langs de Wild Coast naar de Westkaap (met wildparken en golfbanen)
