@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="localherotravel" partner="Local Hero Travel" generated="2026-08-19T07:17:12.112Z" count="32">
+<trips feed="localherotravel" partner="Local Hero Travel" generated="2026-08-19T16:38:35.703Z" count="32">
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Boetiek rondreis China</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.735</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/china/boetiek-rondreis-china/38362</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Boetiek rondreis China
@@ -183,11 +183,11 @@ Je reist in China met verschillende vervoermiddelen. Zorg voor handzame bagage t
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Budget China</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.065</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/china/budget-china/4091</get-trip-url>
     <get-trip-scraped-content><![CDATA[#China rondreis betaalbaar
@@ -356,11 +356,11 @@ Voor binnenlandse vluchten in China zal de local Hero 10 tot 15 dagen van tevore
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>China best local experiences</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>1.905</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/china/china-best-local-experiences/38632</get-trip-url>
     <get-trip-scraped-content><![CDATA[#China best local experiences
@@ -485,11 +485,11 @@ Je reist in China met verschillende vervoermiddelen. Zorg voor handzame bagage: 
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis China met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>1.785</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/china/familiereis-china/4096</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis China met kinderen
@@ -656,11 +656,11 @@ Je reist in China met verschillende vervoermiddelen. Zorg voor handzame bagage: 
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>China rondreis de leukste</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>2.315</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/china/rondreis-china/4094</get-trip-url>
     <get-trip-scraped-content><![CDATA[#China rondreis de leukste
@@ -814,11 +814,11 @@ Je reist in China met verschillende vervoermiddelen. Zorg voor handzame bagage t
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Boetiek rondreis Colombia</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>3.300</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/colombia/boetiek-rondreis-colombia/25082</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Boetiek rondreis Colombia
@@ -992,11 +992,11 @@ Tijden: Na je lange vlucht kom je doorgaans nog dezelfde dag aan in Bogotá. De 
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Budget Colombia</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.320</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/colombia/budget-colombia/5294</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Colombia rondreis betaalbaar
@@ -1163,11 +1163,11 @@ Binnenlandse vluchten boek je het makkelijkst via je local Hero.]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Colombia best local experience rondreis</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>2.940</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/colombia/colombia-best-local-experiences-rondreis/26454</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Colombia best local experience rondreis
@@ -1326,11 +1326,11 @@ Kosten: Reken voor een vlucht naar Bogotá op tenminste EUR 700,-. In het hoogse
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Colombia met kinderen</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.180</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/colombia/familiereis-colombia/5307</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Colombia met kinderen
@@ -1503,11 +1503,11 @@ De meeste reizigers vliegen met KLM. Binnenlandse vluchten boek je het makkelijk
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Colombia rondreis de leukste</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.960</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/colombia/rondreis-colombia/5303</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Colombia rondreis de leukste
@@ -1668,11 +1668,11 @@ Reken voor een vlucht naar Bogotá op tenminste EUR 700,-. In het hoogseizoen is
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Boetiek rondreis Costa Rica</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.645</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/costa-rica/boetiek-reis-costa-rica/18136</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Boetiek rondreis Costa Rica
@@ -1837,11 +1837,11 @@ Onze 10 tips (autohuur):
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Budget Costa Rica</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.395</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/costa-rica/budget-costa-rica/9</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Costa Rica rondreis betaalbaar
@@ -2083,11 +2083,11 @@ Dit zijn de meest geboekte categorieën:
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Costa Rica best local experiences rondreis</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.775</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/costa-rica/costa-rica-best-local-experience-rondreis/18144</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Costa Rica best local experiences rondreis
@@ -2286,11 +2286,11 @@ Via Local Hero Travel kun je je huurauto boeken via verhuurder National met spec
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Costa Rica rondreis de leukste</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.950</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/costa-rica/costa-rica-rondreis-de-leukste/31</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Costa Rica rondreis de leukste
@@ -2542,11 +2542,11 @@ Via Local Hero Travel kun je je huurauto boeken via verhuurder National met spec
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Costa Rica met kinderen</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>1.315</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/costa-rica/familiereis-costa-rica/55</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Costa Rica met kinderen
@@ -2786,11 +2786,11 @@ Onze 10 tips:
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Japan met kinderen</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>1.130</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/japan/familiereis-japan-met-kinderen/20058</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Japan met kinderen
@@ -3008,11 +3008,11 @@ Je zult tijdens je reis door Japan gebruik maken van verschillende vervoersmidde
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Japan rondreis betaalbaar</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>1.605</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/japan/japan-rondreis-betaalbaar/19715</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Japan rondreis betaalbaar
@@ -3184,11 +3184,11 @@ Je zult tijdens je reis door Japan gebruik maken van verschillende vervoersmidde
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Japan rondreis de leukste</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.725</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/japan/japan-rondreis-de-leukste/20020</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Japan rondreis de leukste
@@ -3384,11 +3384,11 @@ Je zult tijdens je reis door Japan gebruik maken van verschillende vervoersmidde
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Japan rondreis met huurauto</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.195</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/japan/japen-met-huurauto/38236</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Japan rondreis met huurauto
@@ -3586,11 +3586,11 @@ Je zult tijdens je reis door Japan gebruik maken van verschillende vervoersmidde
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Budget Madagaskar</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.850</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Madagaskar</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/madagaskar/budget-madagaskar/7955</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Madagaskar rondreis betaalbaar
@@ -3750,11 +3750,11 @@ Deze worden geboekt door je local Hero.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00022</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Madagaskar</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.765</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Madagaskar</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/madagaskar/familiereis-madagaskar/8013</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Madagaskar
@@ -3940,11 +3940,11 @@ Deze worden (tenzij in het geval van Air Madagascar) geboekt door je local Hero.
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00023</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Madagaskar best local experiences</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>4.150</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Madagaskar</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/madagaskar/madagaskar-best-local-experiences/35603</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Madagaskar best local experiences
@@ -4111,11 +4111,11 @@ De meeste reizigers vliegen met Air France/KLM via Parijs of Nairobi. Ook Turkis
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00024</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Madagaskar rondreis exclusief</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.750</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Madagaskar</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/madagaskar/madagaskar-rondreis-exclusief/35269</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Madagaskar rondreis exclusief
@@ -4278,11 +4278,11 @@ De meeste reizigers vliegen met Air France/KLM via Parijs of Nairobi. Ook Turkis
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00025</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Madagaskar rondreis de leukste</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.890</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Madagaskar</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/madagaskar/rondreis-madagaskar/8017</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Madagaskar rondreis de leukste
@@ -4523,11 +4523,11 @@ De meeste reizigers vliegen met Air France/KLM via Parijs of Nairobi. Ook Turkis
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00026</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Boetiek rondreis Peru</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.695</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/peru/boetiek-rondreis-peru/24933</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Boetiek rondreis Peru
@@ -4649,11 +4649,11 @@ Binnenlandse vluchten: vlucht Lima - Arequipa (ca. EUR80,- p.p.) en vlucht Cusco
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00027</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Peru met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>2.160</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/peru/familiereis-peru-met-kinderen/2566</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Peru met kinderen
@@ -4859,11 +4859,11 @@ De internationale vlucht maakt geen onderdeel uit van de reis die je bij ons boe
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00028</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Peru best local experiences rondreis</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>2.960</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/peru/peru-best-local-experiences-rondreis/25696</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Peru best local experiences rondreis
@@ -5120,11 +5120,11 @@ Bus en treinstations in Peru worden bewaakt. Er is een infobalie, er loopt polit
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00029</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Peru rondreis betaalbaar</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>1.730</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/peru/peru-rondreis-betaalbaar/2561</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Peru rondreis betaalbaar
@@ -5345,11 +5345,11 @@ De internationale vlucht maakt geen onderdeel uit van de reis die je bij ons boe
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00030</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Peru rondreis de leukste</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.220</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/peru/rondreis-peru/2563</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Peru rondreis de leukste
@@ -5519,11 +5519,11 @@ De internationale vlucht maakt geen onderdeel uit van de reis die je bij ons boe
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00031</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familiereis Suriname kinderen</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>1.940</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Suriname</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/suriname/familiereis-suriname/5924</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familiereis Suriname kinderen
@@ -5659,11 +5659,11 @@ De internationale vlucht maakt geen onderdeel uit van de reis die je bij ons boe
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00032</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Suriname rondreis de leukste</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.380</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Suriname</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/suriname/rondreis-suriname/5926</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Suriname rondreis de leukste
@@ -5845,11 +5845,11 @@ KLM vliegt momenteel 3-4 keer per week tussen Amsterdam (Schiphol) en Paramaribo
   </trip>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00033</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Suriname best local experiences rondreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.515</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Suriname</get-trip-country>
     <get-trip-url>https://www.localherotravel.nl/rondreis/suriname/suriname-best-local-experiences-rondreis/34388</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Suriname best local experiences rondreis
