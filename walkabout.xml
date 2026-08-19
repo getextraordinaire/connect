@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="walkabout" partner="Walkabout" generated="2026-08-19T07:17:12.112Z" count="11">
+<trips feed="walkabout" partner="Walkabout" generated="2026-08-19T16:38:35.703Z" count="11">
   <trip>
     <get-trip-id>GT-WALKABOUT-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Western Australia Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>3.594</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-western-australia-trek.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Western Australia Trek
@@ -120,11 +120,11 @@ Omdat deze reis niet alle bestemmingen vanuit Darwin aandoet is het aan te raden
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Wildlife Conservation Journey</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>1.561</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-wildlife-conservation-journey.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Wildlife Conservation Journey
@@ -193,11 +193,11 @@ De echidna is (samen met de platypus) het enige eierleggende zoogdier op aarde. 
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>4WD avontuur westkust en Kimberley (mei t/m september)</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
     <get-trip-lowest-price-2p>9.150</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/rondreis-australie-westkust-en-kimberleys.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#4WD avontuur westkust en Kimberley (mei t/m september)
@@ -387,11 +387,11 @@ Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel na
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Beste van Australië Rondreis</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>6.570</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/rondreis-best-of-australia.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Beste van Australië Rondreis (april - november)
@@ -584,11 +584,11 @@ Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel na
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Beste van Australië Rondreis (oktober - mei)</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>5.700</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/rondreis-best-of-australia-oktober-mei.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Beste van Australië Rondreis (oktober - mei)
@@ -780,11 +780,11 @@ Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel na
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australië met kinderen Rondreis</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>4.985</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/rondreis-kinderen.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australië met kinderen Rondreis
@@ -978,11 +978,11 @@ Dag 30 – Amsterdam
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>New Zealand Adventure</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>2.733</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-adventure.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#New Zealand Adventure
@@ -1159,11 +1159,11 @@ Vertrek: uit Christchurch om 07.00 uur]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>The New Zealand Trek</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>3.647</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-trek.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#The New Zealand Trek
@@ -1287,11 +1287,11 @@ Deze tour vertrekt gemiddeld 1x per 3 weken. Indien je een offerte aanvraagt nem
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ultimate New Zealand Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>6.688</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-ultimate-new-zealand-trek.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ultimate New Zealand Trek
@@ -1420,11 +1420,11 @@ Middelzwaar, zie ook de extra reisinformatie te downloaden onder de kop reisprog
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland &apos;Nature &amp; Comfort&apos; Rondreis</get-trip-name>
     <get-trip-duration>33</get-trip-duration>
     <get-trip-lowest-price-2p>6.190</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/rondreis-auto-natuur-comfort.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland 'Nature & Comfort' Rondreis
@@ -1596,11 +1596,11 @@ Onderaan het Zuidereiland vind je dit eiland dat bekend is om de ruige natuur en
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Comfort B&amp;B Self-Drive</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
-    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-lowest-price-2p>2.439</get-trip-lowest-price-2p>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/self-drive-nieuwzeeland-new-zealand.html</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Comfort B&B Self-Drive
