@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-19T07:17:12.112Z" count="13">
+<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-19T16:38:35.703Z" count="13">
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Melbourne - Perth</get-trip-name>
     <get-trip-duration>42</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-australie-melbourne-perth/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Melbourne - Perth
@@ -202,11 +202,11 @@ Heb je plannen om naar Kangaroo Island te gaan, 4WD te rijden in de Flinders Ran
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>2WD Camperreis Broome - Darwin</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-broome-darwin-2wd-australie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#2WD Camperreis Broome - Darwin
@@ -332,11 +332,11 @@ Interesse in deze camperreis van Broome naar Darwin? Wij helpen je graag met een
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis West-Australië: Perth - Broome</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/camperreis-west-australie-perth-broome/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis West-Australië: Perth - Broome
@@ -439,11 +439,11 @@ Rijd je in een 2WD camper dan kun je een aantal bezienswaardigheden niet aandoen
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperroute Noordereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/noordereiland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperroute Noordereiland
@@ -526,11 +526,11 @@ Interesse in deze camperreis op het Noordereiland van Nieuw Zeeland (eventueel i
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Darwin - Australië</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-noord-australie-darwin/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Darwin - Australië
@@ -614,11 +614,11 @@ De beste reisperiode voor the Northern Territory is tussen april en november.]]>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Perth (zuidwest Australië)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-perth-australie-camper/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Perth (zuidwest Australië)
@@ -784,11 +784,11 @@ Western Australia is enorm: met 2,5 miljoen km² ongeveer even groot als West-Eu
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Perth (westkust Australië)</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-perth-westkust-australie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Perth (westkust Australië)
@@ -918,11 +918,11 @@ De westkust van Australië is lang, de wegen niet altijd zoals we gewend zijn en
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camper rondreis Tasmanië</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/rondreis-tasmanie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camper rondreis Tasmanië
@@ -1027,11 +1027,11 @@ Interesse in deze camperreis op Tasmanië? Wij helpen je graag met een geschikte
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>4WD camperreis Broome - Darwin (Gibb River Road)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/route-broome-darwin-via-gibb-river-road-4wd/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# 4WD camperreis Broome - Darwin (Gibb River Road)
@@ -1178,11 +1178,11 @@ Interesse in deze 4WD camperreis van Broome naar Darwin (of in tegenstelde richt
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Sydney naar Adelaide</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/route-sydney-adelaide/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis Sydney naar Adelaide
@@ -1254,11 +1254,11 @@ De beste reisperiode voor de zuidkust is tussen oktober en april.]]></get-trip-s
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Sydney naar Cairns - Oostkust</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/route-sydney-cairns/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Sydney naar Cairns - Oostkust
@@ -1407,11 +1407,11 @@ Lees ook onze blogs voor meer informatie en inspiratie:
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camper rondreis Zuidereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute/zuidereiland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camper rondreis Zuidereiland
@@ -1491,11 +1491,11 @@ Interesse in deze camperreis op het Zuidereiland van Nieuw Zeeland (eventueel in
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Red Centre Australië</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.campersdownunder.nl/camperroute-route-red-centre/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Red Centre Australië
