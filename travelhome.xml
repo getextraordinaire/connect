@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-08-19T05:00:25.200Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-08-19T07:17:12.112Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
@@ -279,7 +279,7 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
     <get-trip-id>GT-TRAVELHOME-00009</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Bucketlist West-Amerika</get-trip-name>
-    <get-trip-duration>22</get-trip-duration>
+    <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
@@ -853,7 +853,7 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
     <get-trip-id>GT-TRAVELHOME-00022</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Lone Star State Texas</get-trip-name>
-    <get-trip-duration>22</get-trip-duration>
+    <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
@@ -1000,7 +1000,7 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
     <get-trip-id>GT-TRAVELHOME-00025</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Southern Sounds &amp; Sights</get-trip-name>
-    <get-trip-duration>22</get-trip-duration>
+    <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
