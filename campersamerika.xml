@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-19T07:17:12.112Z" count="11">
+<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-19T16:38:35.703Z" count="11">
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis vanuit Las Vegas naar Los Angeles</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/las-vegas-los-angeles/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis vanuit Las Vegas naar Los Angeles
@@ -94,11 +94,11 @@ Wij raden je aan minimaal 16 dagen uit te trekken voor deze camperreis van Las V
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Boston, Vermont &amp; Massachusetts</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-boston/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Rondreis Boston, Vermont & Massachusetts
@@ -160,11 +160,11 @@ Interesse in deze rondreis vanuit Boston? Wij helpen je graag met een geschikte 
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis vanuit Denver</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-denver/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis vanuit Denver
@@ -233,11 +233,11 @@ Interesse in deze rondreis vanuit Denver? Wij helpen je graag met een geschikte 
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis vanuit Las Vegas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-las-vegas/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis vanuit Las Vegas
@@ -292,11 +292,11 @@ Interesse in deze rondreis vanuit Las Vegas? Wij helpen je graag met een geschik
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis vanuit Los Angeles</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-los-angeles/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis vanuit Los Angeles
@@ -374,11 +374,11 @@ Interesse in deze rondreis vanuit Los Angeles? Wij helpen je graag met een gesch
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis vanuit New York</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-new-york/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Rondreis vanuit New York
@@ -444,11 +444,11 @@ Interesse in deze rondreis vanuit New York? Wij helpen je graag met een geschikt
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis vanuit Seattle (Seattle, Yellowstone, Idaho &amp; Oregon)</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-seattle/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Rondreis vanuit Seattle
@@ -522,11 +522,11 @@ Interesse in deze rondreis vanuit Seattle? Wij helpen je graag met een geschikte
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis The Deep South: muziek &amp; natuur</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/the-deep-south/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis The Deep South: muziek & natuur
@@ -653,11 +653,11 @@ Interesse in deze rondreis door de Deep South? Uiteraard kan de route naar wens 
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Denver naar Chicago</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/van-denver-naar-chicago/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis Denver naar Chicago
@@ -725,11 +725,11 @@ Interesse in deze rondreis van Denver naar Chicago? Wij helpen je graag met een 
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Route Miami naar New York</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/van-miami-naar-new-york/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Route Miami naar New York
@@ -787,11 +787,11 @@ Interesse in deze rondreis van Miami naar New York? Wij helpen je graag met een 
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Highlights West Amerika per camper</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/west-amerika/inspiratie-west-amerika/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Het beste van West Amerika
