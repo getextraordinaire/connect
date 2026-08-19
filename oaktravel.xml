@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-19T07:17:12.112Z" count="39">
+<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-19T16:38:35.703Z" count="39">
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Namibië Wildlife Rescue Project</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>1.475</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/namibie/wildlife-rescue-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Help Wilde Dieren: Vrijwilligerswerk in Namibie bij het Wildlife Rescue Project
@@ -137,11 +137,11 @@ Ga je naar Namibië voor vrijwilligerswerk? Zorg dan dat je goed voorbereid vert
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Neushoorn &amp; Olifanten Project</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zimbabwe</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/zimbabwe/neushoorn-olifanten-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Neushoorn & Olifanten Vrijwilligersproject
@@ -287,11 +287,11 @@ Wanneer je naar Afrika reist, is een goede voorbereiding essentieel. Denk hierbi
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Paardrijden &amp; Wildlife Bescherming • Vrijwilligerswerk Zimbabwe Afrika</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.395</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zimbabwe</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/zimbabwe/paardrijden-wildlife-bescherming/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Paardrijden & Wildlife Vrijwilligersproject
@@ -419,11 +419,11 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met diepgaande 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Big 5 Wildlife Paterson Zuid-Afrika</get-trip-name>
     <get-trip-duration>70</get-trip-duration>
     <get-trip-lowest-price-2p>975</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/zuid-afrika/big5-wildlife-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Big 5 Wildlife Paterson Zuid-Afrika
@@ -531,11 +531,11 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met diepgaande 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Sport &amp; Kidsclub Project Zuid-Afrika</get-trip-name>
     <get-trip-duration>70</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/zuid-afrika/sport-kidsclub-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vrijwilligerswerk in Zuid-Afrika: Sport & Kidsclub Project
@@ -668,11 +668,11 @@ De lokale organisatie biedt bescherming voor pakketreizen zonder vluchten via SA
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Budget Backpacker Pass</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>1.345</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/backpacken/budget-backpacker-pass/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Budget Backpacker Pass Australie
@@ -795,11 +795,11 @@ De Bedhopper hostelpas in Australië biedt ultieme flexibiliteit voor reizigers 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Backpackreis Groep Oostkust Australie</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>2.895</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/backpacken/groep-backpackreis-oostkust/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek de Oostkust van Australie: De Ultieme Backpackervaring
@@ -962,11 +962,11 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Beach &apos;n Bush Groepsreis</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>3.195</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/jongerenreizen/beach-bush/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Beach 'n Bush Groepsreis
@@ -1119,11 +1119,11 @@ Je kunt deelnemen aan deze groepsreis als je 18 jaar of ouder bent. Natuurlijk i
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Oostkust Budget Groepsreis</get-trip-name>
     <get-trip-duration>43</get-trip-duration>
     <get-trip-lowest-price-2p>3.375</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/jongerenreizen/oostkust-budget/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Oostkust Budget Groepsreis: Jouw Ultieme Australie Avontuur!
@@ -1301,11 +1301,11 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Oostkust Experience Groepsreis</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.675</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/jongerenreizen/oostkust-experience/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Oostkust Experience Groepsreis
@@ -1449,11 +1449,11 @@ Deze reis wordt georganiseerd in samenwerking met een ervaren lokale reispartner
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Spot X Level 1 Surfinstructeur / Surfleraar Australie</get-trip-name>
     <get-trip-duration>90</get-trip-duration>
     <get-trip-lowest-price-2p>6.975</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/surfen/spot-x-level-1-surfinstructeur-surfleraar/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Spot X Level 1 Surfleraar Australie
@@ -1560,11 +1560,11 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Wildlife &amp; Regenwoud – Vrijwilligersproject in Australië</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>2.395</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/vrijwilligerswerk/wildlife-regenwoud-projecten/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vrijwilligerswerk in Australie: werk met wildlife in het tropische noorden
@@ -1668,11 +1668,11 @@ Cairns is dé bestemming voor jongvolwassenen die avontuur, natuur en gezellighe
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Boerderijwerk Australie</get-trip-name>
     <get-trip-duration>365</get-trip-duration>
     <get-trip-lowest-price-2p>2.095</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/werken-reizen/boerderijwerk/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Boerderijwerk Australie
@@ -1805,11 +1805,11 @@ Wil je je avontuur verlengen met een tweede Working Holiday visum? Onze lokale p
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Melbourne Plus Startpakket</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>745</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/werken-reizen/melbourne-plus-startpakket/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Melbourne Plus Startpakket
@@ -1943,11 +1943,11 @@ Deze reis wordt uitgevoerd door een ervaren lokale organisatie met veel kennis v
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Sydney Plus Startpakket</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>745</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/werken-reizen/sydney-plus-startpakket/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Sydney Plus Startpakket
@@ -2095,11 +2095,11 @@ Het Sydney Plus Startpakket wordt uitgevoerd door een ervaren lokale organisatie
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Werken met Paarden in Australië</get-trip-name>
     <get-trip-duration>365</get-trip-duration>
     <get-trip-lowest-price-2p>2.095</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/werken-reizen/werken-met-paarden/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Werken met Paarden Australie
@@ -2237,11 +2237,11 @@ Wil je je avontuur verlengen met een tweede Working Holiday visum? Onze lokale p
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Cambodja Explorer Groepsreis</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>1.125</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cambodja</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/cambodja/explorer-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Cambodja Explorer Groepsreis
@@ -2362,11 +2362,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Cambodja Intro Groepsreis</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cambodja</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/cambodja/intro-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Cambodja Intro Groepsreis
@@ -2490,11 +2490,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali &amp; Beyond Groepsreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>1.845</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/indonesie/bali-beyond-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bali & Beyond Groepsreis
@@ -2640,11 +2640,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali &amp; Gili Intro Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/indonesie/bali-gili-intro-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bali & Gili Intro Groepsreis
@@ -2792,11 +2792,11 @@ De Bali & Gili Intro Groepsreis wordt uitgevoerd door een professionele lokale p
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali &amp; Lombok Groepsreis</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>1.675</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/indonesie/bali-lombok-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bali & Lombok Groepsreis
@@ -2968,11 +2968,11 @@ Op de jongerenreis naar Bali en Lombok is er plaats voor maximaal 20 avontuurlij
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00022</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali &amp; Penida Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>1.295</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/indonesie/bali-penida-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bali & Penida Groepsreis: Ontdek het beste van Bali, Nusa Penida en Gili Trawangan!
@@ -3140,11 +3140,11 @@ Deze Bali & Penida groepsreis wordt uitgevoerd door een ervaren lokale reisorgan
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00023</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Intro Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/thailand/intro-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Thailand Intro Groepsreis
@@ -3276,11 +3276,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00024</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Northern Groepsreis</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.345</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/thailand/northern-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Thailand Northern Groepsreis
@@ -3396,11 +3396,11 @@ Tijdens de reis verblijf je in een gedeelde kamer samen met andere reizigers in 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00025</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>2.495</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/thailand/ultimate-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Thailand Ultimate Groepsreis
@@ -3595,11 +3595,11 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00026</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Wanderer Groepsreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>1.895</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/thailand/wanderer-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Thailand Wanderer Groepsreis
@@ -3752,11 +3752,11 @@ Sluit je aan bij een dynamische internationale groep, bestaande uit avontuurlijk
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00027</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vietnam Budget Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/vietnam/budget-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vietnam Budget Groepsreis: 12 Dagen Cultuur, Avontuur & Strand
@@ -3878,11 +3878,11 @@ Deze groepsreis wordt uitgevoerd door een ervaren lokale reisorganisatie die ges
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00028</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vietnam Explorer Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>1.495</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/vietnam/explorer-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vietnam Explorer Groepsreis
@@ -4022,11 +4022,11 @@ Tijdens de reis verblijf je in een gedeelde kamer samen met een reisgenoot.]]></
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00029</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vietnam Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.075</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/jongerenreizen/vietnam/ultimate-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vietnam Ultimate Groepsreis
@@ -4200,11 +4200,11 @@ De Vietnam Ultimate groepsreis wordt uitgevoerd door een ervaren lokale organisa
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00030</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali Engels Lesgeven Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
     <get-trip-lowest-price-2p>495</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/vrijwilligerswerk/bali/engels-lesgeven-school/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bali Engels Lesgeven Project
@@ -4332,11 +4332,11 @@ Het Bali Engels Lesgeven project wordt uitgevoerd door een ervaren lokale organi
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00031</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bali Rifbehoud Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
     <get-trip-lowest-price-2p>595</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/vrijwilligerswerk/bali/rif-behoud-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vrijwilligerswerk Bali: Help mee aan het Rifbehoud Project in Tianyar
@@ -4456,11 +4456,11 @@ Het Bali Rifbehoud Project wordt gerund door een ervaren lokale organisatie die 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00032</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Olifanten Vrijwilligersproject</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>595</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/vrijwilligerswerk/thailand-olifanten-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vrijwilligerswerk met olifanten in Thailand: help mee in een uniek project in Azie!
@@ -4555,11 +4555,11 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met veel kennis
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00033</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Thailand Wildlife Vrijwilligersproject</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>595</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://oaktravel.nl/azie/vrijwilligerswerk/thailand-wildlife-project/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Wildlife vrijwilligerswerk in Thailand: werk met bijzondere dieren en maak impact!
@@ -4647,11 +4647,11 @@ Dit vrijwilligerswerkproject wordt uitgevoerd door een ervaren lokale organisati
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00034</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Adventure Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>2.295</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/jongerenreizen/adventure-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Adventure: Episch, Avontuurlijk, Onvergetelijk!
@@ -4821,11 +4821,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00035</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Experience</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>2.995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/jongerenreizen/experience-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Experience: het ultieme avontuur voor jongvolwassenen
@@ -5017,11 +5017,11 @@ Je verblijft 20 of 23 nachten in zorgvuldig geselecteerde hostels en resorts, wa
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00036</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>2.795</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/jongerenreizen/ultimate-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Ultimate Groepsreis: Ontdek dit land vol wildernis en wonderen!
@@ -5188,11 +5188,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00037</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Auckland Intro Startpakket</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.475</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/werken-reizen/auckland-intro-startpakket/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Auckland Intro Startpakket
@@ -5335,11 +5335,11 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00038</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland Easy Start Werkvakantie</get-trip-name>
     <get-trip-duration>5</get-trip-duration>
     <get-trip-lowest-price-2p>495</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/werken-reizen/easy-start-werkvakantie/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Easy Start Nieuw-Zeeland: jouw ticket naar werken, reizen en ontdekken
@@ -5424,11 +5424,11 @@ Een werkvakantie in Nieuw-Zeeland is ideaal voor wie tussen de 18 en 30 jaar oud
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00039</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>USA Budget Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>1.995</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://oaktravel.nl/noord-amerika/jongerenreizen/usa-budget-groepsreis/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#USA Budget groepsreis: Ontdek West-Amerika zonder je budget te breken!
