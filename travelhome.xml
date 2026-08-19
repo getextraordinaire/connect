@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-08-19T07:17:12.112Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-08-19T16:38:35.703Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>15-daagse camperreis door Florida</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/15-daagse-camperreis-door-florida</get-trip-url>
     <get-trip-scraped-content><![CDATA[#15-daagse camperreis door Florida
@@ -26,11 +26,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>15-daagse camperreis Toronto</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/15-daagse-camperreis-toronto</get-trip-url>
     <get-trip-scraped-content><![CDATA[#15-daagse camperreis Toronto
@@ -56,11 +56,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>17-daagse camperreis Sunshine Coast</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.599</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/17-daagse-camperreis-sunshine-coast</get-trip-url>
     <get-trip-scraped-content><![CDATA[#17-daagse camperreis Sunshine Coast
@@ -104,11 +104,11 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>21-daagse camperreis Edmonton retour</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/21-daagse-camperreis-edmonton-retour</get-trip-url>
     <get-trip-scraped-content><![CDATA[#21-daagse camperreis Edmonton retour
@@ -136,11 +136,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>22-daagse camperreis Las Vegas retour</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/22-daagse-camperreis-las-vegas-retour</get-trip-url>
     <get-trip-scraped-content><![CDATA[#22-daagse camperreis Las Vegas retour
@@ -173,11 +173,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>24-daagse camperreis Halifax retour</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/24-daagse-camperreis-halifax-retour</get-trip-url>
     <get-trip-scraped-content><![CDATA[#24-daagse camperreis Halifax retour
@@ -205,11 +205,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Australian Adventure</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/australian-adventure</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Australian Adventure
@@ -247,11 +247,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Avontuurlijk Yukon</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/avontuurlijk-yukon</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Avontuurlijk Yukon
@@ -277,11 +277,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bucketlist West-Amerika</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/bucketlist-west-amerika</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bucketlist West-Amerika
@@ -329,11 +329,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Bucketlist West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>2.999</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/bucketlist-west-canada</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Bucketlist West-Canada
@@ -394,11 +394,11 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camper &amp; Cruise: West-Canada en Alaska</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/camper-en-cruise-west-canada-en-alaska</get-trip-url>
@@ -455,11 +455,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis van Sydney naar Cairns</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>3.769</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/camperreis-van-sydney-naar-cairns</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis van Sydney naar Cairns
@@ -522,11 +522,11 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Campingpakket Edmonton en de Rockies</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/campingpakket-edmonton-en-de-rockies</get-trip-url>
@@ -554,11 +554,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>De highlights van Ontario</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/de-highlights-van-ontario</get-trip-url>
     <get-trip-scraped-content><![CDATA[#De highlights van Ontario
@@ -593,11 +593,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>De ultieme vakantie in Florida</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/de-ultieme-vakantie-in-florida</get-trip-url>
     <get-trip-scraped-content><![CDATA[#De ultieme vakantie in Florida
@@ -623,11 +623,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Drie weken West-Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>1.459</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/drie-weken-west-amerika</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Drie weken West-Amerika
@@ -676,11 +676,11 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Eastcoast Experience</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/eastcoast-experience</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Eastcoast Experience
@@ -714,11 +714,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Edmonton in combinatie met de Yukon</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/edmonton-in-combinatie-met-de-yukon</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Edmonton in combinatie met de Yukon
@@ -756,11 +756,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Epische reis door Zuidwest-Amerika en Hawaii</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/epische-reis-door-zuidwest-amerika-en-hawaii</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Epische reis door Zuidwest-Amerika en Hawaii
@@ -791,11 +791,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Golden Outback natuur en stranden</get-trip-name>
     <get-trip-duration>38</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/golden-outback-natuur-en-stranden</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Golden Outback natuur en stranden
@@ -816,11 +816,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Het ruige westen</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/het-ruige-westen</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Het ruige westen
@@ -851,11 +851,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00022</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Lone Star State Texas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-country>Mexico</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/lone-star-state-texas</get-trip-url>
@@ -880,11 +880,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00023</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Onvergetelijk West-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/onvergetelijk-west-canada</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Onvergetelijk West-Canada
@@ -921,11 +921,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00024</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Populairste reis door West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>1.859</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/populairste-reis-door-west-canada</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Populairste reis door West-Canada
@@ -998,11 +998,11 @@ Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vr
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00025</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Southern Sounds &amp; Sights</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/southern-sounds-en-sights</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Southern Sounds & Sights
@@ -1024,11 +1024,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00026</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>The Great American West met stopover in IJsland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>IJsland</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/the-great-american-west-met-stopover-in-ijsland</get-trip-url>
@@ -1078,11 +1078,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00027</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>The Triangle</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/the-triangle</get-trip-url>
     <get-trip-scraped-content><![CDATA[#The Triangle
@@ -1111,11 +1111,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00028</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Van oceaan naar outback</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/van-oceaan-naar-outback</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Van oceaan naar outback
@@ -1146,11 +1146,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00029</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Veelzijdig West-Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/veelzijdig-west-amerika</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Veelzijdig West-Amerika
@@ -1170,11 +1170,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00030</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>West-Canada met citytrip Toronto</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/west-canada-met-citytrip-toronto</get-trip-url>
     <get-trip-scraped-content><![CDATA[#West-Canada met citytrip Toronto
@@ -1201,11 +1201,11 @@ Vraag vrijblijvend een offerte aan op basis van deze reis voor je specifieke rei
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00031</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Western Wonders</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.travelhome.nl/camperreizen/western-wonders</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Western Wonders
