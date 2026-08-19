@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-19T05:00:25.200Z" count="11">
+<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-19T07:17:12.112Z" count="11">
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00001</get-trip-id>
     <get-trip-status>Okay</get-trip-status>
     <get-trip-name>Wildlife Care and Rehabilitation</get-trip-name>
-    <get-trip-duration>51</get-trip-duration>
+    <get-trip-duration>46</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>unknown</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
