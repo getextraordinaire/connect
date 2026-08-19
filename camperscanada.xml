@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-19T07:17:12.112Z" count="5">
+<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-19T16:38:35.703Z" count="5">
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Calgary naar Vancouver</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/calgary-naar-vancouver/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis Calgary naar Vancouver
@@ -110,11 +110,11 @@ Interesse in deze camperreis vanuit Calgary Vancouver? Wij helpen je graag met e
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis New Brunswick &amp; Nova Scotia</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/new-brunswick-en-nova-scotia/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis New Brunswick & Nova Scotia
@@ -170,11 +170,11 @@ Interesse in deze camperreis langs de Oostkust van Canada? Wij helpen je graag m
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Ontario</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/ontario/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontario camperreis
@@ -226,11 +226,11 @@ Interesse in deze camperreis in Ontario? Wij helpen je graag met een geschikte c
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Quebec, Oost Canada</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/quebec/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Camperreis Quebec, Oost Canada
@@ -292,11 +292,11 @@ Interesse in deze camperreis in Quebec? Wij helpen je graag met een geschikte ca
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis Vancouver naar Calgary</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/vancouver-naar-calgary/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Camperreis Vancouver naar Calgary
