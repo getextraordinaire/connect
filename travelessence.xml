@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelessence" partner="Travel Essence" generated="2026-08-19T07:17:12.112Z" count="20">
+<trips feed="travelessence" partner="Travel Essence" generated="2026-08-19T16:38:35.703Z" count="20">
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Langs de highlights van Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>7.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/de-highlights-van-australie-in-5-weken-38569</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Langs de highlights van Australië
@@ -41,11 +41,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>De highlights van Nieuw-Zeeland met het hele gezin</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>5.750</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/de-highlights-van-nieuw-zeeland-met-het-gezin-38062</get-trip-url>
     <get-trip-scraped-content><![CDATA[#De highlights van Nieuw-Zeeland met het hele gezin
@@ -69,11 +69,11 @@ Richtprijs € 5.750 p.p. (incl. vluchten)
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>De hoogtepunten van Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>6.900</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/de-hoogtepunten-van-nieuw-zeeland-37815</get-trip-url>
     <get-trip-scraped-content><![CDATA[#De hoogtepunten van Nieuw-Zeeland
@@ -107,11 +107,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van Nieuw-Zeeland in 4 weken</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>5.400</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/essential-reis-hoogtepunten-nz-in-4-weken-32620</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van Nieuw-Zeeland in 4 weken
@@ -141,11 +141,11 @@ We geven geregeld presentaties. Online én bij u in de buurt.]]></get-trip-scrap
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten Australische oostkust in 4 weken</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>5.700</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/essential-reis-hoogtepunten-oostkust-australie-in-4-weken-33634</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten Australische oostkust in 4 weken
@@ -175,11 +175,11 @@ We geven geregeld presentaties. Online én bij u in de buurt.]]></get-trip-scrap
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>3 weken langs de Australische oostkust met het hele gezin</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>5.000</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/met-het-gezin-door-australie-in-3-weken-38356</get-trip-url>
     <get-trip-scraped-content><![CDATA[#3 weken langs de Australische oostkust met het hele gezin
@@ -205,11 +205,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Op avontuur met het gezin door Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>6.700</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/met-het-gezin-in-5-weken-door-australie-38582</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Op avontuur met het gezin door Australië
@@ -235,11 +235,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Met het gezin langs de highlights van Australië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>5.600</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/met-het-gezin-langs-de-highlights-van-australie-38404</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Met het gezin langs de highlights van Australië
@@ -274,11 +274,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Nieuw-Zeeland doorkruisen met het gezin</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>4.750</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/met-het-gezin-nieuw-zeeland-doorkruisen-38032</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland doorkruisen met het gezin
@@ -313,11 +313,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek Nieuw-Zeeland in 5 weken</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
     <get-trip-lowest-price-2p>9.350</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/ontdek-nieuw-zeeland-in-5-weken-30434</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek Nieuw-Zeeland in 5 weken
@@ -350,11 +350,11 @@ We geven geregeld presentaties. Online én bij u in de buurt.]]></get-trip-scrap
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Solo op pad het Noordereiland ontdekken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>6.700</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/solo-het-noordereiland-ontdekken-38249</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Solo op pad het Noordereiland ontdekken
@@ -387,11 +387,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Soloreis langs alle highlights in Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>9.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/soloreis-langs-alle-highlights-van-nieuw-zeeland-38224</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Soloreis langs alle highlights in Nieuw-Zeeland
@@ -418,11 +418,11 @@ Richtprijs € 9.950 p.p. (incl. vluchten)
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Avontuurlijke soloreis over het Zuidereiland</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>7.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/soloreis-over-het-zuidereiland-38254</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Avontuurlijke soloreis over het Zuidereiland
@@ -457,11 +457,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Solo op reis van Sydney tot Queensland</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>8.600</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/soloreis-van-sydney-tot-queensland-38407</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Solo op reis van Sydney tot Queensland
@@ -488,11 +488,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Solo op pad van Sydney naar Melbourne</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>8.450</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/solo-van-sydney-naar-melbourne-38409</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Solo op pad van Sydney naar Melbourne
@@ -519,11 +519,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Van Sydney via Melbourne naar Tasmanië</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>6.350</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/van-sydney-langs-melbourne-naar-tasmanie-38340</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Van Sydney via Melbourne naar Tasmanië
@@ -551,11 +551,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Van Sydney en Uluru tot Noord-Queensland</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>6.950</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/van-sydney-naar-cairns-in-3-weken-37941</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Van Sydney en Uluru tot Noord-Queensland
@@ -589,11 +589,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Van zuid naar noord Nieuw-Zeeland in 3 weken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.400</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/van-zuid-naar-noord-nieuw-zeeland-in-3-weken-37946</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Van zuid naar noord Nieuw-Zeeland in 3 weken
@@ -627,11 +627,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vijfweekse soloreis door Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>13.100</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/vijfweekse-soloreis-door-australie-38586</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vijfweekse soloreis door Australië
@@ -666,11 +666,11 @@ Laat onze adviseurs u helpen uw droomreis vorm te geven.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Verken het Zuid-Westen van Australië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>5.500</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.travelessence.nl/rondreizen/zuid-west-australie-in-3-weken-38258</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Verken het Zuid-Westen van Australië
