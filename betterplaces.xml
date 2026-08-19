@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="betterplaces" partner="Better Places" generated="2026-08-19T07:17:12.112Z" count="19">
+<trips feed="betterplaces" partner="Better Places" generated="2026-08-19T16:38:35.703Z" count="19">
   <trip>
     <get-trip-id>GT-BETTERPLACES-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Actieve Roemenië reis</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.945</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Roemenië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/actieve-roemenie-reis</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Actieve Roemenië reis
@@ -123,11 +123,11 @@ Je kunt tijdens je rondreis prachtige ervaringen opdoen bij de lokale gemeenscha
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Familierondreis Noord-Macedonië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.615</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Noord-Macedonië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/familierondreis-noord-macedonie</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Familierondreis Noord-Macedonië
@@ -238,11 +238,11 @@ Het is mogelijk om met de auto naar Noord-Macedonië te rijden. Reken wel op twe
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Fishermen&apos;s Trail wandelreis</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.625</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Portugal</get-trip-country>
     <get-trip-url>https://betterplaces.nl/fishermens-trail-wandelreis</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Fishermen's Trail wandelreis
@@ -361,11 +361,11 @@ Tijdens de Fishermen's Trail wandelreis in Portugal verblijf je in sfeervolle lo
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Guatemala met Belize</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>2.910</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Guatemala</get-trip-country>
     <get-trip-country>Belize</get-trip-country>
     <get-trip-url>https://betterplaces.nl/guatemala-en-belize</get-trip-url>
@@ -477,11 +477,11 @@ Alle praktische informatie voor een rondreis naar Guatemala. Van veiligheid en p
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Individuele rondreis Tanzania</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>3.410</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Tanzania</get-trip-country>
     <get-trip-url>https://betterplaces.nl/individuele-rondreis-tanzania</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Individuele rondreis Tanzania
@@ -608,11 +608,11 @@ Lees alles over onze maatregelen om veilig op safari in Tanzania te gaan en onze
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Magische Malawi reis</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>4.750</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malawi</get-trip-country>
     <get-trip-url>https://betterplaces.nl/magische-malawi-reis</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Magische Malawi reis
@@ -743,11 +743,11 @@ Alle praktische informatie voor een rondreis naar Malawi. Van veiligheid en prak
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Roadtrip Cyprus</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>2.185</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cyprus</get-trip-country>
     <get-trip-url>https://betterplaces.nl/roadtrip-cyprus</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Roadtrip Cyprus
@@ -843,11 +843,11 @@ Better Places is aangesloten bij de Stichting Garantiefonds Reizen (SGR) en het 
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Roadtrip Noord-Macedonië</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.060</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Noord-Macedonië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/roadtrip-noord-macedonie</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Roadtrip Noord-Macedonië
@@ -943,11 +943,11 @@ Je kunt tijdens je rondreis prachtige ervaringen opdoen bij de lokale gemeenscha
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Roadtrip Slovenië</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.645</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Slovenië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/roadtrip-slovenie</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Roadtrip door Slovenië
@@ -1073,11 +1073,11 @@ Slovenië is prima bereikbaar met je eigen (elektrische) auto. In 2025 koos ruim
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Madeira 14 dagen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.375</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Portugal</get-trip-country>
     <get-trip-url>https://betterplaces.nl/rondreis-madeira-14-dagen</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Madeira 14 dagen
@@ -1166,11 +1166,11 @@ Soepele boekingsvoorwaarden beschikbaar.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Rondreis Zweden met eigen auto</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>1.885</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zweden</get-trip-country>
     <get-trip-url>https://betterplaces.nl/rondreis-zweden-met-eigen-auto</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Zweden met eigen auto
@@ -1281,11 +1281,11 @@ Lees alles over onze speciale soepele boekingsvoorwaarden.]]></get-trip-scraped-
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Slovenië en Kroatië met kinderen</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>1.965</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Slovenië</get-trip-country>
     <get-trip-country>Kroatië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/slovenie-en-kroatie-met-kinderen</get-trip-url>
@@ -1396,11 +1396,11 @@ De ideale reisduur voor een familiereis naar Kroatië is twee tot drie weken. Je
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Tanzania met kinderen</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.485</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Tanzania</get-trip-country>
     <get-trip-url>https://betterplaces.nl/tanzania-met-kinderen</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Tanzania met kinderen
@@ -1532,11 +1532,11 @@ Een van de nationale parken waar je de Big Five kunt spotten is Tarangire Nation
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Treinreis Spanje</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.750</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Spanje</get-trip-country>
     <get-trip-url>https://betterplaces.nl/treinreis-door-noord-spanje</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Treinreis Spanje
@@ -1651,11 +1651,11 @@ Wil je duurzaam met de trein naar je bestemming reizen? Better Places werkt same
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Tsjechië met kinderen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.035</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Tsjechië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/tsjechie-met-kinderen</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Tsjechië met kinderen
@@ -1761,11 +1761,11 @@ Praktische informatie over de beste reistijd voor Tsjechië beschikbaar op de we
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Vakantie Asturië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.360</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Spanje</get-trip-country>
     <get-trip-url>https://betterplaces.nl/vakantie-asturie</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Vakantie Asturië
@@ -1879,11 +1879,11 @@ De Spaanse regio Asturië is zeer geschikt voor een actieve gezinsvakantie. Je b
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Wandel- en fietsvakantie in Tsjechië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.725</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Tsjechië</get-trip-country>
     <get-trip-url>https://betterplaces.nl/wandel-en-fietsvakantie-in-tsjechie</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Wandel- en fietsvakantie in Tsjechië
@@ -1988,11 +1988,11 @@ Alle praktische informatie voor een rondreis naar Tsjechië. Van veiligheid en p
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Winterreis Zweden | Op zoek naar wild en avontuur</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zweden</get-trip-country>
     <get-trip-url>https://betterplaces.nl/winterreis-zweden</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Winterreis Zweden
@@ -2102,11 +2102,11 @@ Deze reis is alleen beschikbaar in de periode van midden januari t/m midden maar
   </trip>
   <trip>
     <get-trip-id>GT-BETTERPLACES-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Zuid-Zweden met kinderen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.850</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zweden</get-trip-country>
     <get-trip-url>https://betterplaces.nl/zuid-zweden-met-kinderen</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Zuid-Zweden met kinderen
