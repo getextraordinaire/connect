@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-19T07:17:12.112Z" count="4">
+<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-19T16:38:35.703Z" count="4">
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>14-daagse luxe rondreis, Rio de Janeiro, Costa Verde en Foz do Iguaçu</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.979</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/14-daagse-luxe-rondreis-rio-de-janeiro-costa-verde-en-foz-do-iguacu</get-trip-url>
     <get-trip-scraped-content><![CDATA[# 14-daagse luxe rondreis, Rio de Janeiro, Costa Verde en Foz do Iguaçu
@@ -255,11 +255,11 @@ Voordelen reisvoorstel:
   </trip>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>14-daagse Strandvakantie Porto de Galinhas</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>764</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/14-daagse-strandvakantie-porto-de-galinhas</get-trip-url>
     <get-trip-scraped-content><![CDATA[#14-daagse Strandvakantie Porto de Galinhas
@@ -371,11 +371,11 @@ Dit is één van de beste hotels in Porto de Galinhas. Het Kembali Hotel Porto d
   </trip>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>21-daagse Rondreis Brazilië Brasil Fantastico</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>3.197</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/21-daagse-rondreis-brazilie-brasil-fantastico</get-trip-url>
@@ -751,11 +751,11 @@ De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere pe
   </trip>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Strandvakantie Rio de Janeiro en Costa del Sol</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/strandvakantie-rio-de-janeiro-en-costa-del-sol</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Strandvakantie Rio de Janeiro en Costa del Sol
