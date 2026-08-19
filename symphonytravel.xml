@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="symphonytravel" partner="Symphony Travel" generated="2026-08-19T07:17:12.112Z" count="26">
+<trips feed="symphonytravel" partner="Symphony Travel" generated="2026-08-19T16:38:35.703Z" count="26">
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>15-daagse autorondreis: de Kaap, Panorama route &amp; Safari</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>3.592</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/15-daagse-autorondreis-de-kaap-panorama-route-safari/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#15-daagse autorondreis: de Kaap, Panorama route & Safari
@@ -317,11 +317,11 @@ Stellenbosch: Tussen de wijnproeverijen door is het nodig om ook even actief bez
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Charmant West-Canada</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>3.884</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/charmant-west-canada/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Charmant West-Canada
@@ -851,11 +851,11 @@ Park- en entreegelden, overige maaltijden, achterlatingskosten, optionele activi
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Het beste van Noordoost-Amerika &amp; Canada</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.238</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/het-beste-van-noordoost-amerika-canada/</get-trip-url>
@@ -1422,11 +1422,11 @@ Deze reis wordt alleen uitgevoerd van april t/m oktober.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Het beste van Zuid-Afrika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>5.297</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>eSwatini (voorheen Swaziland)</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/het-beste-van-zuid-afrika/</get-trip-url>
@@ -2040,11 +2040,11 @@ Park- en entreegelden, overige maaltijden, achterlatingskosten, optionele activi
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Het beste van Zuidwest-Amerika</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.016</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/het-beste-van-zuidwest-amerika/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Het beste van Zuidwest-Amerika
@@ -2633,11 +2633,11 @@ Yosemite National Park staat bekend om zijn denderende watervallen, imposante be
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Het mooiste van West-Canada incl. Tofino</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>5.392</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/het-mooiste-van-west-canada-incl-tofino/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Het mooiste van West-Canada incl. Tofino
@@ -3285,11 +3285,11 @@ Park- en entreegelden, overige maaltijden, achterlatingskosten, optionele activi
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van Bali</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.473</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/hoogtepunten-van-bali/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van Bali
@@ -3642,11 +3642,11 @@ Reisexpert tip (Margret Stornebrink): Voor een rustige en authentieke kant van B
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00010</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van Japan</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>4.263</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/hoogtepunten-van-japan/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van Japan
@@ -4079,11 +4079,11 @@ Bezoek de Arashiyama Bamboo Grove bij zonsopgang. Dit bamboebos is echt een magi
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van Oost-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>3.040</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/hoogtepunten-van-oost-canada/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van Oost-Canada
@@ -4464,11 +4464,11 @@ Verken downtown Montréal per fiets en maak een tussenstop bij het oudste bagelw
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van Texas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>3.463</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/hoogtepunten-van-texas/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van Texas
@@ -4945,11 +4945,11 @@ Met een verblijf bij Flying L Ranch Resort in Bandera bevind je je op 5 min. rij
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00013</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Hoogtepunten van West-Canada</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>4.349</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/hoogtepunten-van-west-canada/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Hoogtepunten van West-Canada
@@ -5385,11 +5385,11 @@ Maak een wandeling naar Agnes Teahouse bij Lake Louise en geniet van het ademben
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Indrukwekkend Bali</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>2.394</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/indrukwekkend-bali/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Indrukwekkend Bali
@@ -5663,11 +5663,11 @@ Bij onze reizen heeft u de vrijheid om de reis aan te passen naar uw wensen. Bep
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Maak kennis met Bali &amp; Gili Trawagan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.526</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/maak-kennis-met-bali-gili-trawagan/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Maak kennis met Bali & Gili Trawagan
@@ -5984,11 +5984,11 @@ Reisexpert Margret Stornebrink: "De Gili-eilanden zijn een tropisch paradijs met
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Maak kennis met Oost-Canada</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>2.693</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/maak-kennis-met-oost-canada/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Maak kennis met Oost-Canada
@@ -6458,11 +6458,11 @@ Margret Stornebrink, Reisexpert: "Het uitzicht vanaf het water tijdens een Sceni
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Maak kennis met Thailand incl. Krabi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.703</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/maak-kennis-met-thailand-incl-krabi/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Maak kennis met Thailand incl. Krabi
@@ -6738,11 +6738,11 @@ Entreegelden, overige maaltijden, eventuele resort fees welke ter plaatse betaal
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek de mooiste parken van West-Amerika</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>4.715</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-de-mooiste-parken-van-west-amerika/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek de mooiste parken van West-Amerika
@@ -7188,11 +7188,11 @@ Bij onze reizen heeft u de vrijheid om de reis aan te passen naar uw wensen. Bep
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00020</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek de Tuinroute en het Kariega Game Reserve</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>3.477</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-de-tuinroute-en-het-kariega-game-reserve/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek de Tuinroute en het Kariega Game Reserve
@@ -7507,11 +7507,11 @@ Mijn tip voor Kariega Game Reserve: maak een bootsafari over de Kariega-rivier! 
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00021</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek het prachtige Bali</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.239</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-het-prachtige-bali/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek het prachtige Bali
@@ -7831,11 +7831,11 @@ Bepaal zelf de route, de reisduur en selecteer de hotels die bij u passen. Creë
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00022</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek het prachtige Japan</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>3.893</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-het-prachtige-japan/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek het prachtige Japan
@@ -8123,11 +8123,11 @@ Wil je een adembenemend uitzicht over de uitgestrekte stad Tokyo zonder een yen 
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00023</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek het prachtige zuiden van Thailand</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>2.479</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-het-prachtige-zuiden-van-thailand/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Ontdek het prachtige zuiden van Thailand
@@ -8460,11 +8460,11 @@ Bij onze reizen heeft u de vrijheid om de reis aan te passen naar uw wensen. Bep
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00024</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek Java en Bali</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>2.801</get-trip-lowest-price-2p>
-    <get-trip-flight>excluded</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-java-en-bali/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek Java en Bali
@@ -8797,11 +8797,11 @@ Reisexpert Margret Stornebrink: Java verraste me met zijn mix van natuur en cult
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00025</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek Noordoost-Amerika</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>4.240</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-noordoost-amerika/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek Noordoost-Amerika
@@ -9356,11 +9356,11 @@ De Niagara Falls behoren tot de grootste watervallen ter wereld en worden gereke
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00026</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek &apos;n Wereld in een land</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>5.403</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-n-wereld-in-een-land/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek 'n Wereld in een land
@@ -9645,11 +9645,11 @@ Bij onze reizen heeft u de vrijheid om de reis aan te passen naar uw wensen. Bep
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00027</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek paradijselijk Thailand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.674</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-paradijselijk-thailand/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek paradijselijk Thailand
@@ -9928,11 +9928,11 @@ Een van de meest unieke en magische ervaringen in Khao Sok is overnachten in een
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00028</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Ontdek West-Canada</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>3.294</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/ontdek-west-canada/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Ontdek West-Canada
@@ -10357,11 +10357,11 @@ Breng een bezoek aan het pas geopende Sam's Centre in Calgary en krijg een uniek
   </trip>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00029</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Safari Zuid-Afrika &amp; strand Mauritius</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>5.108</get-trip-lowest-price-2p>
-    <get-trip-flight>included</get-trip-flight>
+    <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>Mauritius</get-trip-country>
     <get-trip-url>https://www.symphonytravel.nl/safari-zuid-afrika-strand-mauritius/</get-trip-url>
