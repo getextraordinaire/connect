@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tiogatours" partner="Tioga Tours" generated="2026-08-19T07:17:12.112Z" count="17">
+<trips feed="tiogatours" partner="Tioga Tours" generated="2026-08-19T16:38:35.703Z" count="17">
   <trip>
     <get-trip-id>GT-TIOGATOURS-00001</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Deep South &amp; Carolinas, 17 daags linksom</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/deep-south/deep-south-_-carolinas/autoreis/17-dagen/nashville/ccw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Deep South & Carolinas
@@ -141,11 +141,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00002</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kids Go Cities &amp; Beaches</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/deep-south/kids-go-cities-_-beaches/camperreis/23-dagen/new-york/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Kids Go Cities & Beaches
@@ -415,11 +415,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00003</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Plantages in Deep South</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/deep-south/plantages-in-deep-south/autoreis/18-dagen/new-orleans/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Plantages in Deep South
@@ -633,11 +633,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00004</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kids Go Florida – Autoreis vanuit Miami (15 dagen, tegen de klok in)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/florida/florida-for-families/autoreis/15-dagen/miami/ccw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rondreis Florida
@@ -721,11 +721,11 @@ Boek uiterlijk 8 januari 2027 een autorondreis met vertrek in 2027 en ontvang 10
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00005</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Kids Go Florida, 18 daags linksom</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/florida/kids-go-florida/camperreis/18-dagen/orlando</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Kids Go Florida
@@ -944,11 +944,11 @@ Lake Eola Park is populair vanwege de fontein die 's avonds van kleur verandert.
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00006</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Oost-Canada &amp; New England-cruise</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/noordoost-amerika/oost-canada-_-new-england-cruise/autoreis/22-dagen/toronto/</get-trip-url>
@@ -1106,11 +1106,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00007</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Unspoiled Northwest, 21 daags rechtsom</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/noordwest-amerika/unspoiled-northwest/camperreis/21-dagen/seattle</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Unspoiled Northwest
@@ -1319,11 +1319,11 @@ Richting: met de klok mee of tegen de klok in]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00008</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: America the Rockies, 23 daags linksom</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/rocky-mountains/america-the-rockies/camperreis/23-dagen/seattle/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# America the Rockies
@@ -1505,11 +1505,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00009</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Kids Go Rockies, 24 daags linksom</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/rocky-mountains/kids-go-rockies/camperreis/24-dagen/las-vegas/ccw</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Kids Go Rockies
@@ -1815,11 +1815,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00011</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Best of the West, 23 daags rechtsom</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/zuidwest-amerika/best-of-the-west/camperreis/23-dagen/san-francisco/cw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Best of the West
@@ -2013,11 +2013,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00012</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Coast to Coast Discovery</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/zuidwest-amerika/coast-to-coast-discovery/camperreis/26-dagen/new-york/</get-trip-url>
@@ -2182,11 +2182,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00014</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Kids Go West, camperreis 23 dagen linksom</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/amerika/zuidwest-amerika/kids-go-west/camperreis/23-dagen/los-angeles/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Kids Go West
@@ -2479,11 +2479,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00015</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Nova Scotia &amp; Prince Edward Island</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/oost-canada/nova-scotia-_-prince-edward-island/camperreis/15-dagen/halifax/cw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Nova Scotia & Prince Edward Island
@@ -2623,11 +2623,11 @@ Wij zijn een maatwerkspecialist. Dit houdt in dat we de reizen helemaal laten aa
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00016</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Canadian Experience, 21 daags rechtsom</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/west-canada/canadian-experience/camperreis/21-dagen/edmonton</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Canadian Experience
@@ -2785,11 +2785,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00017</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Mountain Country, 21 daags linksom</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/west-canada/mountain-country/camperreis/21-dagen/vancouver/ccw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Mountain Country
@@ -2988,11 +2988,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00018</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: Rockies &amp; Vancouver Island van 19 dagen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/west-canada/rockies-_-vancouver-island/camperreis/19-dagen/vancouver/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# Rockies & Vancouver Island
@@ -3177,11 +3177,11 @@ Belangrijk:
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00019</get-trip-id>
-    <get-trip-status>Okay</get-trip-status>
+    <get-trip-status>Up</get-trip-status>
     <get-trip-name>Camperreis: The Wild West, 21 daags linksom</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>unknown</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/west-canada/the-wild-west/camperreis/21-dagen/vancouver/ccw/</get-trip-url>
     <get-trip-scraped-content><![CDATA[# The Wild West
