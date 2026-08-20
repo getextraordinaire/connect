@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-19T16:38:35.703Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-20T08:06:04.940Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -304,7 +304,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!]
     <get-trip-id>GT-CAMPERSEUROPA-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-name>Voorbeeldreis camperreis Schotland</get-trip-name>
-    <get-trip-duration>Unknown</get-trip-duration>
+    <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Verenigd Koninkrijk</get-trip-country>
