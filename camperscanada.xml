@@ -1,44 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-20T08:06:04.940Z" count="5">
+<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-21T08:46:20.375Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Calgary naar Vancouver</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/calgary-naar-vancouver/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis Calgary naar Vancouver
-
-Je kunt in West Canada je camper in de ene plaats ophalen en in een andere plaats inleveren. Zo hoef je geen rondreis te maken als je beperkt de tijd hebt. Tussen Calgary en Vancouver kun je een camperreis via de noord- en zuidkant maken. Op deze pagina zetten we alvast een aantal suggesties voor een reis via de noordkant op een rijtje. Bekijk ook eens de route langs de zuidkant, van Vancouver naar Calgary (die je uiteraard ook andersom kan rijden van Calgary naar Vancouver).
-
+    <get-trip-scraped-content><![CDATA[#Introductie
+Je kunt in West Canada je camper in de ene plaats ophalen en in een andere plaats inleveren. Zo hoef je geen rondreis te maken als je beperkt de tijd hebt. Tussen Calgary en Vancouver kun je een camperreis via de noord- en zuidkant maken. Op deze pagina zetten we alvast een aantal suggesties voor een reis via de noordkant op een rijtje. Bekijk ook eens de route langs de zuidkant, van Vancouver naar Calgary (die je uiteraard ook andersom kan rijden - van Calgary naar Vancouver).
 De beste reistijd is juni tot en met september.
-
 Nadat je bij Campers Canada heeft geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op jouw wensen en reisplannen en gebaseerd op onze eigen ervaringen en die van andere klanten.
 
 #Calgary: nog even zonder camper
-
 Calgary is een van de grootste steden van West Canada en bij de meesten bekend van de Olympische Winterspelen van 1988. De locaties van de Spelen zijn leuk om te bezoeken.
 En als je er toevallig in juli bent, sla dan zeker niet de Calgary Stampede over in de eerste helft van de maand. Dit tiendaagse wildwestfestival met rodeo, veemarkten en shows is uniek om mee te maken.
 Verder zijn er mooie parken, een historisch dorp waarin je teruggaat in de tijd naar 1900, een dierentuin en de 191 m hoge Calgary Tower. Genoeg te zien en doen voordat je de camper ophaalt!
 
 #Drumheller Dino's en de Badlands
-
 Rondom Calgary is er meer te doen dan alleen de Rocky Mountains. Plan ook Drumheller in op je route: je rijdt in ongeveer 1,5 uur ineens een totaal ander landschap in. De badlands met hun vreemde rotsformaties zien eruit alsof je op een andere planeet bent beland.
-
-Drumheller staat bekend als de "Dinosaur City of the World", omdat hier veel dinosaurusfossielen zijn gevonden. Bezoek daarom het Royal Tyrrell Museum: daar zie je enorm veel fossielen en dino-skeletten, waaronder een complete T. Rex.
-
+Drumheller staat bekend als de 'Dinosaur City of the World', omdat hier veel dinosaurusfossielen zijn gevonden. Bezoek daarom het Royal Tyrrell Museum: daar zie je enorm veel fossielen en dino-skeletten, waaronder een complete T. Rex.
 Combineer het museum met een stop bij de Willow Creek Hoodoos (met paddenstoelvormige rotsen) en rijd ook langs Horseshoe Canyon voor het uitzicht over de 'kom' van de badlands.
 
 #Banff National Park
-
-Natuurlijk ga je naar Banff National Park, een van de meest bekende parken van Canada. Banff National Park heeft een aantal must-sees zoals Lake Louise, Moraine Lake en de Johnston Canyon. Het zijn druk bezochte plekken, maar dat is niet voor niks. Plan je bezoek goed en ruim voorafgaand aan je reis.
+Natuurlijk ga je naar Banff National Park, een van de meest bekende parken van Canada. Banff National Park heeft een aantal must-sees zoals Lake Louise, Moraine Lake en de Johnston Canyon. Het zijn druk bezochte plekken, maar dat is niet voor niks... Plan je bezoek goed en ruim voorafgaand aan je reis.
 Ook het plaatsje Banff zelf is leuk om te bezoeken, evenals Lake Minnewanka.
 Rijd ook zeker even door naar Yoho National Park in de Canadese Rocky Mountains. Je vindt er 61 meren en vijvers, maar Emerald Lake is veruit het grootste en meest bezochte. Maak er een mooie rondwandeling langs het meer met prachtige uitzichten.
 
 #Icefields Parkway: trekpleister van West Canada
-
 De Icefields Parkway tussen Banff / Lake Louise en Jasper is een van de bekendste routes van West-Canada. Niet zo gek, want onderweg rijd je langs helderblauwe meren, gletsjers, watervallen, kloven en uitzichtpunten. Dit is niet zomaar een stuk rijden van A naar B, maar een route waar je echt de tijd voor wilt nemen.
 De eerste stops zijn Bow Lake en Peyto Lake, helderblauwe gletsjermeren, waar je een mooie en korte wandeling kunt maken. Verderop, bij Mistaya Canyon zie je hoe het water zich door een smalle kloof perst.
 Een volgende grote stop is de Athabasca gletsjer, een van de zes belangrijkste uitlopers van het Columbia-ijsveld in de Rocky Mountains. Het ijs is tussen de 90 en 300 meter dik. Je kunt de gletsjer op met een truck met speciale rupsbanden.
@@ -47,7 +39,6 @@ Verder richting Jasper kom je langs Sunwapta Falls en Athabasca Falls, indrukwek
 De afstand van de Icefields Parkway van 230km (van Lake Louise naar Jasper) lijkt misschien goed te doen in 1 dag, maar met alle stops, wandelingen en fotomomenten ben je al snel veel langer onderweg dan je denkt. Plan daarom liever een aantal dagen voor dit deel van je camperreis. Dan hoef je niet te haasten en kun je dit hoogtepunt van je Icefields Parkway op je gemak beleven.
 
 #Jasper National Park
-
 Aan het einde van de Icefields Parkway kom je uit in Jasper, een gezellig bergplaatsje midden in Jasper National Park. Het is een fijne plek om een paar nachten te blijven, zeker na alle stops onderweg.
 Vanuit Jasper kun je makkelijk uitstapjes maken. Bezoek bijvoorbeeld Maligne Canyon, waar het water zich door kalkstenen wanden van soms wel 50 meter diep heeft uitgesleten. Ook Maligne Lake is prachtig. In dit meer ligt Spirit Island: het uitzicht op dit kleine eiland is een van de bekendste en meest gefotografeerde uitzichten van de Canadese Rocky Mountains.
 Je kunt ook met de Jasper SkyTram de hoogte in voor uitzicht over de bergen en valleien. Pyramid Lake en Patricia Lake zijn fijne plekken voor een rustige wandeling, een picknick of een tochtje op het water.
@@ -55,31 +46,25 @@ Met een beetje geluk spot je in de omgeving wildlife, zoals wapiti's, herten, be
 In 2024 is er brand geweest in Jasper. In onze blog lees je waarom het juist nu ook bijzonder is om Jasper te bezoeken.
 
 #Wells Gray
-
-Wells Gray is een park met een grote diversiteit: diepe riviervalleien, bergen met gletsjers, bergweiden, oerbossen en vooral heel veel watervallen. De bijnaam van het park is niet voor niets Waterfall Park. Er zijn er maar liefst 250 in alle soorten en maten. Enkele zeer bekende en mooie watervallen zijn de hoge Helmcken Falls, de brede Dawson Falls en de Moul Falls.
+Wells Gray is een park met een grote diversiteit: diepe riviervalleien, bergen met gletsjers, bergweiden, oerbossen en vooral heel veel watervallen. De bijnaam van het park is niet voor niets 'Waterfall Park'. Er zijn er maar liefst 250 in alle soorten en maten. Enkele zeer bekende en mooie watervallen zijn de hoge Helmcken Falls, de brede Dawson Falls en de Moul Falls.
 
 #Whistler: van bergtop naar bergtop
-
 De rit van Wells Gray naar Whistler is bijzonder mooi. Er zijn veel mooie stops onderweg, waaronder bij Duffey Lake waar honderden boomstammen in het water drijven. Neem de tijd voor deze rit met enkele pittige steile afdalingen met hellingen van 11 en 13%!
 Ook Whistler is bekend van de Olympische Winterspelen, maar dan van iets recentere datum: in 2010. Het dorp is gebouwd voor de Spelen destijds, dus de faciliteiten zijn er uitstekend. De Peak 2 Peak Gondola van Blackcomb naar Whistler Mountain is vrij prijzig, maar dat is het zeker waard! Vanaf de bergtoppen heb je toegang tot verschillende wandelingen en de uitzichten op bergen, bossen en het dal zijn fantastisch. Neem een jas mee: boven is het vaak flink koeler.
 
 #Vancouver
-
 Nadat je de camper hebt ingeleverd, is het zeker aan te raden Vancouver stad te verkennen. De stad staat bekend om haar hoge levenskwaliteit. Het is een van de leukste steden van Canada. Beroemde bezienswaardigheden zijn Stanley Park met zijn totempalen, Granville Island, de historische wijk Gastown en de Capilano Suspension Bridge, een lange hangbrug over een ravijn.
 
 #Welke camper: suggesties
-
-Ben je met z'n tweeën en heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche én airco van CanaDream of Fraserway een heel goede keuze.
+Ben je met z'n tweeën en heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche en airco van CanaDream of Fraserway een heel goede keuze.
 Voor gezinnen zijn er de truckcampers en motorhomes met alkoof, een ruimte met een bed boven de cabine. Je hebt de keuze uit drie- tot wel zevenpersoons-uitvoeringen met twee tot wel zes bedden.
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van jouw voorkeur.
 
 #Minimaal 2 weken
-
 Wij raden je aan minimaal twee weken uit te trekken voor de noordroute van Calgary naar Vancouver, en dan exclusief Vancouver stad zelf. Vergis je niet in de afstanden en wat er allemaal te zien en doen is.
 
 #vraag nu een offerte aan!
-
-Interesse in deze camperreis vanuit Calgary Vancouver? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+Interesse in deze camperreis vanuit Calgary - Vancouver? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/88/e93c4ca76f9aedca04eb9d0429fe7f375a6d8092.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/stampede-52714_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2026/02/Dumheller-Dino-Capital-of-the-World.jpg</get-trip-image-url-overview>
@@ -107,17 +92,19 @@ Interesse in deze camperreis vanuit Calgary Vancouver? Wij helpen je graag met e
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/IMG_9061-Gastown-Vancouver.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/port-vancouver.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2026/05/Capilano-Suspension-Bridge-Vancouver.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/IMG_6604-Bow-Lake-eigen-foto.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis New Brunswick &amp; Nova Scotia</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/new-brunswick-en-nova-scotia/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis New Brunswick & Nova Scotia
+    <get-trip-scraped-content><![CDATA[#Camperreis New Brunswick & Nova Scotia
 
 De Atlantische provincies New Brunswick en Nova Scotia, maar zeker ook Newfoundland and Labrador en Prince Edward Island, staan bekend om hun ruige rotskusten, pittoreske vissersdorpjes, zonovergoten stranden en vriendelijke bevolking. Elke provincie heeft zijn eigen karakter. Op deze pagina lichten we vooral New Brunswick en Nova Scotia uit.
 
@@ -125,7 +112,7 @@ Nadat je bij Campers Canada heeft geboekt, ontvang je van ons een op maat gemaak
 
 #New Brunswick
 
-Maar liefst honderd miljard liter water stroomt elke dag de Bay of Fundy in en uit. Je kan hier wandelen rond de bloempotachtige rotsformaties van Hopewell Rocks of kanoën terwijl het vloed wordt. Het getijverschil is hier met 15,2 m het hoogste ter wereld. Zoek je iets meer spanning? Neem dan een jet boat over de omgekeerde watervallen (veroorzaakt door de getijden) op de Saint John rivier.
+Maar liefst honderd miljard liter water stroomt elke dag de Bay of Fundy in en uit. Je kan hier wandelen rond de bloempotachtige rotsformaties van Hopewell Rocks of kanoën terwijl het vloed wordt. Het getijverschil is hier met 15,2 m het hoogste ter wereld. Zoek je iets meer spanning? Neem dan een jet boat over de 'omgekeerde watervallen' (veroorzaakt door de getijden) op de Saint John rivier.
 
 New Brunswick telt 60 overdekte bruggen die daar al staan sinds de 19e eeuw. Leuk om onderdoor te rijden (let wel op de hoogte van de camper!).
 
@@ -133,7 +120,7 @@ In historisch Acadia kan je ervaren hoe de Acadiërs (de eerste Franse bewoners 
 
 #Nova Scotia
 
-Cape Breton staat bekend om zijn prachtige natuur. Rijd zeker de prachtige 298 km lange Cabot Trail door het ruige landschap van het Cape Breton Highlands National Park. Of neem de fiets. De fietsroute wordt beschouwd als een van de top 10 beste fietsroutes ter wereld. Zeer mooi zijn de Mahou Highlands met Lake Ainslee in het midden, Bras d Or Lake en romantische kustplaatjes zoals Gabarus.
+Cape Breton staat bekend om zijn prachtige natuur. Rijd zeker de prachtige 298 km lange Cabot Trail door het ruige landschap van het Cape Breton Highlands National Park. Of neem de fiets. De fietsroute wordt beschouwd als een van de top 10 beste fietsroutes ter wereld. Zeer mooi zijn de Mahou Highlands met Lake Ainslee in het midden, Bras d'Or Lake en romantische kustplaatjes zoals Gabarus.
 
 Het imposante Fort Louisbourg werd tussen 1713 en 1758 gebouwd. Het is nu het grootste gereconstrueerde militaire complex van Noord-Amerika. Tientallen gidsen in historische kostuums zetten hier de sfeer van het 18e eeuwse leven neer. Alles is tot in de puntjes verzorgd, echt een leuk uitje.
 
@@ -157,7 +144,7 @@ Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pa
 
 #Minimaal 10 dagen
 
-Wij raden je aan minimaal 10 dagen uit te trekken voor de provincies New Brunswick, Nova Scotia en Prince Edward Island. Uiteraard is dit afhankelijk van wat je gaat zien en doen. Per provincie kan je al makkelijk die 10 dagen besteden. Als je bijvoorbeeld een fietstocht gaat maken, kan je daar meestal al een dag voor uittrekken. Als je ook Newfound and Labrador gaat bezoeken, heb je uiteraard meer tijd nodig.
+Wij raden je aan minimaal 10 dagen uit te trekken voor de provincies New Brunswick, Nova Scotia en Prince Edward Island. Uiteraard is dit afhankelijk van wat je gaat zien en doen. Per provincie kan je al makkelijk die 10 dagen besteden… Als je bijvoorbeeld een fietstocht gaat maken, kan je daar meestal al een dag voor uittrekken. Als je ook Newfound and Labrador gaat bezoeken, heb je uiteraard meer tijd nodig.
 
 #vraag nu een offerte aan!
 
@@ -167,53 +154,76 @@ Interesse in deze camperreis langs de Oostkust van Canada? Wij helpen je graag m
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/hopewell-rocks-2354653_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Nova-Scotia-2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/prince-edward-island-54990_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/phpThumb_generated_thumbnail-3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Canadream-DVC-background_30586787406_o.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/lighthouse-nova-scotia-voor-site.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Ontario</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/ontario/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Ontario camperreis
-Ontario is met maar liefst 2,5 mln km² de op een na grootste provincie van Canada. Het noorden is slecht toegankelijk en er wonen weinig mensen. Het zuiden heeft veel meer vruchtbare streken waar veel meer mensen zich hebben gevestigd.
+    <get-trip-scraped-content><![CDATA[#Camperreis Ontario
+
+Ontario is met maar liefst 2,5 mln km2 de op een na grootste provincie van Canada. Het noorden is slecht toegankelijk en er wonen weinig mensen. Het zuiden heeft veel meer vruchtbare streken waar veel meer mensen zich hebben gevestigd.
+
 We zetten hieronder de highlights van Ontario voor je camperreis op een rijtje. Nadat je bij Campers Canada heeft geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op je wensen en reisplannen.
 
 #Toronto: nog even zonder camper
+
 Als je Ontario wilt verkennen, vlieg je waarschijnlijk op Toronto. Voordat je de camper haalt, is het zeker aan te raden de stad te verkennen. Het is een van de meest dynamische steden van Noord-Amerika met bijna 6 mln inwoners. Bezoek allereerst de CN Tower, de beroemdste attractie van Toronto. Vanaf de top van dit 553 m hoge gebouw kun je alvast bekijken wat je daarna gaat bezoeken. De haven ligt er vlakbij. Het is er plezierig en ontspannend en biedt voor iedereen wat wils: van activiteiten op het water, een schaatsbaan, ambachtswerkplaatsen tot restaurant en winkels. In het centrum vind je diverse musea en de Art Gallery met een van de grootste kunstcollecties van Canada. En ook bijvoorbeeld Chinatown, Little Italy en Yorkville zijn leuk om te bezoeken.
 
 #Niagara Falls: een must see
-Het gebulder van de waterval is al kilometers verderop te horen, maar wacht maar totdat je de enorme Niagara Falls voor het eerst ziet. Het zijn in feite twee watervallen: de Horseshoe Falls aan Canadese zijde (670 m breed en 57 m hoog) en de American Falls aan Amerikaanse zijde. Je kunt dichtbij de watervallen komen met de Maid of the Mistboten. Of maak een wandeling beneden door de rotsige tunnels achter de Horseshoe Falls langs. Het geluid van het neerstortende water is hier oorverdovend!
+
+Het gebulder van de waterval is al kilometers verderop te horen, maar wacht maar totdat je de enorme Niagara Falls voor het eerst ziet. Wij hebben het geluk gehad ze al meerdere keren te zien, maar het blijkt elke keer enorm indrukwekkend. Het zijn in feite twee watervallen: de Horseshoe Falls aan Canadese zijde (670 m breed en 57 m hoog) en de American Falls aan Amerikaanse zijde. Je kunt dichtbij de watervallen komen met de Maid of the Mistboten. Of maak een wandeling beneden door de rotsige tunnels achter de Horseshoe Falls langs. Het geluid van het neerstortende water is hier oorverdovend!
+
 Het stadje Niagara Falls is uiteraard befaamd vanwege de watervallen en ontvangt maar liefst 14 mln bezoekers per jaar. Clifton Hill is de grootste glitterstraat van heel Ontario met meer dan genoeg kermisattracties om je een tijdje te vermaken.
 
 #The Great Lakes
+
 Het Great Lakes gebied van Canada biedt stille boerendorpjes aan Lake Erie, eilandrijke baaien van Lake Huron en ongerepte natuur rond het Upper Lake. En natuurlijk de spectaculaire Niagara Falls. Ga bijvoorbeeld naar Niagara-on-the-Lake, een elegant stadje. De belangrijkste attractie hier is Fort George, een zorgvuldig gerestaureerd fort uit 1790. Het Grote Meren gebied is populair bij watersporters.
+
 Als je in deze regio bent, is een bezoek aan Manitoulin Island een goede tip. Het eiland is rijk aan Aboriginal cultuur. In augustus vindt het Wikwemikong-festival plaats, Noord-Amerika's grootste powwow, een feestelijke ceremonie waarbij indianen bijeenkomen om te dansen en zingen en om muziek te maken.
+
 Of ga naar Killarney Provincial Park, een prachtig stuk wildernis met kristalblauwe meren, dennen- en loofbossen en de spectaculaire La Cloche Mountains. De Great Lakes regio biedt meer dan genoeg inspiratie voor minstens een paar dagen van je reis!
 
 #Schiereiland Bruce Peninsula
+
 Het schiereiland is 100 km lang en deelt het water van Lake Huron vanaf Georgian Bay in tweeën. Het mooiste landschap van dit gebied vind je hier. Bruce Peninsula is een bijna magische plek waar kalkstenen rotsen uitstijgen boven het turkoois water van Georgian Bay. In de bossen leven zwarte beren en zeldzame reptielen verstoppen zich onder de rotsen en in de wetlands. 's Avonds en 's nachts staan er talloze sterren aan de donkere hemel. Vanuit de haven van Tobermory kun je een veerboot nemen naar Flowerpot Island, bekend van de rotszuilen die de kustlijn markeren.
-Zin om te wandelen? De 782 km lange Bruce Trail is het oudste en langste wandelpad van Canada en voert helemaal naar het Niagara schiereiland. Natuurlijk kun je ook een klein deel ervan lopen.
+
+Zin om te wandelen? De 782 km lange Bruce Trail is het oudste en langste wandelpad van Canada en voert helemaal naar het Niagara schiereiland. Natuurlijk kun je ook een klein deel ervan lopen...
 
 #Algonquin Provincial Park
+
 Het Algonquin Provincial Park ligt op circa 3 uur rijden ten noorden van Toronto. Het park is met 7725 vierkante kilometer qua grootte het derde park in Ontario. Door deze omvang en door de relatief korte afstand tot de grote steden Toronto en Ottawa is Algonquin één van de meest populaire parken in de provincie. Je kunt er prachtig wandelen en fietsen in de esdoorn- en dennenbossen. Of ga kajakken, vissen of zwemmen in de vele meren en rivieren. Voor veel Canadezen is dit park net zo'n symbool voor Canada als de Niagara Falls.
+
 In het zuiden van het park loopt Highway 60, waar de kans zeer groot is dat je er een of meerdere elanden ziet. Verder lopen er ook onder andere zwarte beren, wolven, verschillende soorten herten en bevers rond. Rondom Highway 60 zijn meerdere wandelroutes uitgezet door de natuur.
 
 #Ottawa
+
 Ottawa is de hoofdstad van Canada waar de mooie parlementsgebouwen staan. In de zomer vindt er elke dag tussen 10.00 en 10.30 uur het wisselen van de wacht plaats. Je kunt bijvoorbeeld ook een kano huren op het 202 km lange historische Rideau kanaal dat op de Werelderfgoedlijst staat.
+
 Als je van musea houdt, dan ben je in Ottawa op de juiste plek. Of bezoek Watson's Mill uit de 19e eeuw. Ook op de historische Byward markt kun je prima een middag zoet zijn. Deze markt is een van Noord-Amerika's oudste markten en er zijn vele winkeltjes, restaurants en café's in de buurt.
 
 #Welke camper: suggesties
-Met een beperkt budget en, als je het geen bezwaar vindt als je geen toilet aan boord hebt, kun je prima uit de voeten met de makkelijk te rijden campervans van Escape. Heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche én airco van CanaDream of Fraserway een hele goede keuze.
+
+Met een beperkt budget en, al je het geen bezwaar vindt als je geen toilet aan boord hebt, kun je prima uit de voeten met de makkelijk te rijden campervans van Escape. Heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche én airco van CanaDream of Fraserway een hele goede keuze.
+
 Voor gezinnen zijn er de truckcampers en motorhomes met alkoof, een ruimte met een bed boven de cabine. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van jouw voorkeur.
 
 #Minimaal 2 weken
-Wij raden je aan minimaal twee weken uit te trekken voor de provincie Ontario. Vergis je niet in de afstanden, het type wegen waar je op rijdt en wat er allemaal te zien en doen is. Het blijft altijd keuzes maken. Onze uitgebreide routesuggesties die je ontvangt na boeking, bieden je daar volop gelegenheid toe!
+
+Wij raden je aan minimaal twee weken uit te trekken voor de provincie Ontario. Vergis je niet in de afstanden, het type wegen waar je op rijdt en wat er allemaal te zien en doen is. Het blijft altijd keuzes maken... Onze uitgebreide routesuggesties die je ontvangt na boeking, bieden je daar volop gelegenheid toe!
 
 #vraag nu een offerte aan!
+
 Interesse in deze camperreis in Ontario? Wij helpen je graag met een geschikte camper en indien gewenst ook uw hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/88/f4d9abc88fa8edec9d7c649119fe49225697fe84.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/toronto-73551_640.jpg</get-trip-image-url-overview>
@@ -223,11 +233,14 @@ Interesse in deze camperreis in Ontario? Wij helpen je graag met een geschikte c
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/10/Bruce-peninsula.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/10/algonquin-park-2873480_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/ottawa-2484687_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/CC-Leave-background.png</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/toronto-breedbeeld.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Camperreis Quebec, Oost Canada</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Camperreis Quebec</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -243,7 +256,7 @@ Nadat je bij Campers Canada heeft geboekt, ontvang je van ons een op maat gemaak
 
 Als je reis hier start, is het zeker leuk om eerst de stad te verkennen en daarna de camper te gaan halen voor de start van je camperroute door Quebec.
 
-Montréal is de op een na grootste stad van Canada. Het ligt op de plek waar de St.-Lawrence- en de Ottawarivier samenkomen en de stad is erg overzichtelijk. De meest interessante buurten liggen tegen de zuidhelling van de Mont Royal de 234 m hoge berg waaraan de stad zijn naam ontleent. Het netwerk van smalle klinkerstraatjes van Vieux Montréal ligt vlak aan het water. Het belangrijkste winkelgebied ligt iets noordelijker, aan de Rue Sainte-Catherine. Sla zeker niet de Underground City over: een 30 km groot gangencomplex van huizen, winkels, horecabedrijven, bioscopen en theaters dat onder de stad ligt.
+Montréal is de op een na grootste stad van Canada. Het ligt op de plek waar de St.-Lawrence- en de Ottawarivier samenkomen en de stad is erg overzichtelijk. De meest interessante buurten liggen tegen de zuidhelling van de Mont Royal – de 234 m hoge berg waaraan de stad zijn naam ontleent. Het netwerk van smalle klinkerstraatjes van Vieux Montréal ligt vlak aan het water. Het belangrijkste winkelgebied ligt iets noordelijker, aan de Rue Sainte-Catherine. Sla zeker niet de Underground City over: een 30 km groot gangencomplex van huizen, winkels, horecabedrijven, bioscopen en theaters dat onder de stad ligt.
 
 De erg gezellige Frans aandoende stad heeft maar liefst 300 parken en tuinen, en 400 kerken. Die kun je uiteraard niet allemaal bezoeken, maar bezoek zeker de Mary Queen of the World Cathedral, die een kopie is van de St. Pieter in Rome.
 
@@ -283,25 +296,91 @@ Interesse in deze camperreis in Quebec? Wij helpen je graag met een geschikte ca
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/88/5d851cc3c61da50347bc66fe5dfd1415430ade67.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/montreal-190514_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/mont-tremblant-2316129_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Quebec-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Quebec-boven-en-benedenstad.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Quebec-basse-ville.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/quebec-Fairmont-le-Chateau.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/summer-quebec.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/chute-ouiatchouan-moulin-val-jalbert.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/rocher-perce-Gaspe.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/phpThumb_generated_thumbnail-3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Canadream-DVC-background_30586787406_o.jpg</get-trip-image-url-overview>
+  </trip>
+  <trip>
+    <get-trip-id>GT-CAMPERSCANADA-00005</get-trip-id>
+    <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Camperreis Vancouver Island</get-trip-name>
+    <get-trip-duration>7</get-trip-duration>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
+    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-country>Canada</get-trip-country>
+    <get-trip-url>https://camperscanada.nl/camperroutes/vancouver-island/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[#BEREN, ORKA'S EN OEROUDE BOSSEN
+Vancouver Island is een fantastische toevoeging aan een camperreis door West-Canada, ideaal voor wie ten minste één week extra de tijd heeft. Het eiland biedt een unieke mix van ruige oceaankusten, oeroude bossen en rijke cultuur. Het is de perfecte start van je reis. Vancouver Island is aangenaam warm in de zomer (18 – 28 graden). De oostkust is zonniger en droger dan de westkust.
+
+Je kunt met je camper mee op de ferry vanuit Vancouver. Het is verplicht deze vooraf te reserveren. Wij raden aan de ferry ruim op tijd te boeken, zeker in het hoogseizoen. Je bereikt het eiland binnen 2 uur, en de kans bestaat dat onderweg al orka's ziet!
+Vrijwel iedereen steekt met de ferry over vanaf het vasteland. Maar een watervliegtuig is bijvoorbeeld ook een mogelijkheid.
+De walvis- en berenexcursies op Vancouver Island zijn natuurlijk een must-see. Maar het eiland biedt nog veel meer. Je kunt er met gemak een week of langer verblijven.
+Nadat je bij Campers Canada hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op je wensen en reisplannen en gebaseerd op onze eigen ervaringen en die van andere klanten.
+
+#Nanaimo of Victoria: start van de route
+De meeste mensen steken over met de ferry vanuit Horseshoe Bay naar Nanaimo aan de Oostkust van Vancouver Island. Nanaimo is een van de oudste steden van British Columbia en is veel meer dan alleen de haven waar je aankomt. Met een prachtige laguna, eilanden, musea en wandelroutes kun je je er prima een hele tijd vermaken.
+Maar je kunt er bijvoorbeeld ook voor kiezen om met de ferry aan te komen bij Victoria in het zuiden. En ook daar is genoeg te zien en doen voor minimaal een dag of langer. Victoria is de hoofdstad van British Columbia. De stad beschikt over een van de mooiste havens ter wereld. Verder zijn er de statige koloniale parlementsgebouwen, de prachtig onderhouden botanische tuinen Butchart Gardens en het Royal BC Museum met IMAX theater.
+
+#Campbell River
+Veel toeristen komen naar Campbell River in het noorden van het eiland om orka's, walvissen en beren te zien. Vanuit Campbell River vertrekken verschillende wildlife tours. Verder is het de perfecte locatie om te sportvissen en zalmen te zien. Of ga naar Strathcona Provincial Park, de Discovery Islands (kans om grizzlyberen en orka's te spotten!) of de gematigde regenwouden in het noorden en westen.
+Net als in veel andere plaatsen op Vancouver Island staan er in Campbell River diverse totempalen. Je vindt er ook de prachtige houtsnijwerken van de jaarlijkse wood carving wedstrijd. De beelden worden gemaakt met een kettingzaag!
+
+#Highway 4 naar Tofino
+Via Highway 4 steek je over naar de andere kant van het eiland. Een prachtige route om te rijden! Onderweg kom je diverse mooie plekken tegen om even te stoppen. Sla zeker Cathedral Cove in Mac Millan National Park niet over. Hier vind je de laatste restanten van het oerbos dat vroeger het hele eiland bedekte. Er staan Douglas sparren die tot wel 800 jaar oud zijn! Stop zeker ook even bij Ellis Creek, direct aan de weg. De vele prachtige waterpoeltjes nodigen zeker uit tot een frisse duik. Leuke tip voor de lunch: het heerlijk warme Sproat Lake met een strand, picknickplaatsen en een camping.
+Aan het eind van Highway 4 kom je aan bij Ucluelet en Tofino. Beide plaatsen zijn een uitvalsbasis voor walvissen- en berentours. De Wild Pacific Trail bij Ucluelet is een prachtige bos- en kustwandeling die vooral bij zonsondergang bijzonder mooi is. Tofino is een stuk toeristischer, maar Long Beach als meest populaire surflocatie van Canada, Tonquin Beach met prachtige zonsondergangen en het Whale Centre maken het zeker de moeite waard.
+
+Vanaf het sfeervolle kustplaatsje Tofino, gelegen op Vancouver Island, kun je één van de mooiste ervaringen van West-Canada beleven: whale watching. Met een boot ga je de Stille Oceaan op, waar je grote kans hebt om walvissen te spotten, zoals grijze walvissen, bultruggen en zelfs orka's. Vooral tussen het voorjaar en najaar worden hier veel walvissen gezien.
+De tochten duren meestal een paar uur en worden begeleid door ervaren gidsen die veel vertellen over de dieren en hun leefgebied. Onderweg zie je vaak ook zeeleeuwen, zeehonden en indrukwekkende kustlijnen. Door de ruige natuur, de frisse zeelucht en de kans om deze enorme dieren van dichtbij te zien, is dit een absolute highlight tijdens je camperreis op Vancouver Island.
+
+#Welke camper: suggesties
+Met een beperkt budget en, als je het geen bezwaar vindt als je geen toilet aan boord hebt, kun je prima uit de voeten met de makkelijk te rijden campervans van Escape. Heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche én airco van CanaDream of Fraserway een hele goede keuze.
+Voor gezinnen zijn er de truckcampers en motorhomes met alkoof, een ruimte met een bed boven de cabine. Je hebt de keuze uit drie- tot wel zevenpersoons-uitvoeringen met twee tot wel zes bedden.
+Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van jouw voorkeur.
+
+#Minimaal een week
+Als je zelf met een camper rijdt, raden wij je aan minimaal een week uit te trekken voor Vancouver Island. Vergis je niet in de omvang van het eiland. Van oost naar west bijvoorbeeld rijdt er veel verkeer over een eenbaansweg heen en terug, waardoor je er langer over doet dan je denkt. Hetzelfde geldt voor de kustroute richting Campbell River en de weg naar het zuiden richting Victoria. Neem er de tijd voor: het eiland biedt te veel moois om erdoor heen te crossen…
+Als je Vancouver Island met een georganiseerde tour wilt zien, is het verstandig dat vooraf te boeken. Maar ook een dagexcursie vanuit bijvoorbeeld Vancouver is natuurlijk mogelijk.
+
+#Excursies regelen we ook voor u
+Wil je Vancouver Island liever georganiseerd zien omdat je weinig tijd hebt? We organiseren graag een tour voor je: wildlife zien, fietsen, kajakken, de cultuur van de Indianen, net wat je wilt. Ook bijvoorbeeld een vlucht met een watervliegtuig of een helikopter behoort tot de mogelijkheden. Misschien wil je vooral flexibel zijn en je excursies ter plekke regelen. Maar voor veel klanten die hun reis graag plannen of wanneer het handig is dit vooraf te boeken vanwege het hoogseizoen, regelen we de excursies vooraf bij het boeken van de reis.
+
+#Vraag nu een offerte aan!
+Interesse in deze camperreis op Vancouver Island? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/88/0e535052b7229e5f99173e397ac96bd43b7d95df.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Ferry-Vancouver-Island-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Victoria.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Totem-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Campbell-River-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Campbell-River-3-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Campbell-River-2-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Ellis-Creek-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2023/05/tofino.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Excursie-boot-eigen-foto.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/phpThumb_generated_thumbnail-3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Canadream-DVC-background_30586787406_o.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/seaplane-393303_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/killer-whales-591130_1280.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Vancouver naar Calgary</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://camperscanada.nl/camperroutes/vancouver-naar-calgary/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis Vancouver naar Calgary
+    <get-trip-scraped-content><![CDATA[#Camperreis Vancouver naar Calgary
 
-Je kunt in West Canada je camper in de ene plaats ophalen en in een andere plaats inleveren. Zo hoef je geen rondreis te maken als je beperkt de tijd hebt. Tussen Vancouver en Calgary kun je een camperreis via de noord- en zuidkant maken. Op deze pagina zetten we alvast een aantal suggesties voor een reis via de zuidkant op een rijtje. Bekijk ook de route van Calgary naar Vancouver.
+Je kunt in West Canada je camper in de ene plaats ophalen en in een andere plaats inleveren. Zo hoef je geen rondreis te maken als je beperkt de tijd hebt. Tussen Vancouver en Calgary kun je een camperreis via de noord- en zuidkant maken. Op deze pagina zetten we alvast een aantal suggesties voor een reis via de zuidkant op een rijtje.
 
 Nadat je bij Campers Canada hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op je wensen en reisplannen en gebaseerd op onze eigen ervaringen en die van andere klanten.
 
@@ -312,17 +391,20 @@ Voordat je de camper haalt, is het zeker aan te raden Vancouver stad te verkenne
 #Okanagan Valley: start van de route
 
 Vanuit Vancouver rijd je oostwaarts richting de Okanagan Valley, een van de wijngebieden van Canada. De beschutting van de bergen aan beide kanten zorgt voor een steppeklimaat in de valei. Voor Canadese begrippen levert dat warme zomers en milde winters op. Het regent er weinig. Het is ook een van de weinige gebieden waar ratelslangen voorkomen. Je ziet er veel fruitbomen en fruitstalletjes langs de weg.
+
 Wij vonden dit een erg mooi gebied om doorheen te rijden en te stoppen voor een paar wandelingen. Je rijdt langs vele meren die slechts door een smalle strook van rotsstenen of groen gescheiden zijn van de weg. Het Okanagan meer is enorm groot en uitgestrekt. Er is genoeg te doen en zien in de vallei en er zijn campings zat.
 
 #Revelstoke en Glacier National Park
 
 Revelstoke is een echt treinstadje. De kilometerslange goederentreinen zie en hoor je overal. Mount Revelstoke National Park is niet heel groot voor een nationaal park, maar de Meadows in the Sky Parkway die door het park loopt, is zeker de moeite waard. Langs deze weg liggen verschillende uitkijkpunten en je kunt er meerdere (korte) wandelingen maken. Het is 9 maanden lang winter in het park, maar in juli en augustus staan op de bergweiden op de top ontelbaar veel bloemen in bloei. Een prachtig gezicht!
+
 Na de prachtige Albert Canyon rijd je vanuit Revelstoke zo Glacier National Park in. Er zijn maar liefst 137 gletsjers in het park, die ver in het dal uitlopen. Je kunt er korte wandelingen maken. Of loop de Great Glacier Trail van 6,4 km retour. Of de Balu Pass Trail van 12,8 km. Een pittige wandeling met steile lawinehellingen die uitkijkt over de gletsjers, ijsvelden en bergtoppen. In augustus staan er vele wilde bloemen in bloei.
 
 #Banff National Park
 
 Natuurlijk ga je ook naar Banff National Park, een van de meest bekende parken van Canada. Voordat je Banff binnenrijdt, kom je eerst langs Yoho National Park in de Canadese Rocky Mountains. Je vindt er 61 meren en vijvers, maar Emerald Lake is veruit het grootste en meest bezochte. Maak er een mooie rondwandeling langs het meer met prachtige uitzichten.
-Banff National Park heeft een aantal must-sees zoals Lake Louise, Moraine Lake, de Johnston Canyon en Peyto Lake. Het zijn druk bezochte plekken, maar dat is niet voor niks. Ook het plaatsje Banff zelf is leuk om te bezoeken, evenals Lake Minnewanka.
+
+Banff National Park heeft een aantal must-sees zoals Lake Louise, Moraine Lake, de Johnston Canyon en Peyto Lake. Het zijn druk bezochte plekken, maar dat is niet voor niks... Ook het plaatsje Banff zelf is leuk om te bezoeken, evenals Lake Minnewanka.
 
 #Calgary
 
@@ -330,8 +412,10 @@ Calgary is een van de grootste steden van West Canada en bij de meesten bekend v
 
 #Welke camper: suggesties
 
-Met een beperkt budget en, als je het geen bezwaar vindt als je geen toilet aan boord hebt, kun je prima uit de voeten met de makkelijk te rijden campervans van Karma Campervans. Heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche én airco van CanaDream of Fraserway een hele goede keuze.
+Met een beperkt budget en, als je het geen bezwaar vindt als je geen toilet aan boord hebt, kun je prima uit de voeten met de makkelijk te rijden campervans van Karma Campervans. Heb je een wat ruimer budget dan is een bestelbuscamper met toilet/douche en airco van CanaDream of Fraserway een hele goede keuze.
+
 Voor gezinnen zijn er de truckcampers en motorhomes met alkoof, een ruimte met een bed boven de cabine. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van je voorkeur.
 
 #Minimaal 2 weken
@@ -353,5 +437,6 @@ Interesse in deze camperreis vanuit Vancouver naar Calgary? Wij helpen je graag 
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/IMG_6484-Johnston-Canyon-eigen-foto.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/IMG_6565-Lake-Louise-eigen-foto.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/stampede-52714_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://camperscanada.nl/wp-content/uploads/2018/09/Lake-Louise-breedbeeld-eigen-foto.jpg</get-trip-image-url-overview>
   </trip>
 </trips>
