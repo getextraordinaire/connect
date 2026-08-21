@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="walkabout" partner="Walkabout" generated="2026-08-20T08:06:04.940Z" count="11">
+<trips feed="walkabout" partner="Walkabout" generated="2026-08-21T08:46:20.375Z" count="11">
   <trip>
     <get-trip-id>GT-WALKABOUT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Western Australia Trek</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Groepsreis Western Australia Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>3.594</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.586</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-western-australia-trek.html</get-trip-url>
@@ -23,7 +24,7 @@ Met een groep van maximaal 19 reizigers reis je in een (4WD) minibus door de afg
 
 Vanwege de regentijd in Noord Australië wordt deze reis alleen vanaf half april t/m half oktober uitgevoerd.
 
-#Richtprijs*
+#Richtprijs
 
 Vanaf Perth: A$ 5895
 Vanaf Darwin: A$ 5995
@@ -97,33 +98,47 @@ Omdat deze reis niet alle bestemmingen vanuit Darwin aandoet is het aan te raden
 
 #Inbegrepen
 
-- 10-daagse reis van Perth naar Broome of v.v.
-- 10-daagse reis van Broome naar Darwin of v.v.
-- Vervoer per minibus, 4WD minibus, chauffeur/gids.
-- 18 overnachtingen in gedeelde tenten of swags en hostelaccommodatie.
-- Alle maaltijden tijdens de twee 10-daagse reizen.
-- Entreegelden Nationale Parken.
+10-daagse reis van Perth naar Broome of v.v.
+10-daagse reis van Broome naar Darwin of v.v.
+Vervoer per minibus, 4WD minibus, chauffeur/gids.
+18 overnachtingen in gedeelde tenten of swags en hostelaccommodatie.
+Alle maaltijden tijdens de twee 10-daagse reizen.
+Entreegelden Nationale Parken.
 
 #Niet Inbegrepen
 
-- 4 dagen / 5 nachten in Broome.
-- Slaapzak, eventueel te koop: A$ 75 p.p.
-- Optionele activiteiten.
+4 dagen / 5 nachten in Broome.
+Slaapzak, eventueel te koop: A$ 75 p.p.
+Optionele activiteiten.
 
 #Bijzonderheden
 
-- Deze reis vertrek 2 x per maand van april t/m september.
-- Dit is een zware reis. Je dient over een goede conditie te beschikken en in staat te zijn wandelingen van 6-9 kilometer te kunnen maken in een warm klimaat.]]></get-trip-scraped-content>
+Deze reis vertrek 2 x per maand van april t/m september.
+Dit is een zware reis. Je dient over een goede conditie te beschikken en in staat te zijn wandelingen van 6-9 kilometer te kunnen maken in een warm klimaat.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/9402435acd6e08dfc75b7b8cefcb30732106b4c4.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/34fc326c244aafe332acd1dc6444bae810647d78.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/d3c37649ff4a4031e4f194b5aee8d8c95a49694d.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider13.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Wildlife Conservation Journey</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Groepsreis Australie Wildlife Conservation Journey</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
-    <get-trip-lowest-price-2p>1.561</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>1.557</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-wildlife-conservation-journey.html</get-trip-url>
@@ -148,8 +163,6 @@ Kinderen vanaf 13 jaar mogen deelnemen
 #4 dagen
 
 #Richtprijs A$ 2560
-
-#Tour info
 
 #Richtprijs*
 
@@ -181,7 +194,7 @@ Vandaag reis je hoog de bergen in van East Gippsland. Hier vind je eerst bossen 
 
 Dag 3
 
-De activiteiten van vandaag spelen zich af rond een grote riviermonding aan de Wilderness Coast. Je maakt verschillende korte wandelingen door een afwisselend landschap met elk zijn eigen vegetatie en dierenleven. Van laagland regenwoud, door heide, langs een boskreek en uiteindelijk tot het getijdegebied van de riviermonding. Je ziet hier de zeearend, ijsvogels, kaketoes, zwarte zwanen en reusachtige varanen. Na de lunch bezoek je bij 90-mile beach een rotsachtig gedeelte van de kust met poelen en door de wind grillig gevormde struiken. Bij mooi weer wordt er buiten aan het strand gedineerd. Op de terugweg naar de B&B ga je op zoek naar de kangoeroes en wombats die in de graslanden te vinden zijn.
+De activiteiten van vandaag spelen zich af rond een grote riviermonding aan de Wilderness Coast. Je maakt verschillende korte wandelingen door een afwisselend landschap met elk zijn eigen vegetatie en dierenleven. Van laagland regenwoud, door heide, langs een boskreek en uiteindelijk tot het getijdegebied van de riviermonding. Je ziet hier de zeearend, ijsvogels, kaketoes, zwarte zwanen en reusachtige varanen. Na de lunch bezoek je bij 90-mile beach een rotsachtig gedeelte van de kust met poelen en door de wind grillig gevormde stuiken. Bij mooi weer wordt er buiten aan het strand gedineerd. Op de terugweg naar de B&B ga je op zoek naar de kangoeroes en wombats die in de graslanden te vinden zijn.
 
 Dag 4
 
@@ -190,11 +203,22 @@ Na een rustige ochtend bij de monding van de Snowy River keer je terug naar Melb
 De echidna is (samen met de platypus) het enige eierleggende zoogdier op aarde. Echidna's bewonen het gebied van East Gippsland en je hebt een goede kans ze tijdens deze reis te zien!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/82267a657a708b5d208ee316af0d07ea99f88698.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/7ecfb73ffc4dd797b45c4f70f0717536f7ed5a15.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider10.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>4WD avontuur westkust en Kimberley (mei t/m september)</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>4WD avontuur westkust en Kimberley</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
     <get-trip-lowest-price-2p>9.150</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -206,10 +230,10 @@ De echidna is (samen met de platypus) het enige eierleggende zoogdier op aarde. 
 Een onvergetelijk avontuur langs ongerepte kustlijnen, mooie landschappen en bijzondere kloven. Op deze route ga je door het gebied van Australië waar dorpen ver uit elkaar liggen en veel 4WD wegen te vinden zijn. Deze brengen je vaak naar de meest bijzondere plekken!
 
 #Self-Drive met accommodatie
-Je reist in een krachtige 4WD met goede verzekering – ideaal voor de ruige zandwegen onderweg. Overnachten doe je op unieke plekken: van stadshotels tot afgelegen cattlefarms in de outback, van eenvoudige cabins waar niks anders te vinden is tot luxe glamping tenten met alle comfort. Juist deze bijzondere locaties maken de reis zo avontuurlijk én comfortabel. Op basis van reacties van reizigers die eerder deze route hebben afgelegd: "dit avontuur is elke cent waard."
+Je reist in een krachtige 4WD met goede verzekering - ideaal voor de ruige zandwegen onderweg. Overnachten doe je op unieke plekken: van stadshotels tot afgelegen cattlefarms in de outback, van eenvoudige cabins waar niks anders te vinden is tot luxe glamping tenten met alle comfort. Juist deze bijzondere locaties maken de reis zo avontuurlijk én comfortabel. Op basis van reacties van reizigers die eerder deze route hebben afgelegd: 'dit avontuur is elke cent waard.'
 
 #Voorbeeldreis
-Uiteraard is deze reis op maat aan te passen, wij hebben hier een leuk voorbeeld in elkaar gezet voor een passend tempo waarbij je alle highlights langs deze route kan zien! In overleg kunnen we deze reis helemaal naar wens voor je aanpassen
+Uiteraard is deze reis op maat aan te passen, wij hebben hier een leuk voorbeeld in elkaar gezet voor een passend tempo waarbij je alle highlights langs deze route kan zien! In overleg kunnen we deze reis helemaal naar wens voor je aanpassen.
 
 #Wat je gaat doen
 Deze reis begint in Perth, waar je een dagje kan bijkomen. De volgende twee dagen maak je vanuit Perth uitstapjes naar de buitenwijk Fremantle en gaat quokka's spotten op Rottnest Island.
@@ -229,14 +253,6 @@ Deze reis kan ook in omgekeerde volgorde uitgevoerd worden.
 #Uitbreiding opties
 Leuke aanvullingen op dit programma kunnen zijn om bij Broome naar het Dampier Peninsula te gaan. Ook kun je met wat extra tijd vanaf de Gibb River Road de Mitchell Falls bezoeken. Heb je dan nog geen genoeg van al het verschillende natuurschoon? Voeg aan het einde van de reis nog een nacht in Litchfield NP toe, om echt alles uit deze reis te halen.
 
-#Vanaf Amsterdam
-inclusief vlucht
-
-#34 dagen
-
-#Richtprijs € 9150 p.p.*
-* hoogseizoentarief
-
 #Richtprijs
 € 9150 p.p. *
 Vertrek: Dagelijks
@@ -244,7 +260,7 @@ Kimberley regio is alleen toeganklijk van Mei t/m September
 
 *) Tarief op basis van 2 volwassenen reizend in het hoogseizoen (Juli t/m Augustus). Tarief kan wijzigen als samenstelling en/of reisperiode anders is en is afhankelijk van de beschikbaarheid van de reisonderdelen waaronder ook het vliegticket.
 
-Tip: Boek deze reis ruim van tevoren. Zowel de 4WD auto als de accommodaties in de outback en Kimberley zijn beperkt beschikbaar en snel volgeboekt. We raden aan om minstens 8 - 12 maanden van tevoren te boeken, maar eerder kan ook. Later, we doen ons best en vinden meestal een goed alternatief mocht er een en ander vol zitten.
+Tip: Boek deze reis ruim van tevoren. Zowel de 4WD auto als de accommodaties in de outback en Kimberley zijn beperkt beschikbaar en snel volgeboekt. We raden aan om minstens 8 - 12 maanden van tevoren te boeken, maar eerder kan ook.
 
 #Reisprogramma 4WD westkust en Kimberleys 34 dagen
 
@@ -364,12 +380,10 @@ Vandaag vlieg je terug naar huis. Met een relatief korte vlucht vlieg je met Sin
 Dag 34 - Terug thuis!
 Na de lange vluchten kom je thuis en zul je nog lang nagenieten van dit onvergetelijke avontuur!
 
-De reis kan ook in omgekeerde volgorde worden gedaan, dus start in Darwin en einde in Perth. Vertrek je in mei, dan is het handiger om in Perth te starten, vertrek je in september, start dan in Darwin. Dat heeft te maken met het klimaat. Neem contact op met ons zodat we je kunnen adviseren over wat het beste bij jullie wensen past.
-
-Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel naar wens aanpassen.
+De reis kan ook in omgekeerde volgorde worden gedaan, dus start in Darwin en einde in Perth. Vertrek je in mei, dan is het handiger om in Perth te starten, vertrek je in september, start dan in Darwin. Dat heeft te maken met het klimaat.
 
 #Inbegrepen
-- retourvlucht Amsterdam – Australië
+- retourvlucht Amsterdam - Australië
 - 31 overnachtingen in mix aan accommodaties, hotel, cabins en luxe safari tenten.
 - Voor 5 nachten inclusief luxe diner & ontbijt! en nogmaals 5 nachten met ontbijt.
 - 28 dagen 4WD autohuur inclusief autoverzekering
@@ -384,10 +398,33 @@ Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel na
 - persoonlijke uitgaven]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/99d5bba2d253df70420ba7bf52924534810ddff3.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/6319423a3bd28bb70409da0016e569602069b7ae.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_23.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_8b.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_10b.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_20.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_21.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_22.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_24.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beste van Australië Rondreis</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>6.570</get-trip-lowest-price-2p>
@@ -432,10 +469,6 @@ Al met al heb je bij deze reis een prachtige en gevarieerde combinatie van natuu
 * Dagexcursie Whitsunday Islands Sailing
 * Dagexcursie naar het Great Barrier Reef
 * Een aantal maal ontbijt
-
-#Voorbeeld reis
-
-Vergeet niet, dit is slechts een voorbeeld van een dergelijke reis en we kunnen deze geheel naar wens aanpassen. De reis is optioneel nog uit te breiden met verschillende activiteiten.
 
 #Richtprijs
 
@@ -482,110 +515,134 @@ Let op: Bij onze Self-Drive pakketten ontvang je de adres- en contactgegevens va
 
 #Reisprogramma Best Of Australia 32 dagen
 
-Dag 1 – Vertrek uit Amsterdam
+Dag 1 - Vertrek uit Amsterdam
 Vandaag begint je reis en vlieg je met een tussenlanding naar Darwin. Het is mogelijk om eventueel wat langer op je over overstap plaats (meestal Singapore) te blijven, vraag naar de mogelijkheden.
 
-Dag 2 – Aankomst in Darwin
+Dag 2 - Aankomst in Darwin
 Vanaf je tussenstop in Singapore is het nog 'maar' 5,5 uur vliegen naar Darwin in het noorden van Australië. Het vliegveld ligt vlak bij de stad, dus je bent zo in het centrum. Hier verblijf je twee nachten in een centraal gelegen stadshotel.
 
-Dag 3 – Darwin
+Dag 3 - Darwin
 Een volle dag om de stad en/of omgeving te verkennen. Ben je op donderdag of zondag in Darwin, dan kun je een bezoekje brengen aan de leuke Mindil Night Markets aan het strand.
 
-Dag 4 – Darwin – Lichtfield National Park (116 km)
+Dag 4 - Darwin – Lichtfield National Park (116 km)
 Nadat je de huurauto hebt opgehaald, vertrek je richting het zuiden. Een korte rit naar de eerste bestemming: het mooie Lichtfield NP, waar je een nacht verblijft. In het park kan je genieten van mooie watervallen tussen het bruin/rode gesteente en de tropische vegetatie. Bij enkele watervallen kun je een heerlijke duik nemen.
 
-Dag 5 – Lichtfield – Kakadu National Park (270 km)
+Dag 5 - Lichtfield – Kakadu National Park (270 km)
 Je kunt in de ochtend nog een keer Litchfield National Park in. Na de lunch vertrek je naar het uitgestrekte Kakadu National Park. Dit is misschien wel het bekendste natuurgebied van heel Australië met een rijke Aboriginal geschiedenis. Die kan je terugvinden in prachtige rotsschilderingen. Maar ook is het een park beroemd om de fantastische stukken natuur met een rijk dierenleven. Je verblijft twee nachten in een bush bungalow in het centraal gelegen plaatsje Jabiru.
 
-Dag 6 – Kakadu
+Dag 6 - Kakadu
 Je hebt de hele dag om verder het park ontdekken, tijdens korte of langere wandelingen langs de rotswanden van Arnhemland met z'n indrukwekkende rotsschilderingen. Vergeet ook het informatieve bezoekerscentrum niet. Ga in de namiddag naar Ubirr Rock, hier heb je een prachtig uitzicht over de moerrassen en zijn op deze rots heilige rotschilderingen te vinden.
 
-Dag 7 – Kakadu
+Dag 7 - Kakadu
 Nog een dag in Kakadu National Park. Er is zoveel te zien, vraag in het bezoekerscentrum naar alle korte wandelingen. Je overnacht op een andere plek, bij Cooinda, vanaf waar je de volgende ochtend de moerassen gaat verkennen.
 
-Dag 8 – Kakadu – Katherine Gorge (287 km)
+Dag 8 - Kakadu – Katherine Gorge (287 km)
 Vroeg op voor een 2 uur boottrip door de vogelrijke wetlands van de Yellow Waters om de grote zoutwaterkrokodillen te spotten. Daarna verlaat je Kakadu en reis je verder naar het zuiden. Onderweg is een bezoek aan het Edith Falls NP een aanrader. Je kunt hier lekker zwemmen en een mooie wandeling maken naar de bovenkant van deze watervallen. Vervolgens rijd je richting Katherine Gorge om deze spectaculaire reeks van kloven te bezoeken. Je overnacht in een cabin bij de Gorge zelf, op echt Outback park waar je 's avonds gezellig bij het kampvuur kunt zitten.
 
-Dag 9 – Katherine Gorge - Mataranka (136 km)
+Dag 9 - Katherine Gorge - Mataranka (136 km)
 De beste manier om deze gorges te bezoeken is natuurlijk vanaf het water. Dit staat dan ook op het programma vandaag! Tijdens deze excursie met een kleine boot en een gids vaar je tussen de steile rotswanden van de kloven en wie weet spot je nog wat wildlife in het water! Vanaf Katherine volg je de Stuart Highway verder naar het zuiden. Deze legendarische Outback Roadtrip heeft verrassende stops onderweg, zoals vandaag de Mataranka Hotsprings, een must do is het zwemmen in deze warmwaterbronnen in de jungle vegetatie. Je overnacht in Mataranka zelf.
 
-Dag 10 – Mataranka – Tennant Creek (567 km)
+Dag 10 - Mataranka – Tennant Creek (567 km)
 Onderweg wordt de vegetatie steeds minder weelderig en meer woestijnachtig. Deze rit door het eindeloze, indrukwekkende 'niets', op weg naar het hart van Australië, is voor veel mensen een van de hoogtepunten van de reis. In het pioniersdorpje Daly Waters, moet je echt even stoppen bij deze typische Australische kroeg, de oudste pub van Outback Australia. Je overnacht in Tennant Creek, een echt klassiek Outback dorpje, waar je de volgende ochtend na een uurtje onderweg stopt bij de bizarre rotsformatie: de Devil's Marbles; het mooiste licht is 's ochtends vroeg.
 
-Dag 11 – Tenant Creek – Alice Springs (509 km)
+Dag 11 - Tenant Creek – Alice Springs (509 km)
 Na een lange roadtrip door de Outback arriveer je in het hart van Australië. In Alice Springs verblijf je eerst twee nachten in een eigen huisje op een holiday park met een heerlijk zwembad.
 
-Dag 12 – Alice Springs
+Dag 12 - Alice Springs
 Niet ver van de stad liggen de MacDonnell Ranges, de perfecte dagbesteding voor vandaag. Een prachtig National Park met verschillende leuke stops. In deze bergrug vind je oases met permanent water in kloven uitgesleten door zelden stromende rivieren. De uitzichten op het echte typische rode gesteende zorgen voor wat mooie kiekjes.
 
-Dag 13 – Alice Springs – Kings Canyon (436 km)
+Dag 13 - Alice Springs – Kings Canyon (436 km)
 Tijdens je lange rit van Alice Springs naar Kings Canyon kan je onderweg meerdere keren een mooie stop maken. Je maakt vooral de uitgestrektheid van de rode woestijn mee! Je verblijft een nachtje op de cattle farm King Creek Station die ook allerlei accommodaties aanbiedt. Je overnacht in een comfortabele glamping tent met eigen badkamer, het diner is inbegrepen!
 
-Dag 14 – Kings Canyon – Ayers Rock (324 km)
+Dag 14 - Kings Canyon – Ayers Rock (324 km)
 In de ochtend ga je naar Kings Canyon zelf. Je kunt hier een fraaie wandeling maken bovenlangs de steile kliffen (pittig) of onderlangs in het dal. In de middag reis je verder en daar ben je dan! Bij de legendarische Uluru (Ayers Rock)! Een heilige plaats voor de Aboriginal Cultuur, belangrijk om dit dan ook in acht te houden. Je zult hier twee nachten verblijven, zodat je er ultiem van kan genieten! Ga vanavond de zondondergang bij Uluru bekijken, magisch! Je overnacht in de Outback Lodge, een goed verzorgde, eenvoudige accommodatie vlakbij Uluru.
 
-Dag 15 – Uluru (Ayers Rock)
+Dag 15 - Uluru (Ayers Rock)
 In de ochtend kun je eerst nog een bezoekje brengen aan het cultureel centrum voor meer informatie over deze gigantische rots, en daarna een wandeling rondom Uluru maken. Minder bekend, maar minstens zo spectaculair, zijn de rotsen van Kata Tjuta (de Olga's) die even verderop liggen.
 
-Dag 16 – Ayers Rock – Sydney
+Dag 16 - Ayers Rock – Sydney
 Rond het middaguur lever je de huurauto in bij de kleine luchthaven en vlieg je van totale rust in de natuur richting de grootste stad van Australië, Sydney! Misschien wel de mooiste stad ter wereld, vol met leuke bezienswaardigheden.
 
-Dag 17 – Sydney
+Dag 17 - Sydney
 Er verschillende activiteiten te doen in Sydney. Je overnacht in The Rocks, de historische wijk aan de voet van de Harbour Bridge. De komende dagen kun je het beroemde Sydney Opera House bezoeken, de botanische tuin en naar Manly of Bondi Beach. Met de veerboten kun je verschillende plekken van de stad eenvoudig bezoeken.
 
-Dag 18 – Sydney - Blue Mountains
+Dag 18 - Sydney - Blue Mountains
 Bij deze reis in een dagexcursie naar de Blue Mountains inbegrepen. Met een groep van max. 14 deelnemers en gids bezoek je deze fraaie bergen. Je maakt een wandeling met de gids. De kabelbaan tickets en 'steepest railway' zijn inbegrepen, net als een stop bij een wildlife park met Australische dieren.
 
-Dag 19 – Sydney
+Dag 19 - Sydney
 Vrije dag Sydney. Tip, neem de veerboot naar Watsons Bay en wandel naar Bondi Beach (7km) en neem de bus terug.
 
-Dag 20 – Sydney – Hamilton Island
+Dag 20 - Sydney – Hamilton Island
 Vanuit Sydney vervolg je de reis met een binnenlandse vlucht naar Hamilton Island aan de oostkust, vanaf waar je de boot richting Airlie Beach pakt en hier twee nachten zal verblijven. Een fijne accommodatie met uitzicht op de zee.
 
-Dag 21 – zeiltocht Whitsunday Islands
+Dag 21 - zeiltocht Whitsunday Islands
 Vanaf Airlie Beach vertrek je voor een zeiltocht langs de fantastische Whitsunday eilanden. Parelwitte stranden en snorkel mogelijkheden bij het Great Barrier Reef. Een geweldige onderwaterwereld vol met mooie vissen, schildpadden en kleurrijk koraal!
 
-Dag 22 – Airlie Beach – Magnetic Island (272 km)
+Dag 22 - Airlie Beach – Magnetic Island (272 km)
 Je haalt je huurauto op en de reis door Australië gaat verder richting het noorden. Vanaf Townsville pak je de boot naar Magnetic Island, een gezellig eiland met leuke mogelijkheden! Je verblijft hier 2 nachten in een goed verzorgd hotel vlakbij de haven.
 
-Dag 23 – Magnetic Island
+Dag 23 - Magnetic Island
 Een volle dag om Magnetic Island verkennen. Zo kun je een bezoekje brengen aan een van de mooie stranden of een wandeling maken naar een hooggelegen fort met prachtige uitzichten (kans op koala's!). Of zoek de wilde wallaby's op die op het eiland wonen. Oftewel een goeie mix voor een dag goed vermaak.
 
-Dag 24 – Magnetic Island – Atherton Tablelands (345 km)
+Dag 24 - Magnetic Island – Atherton Tablelands (345 km)
 De accommodatie waar je vannacht zult slapen, is er eentje die je niet snel zal vergeten. Midden in het bergregenwoud van de Atherton Tablelands zal je vanavond in slaap vallen. Vanuit je luxe treehouse met veranda, keuken en openhaard, kijk je uit over het oerbos en ontwaak je met de tropische vogels. Goed nieuws, je verblijft hier twee nachten!
 
-Dag 25 – Atherton Tablelands
+Dag 25 - Atherton Tablelands
 Een van de leukste dieren die je kan tegenkomen in de Atherton Tablelands zijn de vogelbekdieren, een zeldzaam beestje om te spotten, maar zeker niet onmogelijk. De gastvrouw van je accommodatie kan je precies vertellen waar! Ook heb je genoeg tijd om vandaag naar de Hypipamee krater te gaan, een diepe krater die je niet wilt overslaan. Bij Lake Eacham of Lake Barrine kun je een mooie wandeling door het tropische regenwoud rond dit kratermeer maken. Wij hebben er paradijsvogels gezien!
 
-Dag 26 – Atherton Tablelands – Cape Tribulation (205 km)
+Dag 26 - Atherton Tablelands – Cape Tribulation (205 km)
 Boven Cairns bevindt zich het oudste regenwoud ter wereld en hier zal je twee nachten verblijven in een accommodatie in het regenwoud én aan het strand, met uitzicht op de bekende Cape Tribulation. Een unieke plek midden in de natuur.
 
-Dag 27 – Cape Tribulation
+Dag 27 - Cape Tribulation
 Een volle dag om te relaxen aan het verlaten strand, en de omgeving te verkennen, laat je door de receptie infomeren over alle mogelijkheden! Wandelen in het regenwoud, langs het strand, paardrijden, nachtdierensafari, etc…
 
-Dag 28 – Cape Tribulation – Palm Cove (118 km)
+Dag 28 - Cape Tribulation – Palm Cove (118 km)
 Om de vakantie goed af te sluiten, blijf je de laatste drie nachten in het heerlijke Palm Cove, een relaxt en kleinschalig kustplaatsje in tropische sferen.
 
-Dag 29 – Palm Cove - Great Barrier Reef
+Dag 29 - Palm Cove - Great Barrier Reef
 Vandaag is inbegrepen een dagexcursie naar het Great Barrier Reef. Vanaf Cairns vertrek je met een kleinschalige zeilboot voor een bezoek aan Green Island en de een aantal koraalriffen waar je gaat snorkelen. Tegen een meerprijs kun je ook een scuba-duik maken.
 
-Dag 30 – Palm Cove
+Dag 30 - Palm Cove
 Een vrije dag in Palm Cove om heerlijk op het strand te luieren. Of je kan vandaag nog een leuke activiteit in de omgeving gaan doen, zoals bijvoorbeeld een bezoekje aan het bergdorpje Kuranda, per langste kabelbaan ter wereld omhoog en per historische trein terug dwars over en door het regenwoud, aanrader!
 
-Dag 31 – Palm Cove - Amsterdam
+Dag 31 - Palm Cove - Amsterdam
 Helaas komt er aan elke reis ook weer een einde, maar hopelijk heb je fantastisch genoten van dit onvergetelijke land! Vandaag lever je de auto weer in en stap je op het vliegtuig richting huis, met een volle bagage aan herinneringen.
 
-Dag 32 – Amsterdam
+Dag 32 - Amsterdam
 Eenmaal terug in Nederland kan je beginnen aan het nagenieten van een heerlijke reis!
 
 Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel naar wens aanpassen.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/8d28a5400cfdf4f02ee5cffec5be4c84b2b97951.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/d88c6cfd8329260025314b479b0118baf0c4c187.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-01.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-02.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-03.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-04.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-05.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-06.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-07.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-08.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-09.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-20.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-21.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-22.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-23.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Beste van Australië Rondreis (oktober - mei)</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Beste van Australië Rondreis</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>5.700</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -616,7 +673,6 @@ Aan het einde van deze route volgt een verblijf op dit beroemde eiland, waar je 
 Al met al heb je bij deze reis een prachtige en gevarieerde combinatie van natuurgebieden met de prachtige Australische kust als achtergrond. Van de levendige wereldsteden Sydney en Melbourne tot aan de ongerepte natuurgebieden vol wildlife. Kortom het beste dat Australië te bieden heeft in één reis voor de periode oktober tot mei.
 
 #Inbegrepen:
-
 * Retourvlucht Amsterdam – Australië
 * 2 binnenlandse vluchten
 * Vervoer binnen Australië: autohuur 2WD
@@ -624,7 +680,6 @@ Al met al heb je bij deze reis een prachtige en gevarieerde combinatie van natuu
 * Een aantal maal ontbijt
 
 #Voorbeeld reis
-
 Vergeet niet, dit is slechts een voorbeeld van een dergelijke reis en we kunnen deze geheel naar wens aanpassen. De reis is optioneel nog uit te breiden met verschillende activiteiten.
 
 #Vanaf Amsterdam
@@ -635,9 +690,7 @@ inclusief vlucht
 #Richtprijs € 5700 p.p.
 
 #Richtprijs
-
 € 5700 p.p. *
-
 *) Tarief p.p. op basis van 2 samenreizende personen in het hoogseizoen (oktober t/m maart), tussen half december en half januari is de prijs op aanvraag i.v.m. piek-seizoen.
 
 #Inbegrepen
@@ -663,7 +716,6 @@ Veerboot van en naar Kangaroo Island,
 Wandeling (1,5 uur) met natuurgids 'Walk with Wildlife'.
 
 #Niet inbegrepen
-
 Optionele excursies,
 Overige maaltijden en persoonlijke uitgaven.
 Reserveringskosten: € 45,
@@ -671,7 +723,6 @@ Bijdrage SGR: € 5 p.p.,
 Heffing Calamiteitenfonds € 2,50
 
 #Bijzonderheden
-
 Let op: Bij onze Self-Drive pakketten ontvang je de adres- en contactgegevens van alle accommodaties en indien nodig een eenvoudige routebeschrijving naar het camp/hotel. Je ontvangt echter geen uitgebreide routebeschrijving voor het reistraject tussen de verschillende nachten. Je kunt zelf je route en stops onderweg bepalen, afhankelijk van de persoonlijke wensen.
 
 #Reisprogramma Best Of Australia 32 dagen
@@ -777,10 +828,32 @@ Je komt vroeg in de ochtend aan in Amsterdam.
 Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel naar wens aanpassen.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/aaf2783bda20f431efdb275b12e2a9446f3f7fa5.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/7b28768ecf59f166c93081ffc915fa8bd2fa39ac.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-08.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-02.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-03.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-04.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-05.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-06.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-07.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-01.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-09.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-20.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-21.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië met kinderen Rondreis</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>4.985</get-trip-lowest-price-2p>
@@ -831,125 +904,125 @@ Vertrek: dagelijks
 
 In het dagprogramma staan een aantal variatietips op het programma aangegeven om de reis mee te verlengen of in te korten. Ook staan er leuke optionele excursies die goed in deze reis passen. Er zijn uiteraard meer mogelijkheden, je kan altijd specifieke wensen doorgeven aan onze reisagenten.
 
-Dag 1 – Vertrek uit Amsterdam
+Dag 1 - Vertrek uit Amsterdam
 Vandaag vliegen jullie naar Sydney. Aankomst is de volgende dag.
 Variatietip: om de vliegreis te onderbreken kunnen jullie een stopover maken van een of enkele nachten in Singapore.
 
-Dag 2 – Aankomst in Sydney
+Dag 2 - Aankomst in Sydney
 In de loop van de avond komen jullie aan in Sydney. Vanaf de luchthaven kunnen jullie een taxi nemen naar het hotel.
 Verblijf: jullie overnachten de komende 3 nachten in een centraal gelegen accommodatie met een family room.
 
-Dag 3 – Sydney
+Dag 3 - Sydney
 De eerste dag in Sydney is een rustdag om bij te komen van de lange reis. Maar ook om de stad te ontdekken, zoals het Opera House en de Botanical Gardens. Ook leuk: neem de ferry over Sydney Harbour, bijvoorbeeld van Circular Quay naar Darling Harbour, of naar Manly Beach of Watsons Bay.
 Variatietip: extra dag in Sydney
 Optionele excursie: Bridgeclimb Sydney Harbour Bridge of een fietstour van ongeveer 3 uur met gids om de stad te verkennen.
 
-Dag 4 – Sydney - Blue Mountains
+Dag 4 - Sydney - Blue Mountains
 Vandaag staat er een dagexcursie naar de Blue Mountains op het programma. Je vertrekt 's ochtends vroeg met een kleine groep van maximaal 20 deelnemers met een minibus en gids. De eerste stop is Echo Point vanwaar jullie een geweldig uitzicht hebben over de beroemde Three Sisters. Vervolgens bezoeken jullie Scenic World. Het is een belevenis voor alle leeftijden. Jullie kunnen een ritje maken over de steilste spoorlijn ter wereld, wandelen door oeroud subtropisch regenwoud en dan met de kabelbaan, met prachtige vergezichten over Jamison Valley en de Three Sisters, terug naar het startpunt. Na een aantal andere bezienswaardigheden in the Blue Mountains en een lunch bezoeken jullie een Wildlife Park waar je dichtbij Australische dieren kan komen. De dagexcursie eindigt met een ferry-tocht over de rivier, onder de Harbour Bridge door naar Circular Quay vanwaar jullie terug naar het hotel kan wandelen.
 
-Dag 5 – Sydney – Alice Springs (vlucht)
-'s Morgens vliegen jullie van Sydney naar Alice Springs, in The Red Centre. In Alice Springs halen jullie een 4WD-camper op, geschikt voor 4 personen voor een 7-daagse kampeerreis door The Red Centre. Deze 4WD-camper heeft 2 daktenten zodat jullie allen boven de grond kunnen slapen. De eerste nacht blijven jullie in Alice Springs, er zijn meerdere campings. Hier kunnen jullie alvast de boodschappen doen voor de komende dagen.
+Dag 5 - Sydney – Alice Springs (vlucht)
+'s Morgens vliegen jullie van Sydney naar Alice Springs, in The Red Centre. In Alice Springs halen jullie een 4WD-camper op, geschikt voor 4 personen voor een 7-daagse kampeerreis door The Red Centre. Deze 4WD-camper heeft 2 daktenten zodat jullie allen boven de grond kunnen slapen. De eerste nacht blijven jullie in Alice Springs, er zijn meerdere campings. Hier kunnen jullie alvast de boodschappen doen voor de komende dagen. De campings tijdens deze reis kan je van tevoren zelf reserveren, je hebt de vrijheid om te kiezen of de route aan te passen naar eigen wens. De route hieronder is slechts een suggestie.
 Variatietip: willen jullie liever niet kamperen? Dan is het ook mogelijk om deze 7-daagse reis vanaf Alice Springs met een 4WD-auto en budget tot luxe accommodatie onderweg te doen.
 Variatietip: korter verblijf in The Red Centre kan door een georganiseerde kampeersafari te doen. Bijvoorbeeld de 3- of 4-daagse Red Centre Camping Safaris.
 
-Dag 6 – Alice Springs naar Uluru (Ayers Rock) (445 km)
+Dag 6 - Alice Springs naar Uluru (Ayers Rock) (445 km)
 Een lange, maar prachtige rit door de Outback. Je ervaart 'het eindeloze niets' tot in de verte de markante rotsformatie van Uluru opdoemt. Nadat je in het Uluru-Kata Tjuta National Park bent aangekomen, bezoek je in de namiddag uiteraard een spectaculaire zonsondergang bij Uluru.
 
-Dag 7 – Uluru-Kata Tjuta National Park
+Dag 7 - Uluru-Kata Tjuta National Park
 Vandaag hebben jullie een volle dag te besteden aan het bezoek van de prachtige rotsformaties Uluru en Kata Tjuta (de Olga's). Start de dag met een bezoek aan het Cultural Centre, waar jullie veel te weten kunnen komen over de geschiedenis en betekenis van het gebied. Ook kunnen jullie hier meer informatie krijgen over de diverse wandelmogelijkheden bij Uluru en Kata Tjuta, zoals bijvoorbeeld de Base Walk rondom Uluru en de Walpa Gorge Walk bij Kata Tjuta. 's Avonds kunnen jullie eventueel een bezoek brengen aan de zonsondergang bij Kata Tjuta of Uluru.
 Optionele excursie: een avondbezoek aan de spectaculaire drone/laser show Wintjiri Wiru, waarin het spirituele verhaal van de Aboriginal bevolking wordt getoond.
 
-Dag 8 – Uluru-Kata Tjuta National Park - Kings Canyon (305 km)
+Dag 8 - Uluru-Kata Tjuta National Park - Kings Canyon (305 km)
 Je hebt de ochtend om te relaxen of om nog een wandeling te maken bij Kata Tjuta. Reis na de lunch verder naar Kings Canyon voor je overnachting.
 Tip: overnacht op de camping bij Kings Creek Station.
 
-Dag 9 – Kings Canyon - West MacDonnell Ranges (225 km)
+Dag 9 - Kings Canyon - West MacDonnell Ranges (225 km)
 's Morgens staan jullie op tijd op om de prachtige wandeling boven de steile wanden van de Kings Canyon te kunnen maken (de Rim Walk). Dit is een wandeling van ca. 3-4 uur. Een eenvoudigere wandeling is mogelijk over de bodem van de vallei. Vanuit Kings Canyon rijden jullie naar de West MacDonnell Ranges over de onverharde Mereenie Loop. Deze rit over de (rode) zandweg is een geweldig avontuur voor de hele familie. In de Ranges zijn verschillende eenvoudige campings.
 Tip: overnacht op de camping bij Ormiston Gorge.
 
-Dag 10 – West MacDonnell Ranges - Alice Springs (136 km)
+Dag 10 - West MacDonnell Ranges - Alice Springs (136 km)
 Deze dag heb je de tijd om alle mooie plekken van de West MacDonnell Ranges te bekijken. Deze bergrug is een verrassing in de woestijn. Oases met palmen, rots kangoeroes, bizarre rotsformaties, Aboriginal sites en koude meertjes waar je kan afkoelen. Je kan hier de hele dag over doen of je komt al eerder aan in Alice Springs en kan daar bijvoorbeeld het historische Telegraph Station of het Desert Park bezoeken.
 
-Dag 11 – Alice Springs - Brisbane (vlucht)
+Dag 11 - Alice Springs - Brisbane (vlucht)
 Voorafgaande aan de vlucht lever je de 4WD-camper in en vlieg je naar Brisbane.
 Verblijf: jullie overnachten in een hotel midden in het centrum, maar toch rustig gelegen aan de rand van de botanische tuin.
 
-Dag 12 – Brisbane
+Dag 12 - Brisbane
 Een volle dag om deze verrassende stad te verkennen. Start met een wandeling door de botanische tuin vanwaar je met een loopbrug over de rivier naar South Bank kan wandelen. South Bank is een uniek park langs de rivier met een gratis zwembad in subtropische setting en gezellige terrasjes. Een volgende brug brengt je in het stadscentrum, waar veel shopping malls zijn met de typisch Australische foodcourts en een keuze uit restaurants.
 Variatietip: heb je minder tijd, dan kan je deze dag overslaan en de auto ophalen om de reis langs de oostkust te starten.
 
-Dag 13 – Brisbane – Rainbow Beach (240 km)
-Vandaag halen jullie de huurauto op bij het depot naast je hotel. Onderweg kan je de Australian Zoo bezoeken, de beroemde dierentuin van de Crocodile Man: Steve Irwin. Rainbow Beach is een relatief rustig plaatsje aan de Sunshine Coast met een mooie baai waar je de komende 3 nachten verblijft in een 2-bedroom apartment.
+Dag 13 - Brisbane – Rainbow Beach (240 km)
+Vandaag halen jullie de huurauto op bij het depot naast je hotel, dat is makkelijk en met een fly-over ben je direct het centrum uit. Onderweg kan je de Australian Zoo bezoeken, de beroemde dierentuin van de Crocodile Man: Steve Irwin. Rainbow Beach is een relatief rustig plaatsje aan de Sunshine Coast met een mooie baai waar je de komende 3 nachten verblijft in een 2-bedroom apartment.
 
-Dag 14 – Rainbow Beach – Dolphin View Kayak Tour
+Dag 14 - Rainbow Beach – Dolphin View Kayak Tour
 Afhankelijk van het getij worden jullie 's ochtends of 's middags opgehaald door Epic Ocean Adventures voor een spectaculaire rit per 4WD over Rainbow Beach, met de duinen in verschillende kleuren zand. De rit brengt jullie naar Double Island Point waar jullie met een ervaren gids kajakken op zee tussen de dolfijnen. Ook kunnen jullie schildpadden en mantaroggen zien en in juli en augustus mogelijk zelfs walvissen! Een onvergetelijke ervaring. De rest van de dag is vrij te besteden en zouden jullie bijvoorbeeld een surfles kunnen nemen.
 Optionele excursie: reis je met jonge kinderen onder de 8 jaar, dan is een kortere kajakexcursie mogelijk waarbij je waterschildpadden opzoekt in rustig water.
 
-Dag 15 – Rainbow Beach - K'gari (Fraser Island) excursie
+Dag 15 - Rainbow Beach - K'gari (Fraser Island) excursie
 Vroeg op voor een dagexcursie naar K'gari. Dit zandeiland is uniek in z'n soort, hier groeit namelijk een groot tropisch regenwoud op. Daarnaast zijn er tussendoor helderblauwe meertjes in het binnenland en een geweldig wit zandstrand dat tegelijk voor een deel de weg is. Er zijn hier alleen maar zandwegen en het strand en je 4WD-bus weet daar wel raad mee. Na een lange maar indrukwekkende dag keer je weer terug in Rainbow Beach.
 Variatietip: in plaats van 3 nachten Rainbow Beach kan je ook 2 of 3 nachten op K'gari verblijven in het luxere Kingfisher Bay Resort, inclusief een dag excursie over het eiland.
 Variatietip: in plaats van 3 nachten Rainbow Beach kan je ook een 2-daagse 4WD Self-Drive doen vanaf Hervey Bay.
 
-Dag 16 – Rainbow Beach – Town of 1770 (340 km)
-Vandaag rijden jullie verder naar het noorden. Wanneer jullie vroeg op staan kunnen jullie om 08:00 naar de feeding wild dolphins-sessie in Tin Can Bay (entree A$ 5 per persoon plus A$ 5 om de dolfijnen te mogen voeren). Het stadje 1770 is genoemd naar het jaartal waarin kapitein James Cook voor de tweede keer in Australië, maar voor de eerste keer in Queensland aankwam.
-Verblijf: jullie overnachten in een leuke 2-bedroom bungalow dichtbij het strand.
+Dag 16 - Rainbow Beach – Town of 1770 (340 km)
+Vandaag rijden jullie verder naar het noorden. Wanneer jullie vroeg op staan kunnen jullie om 08:00 naar de feeding wild dolphins-sessie in Tin Can Bay (entree A$ 5 per persoon plus A$ 5 om de dolfijnen te mogen voeren). Het stadje 1770 is genoemd naar het jaartal waarin kapitein James Cook voor de tweede keer in Australië, maar voor de eerste keer in Queensland aankwam. Onderweg naar deze plaats wordt het duidelijk dat jullie in het tropische deel van Australië zijn beland en zien jullie veel suikerriet en bananenplantages.
+Verblijf: jullie overnachten in een leuke 2-bedroom bungalow dichtbij het strand, waar jullie lekker kunnen zwemmen of surfen.
 
-Dag 17 – Town of 1770 - Capricorn Caves (260 km)
+Dag 17 - Town of 1770 - Capricorn Caves (260 km)
 Even ten noorden van Rockhampton liggen de Capricorn Caves waar jullie verblijven in een luxe huisje op dit holiday park met zwembad. Entree tot de grotten is inbegrepen bij je verblijf.
 
-Dag 18 – Capricorn Caves - Airlie Beach (460 km)
+Dag 18 - Capricorn Caves - Airlie Beach (460 km)
 Vandaag een lange reisdag naar Airlie Beach, een leuke badplaats met een lagoon waar de kinderen even kunnen zwemmen. Airlie Beach is dé plaats waarvandaan de Whitsunday Islands bezocht kunnen worden.
 Verblijf: jullie overnachten de komende 2 nachten in een 2-bedroom apartment.
 Variatietip: verlenging van de reis met 2 overnachtingen in Cape Hillsborough.
 Capricorn Caves - Cape Hillsborough (360 km): Na een lange reisdag kan je een heerlijke rustdag tegemoet zien aan het unieke strand bij Cape Hillsborough National Park. Het holiday park ligt aan het strand waar in de schemering de kangoeroes de gewoonte hebben het strand op te komen, een unieke ervaring. Je verblijft 2 nachten in een family beach cabin op het holiday park.
-Cape Hillsborough - Airlie Beach (138 km): Vandaag een korte reisdag naar Airlie Beach.
+Cape Hillsborough - Airlie Beach (138 km): Vandaag een korte reisdag naar Airlie Beach, een leuke badplaats met een lagoon waar de kinderen even kunnen zwemmen.
 
-Dag 19 – Whitsunday Islands
+Dag 19 - Whitsunday Islands
 Voor vandaag staat er avontuurlijke tocht naar de Whitsundays op het programma. Met kleine raftboten varen jullie in hoog tempo naar 2 prachtige snorkellocaties. Ook staat er een bezoek aan het beroemde Whitehaven Beach op het programma en kan je vanaf het strand een wandeling naar de Hill Inlet Lookout maken.
 Variatietip: in plaats van de rafting tour kunnen jullie ook een dagtocht met een zeilboot naar Whitehaven Beach boeken.
 Variatietip: een 2- of 3-daagse zeiltocht met een overnachting aan boord.
 
-Dag 20 – Airlie Beach – Magnetic Island (275 km)
+Dag 20 - Airlie Beach – Magnetic Island (275 km)
 Jullie verlaten Airlie Beach en rijden verder richting Townsville, waar jullie aan het einde van de middag de veerboot nemen naar Magnetic Island. Dit ligt zo'n 20 km voor de kust bij Townsville. De auto mag gewoon mee op de veerboot!
 Verblijf: jullie overnachten de komende 2 nachten in een typische Queenslander Cottage op het eiland.
 
-Dag 21 – Magnetic Island
+Dag 21 - Magnetic Island
 Vandaag hebben jullie een volle dag om Magnetic Island te verkennen. Een heuvelachtig eiland met mooie strandjes. Jullie kunnen hier de Forts Walk doen, een wandeling van 4 km (retour) waarbij jullie vrijwel gegarandeerd koala's zullen zien. Ook leven er rock wallaby's op het eiland, bij Arcadia Point. Aan het einde van de dag kunnen jullie genieten van de zonsondergang bij West Point.
 
-Dag 22 – Magnetic Island - Mission Beach (235 km)
+Dag 22 - Magnetic Island - Mission Beach (235 km)
 In de ochtend nemen jullie weer de veerboot, nu terug naar het vasteland. Jullie overnachten in het plaatsje Mission Beach.
 Verblijf: een klein resort aan het palmenstrand van Mission Beach.
 
-Dag 23 – Mission Beach – Atherton Tablelands (142 km)
+Dag 23 - Mission Beach – Atherton Tablelands (142 km)
 Vandaag geen lange reisdag, maar er is veel te zien onderweg. Je reist het binnenland in, en met een slingerende weg ga je steeds hoger de Atherton Tablelands in. Deze hoogvlakte in het achterland van Cairns is begroeid met tropisch regenwoud en je vindt er tal van watervallen. Onderweg kun je de Waterfalls Circuit rijden, een 12 km lange route langs 3 mooie watervallen, waarvan de Millaa Millaa Falls de bekendste is.
 Verblijf: jullie blijven 2 nachten in een fraai gelegen Holiday Park bij het dorpje Atherton.
 
-Dag 24 – Atherton Tablelands
-Een volle dag om de omgeving te verkennen. Een eenvoudige regenwoud wandeling rond een van de kratermeren, een bezoek aan de bekende Curtain Fig Tree en aan het eind van de dag kunnen jullie op zoek gaan naar het vogelbekdier (platypus). Dit kan onder andere bij het platypus viewing platform in Yungaburra.
-Variatietip: verblijf 2 nachten in Rose Gums Rainforest Lodge met treehouse villa's.
+Dag 24 - Atherton Tablelands
+Een volle dag om de omgeving te verkennen, er is veel te zien en doen! Een eenvoudige regenwoud wandeling rond een van de kratermeren, een bezoek aan de bekende Curtain Fig Tree en aan het eind van de dag kunnen jullie op zoek gaan naar het vogelbekdier (platypus). Dit kan onder andere bij het platypus viewing platform in Yungaburra.
+Variatietip: verblijf 2 nachten in Rose Gums Rainforest Lodge met treehouse villa's, een geweldige ervaring.
 Variatietip: een dag met overnachtingen in het Undara Lava Tubes National Park.
 
-Dag 25 – Atherton - Cape Tribulation (176 km)
+Dag 25 - Atherton - Cape Tribulation (176 km)
 Vertrek op tijd voor de binnenlandroute naar Cape Tribulation. Stop voor een koffie break in de typische outback pub van Mt Molloy. Je steekt de Daintree River over met een veerboot en bent dan in het oudste regenwoud ter wereld van het Daintree National Park. Onderweg kun je een paar korte wandelingen maken door het regenwoud en een mangrovebos. Cape Tribulation is een unieke plek, daar waar het regenwoud tot aan het strand groeit.
 Verblijf: eenvoudige familie-cabins in het regenwoud, en tegelijk aan het strand.
 Variatietip: je kunt de reis inkorten door niet naar Cape Tribulation te gaan, maar direct naar Palm Cove of Cairns. Je kunt de reis ook verlengen met 1 extra nacht op Cape Tribulation.
 
-Dag 26 – Cape Tribulation - Palm Cove (119 km)
-Bezoek onderweg het Mossman Gorge Cultural Centre. Of boek een boottocht over de Daintree River op zoek naar krokodillen en diverse watervogels. Een andere leuke stop is het Wildlife Habitat Park bij Port Douglas. Aan het einde van de dag rijden jullie door naar jullie accommodatie in Palm Cove.
+Dag 26 - Cape Tribulation - Palm Cove (119 km)
+Bezoek onderweg het Mossman Gorge Cultural Centre. Of boek een boottocht over de Daintree River op zoek naar krokodillen en diverse watervogels. Een andere leuke stop is het Wildlife Habitat Park bij Port Douglas, waar je de Australische dieren 'up close and personal' kunt bekijken. Aan het einde van de dag rijden jullie door naar jullie accommodatie in Palm Cove.
 Verblijf: jullie overnachten de komende 3 nachten in een appartement vlakbij het strand.
 
-Dag 27 – Palm Cove
+Dag 27 - Palm Cove
 De laatste paar dagen van de vakantie kunnen jullie genieten aan het strand van Palm Cove, een kleine badplaats aan het palmenstrand, zonder hoogbouw, met leuke eetgelegenheden.
 Optionele excursie: Kuranda Village en Skyrail of de Regenwoud en Nachtdieren.
 
-Dag 28 – Dagexcursie Great Barrier Reef Island
-Vandaag vroeg op voor een onvergetelijke dagtrip Reef, River & Rainforest naar de Frankland Island. Na een uur rijden ga je aan boord van de boot die je naar de Frankland Islands brengt, een eilandengroep op het Great Barrier Reef. Het eiland heeft prachtige witte stranden en is omringd door een prachtig koraalrif. Je ziet hier vaak zeeschildpadden, octopussen en de 'nemo' anemoonvisjes. De tour start met een Rainforest River Cruise, gevolgd door een korte oversteek naar de eilanden. Je hebt minimaal 4 uur de tijd op het eiland om te snorkelen en te relaxen. Er zijn ook SUPs en kajaks beschikbaar.
+Dag 28 - Dagexcursie Great Barrier Reef Island
+Vandaag vroeg op voor een onvergetelijke dagtrip Reef, River & Rainforest naar de Frankland Island. Na een uur rijden ga je aan boord van de boot die je naar de Frankland Islands brengt, een eilandengroep op het Great Barrier Reef. Dit is de enige excursie die dit eiland mag bezoeken. Het eiland heeft prachtige witte stranden en is omringd door een prachtig koraalrif. Je ziet hier vaak zeeschildpadden, octopussen en de 'nemo' anemoonvisjes. De tour start met een Rainforest River Cruise, gevolgd door een korte oversteek naar de eilanden. Je hebt minimaal 4 uur de tijd op het eiland om te snorkelen en te relaxen. Er zijn ook SUPs en kajaks beschikbaar.
 Alternatieve excursie: vanaf Cairns kun je een dag naar het Great Barrier Reef, of met een zeilboot naar Green Island, of naar het Outer Reef.
 
-Dag 29 – Palm Cove - Cairns luchthaven (26 km)
+Dag 29 - Palm Cove - Cairns luchthaven (26 km)
 Na een rustige ochtend rijden jullie naar Cairns luchthaven om de auto hier rond 15:00 in te leveren. Rond 18:00 vertrekt jullie vlucht via Singapore naar Amsterdam.
 
-Dag 30 – Amsterdam
+Dag 30 - Amsterdam
 's Ochtends vroeg landen jullie weer op Schiphol. Tijd om de familie en vrienden jullie verhalen te vertellen en foto's te laten zien.
 
 #Inbegrepen
@@ -975,36 +1048,51 @@ Dag 30 – Amsterdam
 - persoonlijke uitgaven]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/80a44348cbfe154717247a5f3c4a8539b0ba0128.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/09/20efd960f9b0fdee5af8ab6a4e96cba55fbe7d1f.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-04.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-03.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-02.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-01.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-05.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-06.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-07.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-11.jpeg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-08.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-09.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-10.png</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familie-reis-australie.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>New Zealand Adventure</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Nieuw-Zeeland Adventure</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.733</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>1.575</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-adventure.html</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#New Zealand Adventure
+    <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Adventure
 
 #Type rondreis
-Deze avontuurlijke rondreis door Nieuw-Zeeland is gericht op de reiziger tussen de 18 en 45 jaar, zonder strikte leeftijdsgrenzen, als je maar young at heart bent. De reis is bedoeld voor de redelijk fitte, actieve reiziger die een voordelige, leuke groepsreis zoekt. Je overnacht in 2-3 sterren lodges, cabins en kleine motels in gedeelde kamers. Tegen een toeslag kun je ook een 2-persoonskamer reserveren (2 nachten niet mogelijk). Je reist in een groep van gemiddeld 15 en maximaal 24 deelnemers o.l.v een gids met veel kennis van het land.
+Deze avontuurlijke rondreis door Nieuw-Zeeland is gericht op de reiziger tussen de 18 en 45 jaar, zonder strikte leeftijdsgrenzen, als je maar young at heart bent. De reis is bedoeld voor de redelijk fitte, actieve reiziger die een voordelige, leuke groepsreis zoekt. Je overnacht in 2-3 sterren lodges, cabins en kleine motels in gedeelde kamers. Tegen een toeslag kun je ook een 2-persoonskamer reserveren (2 nachten niet mogelijk). Je reist in een groep van gemiddeld 15 en maximaal 24 deelnemers onder leiding van een gids met veel kennis van het land.
 
 #Veel inbegrepen
-Bij deze reis zijn veel unieke, niet te missen, activiteiten al inbegrepen, zoals:
-* Bezoek aan Rangitoto Island inclusief de ferryovertochten
-* Hobbiton Movie Set Tour
-* Lake Aniwhenua Cultural Experience
-* Kanotocht over de Whanganui Rivier
-* Tongariro Crossing
-* Watertaxi en wandeling door Abel Tasman National Park
-* Bezoek aan de Punakaiki Pancake Rocks
-* Dagtrip en Cruise door de Milford Sound
-* Zee-kajakken in de Doubtful Sound
-* Sterrenkijken bij Lake Tekapo
+Bij deze reis zijn veel activiteiten al inbegrepen die je niet wilt missen, zoals:
+- Bezoek aan Rangitoto Island inclusief de ferryovertochten
+- Hobbiton Movie Set Tour
+- Lake Aniwhenua Cultural Experience
+- Kanotocht over de Whanganui Rivier
+- Tongariro Crossing
+- Watertaxi en wandeling door Abel Tasman National Park
+- Bezoek aan de Punakaiki Pancake Rocks
+- Dagtrip en Cruise door de Milford Sound
+- Zee-kajakken in de Doubtful Sound
+- Sterrenkijken bij Lake Tekapo
 
 #Compleet of modules
-Het interessante van deze reisorganisatie is dat je gedeeltes van deze reis kunt boeken als een kortere rondreis (module). Zo kun je bijvoorbeeld alleen het Noorder- of alleen het Zuidereiland doen of heel kort: een 3-daagse trip naar de Bay of Islands.
+Het interessante van deze reisorganisatie is dat je gedeeltes van deze reis kunt boeken als een kortere rondreis (module). Zo kun je bijvoorbeeld alleen het Noorder- of alleen het Zuidereiland doen, of heel kort: een 3-daagse trip naar de Bay of Islands.
 
 De complete route (zoals op deze pagina beschreven) is een 20-daagse rondreis van Auckland via het Noorder- en Zuidereiland naar Christchurch.
 
@@ -1018,27 +1106,28 @@ ZWAARTE: middelzwaar
 20-daagse reis Nieuw-Zeeland compleet
 Auckland - Christchurch
 NZ$ 5395 p.p. gedeelde 4-persoonskamer
-Meerprijs prive kamer op aanvragen en op basis van beschikbaarheid
+Meerprijs privékamer op aanvraag en op basis van beschikbaarheid
 
 24-daagse reis Noorder- en Zuidereiland
 Auckland - Auckland
 NZ$ 6195 p.p. gedeelde 4-persoonskamer
-Meerprijs prive kamer op aanvragen en op basis van beschikbaarheid
+Meerprijs privékamer op aanvraag en op basis van beschikbaarheid
 
 10-daagse reis Noordereiland
 Auckland - Wellington
 NZ$ 3095 p.p. gedeelde 4-persoonskamer
-Meerprijs prive kamer op aanvragen en op basis van beschikbaarheid
+Meerprijs privékamer op aanvraag en op basis van beschikbaarheid
 
 11-daagse reis Zuidereiland
 Picton - Christchurch
 NZ$ 3145 p.p. gedeelde 4-persoonskamer
-Meerprijs prive kamer op aanvragen en op basis van beschikbaarheid
+Meerprijs privékamer op aanvraag en op basis van beschikbaarheid
 
-*) deze prijs is in principe correct, maar kan afwijken door een jaarovergang (1 april), een hoog- of laagseizoen of door een tijdelijke aanbieding. In onze offertes wordt de juiste prijs voor de gebruikte vertrekdatum aangegeven.
+*) Deze prijs is in principe correct, maar kan afwijken door een jaarovergang (1 april), een hoog- of laagseizoen of door een tijdelijke aanbieding. In onze offertes wordt de juiste prijs voor de gebruikte vertrekdatum aangegeven.
 
-#Reisprogramma 20 daagse reis
+#Reisprogramma 20-daagse reis
 Route vanaf Auckland
+Hieronder staat de route aangegeven. Klik hier voor het uitgebreide dagprogramma van de 20-daagse reis (in het Engels). De kortere modules zijn onderdelen van deze reis.
 
 Dag 1 - Auckland
 Dag 2 - Auckland (Rangitoto Island)
@@ -1056,10 +1145,12 @@ Dag 13 - Franz Josef Glacier
 Dag 14 - Franz Josef - Queenstown
 Dag 15 - Queenstown
 Dag 16 - Queenstown
-Dag 17 - Queenstown (Milford Sound Dag excursie)
+Dag 17 - Queenstown (Milford Sound dagexcursie)
 Dag 18 - Queenstown - Lake Tekapo
 Dag 19 - Lake Tekapo - Christchurch
 Dag 20 - Christchurch
+
+Je kunt hier het uitgebreide dagprogramma en extra reisinformatie downloaden (in het Engels/PDF).
 
 #Inbegrepen
 20-daagse reis Nieuw-Zeeland compleet
@@ -1080,8 +1171,8 @@ Auckland - Christchurch
 - mountainbiking in Wanaka
 - Veerboot tussen Noord- en Zuidereiland
 
-17-daagse reis Noorder- en Zuidereiland* (ZAT17)
-Auckland - Christchurch
+17-daagse reis Noorder- en Zuidereiland*
+Auckland - Christchurch (ZAT17)
 - Vervoer per minibus en gids
 - 16 overnachtingen gedeelde 4-persoons accommodatie
 - evt. tegen toeslag 2-persoons accommodatie
@@ -1097,8 +1188,8 @@ Auckland - Christchurch
 - Veerboot tussen Noord- en Zuidereiland
 *) Deze reis is zonder bezoek aan de Bay of Islands.
 
-10-daagse reis Noordereiland (ZAT10)
-Auckland - Wellington of Auckland
+10-daagse reis Noordereiland
+Auckland - Wellington of Auckland (ZAT10)
 - Vervoer per minibus en gids
 - 9 overnachtingen gedeelde 4-persoons accommodatie
 - evt. tegen toeslag 2-persoons accommodatie
@@ -1109,8 +1200,8 @@ Auckland - Wellington of Auckland
 - 4WD farm adventure
 - bezoek Maori marae met traditionele hangi-maaltijd
 
-3-daagse reis Bay of Islands (ZATA3)
-Auckland - Auckland
+3-daagse reis Bay of Islands
+Auckland - Auckland (ZATA3)
 - Vervoer per minibus en gids
 - 2 overnachtingen gedeelde 4-persoons accommodatie
 - evt. tegen toeslag 2-persoons accommodatie
@@ -1118,8 +1209,8 @@ Auckland - Auckland
 - boottocht in de Bay of Islands
 - Hokianga Ferry en sandboarding
 
-14-daagse reis Zuidereiland (ZAT14)
-Christchurch - Christchurch
+14-daagse reis Zuidereiland
+Christchurch - Christchurch (ZAT14)
 - Vervoer per minibus en gids
 - 13 overnachtingen gedeelde 4-persoons accommodatie
 - evt. tegen toeslag 2-persoons accommodatie
@@ -1156,13 +1247,40 @@ Christchurch - Christchurch (ZAT14)
 Vertrek: elke zaterdag van 5 oktober t/m 2 mei
 Vertrek: uit Christchurch om 07.00 uur]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/84/fda358f54b18caa61d2eb82aab4dc9ba551d91c5.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-16.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The New Zealand Trek</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>3.647</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.662</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-trek.html</get-trip-url>
@@ -1186,6 +1304,14 @@ Inbegrepen zijn het vervoer, 19 overnachtingen, de Interislander veerboot, 11 x 
 
 Gemiddeld 1x per 3 weken vertrek. De richtprijs is exclusief vluchten.
 
+#Vanaf Auckland
+
+#Vanaf Christchurch
+
+#20 dagen
+
+#Prijs vanaf NZ $ 7199
+
 #Richtprijs*
 
 Vanaf NZ$ 7199 p.p. op basis van gedeelde 2-persoonskamer (excl. heen- en terugvluchten)
@@ -1201,11 +1327,12 @@ Na aankomst in Auckland is de eerste overnachting inbegrepen. Je ontmoet de gids
 Dag 2 Auckland - Coromandel
 Vandaag rijd je naar de Cormandel. De eerste kennismaking met de prachtige natuur van Nieuw-Zeeland. De groene heuvels en de blauwe wateren. Ontdek de eindeloos mooie natuur te voet, vanaf het water per kano of vanuit een van de natuurlijke warmtebronnen.
 
-Dag 3 Coromandel – Raglan
+Dag 3 Coromandel - Raglan
 Heb je nog nooit gesurft en wil je een poging wagen, dan zit je in Raglan goed! Die avond kan je de zonsondergang bewonderen tijdens een ontspannen boottocht. Ook geniet je van een typische Nieuwe-Zeelandse maaltijd: fish & chips (ook veg. verkijgbaar).
 
 Dag 4 Raglan - Rotorua
-Vandaag reis je naar Rotorua, onderweg stop je in Waitomo, en kun je optioneel de grotten, gloeiwormen en onderwater rivieren bezoeken. Mocht je liever bovengronds blijven, dan zijn er wandelingen. Daarna stop je in Matamata voor een bezoek aan Hobbiton! Daarna kom je aan in Rotorua dat in een actief geothermisch gebied ligt en ook een centrum voor Maori cultuur is. Als laatste staat vandaag de Redwoods Treewalk op het programma.
+Vandaag reis je naar Rotorua, onderweg stop je in Waitomo, en kun je optioneel de grotten, gloeiwormen en onderwater rivieren bezoeken. Mocht je liever bovengronds blijven, dan zijn er wandelingen. Daarna stop je in Matamata voor een bezoek aan Hobbiton!
+Daarna kom je aan in Rotorua dat in een actief geothermisch gebied ligt en ook een centrum voor Maori cultuur is. Als laatste staat vandaag de Redwoods Treewalk op het programma.
 
 Dag 5 Rotorua
 Vanaf Rotorua zijn er vele mogelijkheden om je dag goed te spenderen. Zo kun je een wandeling maken over een vulkaankrater of kajakken naar een hotpool, gaan ziplinen of raften. Die avond brengen we een bezoek aan de Maori's die ons een onvergetelijke ervaring en heerlijke maaltijd verzorgen.
@@ -1228,28 +1355,28 @@ Vandaag verlaten we het Noordereiland en steek je met de Interislander veerboot 
 Dag 11 Kaikōura - Christchurch
 Kaikōura staat voornamelijk bekend om zijn wildlife, waaronder dolfijnen, walvissen en zeehonden, je vindt ze er allemaal! Ga mee op een van de tours om deze prachtige dieren in het echt te ontmoeten. Die dag vervolg je de weg richting Christchurch waar je een nacht verblijft.
 
-Dag 12 Christchurch – Ohau
+Dag 12 Christchurch - Ohau
 Je gids vertelt je deze ochtend al wandelend door Christchurch meer over de wederopbouw van de stad na de aardbeving van 2011. Vervolgens vertrek je richting Ohau. Onderweg stop je bij een indrukwekkend meer waar je wat prachtige foto's kan schieten!
 
-Dag 13 Ohau – Queenstown
+Dag 13 Ohau - Queenstown
 Vanuit Ohau rijden we verder richting het zuiden. Voor de bungeyjumpliefhebbers wordt er onderweg gestopt voor een sprong in het diepe. Je rijdt door Lord of the Rings landschap naar Queenstown, waar je twee nachten verblijft.
 
 Dag 14 Queenstown
 Vandaag heb je een dagje vrij om je eigen plan te trekken. Laat Queenstown nou net een bron zijn van leuke activiteiten. Zo kun je een prachtige fietstocht maken, gaan paardrijden langs door de Lord of the Rings omgeving of een bezoekje brengen aan de fjorden bij Milford Sound of een van de andere leuke activiteiten!
 
-Dag 15 Queenstown – Wanaka
+Dag 15 Queenstown - Wanaka
 In de ochtend kan je eventueel nog een andere activiteit doen of een mooie wandeling maken, want daar is Queenstown ook uitermate geschikt voor. Die middag vertrek je richting Wanaka op een klein uurtje rijden. Een ontspannen omgeving, omringd door natuur.
 
 Dag 16 Wanaka
 Een lekker dagje in Wanaka om bijvoorbeeld een mooie wandeling te maken of mooie boottocht op het meer. Ook hier zijn verschillende activiteiten vol adrenaline bij te boeken.
 
-Dag 17 Wanaka – Franz Josef
+Dag 17 Wanaka - Franz Josef
 De route naar Franz Josef is een indrukwekkende route langs bergen, meren en regenwouden. Die avond slaap je voor twee nachten in een rainforest retreat vlakbij de gletsjer.
 
 Dag 18 Franz Josef
 Vandaag heb je de kans om deze prachtige gletsjer te bezoeken. Dit kan op verschillende manieren, via de lucht tijdens een skydive, per helikopter of ga ijsklimmen of kayakken op een van de ijsmeren. Ook ga je zelf je eigen groene jade (pounamu) graveren.
 
-Dag 19 Franz Josef – Christchurch
+Dag 19 Franz Josef - Christchurch
 Een bijzondere dag, want we ruilen de bus in voor speciale trein die je naar je laatste bestemming zal vervoeren. De TranzAlpine route is een onvergetelijke reis door de Southern Alps door Arthur's Pass. Je bezoekt een jadefabriek in Hokitika en als er tijd is stoppen we even bij het National Kiwi Centre. 's Avonds kom je aan in Christchurch.
 
 Dag 20 Christchurch
@@ -1284,13 +1411,34 @@ Kleine groep: maximaal 16 deelnemers
 
 Deze tour vertrekt gemiddeld 1x per 3 weken. Indien je een offerte aanvraagt nemen we altijd de juiste vertrekdatum van de tour op in de offerte. Wil je eerder al een precieze vertrekdatum weten neem dan even contact op (telefoon of email).]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/84/502ff9f38fed7bd76ab2f5a67d7322cac9b50fa3.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider20.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultimate New Zealand Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>6.688</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>6.715</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-ultimate-new-zealand-trek.html</get-trip-url>
@@ -1308,9 +1456,11 @@ Voor de volgende 15 dagen steek je over naar het Zuidereiland waar je door de me
 #Actief
 Je dient een goede conditie te hebben. Wandelingen kunnen variëren van 2 tot 8 uur per dag met een rugzak van 10-12 kg en een hoogteverschil van zo'n 800 meter. Je wandelt over paden die ruig en glad kunnen zijn: goede bergschoenen zijn nodig. Een aantal keren doorsteek je een stromende bergbeek, spannend maar met de aanwijzingen van de gids goed te doen.
 
-Vanaf Auckland | 24 dagen | Prijs vanaf NZ$ 13200 p.p.
+#Vanaf Auckland
+#24 dagen
+#Prijs vanaf NZ$ 13200 p.p.
 
-"Take a hike ... Kiwi Style"
+'Take a hike ... Kiwi Style'
 
 #Richtprijs*
 NZ$ 13200 p.p.
@@ -1398,7 +1548,7 @@ Vroeg in de ochtend vertrekt de gids en eindigt de tour officieel. Voor wie nog 
 - Kampeeruitrusting & kookuitrusting
 - Snacks & de meeste maaltijden (zie het reisprogramma)
 - Rotorua Thermal Park
-- Vlucht Wellington – Nelson
+- Vlucht Wellington - Nelson
 - Abel Tasman Maori kano tocht
 - Milford Sound Cruise
 
@@ -1417,10 +1567,17 @@ Vertrek: 1-2 x per maand van november t/m februari (vertrekdata staan vermeld in
 #Zwaarte van deze reis:
 Middelzwaar, zie ook de extra reisinformatie te downloaden onder de kop reisprogramma.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/84/e2d9c8af4faf54d2afd2fd63c8d18f9d58a04041.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider6.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland &apos;Nature &amp; Comfort&apos; Rondreis</get-trip-name>
     <get-trip-duration>33</get-trip-duration>
     <get-trip-lowest-price-2p>6.190</get-trip-lowest-price-2p>
@@ -1445,21 +1602,35 @@ Na twee heerlijke nachtjes in Frans Jozef vervolg je de reis richting Queenstown
 
 Deze reis is een goed voorbeeld en is eenvoudig aan te passen naar wens, bijvoorbeeld ander type accommodatie of huurauto, of uit te breiden met verschillende activiteiten. Vraag ons om een offerte uit te brengen voor een aangepaste fly-drive.
 
-#Richtprijs
+#Vanaf Amsterdam
+inclusief vlucht
 
+#33 dagen
+
+#Richtprijs € 6190 p.p.*
+* hoogseizoentarief december t/m februari
+
+#Richtprijs
 Start in Auckland: € 6390 p.p. *
 Start in Christchurch: € 6190 p.p. *
 
 *) Tarief p.p. op basis van 2 samenreizende personen, tussen oktober en maart bij boeking 11 maanden voor vertrek.
-
 Prijzen laagseizoen: voordeliger en op aanvraag
-
 Vroeg boeken voor genoemde hoogseizoen periode is aan te raden.
 
-#Inbegrepen
+#Bij deze rondreis is inbegrepen:
+* Retourvlucht Amsterdam - Nieuw-Zeeland
+* Vervoer binnen Nieuw-Zeeland: autohuur
+* De ferry-oversteek met auto
+* Alle overnachtingen: B&B, hotels, motels
+* Dolphin watch excursie
+* Milford Sound Nature cruise
+* Whale watch excursie
+* Maaltijden zoals aangegeven, zie de uitgebreide omschrijving hieronder (reisprogramma).
 
+#Inbegrepen
 Vlucht:
-Retour vlucht Amsterdam – Nieuw-Zeeland met Singapore Airlines inclusief luchthavenbelastingen en toeslagen
+Retour vlucht Amsterdam - Nieuw-Zeeland met Singapore Airlines inclusief luchthavenbelastingen en toeslagen
 
 Huurauto:
 29 dagen autohuur inclusief volledige afkoop eigen risico
@@ -1476,12 +1647,10 @@ Milford Sound Nature cruise door de fjorden
 Kaikoura Whale watch tour
 
 #Niet inbegrepen
-
 Optionele dagtours en excursies, benzine, overige maaltijden en persoonlijke uitgaven.
 Reserveringskosten: € 45, bijdrage SGR: € 5 p.p., heffing Calamiteitenfonds € 2,50
 
 #Reisprogramma 27 of 31 daagse reis
-
 Hieronder is de 33-daagse Fly-Drive van Auckland naar Christchurch beschreven.
 
 Dag 1 - vertrek uit Amsterdam
@@ -1507,7 +1676,7 @@ Dag 7 - Orewa - Coromandel (207 km)
 De volgende locatie die op het programma staat is het Coromandel schiereiland, waar je twee nachten in een B&B verblijft, vlakbij Hot Water beach. Dit gebied is erg geschikt voor een mooie wandeling of een leuke fietstocht.
 
 Dag 8 - Coromandel
-Vandaag is er de mogelijkheid om omgeving per kajak te verkennen (optioneel). Zo ga je mee op zee met een gids, die je alles kan vertellen over het wildlife. Met een beetje geluk zie je dolfijnen, vogels en pinguïns. Je legt aan bij Cathedral Cove voor een pauze. Een prachtig stuk rots, waar je onderdoor kunt lopen.
+Vandaag is er de mogelijkheid om omgeving per kajak te verkennen (optioneel). Zo ga je mee op zee met een gids, die je alles kan vertellen over het wildlife. Met een beetje geluk zie je dolfijnen, vogels en pinguins. Je legt aan bij Cathedral Cove voor een pauze. Een prachtig stuk rots, waar je onderdoor kunt lopen.
 
 Dag 9 - Coromandel - Rotorua (209 km)
 Na het ontbijt vervolg je de weg naar het zuiden. Ben je een fan van de Lord of the Rings, rij dan vandaag naar Matamata, waar je de set van Hobbiton kan bewonderen. Is dit niet voor jou weggelegd, dan volg je de route naar Rotorua, de 'stad' van geothermische activiteiten van vulkanische oorsprong. De geur is even wennen, maar zeker een bezoekje waard! In Rotorua verblijf je twee nachten in een koloniale B&B.
@@ -1515,38 +1684,38 @@ Na het ontbijt vervolg je de weg naar het zuiden. Ben je een fan van de Lord of 
 Dag 10 - Rotorua
 Het is de stad van de modderpoelen en geisers en deze kan je ook vandaag gaan bezoeken. Sluit de avond eventueel af met een stukje cultuur van de Maori's met een typisch Maori diner.
 
-Dag 11 - Rotorua – Tongariro National Park (170 km)
+Dag 11 - Rotorua - Tongariro National Park (170 km)
 Je vervolgt je weg verder naar het zuiden, naar de prachtige natuur rondom Lake Taupo en het Tongariro National Park, waar een heerlijke B&B accommodatie je op staat te wachten.
 
 Dag 12 - Tongariro National Park
 Het park biedt vele wandelmogelijkheden. Ben je een fanatieke wandelaar, dan kan je kiezen voor de felbegeerde Tongariro Crossing. Er zijn ook mogelijkheden voor kortere wandelingen. Voor iedere wandeling geldt in ieder geval dat je een mooi uitzicht hebt.
 
-Dag 13 - Tongariro National Park – Wellington (287 km)
+Dag 13 - Tongariro National Park - Wellington (287 km)
 Vandaag vertrek je naar de laatste stop op het Noordereiland, de hoofdstad Wellington. Ook hier zal je twee nachtjes verblijven in een comfortabel stadshotel.
 
 Dag 14 - Wellington
 Een vrije dag in Wellington, die je bijvoorbeeld kan besteden in het bekende Te Papa museum, waar je al snel wat uurtjes spendeert. Mooi meegenomen, het is een gratis museum!
 
-Dag 15 - Wellington – Kaiteriteri (291 km + ferry)
+Dag 15 - Wellington - Kaiteriteri (291 km + ferry)
 De dag van de ferry. Vandaag steek je over naar het Zuidereiland. Tijdens de boottocht is het aan te raden om je camera gereed te houden, voor een paar mooie kiekjes van de fjorden die je passeert. Je bent ongeveer halverwege je reis en het land en daarom slaap je in Abel Tasman National Park drie nachten. Zo kun je misschien even een wasje draaien en natuurlijk genieten van dit prachtige National Park.
 
 Dag 16 en 17 - Abel Tasman National Park
 Twee volle dagen in dit gebied. Pak de watertaxi naar het park en wandel via een prachtige route terug naar het startpunt.
 
-Dag 18 - Kaiteriteri – Punakaiki (279 km)
+Dag 18 - Kaiteriteri - Punakaiki (279 km)
 Je vervolgt je pad via de westkust naar het plaatsje Punakaiki, dat bekend is om zijn mooie rotsformatie, genaamd de 'pancake' rotsen. Zeker de moeite waard voor een stop. Die avond slaap je voor een nachtje in een charmante houten cabin met eigen kookgelegenheid.
 
-Dag 19 - Punakaiki – Franz Josef (215 km)
+Dag 19 - Punakaiki - Franz Josef (215 km)
 Na een uitgeruste nacht, vertrek je richting een nieuw stuk natuur, de gletsjer in Franz Josef. In dit kleine dorpje aan de westkust verblijf je twee nachten.
 
 Dag 20 - Franz Josef Gletsjer
 Vandaag kan je gletsjer op en wel per helikopter(!), een fantastische tour die zeker de moeite waard is (optioneel). Ben je iets minder van hoogtes en bezoek je liever de voet van de gletsjer, dan kan dit ook. Ook kan je een wandeling maken rondom Lake Matheson, voor prachtige spiegeleffecten in het water.
 Optionele excursie: Franz Josef Heli Hike.
 
-Dag 21 - Franz Josef – Wanaka (284 km)
+Dag 21 - Franz Josef - Wanaka (284 km)
 Vanaf Franz Josef vervolg je de reis verder richting het zuiden naar Wanaka. Een prachtig meer, waar je een nachtje zal verblijven. Die avond kan je een heerlijke wandeling maken langs het meer. Ook is er de mogelijkheid om in Makarora te slapen, zodat je volgende dag mee kan op het Siberia Wilderness Adventure (optioneel), met een helikopter vlucht, wandeling en jetboat tocht over de rivier (aanrader!)
 
-Dag 22 - Wanaka – Queenstown (68 km)
+Dag 22 - Wanaka - Queenstown (68 km)
 Je rijdt weer meer richting het binnenland waar je een stop maakt in Queenstown voor twee hotelovernachtingen. Een sfeervolle stad, waar een ruime keus aan activiteiten te vinden is. Blijf je liever in de natuur, dan kan je ook kiezen voor twee overnachtingen onder Queenstown, in een prachtig rustig gebied.
 
 Dag 23 - Queenstown
@@ -1559,11 +1728,11 @@ Dag 25 - Te Anau
 Vandaag ga je mee op een van de boottochten door dit geweldige natuurgebied. In deze voorbeeldreis is de dagtocht langs de fjorden (inbegrepen), maar wil je graag wat meer tijd op het water spenderen, ga dan voor een tour met overnachting (optioneel). Er zijn twee fjorden, de Milford Sound en de Doubtful Sound. Voor beide fjorden zijn er de dagtocht en overnachting mogelijkheden.
 Optionele excursie: Milford Sound Overnight Cruise of de Doubtful Sound Overnight Cruise.
 
-Dag 26 - Te Anau – Dunedin (289 km)
+Dag 26 - Te Anau - Dunedin (289 km)
 Afhankelijk van de tour die je kiest wordt je wakker in je accommodatie of op de boot. Vandaag verlaat je de ruige bergen en reis je door het droge heuvelland van Otago met verweerde rotsen en snelstromende rivieren op weg naar Dunedin, de Schots aandoende stad aan de oostkust. Een leuk stadje met een bijzondere accommodatie bij het Larnach Castle, waar je twee nachten verblijft.
 
 Dag 27 - Dunedin
-In de buurt van Dunedin bevindt zich een prachtig stuk natuur met verschillende soorten wildlife. Zo is er een grote kans dat je dolfijnen spot, zeehonden en zeeleeuwen ziet en bij de vogelkolonies, albatrossen en pinguïns.
+In de buurt van Dunedin bevindt zich een prachtig stuk natuur met verschillende soorten wildlife. Zo is er een grote kans dat je dolfijnen spot, zeehonden en zeeleeuwen ziet en bij de vogelkolonies, albatrossen en pinguins.
 
 Dag 28 - Dunedin - Mt Cook (309 km)
 Rustig aan vervolg je de reis weer naar het noorden. De eerste stop onderweg maak je in Mt Cook, de hoogste berg van Nieuw-Zeeland, waar je een nacht zal verblijven.
@@ -1571,7 +1740,7 @@ Rustig aan vervolg je de reis weer naar het noorden. De eerste stop onderweg maa
 Dag 29 - Mt Cook - Canterbury Plains (229 km)
 Wordt wakker met een prachtig uitzicht en ga voor een wandelingetje om de mooie sneeuwtoppen te bewonderen. Vervolgens vertrek je richting Canterbury regio voor een nachtje in een Bed & Breakfast lodge aan de voet van de bergen, waar naast het ontbijt, ook het diner is inbegrepen.
 
-Dag 30 - Canterburry – Kaikoura (333 km)
+Dag 30 - Canterburry - Kaikoura (333 km)
 Via de binnenland route reis je naar Kaikoura: whale watch paradise. Je kunt hier het hele jaar door walvissen zien. Overnachting in een zeer fraai gelegen luxe Bed & Breakfast met uitzicht over de Pacific Ocean.
 
 Dag 31 - Kaikoura - Christchurch (181 km)
@@ -1584,7 +1753,6 @@ Dag 33 - Amsterdam
 Vanochtend lokale tijd komt je vlucht aan in Amsterdam.
 
 #Tips voor verlenging
-
 Je kunt deze Fly-Drive aanpassen al naar gelang je wensen en beschikbare tijd. Vraag ons om een offerte indien je bovenstaande fly-drive zou willen aanpassen. Hieronder een tweetal suggesties:
 
 Kapiti Island (1 nacht)
@@ -1593,13 +1761,36 @@ Een wel heel bijzondere uitbreiding van het programma is een extra overnachting 
 Stewart Island (3 nachten extra)
 Onderaan het Zuidereiland vind je dit eiland dat bekend is om de ruige natuur en de kiwi's die je hier kunt spotten. Om Stewart Island in je reis te plannen dien je vanaf Te Anau (dag 25) naar Invercargill te reizen. Deze route volgt de grillige Catlins Coast, een afgelegen en ruig stukje Nieuw-Zeeland, vol verassingen als zeeleeuwen, dolfijnen en het versteende bos. Vanaf Invercargill ga je met de veerboot of een korte vlucht naar Stewart Island, waar je 1 of 2 nachten kunt blijven en diverse natuurexcursies kunt doen. Vanaf Invercargill reis je verder langs de Catlins Coast naar Dunedin waar je weer aansluit op bovenstaande Self-Drive.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/16/34e6db1dd311645e82be86bad5750cc0b75c0af9.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider20.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider21.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider22.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-WALKABOUT-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Comfort B&amp;B Self-Drive</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
-    <get-trip-lowest-price-2p>2.439</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.450</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/self-drive-nieuwzeeland-new-zealand.html</get-trip-url>
@@ -1619,10 +1810,10 @@ Veel accommodaties zijn kleinschalig en hebben vaak maar 2 kamers, tijdig boeken
 * Veerboot tussen Noorder- en Zuidereiland: 2 personen én de auto.
 
 #Dagtours en excursies bij te boeken
-Het is mogelijk om je reis verder in te vullen met dagtours en excursies. Deze zijn door ons geselecteerd als must-do activiteiten en heel handig om van te voren bij te boeken. Zie hieronder bij de prijzen en in het dagprogramma meer over deze extra's.
+Het is mogelijk om je reis verder in te vullen met dagtours en excursies. Deze zijn door ons geselecteerd als must-do activiteiten en heel handig om van te voren bij te boeken.
 
 #Deze Self-Drive aanpassen is mogelijk
-Je kunt deze reis aanpassen aan je persoonlijke wensen. We maken dan een Self-Drive-op-maat voor je. Zo kun je de reis verlengen of inkorten afhankelijk van je gewenste reisduur. Je kunt ook bepaalde extra bestemmingen inlassen, zoals een verblijf op Kapiti Island of Stewart Island. Een ander type huurauto kan ook. Vraag ons om een offerte uit te brengen voor een aangepaste self-drive.
+Je kunt deze reis aanpassen aan je persoonlijke wensen. We maken dan een Self-Drive-op-maat voor je. Zo kun je de reis verlengen of inkorten afhankelijk van je gewenste reisduur. Je kunt ook bepaalde extra bestemmingen inlassen, zoals een verblijf op Kapiti Island of Stewart Island. Een ander type huurauto kan ook.
 
 #Richtprijs hoogseizoen Start van december t/m februari
 
@@ -1653,8 +1844,8 @@ Doubtful Sound Overnight Cruise: NZ$ 635 p.p.
 
 Bij te boeken optionele dagtours en excursies:
 Dag 4: Bay of Islands Sailing - dagtour NZ$ 168 p.p.
-Dag 7: Cathedral Cove Kajak tour – 3,5 uur NZ$ 130 p.p.
-Dag 8: Hobbiton Movie Set tour – 2 uur NZ$ 94 p.p.
+Dag 7: Cathedral Cove Kajak tour - 3,5 uur NZ$ 130 p.p.
+Dag 8: Hobbiton Movie Set tour - 2 uur NZ$ 94 p.p.
 Dag 15: Abel Tasman Cruise & Walk Open Day Pass - individueel NZ$ 98 p.p.
 Dag 19: Fox Glacier Heli Hike - halve dag NZ$ 509 p.p.
 Dag 24: Milford Sound Nature Cruise - halve dag NZ$ 190 p.p.
@@ -1663,25 +1854,26 @@ Dag 26: Otago Albatros/pinguïn kolonie - middag NZ$ 129 p.p.
 Dag 30: Kaikoura Whale Watch - halve dag NZ$ 160 p.p.
 
 #Inbegrepen
+
 Huurauto:
 25 of 29 dagen huurauto, Go rentals autohuur, type Compact Car.
 Autohuur is inclusief maximale afkoop eigen risico tot NZ$ NUL, airport/ferry toeslagen, one way fee.
 
 Overnachtingen:
-26 of 30 overnachtingen, 2-persoonskamer, met eigen badkamer,
-Een mix van B&B, hotels, motels
-De meeste accommodatie is inclusief ontbijt, 1 x met diner,
+26 of 30 overnachtingen, 2-persoonskamer, met eigen badkamer.
+Een mix van B&B, hotels, motels.
+De meeste accommodatie is inclusief ontbijt, 1 x met diner.
 
 Overig:
-Veerboot tussen Noorder- en Zuidereiland: 2 personen én auto
+Veerboot tussen Noorder- en Zuidereiland: 2 personen én auto.
 
 #Niet inbegrepen
 Meerprijs afwijkend programma:
-Napier 2 nachten i.p.v. Tongariro National Park,
-Siberia Experience excursie en 1 nacht in Wanaka,
+Napier 2 nachten i.p.v. Tongariro National Park.
+Siberia Experience excursie en 1 nacht in Wanaka.
 Milford Sound Overnight Cruise incl. 2-pk cabin, diner, ontbijt, transfers.
 Doubtful Sound Overnight Cruise incl. 2-pk cabin, diner, ontbijt, transfers.
-Optionele dag tours en excursies,
+Optionele dag tours en excursies.
 Overige maaltijden en persoonlijke uitgaven.
 
 #Reisprogramma 27 of 31 daagse reis
@@ -1699,7 +1891,7 @@ Vandaag kan je de auto ophalen waarmee je in enkele uurtjes naar het noorden rij
 
 Dag 4 - Bay of Islands
 Een volle dag om te genieten van deze heerlijke plek op of aan het water.
-Optionele dagtour: Bay of Islands Sailing, zeiltocht en zwemmen met dolfijnen - dag tour
+Optionele dagtour: Bay of Islands Sailing, zeiltocht en zwemmen met dolfijnen - dag tour.
 
 Dag 5 - Pahia - Orewa (315 km via Waipoua)
 Aan de westkust vind je de oerbossen met reuze Kauri-bomen. Via het Waipoua Forest, waar je deze reusachtige bomen kunt bewonderen, reis je naar het district Matakana (wijn en kunst). Overnachting aan de kust in een B&B, fraai gelegen aan de baai.
@@ -1715,12 +1907,12 @@ De volgende locatie die op het programma staat is het Coromandel schiereiland, w
 
 Dag 8 - Coromandel - Rotorua (209 km)
 Na het ontbijt vervolg je de weg naar het zuiden. Ben je een fan van de Lord of the Rings, rij dan vandaag naar Matamata, waar je de set van Hobbiton kan bewonderen. Is dit niet voor jou weggelegd, dan volg je de route naar Rotorua, de 'stad' van geothermische activiteiten van vulkanische oorsprong. De geur is even wennen, maar zeker een bezoekje waard! In Rotorua verblijf je twee nachten in een koloniale B&B.
-Optionele extra: Matamata, Hobbiton Movie Set tour - individueel
+Optionele extra: Matamata, Hobbiton Movie Set tour - individueel.
 
 Dag 9 - Rotorua
 Het is de stad van de modderpoelen en geisers en deze kan je ook vandaag gaan bezoeken. Sluit de avond eventueel af met een stukje cultuur van de Maori's met een typisch Maori diner.
 
-Dag 10 - Rotorua – Tongariro National Park (170 km)
+Dag 10 - Rotorua - Tongariro National Park (170 km)
 Je vervolgt je weg verder naar het zuiden, naar de prachtige natuur rondom Lake Taupo en het Tongariro National Park, waar een heerlijke B&B accommodatie je op staat te wachten.
 
 Napier optie - Dag 10 en 11
@@ -1729,37 +1921,37 @@ Indien je minder gericht bent op wandeltochten kun je ervoor kiezen om 2 nachten
 Dag 11 - Tongariro National Park
 Het park biedt vele wandelmogelijkheden. Ben je een fanatieke wandelaar, dan kan je kiezen voor de felbegeerde Tongariro Crossing. Er zijn ook mogelijkheden voor kortere wandelingen. Voor iedere wandeling geldt in ieder geval dat je een mooi uitzicht hebt.
 
-Dag 12 - Tongariro National Park – Wellington (287 km)
+Dag 12 - Tongariro National Park - Wellington (287 km)
 Vandaag vertrek je naar de laatste stop op het Noordereiland, de hoofdstad Wellington. Ook hier zal je twee nachtjes verblijven in een comfortabel stadshotel.
 
 Dag 13 - Wellington
 Een vrije dag in Wellington, die je bijvoorbeeld kan besteden in het bekende Te Papa museum, waar je al snel wat uurtjes spendeert. Mooi meegenomen, het is een gratis museum!
 
-Dag 14 - Wellington – Kaiteriteri (291 km + ferry)
+Dag 14 - Wellington - Kaiteriteri (291 km + ferry)
 De dag van de ferry. Vandaag steek je over naar het Zuidereiland. Tijdens de boottocht is het aan te raden om je camera gereed te houden, voor een paar mooie kiekjes van de fjorden die je passeert. Je bent ongeveer halverwege je reis en het land en daarom slaap je in Abel Tasman National Park drie nachten. Zo kun je misschien even een wasje draaien en natuurlijk genieten van dit prachtige National Park.
 
 Dag 15 en 16 - Abel Tasman National Park
 Twee volle dagen in dit gebied. Pak de watertaxi naar het park en wandel via een prachtige route terug naar het startpunt.
-Optionele extra: Cruise & Walk Open Day Pass - individueel
+Optionele extra: Cruise & Walk Open Day Pass - individueel.
 
-Dag 17 - Kaiteriteri – Punakaiki (279 km)
+Dag 17 - Kaiteriteri - Punakaiki (279 km)
 Je vervolgt je pad via de westkust naar het plaatsje Punakaiki, dat bekend is om zijn mooie rotsformatie, genaamd de 'pancake' rotsen. Zeker de moeite waard voor een stop. Die avond slaap je voor een nachtje in een charmante houten cabin met eigen kookgelegenheid.
 
-Dag 18 - Punakaiki – Franz Josef (215 km)
+Dag 18 - Punakaiki - Franz Josef (215 km)
 Na een uitgeruste nacht, vertrek je richting een nieuw stuk natuur, de gletsjer in Franz Josef. In dit kleine dorpje aan de westkust verblijf je twee nachten.
 
 Dag 19 - Franz Josef Gletsjer
 Vandaag kan je gletsjer op en wel per helikopter(!), een fantastische tour die zeker de moeite waard is (optioneel). Ben je iets minder van hoogtes en bezoek je liever de voet van de gletsjer, dan kan dit ook. Ook kan je een wandeling maken rondom Lake Matheson, voor prachtige spiegeleffecten in het water.
 Optionele excursie: Franz Josef Heli Hike, een tocht met de helikopter en een wandeling met klimijzers door de ijsgrotten en spelonken (duur: 4 uur).
 
-Dag 20 - Franz Josef – Wanaka (284 km)
+Dag 20 - Franz Josef - Wanaka (284 km)
 Vanaf Franz Josef vervolg je de reis verder richting het zuiden naar Wanaka. Een prachtig meer, waar je een nachtje zal verblijven. Die avond kan je een heerlijke wandeling maken langs het meer.
 
 Siberia Experience optie
 Dag 20 Franz Josef - Makarora
 Vanaf Franz Josef reis je in plaats van door naar Wanaka, naar Makarora waar je de volgende ochtend start met de 4 uur durende 'Siberia Experience' tour. Deze spectaculaire trip in het hooggebergte van het Mt Aspiring National Park bestaat uit een tocht met een klein vliegtuig tot diep in de Siberia Vallei, een natuurwandeling van enkele uren door de vallei om vervolgens met een jetboot over de snelstromende rivier terug naar Makarora gebracht te worden (4 uur). Na afloop rijdt je in 2 uur naar Queenstown.
 
-Dag 21 - Wanaka – Queenstown (68 km)
+Dag 21 - Wanaka - Queenstown (68 km)
 Je rijdt weer meer richting het binnenland waar je een stop maakt in Queenstown voor twee hotelovernachtingen. Een sfeervolle stad, waar een ruime keus aan activiteiten te vinden is. Blijf je liever in de natuur, dan kan je ook kiezen voor twee overnachtingen onder Queenstown, in een prachtig rustig gebied.
 
 Dag 22 - Queenstown
@@ -1772,7 +1964,7 @@ Dag 24 - Te Anau
 Vandaag kan je een van de boottochten maken door dit geweldige natuurgebied. Er zijn verschillende dagtochten mogelijk, maar wil je graag wat meer tijd op het water spenderen, ga dan voor een tour met overnachting (optioneel). Er zijn twee fjorden, de Milford Sound en de Doubtful Sound. Voor beide fjorden zijn er de dagtocht en overnachting mogelijkheden.
 Optionele excursie: Milford Sound Overnight Cruise of de Doubtful Sound Overnight Cruise, met een overnachting aan boord van het schip. De eerste overnachting in Te Anau vervalt.
 
-Dag 25 - Te Anau – Dunedin (289 km)
+Dag 25 - Te Anau - Dunedin (289 km)
 Afhankelijk van de tour die je kiest wordt je wakker in je accommodatie of op de boot. Vandaag verlaat je de ruige bergen en reis je door het droge heuvelland van Otago met verweerde rotsen en snelstromende rivieren op weg naar Dunedin, de Schots aandoende stad aan de oostkust. Een leuk stadje met een bijzondere accommodatie bij het Larnach Castle, waar je twee nachten verblijft.
 
 Dag 26 - Dunedin
@@ -1785,7 +1977,7 @@ Rustig aan vervolg je de reis weer naar het noorden. De eerste stop onderweg maa
 Dag 28 - Mt Cook - Canterbury Plains (229 km)
 Wordt wakker met een prachtig uitzicht en ga voor een wandelingetje om de mooie sneeuwtoppen te bewonderen. Vervolgens vertrek je richting Canterbury regio voor een nachtje in een Bed & Breakfast lodge aan de voet van de bergen, waar naast het ontbijt, ook het diner is inbegrepen.
 
-Dag 29 - Canterbury – Kaikoura (333 km)
+Dag 29 - Canterbury - Kaikoura (333 km)
 Via de binnenland route reis je naar Kaikoura: whale watch paradise. Je kunt hier het hele jaar door walvissen zien. Overnachting in een zeer fraai gelegen luxe Bed & Breakfast met uitzicht over de Pacific Ocean.
 
 Dag 30 - Kaikoura - Christchurch (181 km)
@@ -1797,7 +1989,7 @@ Na een laatste overnachting lever je de huurauto in op de luchthaven voorafgaand
 
 #Tips voor verlenging
 
-Je kunt deze Self-Drive aanpassen al naar gelang je wensen en beschikbare tijd. Vraag ons om een offerte indien je bovenstaande self-drive zou willen aanpassen. Hieronder een tweetal suggesties:
+Je kunt deze Self-Drive aanpassen al naar gelang je wensen en beschikbare tijd. Vraag ons om een offerte indien je bovenstaande self-drive zou willen aanpassen.
 
 Kapiti Island (1 nacht)
 Een wel heel bijzondere uitbreiding van het programma is een extra overnachting op Kapiti Island, dat wordt dan tussen dag 12 en 13. Dit is een eiland voor de Zuidwestkust van het Noordereiland dat bescherming biedt aan veel vogelsoorten die op het vasteland zeer zeldzaam zijn geworden. Je overnacht in een lodge van een Maori familie die je meeneemt op zoek naar o.a. de kiwi.
@@ -1805,5 +1997,27 @@ Een wel heel bijzondere uitbreiding van het programma is een extra overnachting 
 Stewart Island (3 nachten extra)
 Onderaan het Zuidereiland vind je dit eiland dat bekend is om de ruige natuur en de kiwi's die je hier kunt spotten. Om Stewart Island in je reis te plannen dien je vanaf Te Anau (dag 25) naar Invercargill te reizen. Deze route volgt de grillige Catlins Coast, een afgelegen en ruig stukje Nieuw-Zeeland, vol verassingen als zeeleeuwen, dolfijnen en het versteende bos. Vanaf Invercargill ga je met de veerboot of een korte vlucht naar Stewart Island, waar je 1 of 2 nachten kunt blijven en diverse natuurexcursies kunt doen. Vanaf Invercargill reis je verder langs de Catlins Coast naar Dunedin waar je weer aansluit op bovenstaande Self-Drive.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0005/84/96b0926d2fee5674ad881896ccbac27759597e7b.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider13.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider14.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider15.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider7.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider8.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider16.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider9.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider17.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider10.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider11.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider12.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider18.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider19.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider20.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider21.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider22.jpg</get-trip-image-url-overview>
   </trip>
 </trips>
