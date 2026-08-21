@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-20T08:06:04.940Z" count="11">
+<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-21T08:46:20.375Z" count="11">
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis vanuit Las Vegas naar Los Angeles</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/las-vegas-los-angeles/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis vanuit Las Vegas naar Los Angeles
+    <get-trip-scraped-content><![CDATA[#Camperreis vanuit Las Vegas naar Los Angeles
 
 Een camperreis van ca. 16 tot 21 dagen met startpunt Las Vegas en eindigend in Los Angeles staat garant voor een afwisselende en prachtige route. Steden en natuur zijn hier groter dan groots; alles is in de overtreffende trap. Onderstaand een voorbeeldroute die uiteraard aangepast kan worden aan jouw wensen.
 
@@ -17,7 +18,7 @@ Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaak
 
 #Las Vegas: nog even zonder camper
 
-Las Vegas, midden in de Mojave Desert in Nevada. Een overweldigend begin van je vakantie. In deze extravagante Entertainment Capital of the World zul je je ogen uitkijken. Jaarlijks komen hier meer dan 42 mln bezoekers. De Strip van 4 mijl lang is dé place to be in Las Vegas. Beroemde hotels zijn Caesars Palace, Circus Circus en de Venetian.
+Las Vegas, midden in de Mojave Desert in Nevada. Een overweldigend begin van je vakantie. In deze extravagante Entertainment Capital of the World zul je je ogen uitkijken. Jaarlijks komen hier meer dan 42 mln bezoekers. De Strip van 4 mijl lang is de place to be in Las Vegas. Beroemde hotels zijn Caesars Palace, Circus Circus en de Venetian.
 
 De stad is natuurlijk vooral bekend vanwege de casino's die nooit sluiten. Maar er is ook een groot aanbod aan theatershows, musicals, musea en goede restaurants, zoals die van chefkok Gordon Ramsay. Wandel over de strip langs de Bellagio fontein, de vulkaanuitbarsting bij The Mirage of stap in een gondel in hotel The Venetian.
 
@@ -49,33 +50,28 @@ Joshua Tree National Park is een groot natuurgebied. Hier groeit de boom waar he
 
 #Los Angeles
 
-Los Angeles, de stad met veel sterren, letterlijk en figuurlijk. De kans is groot dat je hier een beroemdheid spot, zeker als je gaat (window)shoppen op Rodeo Drive. Beroemde bezienswaardigheden zijn de sterren van de Hollywood Walk of Fame, de wijk Beverly Hills van de 'rich & famous', de Santa Monica Boulevard en Venice Beach. En ook voor Disneyland en de Universal Studios kun je al een dag uittrekken. Wist je dat deze stad de meeste musea van Amerika heeft? Er is zoveel te doen in Los Angeles, dus er is voor ieder wat wils.
+Los Angeles, de stad met veel sterren, letterlijk en figuurlijk. De kans is groot dat je hier een beroemdheid spot, zeker als je gaat (window)shoppen op Rodeo Drive.
+
+Beroemde bezienswaardigheden zijn de sterren van de Hollywood Walk of Fame, de wijk Beverly Hills van de 'rich & famous', de Santa Monica Boulevard en Venice Beach. En ook voor Disneyland en de Universal Studios kun je al een dag uittrekken. Wist je dat deze stad de meeste musea van Amerika heeft? Er is zoveel te doen in Los Angeles, dus er is voor ieder wat wils.
 
 #Welke camper? Suggesties
 
 Voor twee personen is de C-small van El Monte een hele goede keuze.
+
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de motorhomes met alkoof, een ruimte met een bed boven de cabine, van bijvoorbeeld Road Bear en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van uw voorkeur.
 
 #REISDUUR: 16 - 21 dagen
 
 Wij raden je aan minimaal 16 dagen uit te trekken voor deze camperreis van Las Vegas naar Los Angeles. Maar als je drie weken hebt, kun je de route in een meer relaxed tempo verkennen of bijvoorbeeld wat langer blijven in Las Vegas en/of Los Angeles. Je kunt deze reis ook verlengen door verder te rijden op de iconische Highway 1 langs de Stille Oceaan naar San Francisco. Vergis je echter niet in de afstanden en wat er allemaal te zien en doen is. Het is de moeite waard om voldoende tijd in te ruimen om de bezienswaardigheden echt te ervaren.
 
-#Route (volgorde bestemmingen)
-1. Las Vegas (Nevada)
-2. Valley of Fire State Park / Lake Mead / Lake Tahoe / Cathedral Gorge State Park (Nevada, optioneel)
-3. Zion National Park (Utah)
-4. Bryce Canyon National Park (Utah)
-5. Coral Pink Sand Dunes State Park (Utah)
-6. Lake Powell / Rainbow Bridge / Horseshoe Bend (Arizona/Utah grens)
-7. Antelope Canyon (Arizona)
-8. Monument Valley (Utah/Arizona)
-9. Grand Canyon (Arizona)
-10. Mojave National Preserve (Californië)
-11. Joshua Tree National Park (Californië)
-12. Los Angeles (Californië)]]></get-trip-scraped-content>
+#Vraag nu een offerte aan!
+
+Interesse in deze reis van Las Vegas naar Los Angeles? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/55a9641752cccea88c9d0d7a05c2f603abe6b5c0.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/las-vegas-2237590_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/bryce-canyon-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/valley-of-fire-1303596_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/zion-2271158_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2022/10/zion-angels-landing.jpg</get-trip-image-url-overview>
@@ -95,13 +91,14 @@ Wij raden je aan minimaal 16 dagen uit te trekken voor deze camperreis van Las V
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Rondreis Boston, Vermont &amp; Massachusetts</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Rondreis vanuit Boston</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-boston/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Rondreis Boston, Vermont & Massachusetts
+    <get-trip-scraped-content><![CDATA[#Rondreis vanuit Boston, Vermont & Massachusetts
 
 In het uiterste noordoosten van Amerika liggen de staten die samen New England vormen: Connecticut, Maine, Massachussetts, New Hampshire, Rhode Island en Vermont. De naam New England is al in gebruik sinds het begin van de koloniale tijd, toen een geloofsgroep zich wilde vestigen en wilde ontsnappen aan vervolging in Engeland. Bewoners van New England worden in de Verenigde Staten Yankees genoemd. Hieronder geven we je alvast wat inspiratie voor een rondreis vanuit Boston.
 
@@ -109,8 +106,7 @@ Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaak
 
 #Boston: nog even zonder camper
 
-Boston is de hoofdstad van de staat Massachusetts. Het is een van de oudste steden van Amerika: het stond in 1630 al op de kaart van Massachusetts. In de wijk Quincy zie je veel van de koloniale architectuur, waaronder de Faneuil Hall Marketplace uit 1742. Loop zeker de Freedom Trail van 4 km. Via deze wandelroute kom je vanzelf langs diverse historische bezienswaardigheden. Boston wordt ook wel America's walking city genoemd. Als je meer wilt weten over de Boston Tea Party (protest van de stad tegen de Britse heerschappij), dan dan naar de Tea Party Ships. Deze liggen aan de gerenoveerde Griffin's Wharf naast een museum gewijd aan de Tea Party. Vanuit de haven kun je ook een walvistour doen in de periode mei t/m oktober.
-
+Boston is de hoofdstad van de staat Massachusetts. Het is een van de oudste steden van Amerika: het stond in 1630 al op de kaart van Massachusetts. In de wijk Quincy zie je veel van de koloniale architectuur, waaronder de Faneuil Hall Marketplace uit 1742. Loop zeker de Freedom Trail van 4 km. Via deze wandelroute kom je vanzelf langs diverse historische bezienswaardigheden. Boston wordt ook wel 'America's walking city' genoemd. Als je meer wilt weten over de Boston Tea Party (protest van de stad tegen de Britse heerschappij), dan dan naar de Tea Party Ships. Deze liggen aan de gerenoveerde Griffin's Wharf naast een museum gewijd aan de Tea Party. Vanuit de haven kun je ook een walvistour doen in de periode mei t/m oktober.
 De Harvard University is dichtbij de stad Boston. In 1636 werd dit de eerste universiteit van Noord Amerika.
 
 #Vuurtorens in Maine
@@ -119,35 +115,30 @@ De staat Maine is vooral bekend vanwege de tientallen historische vuurtorens. Er
 
 #New Hampshire
 
-Ook in New Hampshire kun je genieten van de combinatie van natuur en geschiedenis. Je kunt mooi wandelen in het White Mountain National Forest. The Kanc ofwel de Kancamagus Scenic Byway is een prachtige route van 45 km door het park. Vooral in september en oktober erg mooi. In de White Mountains kom je ook een aantal authentieke overdekte bruggen (covered bridges) tegen. Wel even goed controleren of je er met de camper doorheen kunt!
-
+Ook in New Hampshire kun je genieten van de combinatie van natuur en geschiedenis. Je kunt mooi wandelen in het White Mountain National Forest. 'The Kanc' ofwel de Kancamagus Scenic Byway is een prachtige route van 45 km door het park. Vooral in september en oktober erg mooi... In de White Mountains kom je ook een aantal authentieke overdekte bruggen (covered bridges) tegen. Wel even goed controleren of je er met de camper doorheen kunt!
 Of ga naar Lake Winnepesaukee voor een serene rust. Maart is trouwens de ahornsiroopmaand. Je kunt de zoete siroop proeven in Sugar Hills.
+Wist je New Hamshire geen verkoopbelasting kent? Dus als je van shoppen houdt, is dat een fijne bijkomstigheid! Ga dan bijvoorbeeld naar Steeplegate Mall in Concord, de hoofdstad, de Mall of New Hampshire in Manchester, of Merrimack Premium Outlets, 20 minuten ten zuiden van Manchester.
 
-Wist je New Hampshire geen verkoopbelasting kent? Dus als je van shoppen houdt, is dat een fijne bijkomstigheid! Ga dan bijvoorbeeld naar Steeplegate Mall in Concord, de hoofdstad, de Mall of New Hampshire in Manchester, of Merrimack Premium Outlets, 20 minuten ten zuiden van Manchester.
-
-#prachtige herfst in Vermont
+#Prachtige herfst in Vermont
 
 Ook Vermont is in de maanden september en oktober op haar mooist. Zeker in het Green Mountain National Forest zie je een en al kleurenpracht. Het is een perfecte plek om te gaan wandelen, fietsen en klimmen. En ook om dieren te zien, zoals beren, herten, coyotes en elanden. Ook Gifford Woods Forest State Park bij Killington is zeker de moeite waard om te stoppen.
-
 De hoofdstad Montpelier is erg fotogeniek, evenals de plaatsen Bennington en Manchester. Ben je een duikliefhebber? Ga dan duiken naar een van de scheepswrakken in Lake Champlain.
 
 #Massachusetts
 
-De staat Massachusetts heeft meer te bieden dan de mooie stad Boston. Het stadje Salem ken je misschien van de heksenveroordelingen van 1692. Ook in Massachusetts ligt Cape Cod, een prachtig schiereiland, wat de beste plek is voor een walvistour. Ook komen hier baloega's (soort witte dolfijnen) voor vanwege de grote hoeveelheden algen en plankton. Provincetown heeft prachtige zandduinen. Sla ook Berkshire County niet over. In het museum van Hancock Shaker Village leer je veel over de religieuze gemeenschap die grotendeels uitgestorven is door het celibaat waar ze in geloven. In de Berkshires kun je je ook vergapen aan de grote en luxe woningen.
+De staat Massachusetts heeft meer te bieden dan de mooie stad Boston. Het stadje Salem ken je misschien van de heksenveroordelingen van 1692. Ook in Massauchessetts ligt Cape Cod, een prachtig schiereiland, wat de beste plek is voor een walvistour. Ook komen hier baloega's (soort witte dolfijnen) voor vanwege de grote hoeveelheden algen en plankton. Provincetown heeft prachtige zandduinen. Sla ook Berkshire County niet over. In het museum van Hancock Shaker Village leer je veel over de religieuze gemeenschap die grotendeels uitgestorven is door het celibaat waar ze in geloven. In de Berkshires kun je je ook vergapen aan de grote en luxe woningen.
 
 #Welke camper: suggesties
 
 Voor twee personen is een compacte motorhome met toilet/douche én airco zoals de C-small van El Monte een heel goede keuze.
-
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine, zoals van Road Bear, Cruise America en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
-
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van je voorkeur.
 
 #Minimaal 2 weken
 
 Wij raden aan minimaal twee weken uit te trekken voor een reis door New England. Bovenstaande suggesties beschrijven een globale route, maar je kunt met gemak meer leuke plekken ontdekken of bijvoorbeeld nog de staten Connecticut en Rhode Island meenemen in je route.
 
-#vraag nu een offerte aan!
+#Vraag nu een offerte aan!
 
 Interesse in deze rondreis vanuit Boston? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0012/47/307d9095a01987426166c12907b030606a0c3ebf.jpeg</get-trip-image-url-manual-getaway>
@@ -157,24 +148,26 @@ Interesse in deze rondreis vanuit Boston? Wij helpen je graag met een geschikte 
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/balazs-busznyak-U3teH1-XzKQ-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/07/vermont-5168248_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/cape-cod-light-house-5114876_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/mercedes-mehling-7I9aCavB8RI-unsplash.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis vanuit Denver</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-denver/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis vanuit Denver
+    <get-trip-scraped-content><![CDATA[#Camperreis vanuit Denver
 
 Vanuit Denver in de staat Colorado kun je een zeer gevarieerde rondreis maken langs een aantal fantastische nationale parken. En juist de afwisseling met een paar steden maakt deze route erg afwisselend. Op deze pagina zetten we een aantal suggesties voor deze rondreis op een rijtje.
 Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel voor je camperreis, afgestemd op je wensen en reisplannen.
 
 #Denver: nog even zonder camper
 
-Denver is de hoofdstad van de staat Colorado en ligt op ongeveer 1.750 m hoogte. De stad staat daarom ook wel bekend als de Mile High City. In de winter is de stad vooral bekend als uitvalsbasis voor mensen die gaan skiën. Maar ook in andere seizoenen is Denver zeker de moeite waard. Verken de unieke wijken zoals Riverfront/Platte Valley Area met restaurants, cafés en winkels, Five Points historic district met een grote Afro-Amerikaanse gemeenschap en een jazzcultuur, en Downtown Littleton dat een meer artistieke sfeer heeft. Er wordt in Denver ook meer bier gebrouwen dan in welke andere Amerikaanse stad ook. In oktober is er het Great American Beer festival waar meer dan 2700 verschillende bieren worden geschonken. Het is een makkelijke stad om lopend te verkennen tussen maart en november of met een leenfiets over 1.360 km fietspaden.
+Denver is de hoofdstad van de staat Colorado en ligt op ongeveer 1.750 m hoogte. De stad staat daarom ook wel bekend als de Mile High City. In de winter is de stad vooral bekend als uitvalsbasis voor mensen die gaan skiën. Maar ook in andere seizoenen is Denver zeker de moeite waard. Verken de unieke wijken zoals Riverfront/Platte Valley Area met restaurants, café's en winkels, Five Points historic district met een grote Afro-Amerikaanse gemeenschap en een jazzcultuur, en Downtown Littleton dat een meer artistieke sfeer heeft. Er wordt in Denver ook meer bier gebrouwen dan in welke andere Amerikaanse stad ook. In oktober is er het Great American Beer festival waar meer dan 2700 verschillende bieren worden geschonken. Het is een makkelijke stad om lopend te verkennen tussen maart en november of met een leenfiets over 1.360 km fietspaden.
 
 #Verken de staat Colorado
 
@@ -203,12 +196,13 @@ Cheyenne is de hoofdstad van Wyoming en de grootste stad. De stad is vooral beke
 
 Voor twee personen is een compacte motorhome met toilet/douche én airco zoals de C23-25 van Road Bear een hele goede keuze.
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine, zoals van Cruise America en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van je voorkeur.
 
 #18 - 25 dagen
 
 Voor deze rondreis vanuit Denver adviseren we minimaal 18 dagen maar liefst ruim drie weken uit te trekken. Dan heb je tijd om de parken goed te verkennen, ergens een dag langer te blijven en/of een paar wandelingen te maken.
 
-#Offerte
+#vraag nu een offerte aan!
 
 Interesse in deze rondreis vanuit Denver? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/f86bde300017c668fad37e26eb7e31899d58a17f.jpeg</get-trip-image-url-manual-getaway>
@@ -230,10 +224,12 @@ Interesse in deze rondreis vanuit Denver? Wij helpen je graag met een geschikte 
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/11/crazy-horse-memorial-4577682_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/11/cheyenne-joseph-keil-O0vW1bBOrFI-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2019/07/Mighty-Yellowstone_5.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/yellowstone-breedbeeld.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis vanuit Las Vegas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
@@ -243,6 +239,7 @@ Interesse in deze rondreis vanuit Denver? Wij helpen je graag met een geschikte 
     <get-trip-scraped-content><![CDATA[#Rondreis vanuit Las Vegas
 
 Je kunt in West Amerika prachtige rondreizen maken vanuit één centrale locatie. Dan hoef je je camper niet in een andere plaats in te leveren en bespaart u eenrichtingskosten. Vanuit Las Vegas in Nevada kun je een geweldige rondreis maken via een hele serie prachtige natuurparken. Op deze pagina zetten we een aantal suggesties voor deze rondreis op een rijtje.
+
 Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op je wensen en reisplannen en gebaseerd op onze eigen ervaringen en die van andere klanten.
 
 #Las Vegas: nog even zonder camper
@@ -252,22 +249,27 @@ Las Vegas, midden in de Mojave Desert in Nevada. Jaarlijks komen hier meer dan 4
 #De mighty five van utah
 
 Vanaf Las Vegas is het slechts 3 uur rijden naar Utah. In deze staat vind je Zion National Park. Een erg bijzonder park en volledig anders dan de parken die je al eerder gezien heeft. Je kunt er vele wandelingen maken en makkelijk de drukte vermijden. Alsof je het hele park voor je alleen hebt. Daarna is het slechts een korte rit naar Bryce Canyon National Park. De gigantische amfitheaters vol met oranje/roze grillige pieken zijn vooral bij zonsopgang en zonsondergang schitterend om te zien. Een gratis shuttlebus brengt je van het ene uitzichtspunt naar het andere. Maar maak zeker ook een wandeling door het woud van rotsformaties.
-Zion en Bryce behoren tot de Mighty Five National Parks in Utah, net zoals Capitol Reef National Park. Hier zie je de Waterpocket Fold: een reusachtige scheur in het aardoppervlak van meer dan 160 km lang. En ook Canyonlands en Arches behoren tot de Mighty Five. In Canyonlands kun je fietsen. Het is alsof je op Mars rijdt. Arches National Park heeft meer dan 2.000 zandstenen bogen, waaronder de Delicate Arch. Deze oogt zo fragiel dat je je adem bijna inhoudt.
+
+Zion en Bryce behoren tot de Mighty Five National Parks in Utah, net zoals Capitol Reef National Park. Hier zie je de Waterpocket Fold: een reusachtige scheur in het aardoppervlak van meer dan 160 km lang. En ook Canyonlands en Arches behoren tot de Mighty Five. In Canyonlands kun je fietsen. Het is alsof je op Mars rijdt… Arches National Park heeft meer dan 2.000 zandstenen bogen, waaronder de Delicate Arch. Deze oogt zo fragiel dat je je adem bijna inhoudt…
 
 #Mesa Verde en Monument Valley
 
 Vervolgens rijd je zuidwaarts richting de staat Colorado. De route voert door Mesa Verde National Park. Kenmerkend voor het park zijn de rotswoningen, gebouwd in de 12e eeuw door de Anasazi indianen.
+
 De volgende stop is weer een echte must-do: Monument Valley. Het is gelegen op het Colorado Plateau nabij Four Corners, het punt waar de staten Utah, Arizona, Colorado en New Mexico bij elkaar komen. Monument Valley is even bekend als de Grand Canyon. Het gebied is eigendom van de grootste Indianenstam van de VS: de Navajo Nation. Het staat vol met geweldige zandstenen monolieten die omhoog komen uit het rode zand van het Colorado plateau. Ze hebben allemaal een verschillende vorm en een naam, zoals de Three Sisters, Big Indian, Totem Pole. Hier zijn verschillende films opgenomen, zoals Back to the Future III.
 
 #Terug richting Las Vegas
 
 Op de terugweg richting Las Vegas is het nog niet klaar met het overweldigende natuurschoon. Stop zeker bij Lake Powell, een kunstmatig meer op de grens van Arizona en Utah. Het meer wordt gevormd achter de Glen Canyondam. In deze omgeving kun je bijvoorbeeld de Antelope Canyon verkennen, het Rainbow Bridge National Monument en de Horsehoe Bend.
+
 Het meest iconische natuurwonder in Arizona is zeker de Grand Canyon. De Colorado rivier stroomt er dwars doorheen tot een diepte van 1,7 km. De kloof is wel 29 km breed op het breedste punt. Afhankelijk van het moment op de dag veranderen de kleuren in de kloof van rood naar roze naar bruin. De meeste bezoekers komen vanuit de South Rim. De North Rim is minder toegankelijk. Als je geen hoogtevrees heeft, kun je op het transparante platform van de Grand Canyon Skywalk gaan staan om de diepte van de kloof te ervaren.
 
 #Welke camper? Suggesties
 
 Voor twee personen is de C-small van El Monte een hele goede keuze.
+
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de motorhomes met alkoof, een ruimte met een bed boven de cabine, van bijvoorbeeld Road Bear en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van je voorkeur.
 
 #16 - 21 dagen
@@ -280,6 +282,7 @@ Interesse in deze rondreis vanuit Las Vegas? Wij helpen je graag met een geschik
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/bda684443ff337261cc3b8f35ddc6e47920943d9.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/Rondreis-vanuit-Las-Vegas.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/las-vegas-2237590_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/monument-valley-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/zion-2271158_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/bryce-2602302_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Capitol-Reef-22658841507_d0dec77875_w.jpg</get-trip-image-url-overview>
@@ -293,6 +296,7 @@ Interesse in deze rondreis vanuit Las Vegas? Wij helpen je graag met een geschik
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis vanuit Los Angeles</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
@@ -307,21 +311,21 @@ Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaak
 
 #Los Angeles: nog even zonder camper
 
-Voordat je de camper haalt, is het zeker aan te raden Los Angeles te verkennen, ofwel L.A. zoals het meestal wordt afgekort. Het is de tweede grootste stad in de Verenigde Staten. Beroemde bezienswaardigheden zijn de Hollywood Walk of Fame, de wijk Beverly Hills van de rich & famous, de Santa Monica Pier en Venice Beach. En ook voor Disneyland en de Universal Studios kun je al een dag uittrekken. Maar dat kan ook nadat je de camper heeft opgehaald.
+Voordat je de camper haalt, is het zeker aan te raden Los Angeles te verkennen, ofwel L.A. zoals het meestal wordt afgekort. Het is de tweede grootste stad in de Verenigde Staten. Beroemde bezienswaardigheden zijn de Hollywood Walk of Fame, de wijk Beverly Hills van de 'rich & famous', de Santa Monica Pier en Venice Beach. En ook voor Disneyland en de Universal Studios kun je al een dag uittrekken. Maar dat kan ook nadat je de camper heeft opgehaald.
 
 #Route 1: iconische roadtrip
 
-California State Route 1 tussen Los Angeles en San Francisco is absoluut een iconische roadtrip en een must-do. Je kunt de 680 km in een (lange) dag afleggen, maar waarom zou je? Als je het rustig aan doet, kun je er met gemak een week over doen. Er is genoeg te zien en doen. Vanuit Los Angeles kom je eerst Santa Barbara tegen, een luxe kustplaats met afgelegen inhammen. Noordwaarts kom je langs San Luis Obispo, Los Padres National Forest, Big Sur (een van de meest fotogenieke regio's van California en ideaal om te kamperen), Carmel en Santa Cruz. De verleiding is groot om elke paar minuten te stoppen voor de mooie uitzichten.
+California State Route 1 tussen Los Angeles en San Francisco is absoluut een iconische roadtrip en een must-do. Je kunt de 680 km in een (lange) dag afleggen, maar waarom zou je? Als je het rustig aan doet, kun je er met gemak een week over doen. Er is genoeg te zien en doen. Vanuit Los Angeles kom je eerst Santa Barbara tegen, een luxe kustplaats met afgelegen inhammen. Noordwaarts kom je langs San Luis Obispo, Los Padres National Forest, Big Sur (een van de meest fotogenieke regio's van California en ideaal om te kamperen), Carmel en Santa Cruz. De verleiding is groot om elke paar minuten te stoppen voor de mooie uitzichten. Maar dan duurt het wel erg lang om in San Francisco te komen...
 
 #San Francisco: heerlijke stad
 
-Ook San Francisco is een stad om even zonder de camper te verkennen. Je kunt een camping opzoeken buiten de stad en dan bijvoorbeeld met de trein ernaartoe gaan. Er zijn zoveel bekende highlights die je niet wilt missen: natuurlijk de rode Golden Gate Bridge, Pier 39 met zicht op Alcatraz Island en de bekende kolonie zeehonden, de Cable Car die al sinds de 19e eeuw toeristen vervoert door de steile straten, Lombard Street met de vele bochten en de kleurrijke Victoriaanse huizen de Pink Ladies in Alamo Square Park. Een wandeling door Chinatown is niet compleet zonder een bezoek aan de Golden Gate Fortune Cookie Factory. De leukste manier om deze mooie stad te verkennen is misschien wel met een fietstour. En wellicht kun je 's avonds nog een echt Amerikaanse baseball game bijwonen.
+Ook San Francisco is een stad om even zonder de camper te verkennen. Je kunt een camping opzoeken buiten de stad en dan bijvoorbeeld met de trein ernaartoe gaan. Er zijn zoveel bekende highlights die je niet wilt missen: natuurlijk de rode Golden Gate Bridge, Pier 39 met zicht op Alcatraz Island en de bekende kolonie zeehonden, de Cable Car die al sinds de 19e eeuw toeristen vervoert door de steile straten, Lombard Street met de vele bochten en de kleurrijke Victoriaanse huizen 'de Pink Ladies' in Alamo Square Park. Een wandeling door Chinatown is niet compleet zonder een bezoek aan de Golden Gate Fortune Cookie Factory. De leukste manier om deze mooie stad te verkennen is misschien wel met een fietstour. En wellicht kun je 's avonds nog een echt Amerikaanse baseball game bijwonen.
 
 #Na de stad weer de natuur in
 
-Na de drukte van de stad San Francisco is het heerlijk om weer even de natuur in te gaan, voordat je in de nog veel grotere drukte van Las Vegas terecht komt. De eerste stop zal zeker Yosemite National Park zijn. Hier vind je schitterende alpenweiden, bergbossen, meren, watervallen en reusachtige mammoetbomen. Zuidwaarts rijdend kom je in Kings Canyon National Park met een van de diepste rivierkloven in Noord Amerika en Sequoia National Park. Hier ben je in het zuidelijke deel van de Sierra Nevada. Het park dankt zijn naam aan de enorme sequoia's ofwel mammoetbomen die er groeien, zoals de General Sherman Tree.
+Na de drukte van de stad San Francisco is het heerlijk om weer even de natuur in te gaan, voordat je in de nog veel grotere drukte van Las Vegas terecht komt. De eerste stop zal zeker Yosemite National Park zijn. Hier vind je schitterende alpenweiden, bergbossen, meren, watervallen en reusachtige mammoetbomen. Zuidwaarts rijdend kom je in Kings Canyon National Park met een van de diepste rivierkloven in Noord Amerika en Sequioa National Park. Hier ben je in het zuidelijke deel van de Sierra Nevada. Het park dankt zijn naam aan de enorme sequioa's ofwel mammoetbomen die er groeien, zoals de General Sherman Tree.
 
-Death Valley is het heetste en droogste National Park in Amerika. Hier vind je de laagste plek op het Amerikaanse continent: Badwater Basin, op 86 m onder zeeniveau. Maar er is meer dan droogte en woestijn. De Death Valley Scenic Byway is een prachtige route om te rijden. Let wel op: in de zomer kan het wel 50 graden worden in Death Valley! Als je er dan met de camper heen gaat, is dat op eigen risico.
+Death Valley is het heetste en droogste National Park in Amerika. Hier vind je de laagste plek op het Amerikaanse continent: Badwater Basin, op 86 m onder zeeniveau. Maar er is meer dan droogte en woestijn. De Death Valley Scenic Byway is een prachtige route om te rijden. Let wel op: in de zomer kan het wel 50 graden worden in Death Valley! Als je er dan met de camper heen gaat, is dat op eigen risico...
 
 #Las Vegas
 
@@ -331,7 +335,7 @@ En dan het andere uiterste: Las Vegas, midden in de Mojave Desert in Nevada. Jaa
 
 Vanaf Las Vegas is het slechts 3 uur rijden naar Utah. In deze staat vind je Zion National Park. Een erg bijzonder park en volledig anders dan de parken die je al eerder gezien hebt. Je kunt er vele wandelingen maken en makkelijk de drukte vermijden. Alsof je het hele park voor je alleen hebt. Daarna is het slechts een korte rit naar Bryce Canyon National Park. De gigantische amfitheaters vol met oranje/roze grillige pieken zijn vooral bij zonsopgang en zonsondergang schitterend om te zien. Een gratis shuttlebus brengt je van het ene uitzichtspunt naar het andere. Maar maak zeker ook een wandeling door het woud van rotsformaties.
 
-Op weg naar de niet te missen Grand Canyon kom je langs Lake Powell, een kunstmatig meer op de grens van Arizona en Utah. Het meer wordt gevormd achter de Glen Canyondam. In deze omgeving kun je bijvoorbeeld de Antelope Canyon verkennen, het Rainbow Bridge National Monument en de Horseshoe Bend.
+Op weg naar de niet te missen Grand Canyon kom je langs Lake Powell, een kunstmatig meer op de grens van Arizona en Utah. Het meer wordt gevormd achter de Glen Canyondam. In deze omgeving kun je bijvoorbeeld de Antelope Canyon verkennen, het Rainbow Bridge National Monument en de Horsehoe Bend.
 
 Het meest iconische natuurwonder in Arizona is zeker de Grand Canyon. De Colorado rivier stroomt er dwars doorheen tot een diepte van 1,7 km. De kloof is wel 29 km breed op het breedste punt. Afhankelijk van het moment op de dag veranderen de kleuren in de kloof van rood naar roze naar bruin. De meeste bezoekers komen vanuit de South Rim. De North Rim is minder toegankelijk. Als je geen hoogtevrees heeft, kun je op het transparante platform van de Grand Canyon Skywalk gaan staan om de diepte van de kloof te ervaren.
 
@@ -366,6 +370,7 @@ Interesse in deze rondreis vanuit Los Angeles? Wij helpen je graag met een gesch
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/death-valley-andy-falconer-hhOHkkb3CUQ-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/death-valley-jakub-gorajek-_cE05LEIyrk-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/las-vegas-2237590_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/Grand-Canyon-zonsondergang-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/zion-ilona-bellotto-gDLPX2fb3-c-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/bryce-canyon-502026_640-e1761656737795.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Horsehoe-bend-3695632367_a003c12f27_w.jpg</get-trip-image-url-overview>
@@ -375,58 +380,46 @@ Interesse in deze rondreis vanuit Los Angeles? Wij helpen je graag met een gesch
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis vanuit New York</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-new-york/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Rondreis vanuit New York
-
-De staat New York heeft zeker meerdere highlights dan alleen de stad New York City. Zo zijn er bijvoorbeeld al de beroemde Niagara Falls. Maar er is veel meer te ontdekken. We geven je tips voor een afwisselende rondreis vanuit de stad New York. Je kiest zelf of je de city trip aan het begin of einde van de reis doet.
-Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op je wensen en reisplannen.
-
-#New York City trip
-
-Wie kent niet het Vrijheidsbeeld en Manhattan in New York City? Must-sees zijn natuurlijk het beroemde uitzicht op de skyline van Manhattan, het Vrijheidsbeeld, Times Square waar 'the city that never sleeps' haar naam eer aan doet, Fifth Avenue en Central Park, een oase van rust middenin de stad. Minder bekende plekken zijn de vele gave restaurantjes in het Meatpacking District en de verhoogde wandelroute van de High Line.
+    <get-trip-scraped-content><![CDATA[#New York City trip
+Wie kent niet het Vrijheidsbeeld en Manhattan in New York City? Must-sees zijn natuurlijk het beroemde uitzicht op de skyline van Manhattan, het Vrijheidsbeeld, Times Square waar 'the city that never sleeps' haar neem eer aan doet, Fifth Avenue en Central Park, een oase van rust middenin de stad. Minder bekende plekken zijn de vele gave restaurantjes in het Meatpacking District en de verhoogde wandelroute van de High Line.
 Na 1 of meerdere dagen New York haal je je camper op en dan begint je camper rondreis!
 
 #De staat New York
-
-Albany is de hoofdstad van de staat New York en ligt zo'n 200 kilometer bij de stad New York vandaan. Het is een oude Nederlandse nederzetting, dus je zult nog vele Nederlands klinkende namen tegenkomen. De Empire State Place (officieel het Governor Nelson A. Rockefeller Empire State Plaza genoemd) is een verzameling van aparte architectonische gebouwen. Een andere grote stad in de staat New York is Syracuse, nabij Lake Erie en Lake Onondaga, een van de vele kleinere parallel liggende meren in de staat. De stad staat onder andere bekend om de Syracuse University en de vele festivals die het hele jaar door in the City of Festivals georganiseerd worden.
+Albany is de hoofdstad van de staat New York en ligt zo'n 200 kilometer bij de stad New York vandaan. Het is een oude Nederlandse nederzetting, dus je zult nog vele Nederlands klinkende namen tegen komen. De Empire State Place (officieel het Governor Nelson A. Rockefeller Empire State Plaza genoemd) is een verzameling van aparte architectonische gebouwen. Een andere grote stad in de staat New York is Syracuse, nabij Lake Erie en Lake Onondaga, een van de vele kleinere parallel liggende meren in de staat. De stad staat onder andere bekend om de Syracuse University en de vele festivals die het hele jaar door in 'the City of Festivals' georganiseerd worden.
 Slechts twintig minuten rijden van Syracuse ligt het prachtige Green Lakes State Park. In het park vind je twee azuurblauwe meren, die uitnodigen tot zwemmen en wandelingen rond de oevers. De meren danken hun opvallende kleur aan het feit dat de oppervlakte- en bodemwateren niet mengen, waardoor de seizoenen geen invloed op het water hebben.
 De Finger Lakes is de groepsnaam van een elftal meren in het noorden van de staat. De meren zijn langwerpig en noord-zuid gesitueerd. De ligging van de meren deed de makers van kaarten denken aan de vingers van een hand, vandaar de naam. De meren zijn gevormd door gletsjers tijdens de ijstijd. Cayuga Lake en Seneca Lake vormen het centrum van de regio en behoren tot de diepste wateren van Amerika. De meren zijn ongeveer zestig kilometer lang en zes kilometer breed. Ze liggen in een landschap vol glooiende heuvels met wijngaarden en charmante dorpjes. Toch zijn de meren niet de beroemdste attracties. Dat zijn de honderden watervallen, zoals die in Watkins Glen State Park.
 
 Sla zeker de Niagara Falls niet over! Ze behoren tot de bekendste watervallen ter wereld. De totale lengte is bijna een kilometer en daarmee zijn de watervallen een van de grootste op aarde. Je zult er zeker niet de enige toerist zijn, maar dit is absoluut een must-see tijdens je reis. De meest indrukwekkende waterval is Horseshoe Falls, die de vorm heeft van een hoefijzer. Hier komt het overgrote deel van de Niagara Rivier naar beneden gestroomd: 90%. Het is bijna onmogelijk om het natuurgeweld in één foto te vangen. Horseshoe Falls is 671 m breed en 53 m hoog. Het grootste deel van deze waterval ligt op Canadees grondgebied en wordt daarom ook wel Canadian Falls genoemd.
-Vanaf de Canadese kant is het zicht op de watervallen echt anders. Je kunt ervoor kiezen om de grens over te steken. Houd wel rekening met het nodige papierwerk en een lange wachttijd…
+Vanaf de Canadese kant is het zicht op de watervallen echt anders. Je kunt ervoor kiezen om de grens over te steken. Houd wel rekening met het nodige papierwerk en een lange wachttijd...
 
 #Pennsylvania
-
 Als je vanuit de Niagara Falls zuidwaarts rijdt, voert de route naar de staat Pennsylvania. Deze staat kent veel industrie, maar biedt zeker ook natuur. Je kunt bijvoorbeeld naar de Pennsylvania Wilds gaan, waar elanden in het wild leven. Deze kun je zien langs de Elk Scenic Drive. Erie, aan Lake Erie, is de havenstad aan de Grote Meren.
 Maar Pennsylvania kent vooral veel geschiedenis. De grootste stad Philadelphia is een bezoek waard.
 Of bezoek Dutch Country, bekend vanwege de grote Amish populatie en het grote aantal Amerikanen dat Duits spreekt.
 
 #West Virginia: volop natuur
-
 Verder naar het zuiden rijd je naar West Virginia, dat niet voor niks de Mountain State wordt genoemd. Het ligt middenin het Appalachengebergte. Het Monongahela National Forest is een prachtige plek om te gaan wandelen, mountainbiken en paardrijden. Er zijn veel kampeerplekken en je kunt mooie routes rijden en wandelen. In Blackwater Falls State Park stort de Blackwater River vijf niveaus naar beneden in een steile kloof. Ook de Potomac Highlands bieden maar liefst 800 km aan wandelroutes en er zijn veel campings. Tenslotte kun je in Berkeley Springs State Park terecht voor heerlijke massages en minerale baden.
 
 #Washington D.C.
-
 Na een paar dagen vol prachtige natuur rijd je door naar Washington D.C., de hoofdstad van Amerika. De stad is een staat op zich: District of Columbia (D.C.), niet te verwarren met Washington wat een staat is in West Amerika. Hier staat uiteraard het White House, de woning van de Amerikaanse president. Langs de 3 km lange National Mall (een grasstrook) die start bij het Capitool vind je veel belangrijke monumenten zoals het Washington Monument, de Lincoln Memorial, de Vietnam Veterans Memorial en het Smithsonian Institute, dat beschouwd wordt als een van 's werelds beste musea. Georgetown is een mooi historisch district met rode bakstenen huizen uit de 18e eeuw in het noordwesten van de stad. Ook leuk om te doen zijn een food tour en de stad verkennen op de fiets.
-Vervolgens rijd je terug richting New York, maar maak zeker eerst een stop in Philadelphia, liefkozend Philly genoemd. Hier werd op 4 juli 1776 de Declaration of Independence getekend in de Independence Hall, wat het einde van de oorlog met Groot-Brittannië betekende. De Liberty Bell, symbool van de Amerikaanse onafhankelijkheid, hangt in het Liberty Bell Center. In het koloniale oude centrum van de stad is meer historie te vinden. Of ga naar South Philly, waar je de beroemde Philly Cheesesteak kunt proberen.
+Vervolgens rijd je terug richting New York, maar maak zeker eerst een stop in Philadelphia, liefkozend Philly genoemd. Hier werd op 4 juli 1776 de Declaration of Indepedence getekend in de Independence Hall, wat het einde van de oorlog met Groot-Brittannië betekende. De Liberty Bell, symbool van de Amerikaanse onafhankelijkheid, hangt in het Liberty Bell Center. In het koloniale oude centrum van de stad is meer historie te vinden. Of ga naar South Philly, waar je de beroemde Philly Cheesesteak kunt proberen.
 
 #Welke camper: suggesties
-
 Voor twee personen is een compacte motorhome met toilet/douche én airco zoals de C23-25 van Road Bear een heel goede keuze.
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de motorhomes met alkoof, een ruimte met een bed boven de cabine, zoals van Cruise America en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van je voorkeur.
 
 #Ongeveer 14 dagen
-
 Wij raden je aan ongeveer 14 dagen uit te trekken voor deze rondreis vanuit New York. Uiteraard is dit afhankelijk van wat je gaat zien en doen. Als je ook Massachusetts en/of Vermont erbij neemt, heb je uiteraard meer tijd nodig.
 
 #Vraag nu een offerte aan!
-
 Interesse in deze rondreis vanuit New York? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/428fbb21c56b6367d1ee989b978268f43930c42b.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Rondreis-vanuit-NY.jpg</get-trip-image-url-overview>
@@ -445,13 +438,14 @@ Interesse in deze rondreis vanuit New York? Wij helpen je graag met een geschikt
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Rondreis vanuit Seattle (Seattle, Yellowstone, Idaho &amp; Oregon)</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Rondreis vanuit Seattle</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/rondreis-vanuit-seattle/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Rondreis vanuit Seattle
+    <get-trip-scraped-content><![CDATA[#Rondreis vanuit Seattle
 
 In het noorden van West Amerika is Yellowstone National Park met de magnifieke vulkanische landschappen de belangrijkste publiekstrekker. Maar er is veel meer te ontdekken. Van hieruit kun je bovendien de reis combineren met een deel van West Canada. Op deze pagina zetten we alvast een aantal suggesties voor een rondreis vanuit Seattle op een rijtje.
 
@@ -465,7 +459,7 @@ Seattle in de staat Washington is zeker de moeite waard om te verkennen voordat 
 
 Misschien verwacht je het niet direct vanuit de grote stad Seattle, maar even buiten de stad rijd je zo de prachtige natuur in. Onderweg kom je langs diverse pittoreske plaatsjes zoals Lyman, Hamilton en Concrete. Dan bereik je het North Cascades National Park. In dit ruige gebied vind je naast bossen, watervallen en meren ook gletsjers en bergpieken. Langs de hoofdweg, de North Cascades Scenic Highway, kom je meerdere uitzichtspunten en startpunten van wandelroutes tegen. In het park komen veel zwarte beren voor.
 
-Vervolg de route naar Kootenai National Forest in het uiterste noordwestelijke deel van de staat Montana. De bewaker van dit bosgebied is zeker de grizzly, dus pas op. In dit ruige bos vindt u vele bergtoppen en diepe rivierdalen, met meer in het achterland alpineweiden en meren. Naast beren komen er vele vogelsoorten voor, en herten, elanden, bergleeuwen, bevers, otters en lynxen.
+Vervolg de route naar Kootenai National Forest in het uiterste noordwestelijke deel van de staat Montana. De bewaker van dit bosgebied is zeker de grizzly, dus pas op... In dit ruige bos vindt u vele bergtoppen en diepe rivierdalen, met meer in het achterland alpineweiden en meren. Naast beren komen er vele vogelsoorten voor, en herten, elanden, bergleeuwen, bevers, otters en lynxen.
 
 Als je de tijd heeft, neem dan zeker Glacier National Park mee in je route. De Going-to-the-sun Road door het park is zeer mooi. Vervolg de route via de Beartooth Highway. Deze weg voert door een gebied met gletsjers, bergmeren, 20 bergtoppen (waaronder de hoogste van Montana: Granite Peak van 4.000 m hoog) en toendralandschappen. De Beartooth Pass ligt zo hoog dat de weg alleen toegankelijk is tussen mei en oktober.
 
@@ -509,6 +503,7 @@ Interesse in deze rondreis vanuit Seattle? Wij helpen je graag met een geschikte
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/9f620437b8154112feae2528c57edced8223d516.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Rondreis-vanuit-Seattle.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/seattle-skyline-1545099-640x480-1.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/yellowstone-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/north-cascades-rich-martello-5qmE-RF6Ls-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Kootenai-falls-tim-peterson-KHrwWI5rdo8-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/beartooth-highway-rich-martello-gw6Yz8YPINY-unsplash.jpg</get-trip-image-url-overview>
@@ -523,36 +518,31 @@ Interesse in deze rondreis vanuit Seattle? Wij helpen je graag met een geschikte
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis The Deep South: muziek &amp; natuur</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/the-deep-south/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis The Deep South: muziek & natuur
-
+    <get-trip-scraped-content><![CDATA[#Introductie
 Een camperreis door The Deep South kun je starten vanuit Atlanta. Trek voor deze route minimaal 16 tot ca. 25 dagen uit. Deze regio staat bekend om de muzieksteden Nashville, Memphis en New Orleans maar ook om de geschiedenis en de plantagehuizen aan de Mississippi River. Qua natuur zijn de Great Smoky Mountains een hoogtepunt. Onderstaand een voorbeeldroute die uiteraard aangepast kan worden aan jouw wensen.
-
 Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel. Deze zijn afgestemd op jouw wensen en reisplannen en gebaseerd op onze eigen ervaringen en die van andere klanten. Indien gewenst boeken wij ook campings en/of excursies voor u.
 
 #Atlanta: startpunt van de reis
-
 Je camperreis start in Atlanta, de hoofdstad van Georgia. In deze stad zorgen zuidelijke tradities en moderne wolkenkrabbers voor een bijzondere mix. Het is de geboorteplaats van Martin Luther King Jr. en een belangrijke plaats uit de Amerikaanse Burgeroorlog. Daardoor zijn er veel monumenten en historische musea te bezoeken.
 Bij het Centennial Olympic Park vind je diverse topattracties, zoals het CNN Center, het Georgia Aquarium (een van de grootste aquaria ter wereld) en World of Coca-Cola.
 
-#pensacola
-
+#Pensacola
 In het uiterste noordwesten van Florida ligt Pensacola, een historische en militaire stad. In Pensacola Downtown vind je Franse balkonnetjes en Victoriaanse villa's. Palafox Street is de winkelstraat waar elke zaterdagochtend een markt wordt gehouden.
 Ten zuiden van 'P-Cola' ligt de oudste marine vliegbasis van Amerika, die nog steeds in gebruik is en die ook bezocht kan worden. Je kunt hier wandelen langs meer dan 150 gerestaureerde vliegtuigen, een vlucht in een simulator maken en een film bekijken in het grote IMAX Naval Aviation Memorial Theatre.
 Pensacola ligt aan de kust. In Florida bestaat de kustlijn grotendeels uit witte zandstranden, ongerepte natuurgebieden, wandelpaden en historische forten. Het vliegdekschip USS Oriskany werd in 2006 voor de kust van Pensacola tot zinken gebracht. Het moet uiteindelijk het grootste door mensen gemaakte rif ter wereld worden en is een must dive voor enthousiastelingen.
 
-#mobile
-
+#Mobile
 Ten westen van Pensacola ligt Mobile, een authentieke zuidelijke stad waar veel te doen is. Met zijn koloniale huizen en groene bomen in de straten van Downtown lijkt Mobile wel een beetje op een mini-New Orleans. De hoofdstraat is Dauphin Street. Hier tref je genoeg restaurants, boetiekjes, muziekcafés en bars om je niet te vervelen.
 Iets ten zuiden van Mobile ligt Bellingrath Gardens and Home, een prachtig aangelegde tuin met rozentuin, vijvers en een palazzo uit 1935.
 
-#ervaar new orleans met al je zintuigen
-
+#Ervaar New Orleans met al je zintuigen
 Gelegen aan de Mississippi rivier in de Deep South ligt New Orleans, een stad die tot ieders verbeelding spreekt. Wereldwijd bekend vanwege de jazzmuziek, het bruisende nachtleven van Bourbon Street, het Mardi Gras festival, de heerlijke lokale keuken en de prachtige architectuur. Maar ook vanwege de mysterieuze voodoo en het woelige, turbulente verleden van de slavenhandel op de omliggende katoenplantages.
 Bezoek de French Quarter, de bekendste en leukste buurt van New Orleans. Dit is een wijk met prachtige architectuur en op Jackson Square zijn veel straatartiesten om van te genieten. Vergeet ook vooral niet de lokale keuken te proeven, bestel bijvoorbeeld een overheerlijke beignet.
 Ga shoppen in een van de lokale vintage- en hoedenwinkels. Bourbon Street is de bekendste en drukste straat van New Orleans met vele barretjes en restaurantjes.
@@ -562,38 +552,31 @@ Wanneer je New Orleans bezoekt, ga dan zeker varen op de Mississippi rivier in e
 Tip: De Oak Alley Plantation is een veel bezocht plantagehuis vanuit New Orleans. Deze plantage geeft een inkijkje in de Creoolse cultuur die Louisiana ruim 200 jaar in zijn greep hield.
 
 #Tijd voor extra uitstapjes?
-
 Bij Houma, ten zuidwesten van New Orleans, ligt een moerasachtig gebied. Hier kun je een tour door de moerassen doen om de bijzondere flora en fauna van dichtbij te bewonderen. Alligators en krokodillen zijn vaak geziene gasten.
 Lafayette is het centrum van de cajun-cultuur en is de vierde grootste stad in de staat Louisiana. Verken het Acadian Village waar je door een Cajun-dorp uit 1800 kunt slenteren en een optreden kunt bekijken in het Acadiana Centre for the Arts. Er zijn ook rondleidingen door de Tabasco-fabriek op het eiland Avery.
 Ten noorden van Lafayette ligt het Chicot State Park. De glooiende heuvels en het koele water van Lake Chicot maken dit State Park populair onder wandelaars, kanoërs en vissers.
 
-#hoofdstad louisiana: Baton Rouge
+#Hoofdstad Louisiana: Baton Rouge
+Baton Rouge (letterlijk 'rode stok') is de hoofdstad van Louisiana. Het wordt gezien als een van de beste 'Foodie Cities' van The Deep South. Je vindt hier een bijzondere mix van Franse, Spaanse en Britse culturen.
+Het vroegere plantageleven heeft een stempel op de stad gedrukt. Langs de Mississippi vind je nog diverse oude plantages, met de Myrtles Plantation als bekendste voorbeeld. Dit huis is tevens een hotel en wordt ook 'America's most haunted house' genoemd. Een overnachting in dit spookhuis of anders een rondleiding overdag of 's avonds? Wie durft?
 
-Baton Rouge (letterlijk rode stok) is de hoofdstad van Louisiana. Het wordt gezien als een van de beste 'Foodie Cities' van The Deep South. Je vindt hier een bijzondere mix van Franse, Spaanse en Britse culturen.
-Het vroegere plantageleven heeft een stempel op de stad gedrukt. Langs de Mississippi vind je nog diverse oude plantages, met de Myrtles Plantation als bekendste voorbeeld. Dit huis is tevens een hotel en wordt ook America's most haunted house genoemd. Een overnachting in dit spookhuis of anders een rondleiding overdag of 's avonds?
-
-#een korte stop in natchez en vicksburg
-
+#Een korte stop in Natchez en Vicksburg
 Op de route naar Vicksburg kom je langs Natchez, de oudste nederzetting aan de Mississippi River. In historisch downtown ga je terug in de tijd. Ook hier kun je varen met een radarboot over de Mississippi. Vanuit Natchez start ook de bekende Natchez Trace Parkway, een scenic drive die loopt tot aan Nashville. Vroeger was dit een belangrijke weg voor handelaren en pioniers.
 Vicksburg ligt aan de Mississippi River en vormde een centrale locatie tijdens de Amerikaanse Burgeroorlog. Je kunt hier een bezoek brengen aan het National Military Park. Er loopt een autoroute van 25 kilometer lang door het park waar je alles kunt leren over de geschiedenis.
 
 #Memphis: de stad van Elvis & Graceland
-
 De mooiste route van Vicksburg naar Memphis is langs de Mississippi. Memphis is de stad van de bluesmuziek, van Elvis Presley en van Martin Luther King. Beale Street is de bekendste straat van Memphis, vol met winkels, restaurantjes en bars met livemuziek.
 Breng een bezoek aan de Sun Studio, de beroemde muziek studio opgericht in 1950, ook wel de geboorteplaats van de Rock 'N' Roll genoemd. Grootheden als Elvis Presley en Johnny Cash werden hier ontdekt. En voor de echte Elvis fan kan een bezoek aan zijn landgoed Graceland natuurlijk niet ontbreken.
 
 #Nashville = Country & Western muziek
-
 In tegenstelling tot de Blues en de Rock 'N' Roll in Memphis is Nashville de stad van de country- en western muziek. Nashville wordt ook wel de Music City genoemd. Bezoek Music Row met haar vele opnamestudio's, platenlabels en radiostations.
 Wie op zoek is naar echte cowboy laarzen kan een bezoek brengen aan de Boot Barn, een hele winkel vol met allerlei soorten en maten. Deze bekende winkel is gelegen aan Broadway. Dit is de hoofdstraat van Nashville waar je vele winkels, restaurants en nachtclubs met livebands zult vinden.
 
-#Prachtig! the great smokey mountains
-
+#Prachtig! The Great Smokey Mountains
 Het Great Smoky Mountains National Park ligt op de grens van de staten Tennessee en North Carolina. Het is echt een schitterend natuurgebied. Het park is het hele jaar goed (en gratis) te bezoeken. Elk seizoen is de moeite waard. De bergen bedekt met bossen danken hun naam aan de mysterieuze nevel die vaak rond de toppen hangt, vooral in de ochtend. Het park staat op de UNESCO-Werelderfgoedlijst. Het is met jaarlijks tien miljoen bezoekers het meest bezochte nationale park van Amerika.
 De belangrijkste route is de vijftig kilometer lange Newfound Gap Road (Highway 441), die de plaatsen Gatlinburg en Cherokee met elkaar verbindt. Langs deze route vind je vele highlights en afslagen naar trails en uitkijkpunten. Chimney Tops Overlook en Morton Overlook, Clingmans Dome en Cades Cove zijn enkele van deze highlights. Even ten zuiden van het Great Smoky Mountains National Park, liggen de mooie Mingo Falls in het Cherokee Indian-reservaat. Een andere mooie dubbele waterval in de buurt is de Soco Falls.
 
-#en nóg meer mooie natuurparken
-
+#En nóg meer mooie natuurparken
 Andere mooie parken die een bezoek waard zijn op weg naar Atlanta zijn:
 - Chimney Rock State Park: dit park staat bekend om een bijna honderd meter hoge rots waarop een Amerikaanse vlag wappert. Via een lift of de trap kun je naar boven om het uitzicht te bewonderen.
 - Tablerock State Park met de grootste berg van South Carolina: Pinnacle Mountain. Je kunt hier mooie wandelingen maken langs bergruggen en watervallen. Je kunt zelfs naar de top van Pinnacle of Table Rock Mountain wandelen.
@@ -601,23 +584,19 @@ Andere mooie parken die een bezoek waard zijn op weg naar Atlanta zijn:
 - Watson Mill State Park is een van de meest pittoreske staatsparken van Georgia met de langste overdekte brug van de staat ('Covered Bridge').
 - Stone Mountain, een berg waarin de drie belangrijkste figuren van de Geconfedereerde Staten van Amerika uitgehouwen zijn, namelijk Stonewall Jackson, Robert E. Lee en Jefferson Davis. Via een gondelbaan of een wandelpad aan de westelijke kant bereik je de top van de berg. De berg wordt omringd door Stone Mountain Park. Dit is een groot themapark met mooie wandelpaden, een historische treinroute, een oude plantage en een museum over de bewogen geschiedenis van Stone Mountain.
 
-#terug in atlanta
-
+#Terug in Atlanta
 Deze camperreis eindigt weer in Atlanta. Na het inleveren van de camper kun je overwegen een extra hotelnacht te boeken. Zodoende kun je de volgende dag Atlanta verder verkennen. Ook hotelovernachtingen kunnen wij voor je regelen.
 
 #Welke camper: suggesties
-
 Maak je een camperreis met z'n tweeën, dan is een compacte motorhome met toilet/douche én airco zoals de C-Small van El Monte een heel goede keuze.
-Voor gezinnen of als je wat meer ruimte prettig vindt, zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
-Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule en je krijgt direct een goed beeld van de kosten van de camper van uw voorkeur.
+Voor gezinnen of als je wat meer ruimte prettig vindt, zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine. Bekijk gerust de campers van Road Bear en Cruise America. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
+Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van uw voorkeur.
 
 #REISDUUR: 18 - 24 dagen
-
 Wij raden aan minimaal 18 dagen uit te trekken voor de highlights van deze camperrondreis door de Deep South. Onder highlights bedoelen we in ieder geval Atlanta, Pensacola, New Orleans, Memphis, Nashville en de Great Smokey Mountains.
 Maar als je drie weken of meer hebt, kun je de route in een meer relaxed tempo verkennen of bijvoorbeeld wat langer blijven in Pensacola, de omgeving van New Orleans of de vele prachtige parken na de Great Smokey Mountains. Vergis je niet in de afstanden en wat er allemaal te zien en doen is. Het is de moeite waard om voldoende tijd in te ruimen om de bezienswaardigheden echt te ervaren.
 
-#vraag nu een offerte aan!
-
+#Vraag nu een offerte aan!
 Interesse in deze rondreis door de Deep South? Uiteraard kan de route naar wens aangepast worden. Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0015/09/5f90479567cdc2d37c7ff185bc6858dec85ae707.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2022/10/Atlanta-the-world-of-coca-cola-600.jpg</get-trip-image-url-overview>
@@ -654,60 +633,52 @@ Interesse in deze rondreis door de Deep South? Uiteraard kan de route naar wens 
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Denver naar Chicago</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/van-denver-naar-chicago/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Camperreis Denver naar Chicago
-
+    <get-trip-scraped-content><![CDATA[#Omschrijving
 Deze reis doet een aantal verschillende staten aan: je reist van Denver in Colorado naar Chicago in Illinois en komt onderweg door Nebraska, South en North Dakota, Iowa en Minnesota. Je kunt de reis uiteraard ook andersom maken. We geven je graag een aantal tips voor deze route.
 Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel voor je camperreis, afgestemd op jouw wensen en reisplannen.
 
 #Denver: nog even zonder camper
-
 Denver is de hoofdstad van de staat Colorado en ligt op ongeveer 1.750 m hoogte. De stad staat daarom ook wel bekend als de Mile High City. In de winter is de stad vooral bekend als uitvalsbasis voor mensen die gaan skiën. Maar ook in andere seizoenen is Denver zeker de moeite waard. Verken de unieke wijken zoals Riverfront/Platte Valley Area met restaurants, café's en winkels, Five Points historic district met een grote Afro-Amerikaanse gemeenschap en een jazzcultuur, en Downtown Littleton dat een meer artistieke sfeer heeft. Er wordt in Denver ook meer bier gebrouwen dan in welke andere Amerikaanse stad ook. In oktober is er het Great American Beer festival waar meer dan 2700 verschillende bieren worden geschonken. Het is een makkelijke stad om lopend te verkennen tussen maart en november of met een leenfiets over 1.360 km fietspaden.
 
 #Noordwaarts door verschillende staten
-
 Als je noordwaarts rijdt, kom je eerst terecht in Cheyenne, de hoofdstad van Wyoming en de grootste stad van de staat. De stad is vooral bekend vanwege de Frontier Days Rodeo in juli, de grootste rodeo ter wereld met meer dan 10.000 deelnemers.
 Iets verder noordwaarts kun je een bezoek brengen aan Scottsbluff in de staat Nebraska. Hier vind je het Scottsbluff National Monument. Het monument is genoemd naar Hiram Scott, een bonthandelaar die in 1828 vlak bij deze plek stierf. Het omvat vijf steile rotsen waarvan de hoogste 240 m hoog is en Scott's naam kreeg. Deze rots was eeuwenlang het herkenningspunt voor de bevolking en de emigranten die via de Oregon Trail naar het westen reisden. Vanaf de top heeft u een prachtig uitzicht over de omgeving.
 Vervolgens neem je een stukje van de staat South Dakota mee in je route. Rapid City is de perfecte uitvalsbasis voor een aantal unieke plekken. Mount Rushmore is het opvallende monument waar de hoofden van de presidenten George Washington, Thomas Jefferson, Theodore Roosevelt en Abraham Lincoln in het graniet uitgehouwen zijn. Badlands National Park bestaat uit ravijnen, kloven en hoodoos, afgewisseld met prairielandschappen. Wandelaars kunnen de 16 km lange Castle Trail lopen waar je onderweg talloze prehistorische fossielenbedden tegenkomt. Hier leven buffels en dikhoornschapen. Crazy Horse Memorial is een monument dat op dit moment wordt uitgehouwen in het graniet van de Black Hills, ter ere van de 19e-eeuwse leider van de Lakota indianenstam Crazy Horse. Wanneer het af is, zal het Crazy Horse uitbeelden, rijdend op een galopperend paard.
 In de buurt ligt het plaatsje Deadwood. Het stadje heeft een roemruchte geschiedenis als goudzoekersplaats in het Wilde Westen. Deadwood ligt in de Black Hills National Forest, het thuisland van Calamity Jane, een gevreesde wild west vrouw uit de jaren 70 van de 19e eeuw. Deadwood zelf was destijds een wetteloze plaats: moorden waren aan de orde van de dag en bestraffing verliep vaak niet eerlijk. Het hele stadje is tegenwoordig een nationaal monument. Het Midnight Star Casino is eigendom van de acteur Kevin Costner.
 
 #North Dakota
-
 Vanuit South Dakota rijd je door naar North Dakota. Hier ligt het Theodore Roosevelt National Park. Het park bestaat uit drie gescheiden gebieden, met badlands (door erosie aangetast) en prairies als kenmerkende landschappen. Dit is echt prairie op zijn best! Het park werd vernoemd naar de Amerikaanse president Theodore Roosevelt, die hier een ranch had. In het park leven bizons, mustangs, prairiehonden en coyotes. Er komen ook zo'n 186 verschillende vogelsoorten voor.
 De 19e eeuwse pioniers Lewis en Clark hebben veel tijd doorgebracht in North Dakota. Langs de autoroute Standing Rock National Native American Scenic Byway kun je veel leren over hun relatie met de tolkvertaler voor de Indianen: Sakakawea.
 Meer naar het westen ligt Fargo, de grootste stad van North Dakota. De stad dankt haar naam aan de ondernemer William George Fargo, medeoprichter van American Express. Als je van geschiedenis houdt is Bonanzaville leuk. Dit is een historisch museumcomplex, bestaande uit veertig gebouwen, waarvan vele historisch en uit de regio. Deze gebouwen zijn verplaatst naar het museumterrein en vormen nu een dorpse setting. Een openluchtmuseum dus!
 
 #De staat Minnesota
-
 De volgende staat op je route is Minnesota. Toen de Dakota Indianen zich hier 3 eeuwen geleden vestigden, noemden ze dit land Minisota, dat 'land van water met de kleur van de lucht' betekent. Vandaag de dag staat Minnesota nog steeds bekend om zijn natuur met prachtige bossen, uitgestrekte prairielandschappen en heldere blauwe meren. In de omgeving van Bemidji, de eerste stad aan de Mississippi Rivier, vind je bijvoorbeeld zo'n omgeving. Bemidji is het centrale knooppunt van een aantal Indianenreservaten.
 Vervolgens rijd je richting Duluth, gelegen aan Lake Superior. Duluth heeft veel groene stadsparken en er is genoeg te zien en doen. Er is bijvoorbeeld een spoorwegmuseum, een aquarium en de beroemde Aerial Lift Bridge, een hoge brug die verticaal omhoog getild kan worden. Een treinrit over de historische North Shore Scenic Railroad langs de oevers van Lake Superior is ook leuk!
-Daarna bereik je Minneapolis, de grootste stad van Minnesota. Het is niet de hoofdstad van Minnesota, dat is Saint Paul, waarmee Minneapolis een dubbelstad vormt. De naam Minneapolis is samengesteld uit het Dakota woord minne dat water betekent, en het Griekse woord polis dat stad betekent. De stad wordt ook wel City of Lakes genoemd. Bloomington ofwel de Mall of America is de grootste shopping mall in de Verenigde Staten met meer dan 520 winkels en restaurants, Nickelodeon Universe indoor pretpark en SeaLife aquarium. En er is geen belasting op schoenen en kleding in Minnesota, dus shoppen maar….
+Daarna bereik je Minneapolis, de grootste stad van Minnesota. Het is niet de hoofdstad van Minnesota, dat is Saint Paul, waarmee Minneapolis een dubbelstad vormt. De naam Minneapolis is samengesteld uit het Dakota woord minne dat 'water' betekent, en het Griekse woord polis dat 'stad' betekent. De stad wordt ook wel 'City of Lakes' genoemd. Bloomington ofwel de Mall of America is de grootste shopping mall in de Verenigde Staten met meer dan 520 winkels en restaurants, Nickelodeon Universe indoor pretpark en SeaLife aquarium. En er is geen belasting op schoenen en kleding in Minnesota, dus shoppen maar.
 Bob Dylan en Prince komen uit Minnesota. Als je van de muziek van Prince houdt, ga dan naar Paisley Park dichtbij Minneapolis, zijn huis en studio. Bezoek ook het Minnesota State Capitol in Saint Paul. De bouw werd afgerond in 1905. Het is een prachtig gebouw.
 
 #Laatste deel: naar Chicago
-
 Je kunt nu op verschillende manieren naar Chicago rijden. Wij hebben gekozen om dit via de staat Iowa te doen. De Iowa Great Lakes (West Okoboji Lake, East Okoboji Lake en Spirit Lake) zijn zeer geliefd om te gaan vissen en varen. Des Moines is de hoofdstad. De Iowa State Fair in Des Moines is een must-see en trekt jaarlijks miljoen bezoekers uit de hele wereld. Sinds 1854 vindt dit evenement al plaats, jaarlijks in augustus 11 dagen lang.
 Richting Chicago kun je voor een stukje Europees erfgoed stoppen in de Amana Colonies: 7 rustige Duitse dorpjes die samen een Historic Landmark vormen.
 De stad Chicago in de staat Illinois is het einde van de route. Chicago is de derde grootste stad van de Verenigde Staten, na New York en Los Angeles. Vanaf de 484 m hoge Willis Tower heb je prachtige uitzichten over de stad. Je kunt gaan winkelen op de Magnificent Mile en gratis naar de Lincoln Park Zoo. Tijdens een rondvaart over de Chicago River en Lake Michigan zie je het mooiste van de stad.
 Wist je dat de stad in de jaren twintig tijdens de drooglegging het werkterrein was van een aantal beruchte criminelen, waaronder Al Capone? Ander leuk weetje: begin jarig tachtig begon bij de lokale omroep de talkshow van Oprah Winfrey onder de titel A.M. Chicago, vanaf 1985 The Oprah Winfrey Show. De straat waaraan de studio's liggen heet de Oprah Winfrey Way.
 
 #Welke camper: suggesties
-
 Voor twee personen is een compacte motorhome met toilet/douche én airco zoals de C small van El Monte een heel goede keuze.
 Voor gezinnen of als je wat meer ruimte prettig vindt, zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine, zoals van Cruise America en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van uw voorkeur.
 
 #Ongeveer 3 weken
-
 Wij raden aan ongeveer 3 weken uit te trekken voor deze reis van Denver naar Chicago. Uiteraard is dit afhankelijk van wat je gaat zien en doen.
 
 #Vraag nu een offerte aan!
-
 Interesse in deze rondreis van Denver naar Chicago? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0012/47/a912058c251a81d44defdefe7516331c5c5c337a.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/07/Denver-naar-Chicago.jpg</get-trip-image-url-overview>
@@ -726,54 +697,46 @@ Interesse in deze rondreis van Denver naar Chicago? Wij helpen je graag met een 
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>Route Miami naar New York</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>Van Miami naar New York</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://campersamerika.nl/camperroutes/van-miami-naar-new-york/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# Route Miami naar New York
-
+    <get-trip-scraped-content><![CDATA[#Routebeschrijving
 Je start in Miami in Florida. Dat geeft je de gelegenheid om met al het moois van Florida te beginnen. Daarna zoek je de ruigere natuur op als je noordwaarts rijdt. Om vervolgens met een city trip in New York te eindigen. Dat wordt een zeer afwisselende reis!
 We zetten hieronder de highlights van deze route via de oostkust van Amerika voor je op een rijtje. Nadat je bij Campers Amerika hebt geboekt, ontvang je van ons een op maat gemaakt routevoorstel, afgestemd op jouw wensen en reisplannen.
 
 #Neem de tijd voor Florida
-
 In Miami trekt vooral het nachtleven en de stranden in Fort Lauderdale en West Palm Beach. Bekijk ook zeker de art deco architectuur in South Beach. Daarna is een bezoek aan het Everglades National Park een must-do. In het moerasgebied leven volop dieren, zoals vele vogelsoorten, alligators, dolfijnen en manatees (zeekoeien). Je kunt een aantal verschillende tours door het gebied boeken, waaronder een fietstour. Daarna kun je via de Seven Mile Bridge naar de Florida Keys, een eilandengroep ten zuidwesten van Florida. Het laatste bewoonde eiland, Key West, is slechts 150 km van Cuba verwijderd. De schrijver Ernest Hemingway woonde hier.
 Daarna kom je terecht in Orlando. Het is maar net of je ervan houdt, maar hier kun je met gemak een paar dagen verblijven om een aantal attractieparken aan te doen. Het is het pretpark walhalla van de wereld. Zo zijn er ondermeer Disney World, Sea World, Universal Studios en Legoland. Via het historische en van oorsprong Spaanse plaatsje St. Augustine rijd je vervolgens richting de staat Georgia.
 
 #De bergen in
-
 Als je Georgia in rijdt, stop dan zeker even in de pittoreske plaats Savannah. Er is veel meer te zien in Georgia. Maar in deze route kiezen we ervoor om de staat weer te verlaten en door te rijden naar Charleston in South Carolina. Hier werden in 1861 de eerste schoten van de Amerikaanse burgeroorlog gelost op Fort Sumter. In downtown Charleston vind je veel 19e eeuwse architectuur. Het is een van Amerika's meest historische steden.
-Dan maak je een lange rit naar de Great Smoky Mountains, op de grens van de staten Tennessee en North Carolina. Dit is het meest bezochte park van de Verenigde Staten, dus het mag niet ontbreken in je route. Het hele jaar door vind je hier een wilde bloemenzee. In de meer open gebieden zoals Cataloochee en Cades Cove kun je beren zien. Onderweg kun je de grootste privéwoning van Amerika bezoeken in Asheville: de Biltmore Estate. Al doe je dat niet in een uurtje met 250 kamers en enorme tuinen.
+Dan maak je een lange rit naar de Great Smoky Mountains, op de grens van de staten Tennesse en North Carolina. Dit is het meest bezochte park van de Verenigde Staten, dus het mag niet ontbreken in je route. Het hele jaar door vind je hier een wilde bloemenzee. In de meer open gebieden zoals Cataloochee en Cades Cove kun je beren zien. Onderweg kun je de grootste privéwoning van Amerika bezoeken in Asheville: de Biltmore Estate. Al doe je dat niet in een uurtje met 250 kamers en enorme tuinen…
 We rijden naar Shenandoah National Park in de staat Virginia. Hier is de natuur echt op haar mooist. De Shenandoah Vallei wordt gevormd door het Appalachengebergte aan de ene kant en de Blue Ridge Mountains aan de andere kant. De Skyline Drive is een prachtige roadtrip door het park van 168 km.
 
 #Washington D.C.
-
 Na een paar dagen vol prachtige natuur rijd je door naar Washington D.C., de hoofdstad van Amerika. De stad is een staat op zich: District of Columbia (D.C.), niet te verwarren met Washington wat een staat is in West Amerika. Hier staat uiteraard het White House, de woning van de Amerikaanse president. Langs de 3 km lange National Mall (een grasstrook) die start bij het Capitool vind je veel belangrijke monumenten zoals het Washington Monument, de Lincoln Memorial, de Vietnam Veterans Memorial en het Smithsonian Institute, dat beschouwd wordt als een van 's werelds beste musea. Georgetown is een mooi historisch district met rode bakstenen huizen uit de 18e eeuw in het noordwesten van de stad. Ook leuk om te doen zijn een food tour en de stad verkennen op de fiets.
 
 #Onderweg naar de Big Apple
-
 Het is zonde om nu in één keer naar New York City te rijden. Er is onderweg nog genoeg te zien en doen. Na Washington D.C. kom je in de staat Maryland. Annapolis is de hoofdstad. Als je van boten en zeilen houdt, kijk je hier je ogen uit! In Catoctin Mountain Park staat het buitenverblijf van de president, Camp David. Als je van geschiedenis houdt, breng dan een bezoek aan Fort Mc Henry in de haven van Baltimore. Dit was de plek van een bombardement in 1812 en de inspiratie van het nationaal volkslied, The Star Spangled Banner. Of bezoek het Antietam National Battlefield, de plek van de bloedigste eendaagse veldslag van de Verenigde Staten.
-Vervolgens rijd je door naar de staat Pennsylvania, waar de stad Philadelphia zeker het stoppen waard is. Hier werd op 4 juli 1776 de Declaration of Independence getekend in de Independence Hall, wat het einde van de oorlog met Groot-Brittannië betekende. De Liberty Bell, symbool van de Amerikaanse onafhankelijkheid, hangt in het Liberty Bell Center. In het koloniale oude centrum van de stad is meer historie te vinden. Of ga naar South Philly, waar je de beroemde Philly Cheesesteak kunt proberen.
+Vervolgens rijd je door naar de staat Pennsylvania, waar de stad Philadelphia zeker het stoppen waard is. Hier werd op 4 juli 1776 de Declaration of Indepedence getekend in de Independence Hall, wat het einde van de oorlog met Groot-Brittannië betekende. De Liberty Bell, symbool van de Amerikaanse onafhankelijkheid, hangt in het Liberty Bell Center. In het koloniale oude centrum van de stad is meer historie te vinden. Of ga naar South Philly, waar je de beroemde Philly Cheesesteak kunt proberen.
 
 #New York City trip
-
-Wie kent niet het Vrijheidsbeeld en Manhattan in New York City? Must-sees zijn natuurlijk het beroemde uitzicht op de skyline van Manhattan, het Vrijheidsbeeld, Times Square waar 'the city that never sleeps' haar naam eer aan doet, Fifth Avenue en Central Park, een oase van rust middenin de stad. Minder bekende plekken zijn de vele gave restaurantjes in het Meatpacking District en de verhoogde wandelroute van de High Line.
+Wie kent niet het Vrijheidsbeeld en Manhattan in New York City? Must-sees zijn natuurlijk het beroemde uitzicht op de skyline van Manhattan, het Vrijheidsbeeld, Times Square waar 'the city that never sleeps' haar neem eer aan doet, Fifth Avenue en Central Park, een oase van rust middenin de stad. Minder bekende plekken zijn de vele gave restaurantjes in het Meatpacking District en de verhoogde wandelroute van de High Line.
 
 #Welke camper: suggesties
-
 Voor twee personen is een compacte motorhome met toilet/douche én airco zoals de C-small van El Monte of de C21 Compact Plus van Cruise America een hele goede keuze.
 Voor gezinnen of als je wat meer ruimte prettig vindt zijn er de grotere motorhomes met alkoof, een ruimte met een bed boven de cabine, zoals van Road Bear en El Monte. Je hebt de keuze uit drie- tot wel zevenpersoonsuitvoeringen met twee tot wel zes bedden.
 Benieuwd naar de kosten? Vul je eigen reis in in de zoekmodule rechts op deze pagina en je krijgt direct een goed beeld van de kosten van de camper van uw voorkeur.
 
 #Minimaal 3 weken
-
 Wij raden aan minimaal drie weken uit te trekken voor deze route langs de Oostkust. Vergis je niet in de afstanden, het type wegen waar je op rijdt en wat er allemaal te zien en doen is.
 
-#vraag nu een offerte aan!
-
-Interesse in deze rondreis van Miami naar New York? Wij helpen je graag met een geschikte camper en indien gewenst ook je hotelovernachtingen, vliegtickets en excursies. Vraag nu een offerte voor deze reis aan!]]></get-trip-scraped-content>
+#Route overzicht
+Miami - Fort Lauderdale - West Palm Beach - Everglades National Park - Florida Keys / Key West - Orlando - St. Augustine - Savannah (Georgia) - Charleston (South Carolina) - Great Smoky Mountains (Tennessee/North Carolina) - Asheville - Shenandoah National Park (Virginia) - Washington D.C. - Annapolis / Baltimore (Maryland) - Philadelphia (Pennsylvania) - New York City]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0012/47/052140796fe21bdf939291ac75c4c78445c92e36.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Van-Miami-naar-New-York.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/purple-gallinule-4903249_640.jpg</get-trip-image-url-overview>
@@ -781,13 +744,16 @@ Interesse in deze rondreis van Miami naar New York? Wij helpen je graag met een 
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/07/forest-3707587_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/Shenandoah-NP-2624402_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/capitol-hill-stephen-walker-yJrMIG0VriI-unsplash.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/key-west-breedbeeld.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Fort-mc-henry-lynne-butler-iYEV00xDgmA-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/Philadelphia-leo-serrat-ZB5Xgw_MLa0-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2018/09/usa-1777986_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/Road-Bear-camper-kamperen.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights West Amerika per camper</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
@@ -800,8 +766,7 @@ Interesse in deze rondreis van Miami naar New York? Wij helpen je graag met een 
 De overweldigende natuur van parken als de Grand Canyon, Monument Valley en Yosemite National Park trekt veel mensen naar West Amerika. Maar ook steden als San Francisco, Los Angeles en Las Vegas zijn enorme trekkers. Voor je inspiratie vind je hieronder de grootste trekpleisters in de staten van West Amerika overzichtelijk op een rijtje. En als je ongeveer weet waar je camperreis gaat beginnen en eindigen, vind dan de camper van je keuze.
 
 #California
-
-#Iconische roadtrips
+##Iconische roadtrips
 California is de derde grootste staat van de Verenigde Staten en de grootste qua populatie. De bijnaam 'Golden State' heeft te maken met de Gold Rush van midden 19e eeuw. Maar het slaat net zo goed op het heerlijke klimaat, de goudkleurige stranden en de grote variëteit aan reismogelijkheden. De landschappen en steden leveren meer dan genoeg inspiratie op voor je reis!
 
 - Los Angeles: natuurlijk ga je naar Sunset Boulevard, de Hollywood Walk of Fame en de Santa Monica Pier. Maar voor velen zijn ook Disneyland en de Universal Studios een must-do.
@@ -812,8 +777,7 @@ California is de derde grootste staat van de Verenigde Staten en de grootste qua
 - Death Valley: het droogste en heetste nationaal park in Amerika. Hier vind je de laagste plek op het Amerikaanse continent: Badwater.
 
 #Arizona
-
-#Grand Canyon en Route 66
+##Grand Canyon en Route 66
 Het meest iconische natuurwonder in Arizona is zeker de Grand Canyon. Maar Monument Valley waar het Wilde Westen tot leven komt, is minstens zo indrukwekkend. Laat je inspireren door deze mooie plekken:
 
 - Grand Canyon: de Colorado River stroomt door de Grand Canyon heen en veroorzaakt een gigantische kloof van 1,7 km diep en 29 km breed op het breedste punt.
@@ -823,63 +787,58 @@ Het meest iconische natuurwonder in Arizona is zeker de Grand Canyon. Maar Monum
 - De ultieme roadtrip is toch wel Route 66, ook wel bekend als USA's Mother Road. Ruim 700 km van de ruim 3.900 km lange weg ligt in Arizona. Er zijn talloze fantastische stops onderweg, waaronder bij historische goudstadjes en musea.
 
 #Nevada
-
-#Veel meer dan Las Vegas
+##Veel meer dan Las Vegas
 Voor veel mensen staat Nevada gelijk aan Las Vegas, maar de staat heeft veel meer te bieden dan casino's, gokspellen en vertier. Dit zijn de hoogtepunten van Nevada:
 
-- Toch eerst Las Vegas: midden in de Mojave woestijn blijft het bijzonder om ineens een enorme zee van licht en geluid te zien opdoemen. Met meer dan 42 mln bezoekers per jaar is dit voor de meeste mensen toch wel een must tijdens hun reis. Of je nou van gokken houdt of niet. Er is meer dan genoeg te zien en doen qua schouwspel, theater, eten en drinken.
-- Lake Mead en Lake Tahoe: het eerste meer is ontstaan door de plaatsing van de Hoover Dam in de Colorado River en het tweede is het hoogste en grootste bergmeer van Amerika. Heerlijk om even weg te zijn van de drukte van Las Vegas.
+- Toch eerst Las Vegas: midden in de Mojave woestijn blijft het bijzonder om ineens een enorme zee van licht en geluid te zien opdoemen. Met meer dan 42 mln bezoekers per jaar is dit voor de meeste mensen toch wel een must tijdens hun reis.
+- Lake Mead en Lake Tahoe: het eerste meer is ontstaan door de plaatsing van de Hoover Dam in de Colorado River en het tweede is het hoogste en grootste bergmeer van Amerika.
 - Cathedral Gorge State Park: bekend vanwege de dramatische grotachtige rotsformaties en kloven.
 - Valley of Fire State Park: heel gaaf om te kamperen tussen de kleurrijke zandstenen formaties en versteend hout (fossielen). Er zijn ook rotstekeningen van 3.000 jaar oud.
 
 #Utah
-
-#De Mighty Five
+##De Mighty Five
 Absolute hoogtepunten in Utah zijn Bryce Canyon en Zion National Park, behorend tot de Mighty Five National Parks. Maar er is meer te zien en beleven. Dit zijn de belangrijkste plekken die je gezien moet hebben:
 
 - Canyonlands National Park: hier kun je fietsen alsof je op Mars rijdt en ook raften op de wilde rivier.
-- Arches National Park: eveneens voor het Marsgevoel. Er zijn meer dan 2.000 zandstenen bogen, waaronder de Delicate Arch. Deze oogt zo fragiel dat je je adem bijna inhoudt…
+- Arches National Park: eveneens voor het Marsgevoel. Er zijn meer dan 2.000 zandstenen bogen, waaronder de Delicate Arch.
 - Bryce Canyon National Park: beroemd om de unieke geologische rotsformaties. De afgesleten toppen van de zogenaamde 'hoodoos' lijken erg mysterieus in het zonlicht en kleuren van roze naar oranje.
 - Zion National Park: het drukst bezochte park van Utah. Je kunt er prachtig wandelen en mooie camperritten maken.
 - Capitol Reef National Park: dit langgerekte park bestaat uit een woestijnlandschap met rotsen die op kathedralen lijken en de Waterpocket Fold, een scheur in het aardoppervlak van 160 km lang.
 - Utah heeft maar liefst 7.000 campings!
 
 #Oregon en Washington
-
-#Vaak in combinatie met Canada
+##Vaak in combinatie met Canada
 De staten Oregon en Washington worden vaak bezocht in combinatie met West Canada. Maar het is natuurlijk ook prima te combineren met de zuidelijke staten van West Amerika. Er is genoeg te zien en doen:
 
-- Oregon heeft maar 1 Nationaal Park: Crater Lake National Park. Hier vind je het diepste meer van Amerika (650 m diep), 7.000 jaar geleden ontstaan door een uitbarsting van een oude vulkaan. De geologische structuren in het park zijn erg fotogeniek.
+- Oregon heeft maar 1 Nationaal Park: Crater Lake National Park. Hier vind je het diepste meer van Amerika (650 m diep), 7.000 jaar geleden ontstaan door een uitbarsting van een oude vulkaan.
 - Hells Canyon: de diepste kloof van de Verenigde Staten. Met ruim 2,5 km diepte is deze dieper dan de Grand Canyon.
 - In Oregon kun je overal belastingvrij winkelen, ook niet verkeerd! Dat kan natuurlijk goed in Portland.
 - Seattle in Washington: echt een leuke stad om te verkennen. Leuk om te starten zonder camper en daarna op pad te gaan voor je roadtrip met de camper.
 - Olympic Peninsula: ligt op ongeveer 3 uur rijden vanaf Seattle via een erg mooie rit. De natuur is erg afwisselend: van dramatische kustlijnen tot dichte regenwouden tot prachtige lavendelvelden.
 
 #Montana
-
-#Yellowstone en meer
-Yellowstone National Park staat met stip op 1 als de allergrootste highlight van de staat Montana. Maar er zijn daarnaast nog 55 staatsparken en Montana is ook rijk aan cultuur en kent de meeste dieren van alle 47 staten op het vasteland. Hieronder vind je enkele tips ter inspiratie:
+##Yellowstone en meer
+Yellowstone National Park staat met stip op 1 als de allergrootste highlight van de staat Montana. Maar er zijn daarnaast nog 55 staatsparken en Montana is ook rijk aan cultuur en kent de meeste dieren van alle 47 staten op het vasteland.
 
 - Yellowstone National Park: hoewel het grootste deel van het park in de staat Wyoming ligt, vind je 3 van de 5 ingangen in Montana. Het landschap van bijna 9.000 km2 groot ligt vol met heetwaterbronnen en geisers, waaronder de legendarische Old Faithful. Deze geiser dankt zijn naam aan het feit dat hij trouw gemiddeld elke 91 minuten uitbarst.
 - Waterton-Glacier International Peace Park: de onderste helft van dit park bevindt zich in Montana, de bovenste helft in Canada. Je vindt er 25 gletsjers. De bergen weerkaatsen prachtig in het water van 130 meren.
 - Going-to-the-sun Road: een prachtige roadtrip door het Glacier park en via de Beartooth Mountains naar beneden naar Cooke City.
-- In de zomer vinden overal rodeo's plaats, zoals de grootste in Dillon in september. Daarnaast kun je ook indianenreservaten bezoeken en kennismaken met hun cultuur. Bezoek bijvoorbeeld het Crow reservaat en leer over de conflicten tussen indianen en cowboys eind 19e eeuw.
-- Montana staat ook bekend om de spookstadjes die zijn achtergelaten na de goudkoorts van 1860. Bezoek bijvoorbeeld Bannack State Park, waar de originele gebouwen na het vertrek van de laatste bewoners in 1970 bewaard zijn gebleven.
+- In de zomer vinden overal rodeo's plaats, zoals de grootste in Dillon in september. Daarnaast kun je ook indianenreservaten bezoeken.
+- Montana staat ook bekend om de spookstadjes die zijn achtergelaten na de goudkoorts van 1860. Bezoek bijvoorbeeld Bannack State Park.
 
 #Alaska
-
-#Veel natuurschoon
-Alaska is de grootste en meest afgelegen staat in het noordwesten van Amerika. De winter is net als in Canada lang en streng. Vanaf half mei tot half september is het het beste seizoen om in Alaska te reizen. Een reis door Alaska wordt vaak gecombineerd met een reis in de naastgelegen Yukon in Canada. We geven je graag een paar tips.
+##Veel natuurschoon
+Alaska is de grootste en meest afgelegen staat in het noordwesten van Amerika. De winter is net als in Canada lang en streng. Vanaf half mei tot half september is het het beste seizoen om in Alaska te reizen. Een reis door Alaska wordt vaak gecombineerd met een reis in de naastgelegen Yukon in Canada.
 
 - Denali National Park: goed te bereiken vanuit Anchorage, waar je de camper ophaalt. Het park biedt een combinatie van bossen, mossige toendra's, langzaam bewegende gletsjers, rotsen en met sneeuw bedekte bergtoppen. Mount McKinley is de hoogste top op het hele Noord-Amerikaanse continent met maar liefst 6.193,5 m hoogte.
-- Anchorage is een havenstad en de grootste plaats in Alaska. Het is niet de hoofdstad: dat is Juneau. In Anchorage is er maar liefst 22 uur daglicht in de zomer.
+- Anchorage is een havenstad en de grootste plaats in Alaska. In Anchorage is er maar liefst 22 uur daglicht in de zomer.
 - Bij Juneau ligt de toegankelijke Mendenhall gletsjer op slechts 12 km afstand.
 - Glacier Bay National Park aan de Golf van Alaska.
 - Gates of the Arctic National Park in het noorden.
 - Fairbanks is een goede uitvalsbasis om het Noorderlicht te zien.
 - 200 km ten oosten van Anchorage ligt Wrangell-St.Elias National Park: een meer primitief park met gravelwegen en beperkte faciliteiten voor de meer avontuurlijke bezoeker.
-- Inside Passage cruise met onderweg stops bij Glacier Bay National Park, Juneau, Sitka en Skagway. Een kortere dagcruise is ook mogelijk.
-- In Katmai National Park leven maar liefst 2.200 bruine beren, dus de kans dat je ze tegenkomt is zeer groot. In Brooks Camp vind je meerdere platformen waar je tussen juli en september beren kunt zien die op zalm jagen.]]></get-trip-scraped-content>
+- Inside Passage cruise met onderweg stops bij Glacier Bay National Park, Juneau, Sitka en Skagway.
+- In Katmai National Park leven maar liefst 2.200 bruine beren. In Brooks Camp vind je meerdere platformen waar je tussen juli en september beren kunt zien die op zalm jagen.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0012/47/351325e5fa5a0f956fae51496003211acb073c6f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/death-valley-badwater-4546_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/golden-gate-bridge-1654428_640.jpg</get-trip-image-url-overview>
@@ -896,5 +855,6 @@ Alaska is de grootste en meest afgelegen staat in het noordwesten van Amerika. D
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/alaska-5177042_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/chugach-national-forest-1622635_640.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/Yoshua-tree-NP-2135029_640.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://campersamerika.nl/wp-content/uploads/2020/06/monument-valley-breedbeeld.jpg</get-trip-image-url-overview>
   </trip>
 </trips>
