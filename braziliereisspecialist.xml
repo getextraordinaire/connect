@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-20T08:06:04.940Z" count="6">
+<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-21T08:46:20.375Z" count="6">
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>14-daagse luxe rondreis, Rio de Janeiro, Costa Verde en Foz do Iguaçu</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.979</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
+    <get-trip-country>Argentinië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/14-daagse-luxe-rondreis-rio-de-janeiro-costa-verde-en-foz-do-iguacu</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# 14-daagse luxe rondreis, Rio de Janeiro, Costa Verde en Foz do Iguaçu
+    <get-trip-scraped-content><![CDATA[#14-daagse luxe rondreis, Rio de Janeiro, Costa Verde en Foz do Iguaçu
 
 Deze exclusieve rondreis voert u in een ontspannen tempo langs de hoogtepunten van de veelzijdige regio rond Rio de Janeiro. Geniet van een perfecte balans tussen stad, strand, cultuur en natuur.
 
@@ -17,7 +19,14 @@ De reis begint in het bruisende Rio de Janeiro, waar iconische bezienswaardighed
 
 Tijdens deze 14-daagse reis verblijft u uitsluitend in eersteklas accommodaties. Denk aan het elegante Miramar by Windsor in Rio, de charmante Pousada Asalem op Ilha Grande, het exclusieve Pousada Literária in Paraty en in Foz do Iguaçu een luxueus verblijf zoals het intieme LAS Boutique Hotel, het iconische Belmond Hotel das Cataratas of het stijlvolle LOI Suites aan de Argentijnse zijde. De uiteindelijke hotelkeuze stemmen we graag in overleg met u af tijdens de offertefase, passend bij uw voorkeuren en reiswensen.
 
-# USP's
+#Reiscode
+Reiscode: 018
+
+#Vanafprijs
+vanaf 2.979,00 € p.p.
+14 dagen
+
+#Highlights
 - Iconische start in Rio de Janeiro met verblijf aan het Copacabana-strand
 - Tropisch eilandverblijf op Ilha Grande in boutique pousada
 - Luxe overnachtingen in zorgvuldig geselecteerde accommodaties
@@ -25,137 +34,181 @@ Tijdens deze 14-daagse reis verblijft u uitsluitend in eersteklas accommodaties.
 - Privétransfers en persoonlijke service tijdens uw luxe rondreis Brazilië
 - Verken het koloniale Paraty met prachtige tours en culinaire tips
 
-# Reiscode
-018
-
-# Reisdetails
-
-## 1. Rio de Janeiro - Aankomst
-Na aankomst in Rio de Janeiro wordt u verwelkomd op de luchthaven en met een privé transfer naar het hotel gebracht in Rio de Janeiro. De rest van de dag kan naar eigen inzicht worden besteed om bijvoorbeeld het bruisende Rio alvast te ontdekken. Overdag kan je heerlijk wandelen over de kilometerslange Copacabana boulevard, vol met leuke kioskjes waar je een heerlijke Braziliaanse Caipirinha (Braziliaanse cocktail) kan drinken.
-- Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Rio de Janeiro
-
-## 2. Rio de Janeiro - Urban bike tour
-Vandaag staat de Urban bike tour op het programma in de ochtend, in gezelschap van andere toeristen en met Nederlandse begeleiding.
-
-## 3. Rio de Janeiro - Tour (6 uur), Chauffeur met privé gids
-Vandaag staat er een chauffeur met privégids gedurende 6 uur tot uw beschikking. Bepaal samen met de gids de highlights van Rio die u vandaag wenst te bezoeken. Ontdek het iconische Christus de Verlosser beeld, bewonder de kleurrijke trappen van Selarón, of wandel door de historische wijk Santa Teresa. Neem de kabelbaan naar de top van de Suikerbroodberg voor een adembenemend uitzicht over de stad, bezoek het beroemde Copacabana strand, of verken het Tijuca-regenwoud. De keuze is aan u om de cultuur, natuur en levendigheid van Rio te ervaren. Geef uw wensen door en de gids stemt het programma hierop af. Entrees voor de bezienswaardigheden zijn niet inbegrepen en worden ter plaatse betaald.
-
-## 4. Rio de Janeiro - vrije dag
-Deze dag kunt u naar eigen inzicht besteden. Ontspan op de prachtige stranden zoals Copacabana of Ipanema, verken de levendige wijken zoals het artistieke Santa Teresa, of geniet van een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de unieke sfeer die Rio te bieden heeft.
-
-## 5. Rio de Janeiro hotel - Ilha Grande
-In de loop van de ochtend wordt u opgehaald bij het hotel en met een transfer naar het haventje Angra dos Reis gebracht, in gezelschap van andere toeristen (prive transfer beschikbaar tegen meerkosten). Angra dos Reis ligt op circa 2 a 3 uur rijden van Rio de janeiro, afhankelijk van de drukte.
-
-Vanuit het haventje vertrekt u met de flexboot naar Ilha Grande (tickets inbegrepen), waarna u na aankomst wordt verwelkomd bij het haventje van Vila do Abraão op het eiland Ilha Grande en al wandelend naar de accommodatie wordt gebracht.
-
-Tijdens het wandelen wordt u ondersteund met de bagage door locals (kleine fooi geven). Indien u verblijft in het Casa da Ilha Inn of Pousada Asalem, dan is de aankomst transfer iets anders. Zij hebben namelijk een eigen bootje en pikken u daarmee op bij het haventje van Vila do Abraão voor de transfer naar de accommodatie, dat een paar minuten verderop ligt nabij het dorpje.
-- Zie tabblad hotels voor de hotelselectie tijdens uw verblijf op het eiland Ilha Grande
-
-## 6. Ilha Grande - Vrije dag
-Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
-
-## 7. Ilha Grande - Vrije dag
-Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
-
-## 8. Ilha Grande - Paraty (SIB)
-Vandaag eindigt het arrangement op Ilha Grande. U neemt de flexboot (boottickets inbegrepen) terug naar het haventje van Angra dos Reis, en aansluitend is er een transfer naar het hotel in Paraty, in gezelschap van andere toeristen (prive transfer tegen meerkosten beschikbaar).
-
-Ga na aankomst heerlijk wandelen door Paraty. Een tour door het historische dorpje Paraty is als een reis door de tijd in Brazilië. De huisjes en hobbelige straatjes zijn nagenoeg identiek gebleven sinds de 17e eeuw. Paraty heeft een indrukwekkende geschiedenis en heeft een grote invloed gehad op de ontwikkeling van Brazilië.
-- Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Paraty
-
-## 9. Paraty - boottocht (SIB) (PATEX4)
-Vandaag staat er een relaxte bootexcursie op het programma. In de ochtend loopt u naar het haventje van Paraty. Dit is een korte wandeling en hier is het verzamelpunt voor de schooner boottocht, in gezelschap van andere toeristen, naar een groep prachtige eilandjes voor de kust. De excursie duurt ongeveer een halve dag en is heel ontspannen. De excursie eindigt weer bij het haventje, waarna u de rest van de dag op eigen gelegenheid kunt besteden.
-
-## 10. Paraty - Jeep Excursie Regenwoud (SIB) (PATEX1)
-Vandaag staat er een jeep excursie het programma (duur 6 uur), in gezelschap van andere toeristen en worden de verborgen watervallen van de 'Serra da Bocaina' heuvels bezocht. U wordt in de ochtend opgehaald bij het hotel en na afloop weer afgezet in Paraty.
-
-De rest van de dag kan naar eigen inzicht worden besteed.
-
-## 11. Paraty - Foz do Iguaçu (via Rio)
-In de loop van de ochtend wordt u opgehaald bij het hotel en met een transfer naar de luchthaven Rio de Janeiro gebracht, in gezelschap van andere toeristen (prive transfer beschikbaar tegen meerkosten). Rio de Janeiro ligt op circa 5 uur rijden van Paraty, afhankelijk van de drukte.
-
-Aansluitend is de binnenlandse vlucht naar Foz do Iguaçu. Na aankomst wordt u verwelkomd op de luchthaven en naar het hotel gebracht met een privé transfer. De rest van de dag kan naar eigen inzicht worden besteed.
-- Keuze uit toeristenklasse of superieure klasse accommodatie tijdens uw verblijf in Foz do Iguaçu
-
-## 12. Foz do Iguaçu - Excursie Braziliaanse zijde watervallen (prive) (IGUEX1)
-Vandaag staat een 3 uur durende privé-excursie naar de Braziliaanse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel.
-
-## 13. Foz do Iguaçu - Excursie Argentijnse zijde watervallen (prive) (IGUEX3)
-Vandaag staat een halve dag privé-excursie naar de Argentijnse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel. Tijdens het bezoek aan de Argentijnse zijde van de watervallen is het mogelijk om een fantastische jungle- en watervallen bootexcursie bij te boeken, de Gran Aventura Boat tour.
-
-## 14. Foz do Iguaçu - Luchthaven, einde arrangement
-U wordt opgehaald bij het hotel en met een privé transfer naar de luchthaven gebracht. Einde arrangement. Afhankelijk van uw reisplannen kunt u doorreizen naar een andere bestemming in Brazilië of een terug reizen naar Nederland. Bespreek met ons de opties.
-
-# Inbegrepen
-- Accommodatie; Naar keuze in een superieure klasse accommodaties. In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer bijvoorbeeld. De mogelijkheden verschillen per hotel. Informeer bij ons naar de upgrade opties. Mocht het voorkomen dat een vermelde accommodatie geen beschikbaarheid heeft, dan bieden wij een passend alternatief aan in de gewenste klasse.
-- Maaltijden; Bij alle hotels is het ontbijt inbegrepen, tenzij anders vermeld.
-- Vervoer; Transfers kunnen op privé basis of in gezelschap van andere toeristen worden aangeboden. Bij de beschrijving wordt per transfer aangegeven of deze op privé basis is of in gezelschap van andere toeristen.
-- Excursiemogelijkheden; Excursies kunnen op privé basis of in gezelschap van andere toeristen worden aangeboden. Bij de beschrijving wordt per excursie aangegeven of deze op privé basis is of in gezelschap van andere toeristen. De excursies die vermeld staan in de beschrijving zijn inbegrepen in het arrangement. Optionele excursies staan in een apart tabblad en die kunt bijboeken op dagen waarop niets staat ingepland.
-- Reisbegeleiding; Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies. Zo reist u op individuele basis, maar altijd met ondersteuning ter plaatse.
+#Inbegrepen
+- Accommodatie; naar keuze in superieure klasse accommodaties. In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer. Mocht het voorkomen dat een vermelde accommodatie geen beschikbaarheid heeft, dan bieden wij een passend alternatief aan in de gewenste klasse.
+- Maaltijden; bij alle hotels is het ontbijt inbegrepen, tenzij anders vermeld.
+- Vervoer; transfers kunnen op privé basis of in gezelschap van andere toeristen worden aangeboden. Bij de beschrijving wordt per transfer aangegeven of deze op privé basis is of in gezelschap van andere toeristen.
+- Excursiemogelijkheden; excursies kunnen op privé basis of in gezelschap van andere toeristen worden aangeboden. De excursies die vermeld staan in de beschrijving zijn inbegrepen in het arrangement. Optionele excursies staan in een apart tabblad en die kunt bijboeken op dagen waarop niets staat ingepland.
+- Reisbegeleiding; gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies.
 - Zekerheden; Brazilië Reis Specialist is lid van VZR Garant, VvKR, DRV en het Calamiteitenfonds.
 
-# Niet inbegrepen
-- Vluchten; De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld rondreizen op onze site. Voor deze reis adviseren wij een internationale vlucht te boeken bij KLM. Indien u ruim van tevoren boekt, zijn rechtstreekse KLM vluchten naar Rio al beschikbaar voor zo'n 600 euro per persoon in het laagseizoen. In de Nederlandse zomer en rond de feestdagen zijn de vluchten wat duurder. KLM vliegt bijna dagelijks naar Rio. Een retourvlucht Rio de Janeiro - Foz do Iguaçu kost circa 200 euro per persoon.
+#Niet inbegrepen
+- Vluchten; de vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen. Om deze reden zijn de vluchten niet opgenomen in de reissom. Voor deze reis adviseren wij een internationale vlucht te boeken bij KLM. Indien u ruim van tevoren boekt, zijn rechtstreekse KLM vluchten naar Rio al beschikbaar voor zo'n 600 euro per persoon in het laagseizoen. Een retourvlucht Rio de Janeiro - Foz do Iguaçu kost circa 200 euro per persoon.
 - Bijdrage calamiteitenfonds á € 2,50 per boeking
 - Boekingskosten á € 15,- per persoon
 
-# Reissom
-- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat een bepaald hotel niet beschikbaar is, waardoor er een alternatief wordt aangeboden, waarvan de prijs iets anders is. Of uw reis kan net vallen tijdens een feestdag, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom kunnen berekenen voor u.
-- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag. Informeer bij ons naar de meerkosten.
+#Reissom
+- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat een bepaald hotel niet beschikbaar is, waardoor er een alternatief wordt aangeboden, waarvan de prijs iets anders is.
+- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag.
 
-# Bestemmingen
+#Dagprogramma
 
-## Rio de Janeiro
-Rio de Janeiro, de 'Prachtige Stad', is zonder twijfel een van de mooiste steden ter wereld. Het is een adembenemende mix van weelderige, groene bergen die uit de oceaan rijzen, goudgele zandstranden en een bruisende metropool. De energie is voelbaar, het ritme aanstekelijk en de lokale bevolking, de Cariocas, staan bekend om hun levensvreugde.
+#1. Rio de Janeiro - Aankomst
+Na aankomst in Rio de Janeiro wordt u verwelkomd op de luchthaven en met een privé transfer naar het hotel gebracht in Rio de Janeiro. De rest van de dag kan naar eigen inzicht worden besteed om bijvoorbeeld het bruisende Rio alvast te ontdekken. Overdag kan je heerlijk wandelen over de kilometerslange Copacabana boulevard, vol met leuke kioskjes waar je een heerlijke Braziliaanse Caipirinha (Braziliaanse cocktail) kan drinken.
+- Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Rio de Janeiro
 
-De Beroemde Hoogtepunten: Wat je Niet Mag Missen
+#2. Rio de Janeiro - Urban bike tour
+Vandaag staat de Urban bike tour op het programma in de ochtend, in gezelschap van andere toeristen en met Nederlandse begeleiding.
+
+#3. Rio de Janeiro - Tour (6 uur), Chauffeur met privé gids
+Vandaag staat er een chauffeur met privégids gedurende 6 uur tot uw beschikking. Bepaal samen met de gids de highlights van Rio die u vandaag wenst te bezoeken. Ontdek het iconische Christus de Verlosser beeld, bewonder de kleurrijke trappen van Selarón, of wandel door de historische wijk Santa Teresa. Neem de kabelbaan naar de top van de Suikerbroodberg voor een adembenemend uitzicht over de stad, bezoek het beroemde Copacabana strand, of verken het Tijuca-regenwoud. Entrees voor de bezienswaardigheden zijn niet inbegrepen en worden ter plaatse betaald.
+
+#4. Rio de Janeiro - vrije dag
+Deze dag kunt u naar eigen inzicht besteden. Ontspan op de prachtige stranden zoals Copacabana of Ipanema, verken de levendige wijken zoals het artistieke Santa Teresa, of geniet van een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de unieke sfeer die Rio te bieden heeft.
+
+#5. Rio de Janeiro hotel - Ilha Grande
+In de loop van de ochtend wordt u opgehaald bij het hotel en met een transfer naar het haventje Angra dos Reis gebracht, in gezelschap van andere toeristen (prive transfer beschikbaar tegen meerkosten). Angra dos Reis ligt op circa 2 a 3 uur rijden van Rio de Janeiro, afhankelijk van de drukte.
+Vanuit het haventje vertrekt u met de flexboot naar Ilha Grande (tickets inbegrepen), waarna u na aankomst wordt verwelkomd bij het haventje van Vila do Abraão op het eiland Ilha Grande en al wandelend naar de accommodatie wordt gebracht.
+Tijdens het wandelen wordt u ondersteund met de bagage door locals (kleine fooi geven). Indien u verblijft in het Casa da Ilha Inn of Pousada Asalem, dan is de aankomst transfer iets anders. Zij hebben namelijk een eigen bootje en pikken u daarmee op bij het haventje van Vila do Abraão voor de transfer naar de accommodatie.
+- Zie tabblad hotels voor de hotelselectie tijdens uw verblijf op het eiland Ilha Grande
+
+#6. Ilha Grande - Vrije dag
+Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
+
+#7. Ilha Grande - Vrije dag
+Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
+
+#8. Ilha Grande - Paraty (SIB)
+Vandaag eindigt het arrangement op Ilha Grande. U neemt de flexboot (boottickets inbegrepen) terug naar het haventje van Angra dos Reis, en aansluitend is er een transfer naar het hotel in Paraty, in gezelschap van andere toeristen (prive transfer tegen meerkosten beschikbaar).
+Ga na aankomst heerlijk wandelen door Paraty. Een tour door het historische dorpje Paraty is als een reis door de tijd in Brazilië. De huisjes en hobbelige straatjes zijn nagenoeg identiek gebleven sinds de 17e eeuw.
+- Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Paraty
+
+#9. Paraty - boottocht (SIB) (PATEX4)
+Vandaag staat er een relaxte bootexcursie op het programma. In de ochtend loopt u naar het haventje van Paraty. Dit is een korte wandeling en hier is het verzamelpunt voor de schooner boottocht, in gezelschap van andere toeristen, naar een groep prachtige eilandjes voor de kust. De excursie duurt ongeveer een halve dag en is heel ontspannen. De excursie eindigt weer bij het haventje, waarna u de rest van de dag op eigen gelegenheid kunt besteden.
+
+#10. Paraty - Jeep Excursie Regenwoud (SIB) (PATEX1)
+Vandaag staat er een jeep excursie het programma (duur 6 uur), in gezelschap van andere toeristen en worden de verborgen watervallen van de 'Serra da Bocaina' heuvels bezocht. U wordt in de ochtend opgehaald bij het hotel en na afloop weer afgezet in Paraty. De rest van de dag kan naar eigen inzicht worden besteed.
+
+#11. Paraty - Foz do Iguaçu (via Rio)
+In de loop van de ochtend wordt u opgehaald bij het hotel en met een transfer naar de luchthaven Rio de Janeiro gebracht, in gezelschap van andere toeristen (prive transfer beschikbaar tegen meerkosten). Rio de Janeiro ligt op circa 5 uur rijden van Paraty, afhankelijk van de drukte.
+Aansluitend is de binnenlandse vlucht naar Foz do Iguaçu. Na aankomst wordt u verwelkomd op de luchthaven en naar het hotel gebracht met een privé transfer. De rest van de dag kan naar eigen inzicht worden besteed.
+- Keuze uit toeristenklasse of superieure klasse accommodatie tijdens uw verblijf in Foz do Iguaçu
+
+#12. Foz do Iguaçu - Excursie Braziliaanse zijde watervallen (prive) (IGUEX1)
+Vandaag staat een 3 uur durende privé-excursie naar de Braziliaanse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel.
+
+#13. Foz do Iguaçu - Excursie Argentijnse zijde watervallen (prive) (IGUEX3)
+Vandaag staat een halve dag privé-excursie naar de Argentijnse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel. Tijdens het bezoek aan de Argentijnse zijde van de watervallen is het mogelijk om een fantastische jungle- en watervallen bootexcursie bij te boeken, de Gran Aventura Boat tour.
+
+#14. Foz do Iguaçu - Luchthaven, einde arrangement
+U wordt opgehaald bij het hotel en met een privé transfer naar de luchthaven gebracht. Einde arrangement. Afhankelijk van uw reisplannen kunt u doorreizen naar een andere bestemming in Brazilië of terug reizen naar Nederland.
+
+#Bestemmingen
+
+#Rio de Janeiro
+Rio de Janeiro, de 'Prachtige Stad', is zonder twijfel een van de mooiste steden ter wereld. Het is een adembenemende mix van weelderige, groene bergen die uit de oceaan rijzen, goudgele zandstranden en een bruisende metropool.
+
+De Beroemde Hoogtepunten:
 - De Corcovadoberg: Beklim de berg per treintje en sta oog in oog met het 38 meter hoge standbeeld van Christus de Verlosser.
 - De Suikerbroodberg (Pão de Açúcar): Een spectaculaire kabelbaan brengt je naar de top van deze granieten rots.
 - Copacabana & Ipanema: De twee beroemdste stranden ter wereld.
 
-Voorbij de Clichés: Ontdek het Echte Rio
+Voorbij de Clichés:
 - De Wijken Lapa & Santa Teresa: Ervaar het Boheemse hart van de stad.
 - Floresta da Tijuca & Vista Chinesa: Rio heeft een compleet regenwoud midden in de stad.
 - De Zondagse Boulevard: Op zondag worden de boulevards langs de stranden grotendeels autovrij gemaakt.
 
-Culinair Rio: Onze Selectie van de Beste Restaurants
-- Churrascaria Palace in Copacabana
-- Aprazível in Santa Teresa
-- Bar do Mineiro in Santa Teresa
-- Zaza Bistrô Tropical in Ipanema
-- Sushi Leblon in Leblon
+Culinair Rio:
+- Voor de beste steak: Churrascaria Palace in Copacabana
+- Braziliaans met uitzicht: Aprazível in Santa Teresa
+- Authentieke lokale keuken: Bar do Mineiro in Santa Teresa
+- Creatief en hip: Zaza Bistrô Tropical in Ipanema
+- Topklasse sushi: Sushi Leblon in Leblon
 
-## Ilha Grande
-Ilha Grande is een idyllische bestemming die perfect te combineren is met een bezoek aan Rio de Janeiro. Dit tropische eiland, bedekt met weelderige jungle en omgeven door kristalhelder water, ligt slechts 100 km van Rio en 5 km van de kust. De serene afgelegen stranden en het rijke onderwaterleven maken het eiland een paradijs voor snorkelaars en strandliefhebbers.
+#Ilha Grande
+Ilha Grande is een idyllische bestemming die perfect te combineren is met een bezoek aan Rio de Janeiro. Dit tropische eiland, bedekt met weelderige jungle en omgeven door kristalhelder water, ligt slechts 100 km van Rio en 5 km van de kust.
 
 Ilha Grande biedt talloze wandelmogelijkheden door de dichte Atlantische regenwouden. Één van de absolute hoogtepunten is het strand Praia do Lopes Mendes, dat vaak wordt genoemd als één van de mooiste stranden van Brazilië.
 
-Het charmante dorpje Vila do Abraão, aan de noordoostzijde van het eiland, fungeert als het centrale punt voor toeristen. Vanuit hier kun je met boten diverse dagtochten boeken naar afgelegen stranden, verborgen baaien en andere natuurlijke wonderen. Ook zijn er boottochten mogelijk naar indrukwekkende snorkelplekken zoals Lagoa Azul (de Blauwe Lagune) en Saco do Céu (Hemelbaai).
+Het charmante dorpje Vila do Abraão fungeert als het centrale punt voor toeristen. Vanuit hier kun je met boten diverse dagtochten boeken naar afgelegen stranden, verborgen baaien en andere natuurlijke wonderen. Ook zijn er boottochten mogelijk naar indrukwekkende snorkelplekken zoals Lagoa Azul (de Blauwe Lagune) en Saco do Céu (Hemelbaai).
 
-Accommodatie en Bereikbaarheid: Vila do Abraão heeft een breed scala aan accommodaties, variërend van gezellige pousadas en hostels tot luxe boutique hotels. Ilha Grande is uitsluitend per boot bereikbaar vanuit de kustplaatsen Angra dos Reis, Mangaratiba, of Conceição de Jacareí.
+Ilha Grande is uitsluitend per boot bereikbaar vanuit de kustplaatsen Angra dos Reis, Mangaratiba, of Conceição de Jacareí.
 
 Restauranttips in Vila do Abraão:
-1. Lua e Mar
-2. Dom Mario
-3. Restaurante Pé na Areia
-4. Café do Mar
-5. O Pescador
-6. Creperia Tropicana
+1. Lua e Mar - verse vis en zeevruchten, bereid met traditionele Braziliaanse smaken
+2. Dom Mario - intieme sfeer en verfijnde gerechten
+3. Restaurante Pé na Areia - mix van Braziliaanse en internationale gerechten
+4. Café do Mar - verse fruitsappen, huisgemaakte taarten
+5. O Pescador - gespecialiseerd in gerechten met zeevruchten
+6. Creperia Tropicana - hartige en zoete crêpes
 
-# Hotels
-- Rio de Janeiro: Miramar by Windsor (of Copacabana Palace)
-- Ilha Grande: Pousada Asalem (of Casa da Ilha Inn)
-- Paraty: Pousada Literária
-- Foz do Iguaçu: LAS Boutique Hotel, Belmond Hotel das Cataratas of LOI Suites (Argentijnse zijde)
+#Paraty
+Voordat Rio überhaupt nog belangrijk was, was Paraty één van de rijkste steden van Brazilië. De authentieke koloniale architectuur is behouden gebleven. De huisjes en hobbelige straatjes zijn nagenoeg identiek gebleven sinds de 17e eeuw.
 
-# Boekingsprocedure
-Heeft u interesse in deze rondreis? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
+Het historische dorpje Paraty ligt aan de kust op zo'n drie uur rijden van Rio de Janeiro en ligt midden op de route tussen Rio de Janeiro en São Paulo aan de 'Costa Verde'.
 
-Voordelen reisvoorstel:
-- Kosteloos en vrijblijvend: Uw persoonlijke reisvoorstel stellen wij gratis en vrijblijvend voor u samen.
-- Actueel vluchtschema: Wij selecteren de logistiek best passende vluchten voor de scherpste prijs.
-- Flexibiliteit: Verlengen of inkorten mogelijk. Wij nemen de excursies op die passen bij uw interessegebieden.
-- Exacte reissom wordt berekend, rekening houdend met de samenstelling van uw reisgezelschap, de gewenste accommodatie klasse en het geselecteerde vluchtschema.]]></get-trip-scraped-content>
+Paraty heeft een ruim aanbod aan bars, restaurants en er zijn tal van excursiemogelijkheden, zoals Schooner boottochten of met de kajak langs de vele mooie eilandjes voor de kust. De actieve reiziger kan ook mooie wandel-, fiets-, paardrij tochten, en jeep tours beleven door het met watervallen doorspekte Atlantische regenwoud.
+
+Restauranttips historisch centrum Paraty:
+- Quintal das Letras: traditionele Braziliaanse gerechten en hedendaagse internationale keuken
+- Punto Divino: Italiaans eten, pizza's, pasta's en risotto's
+- Restaurante Banana da Terra: traditionele Braziliaanse gerechten met een moderne twist
+- Bendita's Restaurante: mix van Braziliaanse en mediterrane keuken
+- Café Paraty: lichte lunch of koffie
+- Margaret Atelie Gourmet: intieme eetervaring
+- Camoka Lanches & Pastéis: pasteis (Braziliaanse pasteitjes)
+
+#Foz do Iguaçu
+Foz do Iguaçu, een van de meest adembenemende natuurwonderen van Brazilië, betovert reizigers met haar majestueuze watergordijn. Een oogverblindende cluster van maar liefst 275 watervallen strekt zich uit over een breedte van 2,7 kilometer.
+
+Centraal in dit waterige spektakel ligt de 'Devil's Throat', waar een intense symfonie van 14 watervallen samensmelt. Bezoekers kunnen het pad van de loopbruggen volgen, deelnemen aan een opwindende boottocht, of een helikoptervlucht boeken.
+
+De omgeving van Foz do Iguaçu biedt ook een unieke geografische attractie, het drielandenpunt, waar de grenzen van Argentinië, Paraguay en Brazilië samenkomen.
+
+Restaurant tips Foz do Iguaçu:
+- Churrascaria do Gaúcho: traditionele Braziliaanse churrascaria
+- Restaurante Barracão: buffet met uitgebreid aanbod aan Braziliaanse gerechten
+- Itaipu Restaurant: gelegen naast het fameuze Itaipu Dam
+- La Mafia Trattoria: Italiaanse gerechten
+- Capitão Bar: verse vis, zeevruchten en koude drankjes met uitzicht op de Paraná-rivier
+
+#Hotels
+
+#Superieure klasse hotels
+
+#1. Rio de Janeiro - Hotel Miramar by Windsor
+Hotel Miramar by Windsor, gelegen tegenover het wereldberoemde Copacabana-strand in Rio de Janeiro, biedt luxe in een van de beste hotels van de stad. Gasten kunnen genieten van het prachtige zwembad en de moderne fitnessruimte, of de dag beginnen met een fantastisch en uitgebreid ontbijtbuffet.
+
+Kamertypes:
+- Superior appartement (~30m²): zijdelings uitzicht op Copacabana Beach, Queen of King Size bed
+- Superior Executive Kamer (28m²): frontaal uitzicht op Copacabana-strand, Queen of King Size bed
+- Executive Suite (~55m²): panoramisch uitzicht op Copacabana-strand, King Size bed, jacuzzi
+- Master Suite (79m²): panoramisch uitzicht op Copacabana-strand, King Size bed, woonkamer, eetkamer, jacuzzi
+
+#2. Rio de Janeiro - Hotel Belmond Copacabana Palace
+Een verblijf in het legendarische Copacabana Palace is meer dan een overnachting: het is een reis door de tijd. Al ruim een eeuw lang verwelkomt dit iconische art-decohotel aan de wereldberoemde Copacabana haar gasten. Het hotel beschikt over 140 elegant ingerichte kamers en suites.
+
+Restaurants:
+- MEE: het enige pan-Aziatische restaurant in Rio met een Michelinster
+- Pérgula: Braziliaanse klassiekers, verse zeevruchten en internationale favorieten
+- Piano Bar: cocktails en livemuziek
+
+Faciliteiten: half-olympisch zwembad, tennisbaan op dakterras, exclusieve beachservice, Copacabana Palace Spa.
+
+#3. Ilha Grande - Pousada Asalem
+Kamertype: Standaard 2-persoonskamer (met zeezicht)
+
+De Pousada Asalem, gelegen aan de Abraão-baai op Ilha Grande, biedt gasten een exclusieve en intieme ervaring met directe toegang tot de oceaan. De kamers bieden een adembenemend uitzicht op zee. Gasten kunnen gebruikmaken van de privé-bootservice om nabijgelegen stranden te bezoeken. De accommodatie biedt inclusief ontbijt en vervoer van en naar het dorp Abraão, samen met extra voorzieningen zoals kunstboeken, spelletjes en het gebruik van kajaks en een kano.
+
+#4. Paraty - Pousada Literária de Paraty (Condé Nast Johansens)
+Pousada Literária de Paraty is prachtig gelegen in het historische centrum van Paraty. Het biedt een buitenzwembad, een bar, een sauna, kamers met airconditioning, gratis WiFi en gratis parkeergelegenheid. Alle accommodaties zijn ingericht en gerenoveerd door 'Jacobsen Arquitetura'. De suites bieden een 46-inch tv en zeer comfortabel beddengoed.
+
+De eigen bibliotheek is de officiële gastheer voor het FLIP internationale literaire evenement en biedt meer dan 1500 boeken en films.
+
+Het gastronomische restaurant Quintal das Letras serveert gerechten bereid met lokale en seizoensgebonden ingrediënten. Gasten kunnen ontspannen bij de Bar da Piscina. Er is ook een Spa Poesia.
+
+#5. Foz do Iguaçu - Hotel Belmond das Cataratas
+Het 5-sterren Hotel Belmond das Cataratas biedt een ongeëvenaarde ervaring, genesteld in het hart van het Nationaal Park van Foz do Iguaçu. Dit historische hotel, op slechts een steenworp afstand van de adembenemende Iguaçu-watervallen, biedt gasten de unieke kans om deze natuurlijke wonderen buiten de reguliere bezoekuren te verkennen. Met elegant ingerichte kamers en suites ademt het hotel een klassieke koloniale sfeer uit.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0004/01/524b311cac981f50287c0d28e41b46bd750dd5f1.png</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/d/b/csm_14-daagse_luxe_rondreis_Rio_de_Janeiro__Costa_Verde___Foz_do_Iguacu_e71246d020.webp</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/d/b/csm_14-daagse_luxe_rondreis_Rio_de_Janeiro__Costa_Verde___Foz_do_Iguacu_26d50fe125.webp</get-trip-image-url-overview>
@@ -187,75 +240,11 @@ Voordelen reisvoorstel:
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/lopes_mendes.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/8008000180_e2b726f994_b.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/Ilha_Grande_duiken.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/Ilha_Grande_Lago_Azul.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img1_a__1024x666_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img2_a.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img3_a__765x1024_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img10__1024x716_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/Centro_Historico_05.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/ftgd2081_1_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/ftpq4162_1_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/ftpq4166_1_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/ftpq6709_1_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/paraty1__1024x768_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Paraty/paraty5__1024x768_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/0_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Foz_do_Iguacu_Gran_aventura_boot.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Helikopter_tour_Foz_do_Iguacu.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/SU_FozIguacu0721__1024x683_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/1_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/3_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/4_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/5_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/LOI_suites_iguazu_jungle.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/LOI_suites_iguazu_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/LOI_suites_iguazu_zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/LAS_Hotel_Boutique_pool_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/LAS_Hotel_Boutique_lounge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/LAS_Hotel_Boutique_lounge_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/LAS_Hotel_Boutique_wellness.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/LAS_Hotel_Boutique_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Foz_do_Iguacu_watervallen.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/5716981635_40e5276927_b.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/3454150825_7a72224444_o.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/Babilonia_e_APA_-_Foto_AF_Rodrigues_5.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/lopes_mendes2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Itaipu_dam_complex.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Diner_show_rafain_churrasco.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Diner_show_rafain_folklore.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Slaapkamer_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Zwembad_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/bar_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__beach_service.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__Zwembad_hotel_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__view.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_suite_ocean_view.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_beach_service.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_restaurant.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_building_beach.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_deluxe_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_building.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_breakfast.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande_room_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande_room_1.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande_veranda.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_asalem_ilha_grande_3.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_literaria_kamer.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_literaria_zwembad.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_literaria_lounge_bibliotheek.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Belmond_das_cataratas__luchtfoto_complex.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_4.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__zwembad_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_3.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__entree.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>14-daagse strandvakantie Pipa</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>572</get-trip-lowest-price-2p>
@@ -280,35 +269,34 @@ Persoonlijk Reisvoorstel: Heeft u interesse in deze strandvakantie naar Pipa? Ne
 
 Pipa, gelegen in de deelstaat Rio Grande do Norte, is een van de meest geliefde bestemmingen in Brazilië. Bekend om zijn adembenemende kliffen, kristalhelder water, en levendige mariene leven, is het een paradijs voor zowel natuurliefhebbers als avonturiers.
 
-#Stranden:
+Stranden:
 - Praia de Pipa: Dit is het hoofdstrand van Pipa, ideaal om te zwemmen, zonnebaden, en surfen.
 - Baía dos Golfinhos: Deze baai staat bekend om de wilde dolfijnen die vaak dicht bij de kust zwemmen. Perfect voor een memorabele zwemervaring.
 - Praia do Amor: Een populair strand bij surfers vanwege de grote golven en ook geliefd bij stelletjes vanwege de romantische sfeer.
 
-#Activiteiten:
+Activiteiten:
 - Surfen en kitesurfen: Pipa biedt uitstekende condities voor zowel beginners als ervaren surfers.
 - Dolfijnen spotten: Maak een boottocht om dolfijnen van dichtbij te zien in hun natuurlijke habitat.
 - Ecotoerisme: Verken het omliggende Atlantisch Woud met zijn diverse flora en fauna.
 
-#Nachtleven en Gastronomie:
-Pipa's hoofdstraat, de Avenida Baía dos Golfinhos, bruist van de activiteit met talrijke bars, restaurants, en boetieks. Probeer lokale specialiteiten zoals verse zeevruchten, tapioca, en açai bowls. 's Avonds kunt u genieten van livemuziek en dansen in de vele sfeervolle bars en clubs.
+Nachtleven en Gastronomie: Pipa's hoofdstraat, de Avenida Baía dos Golfinhos, bruist van de activiteit met talrijke bars, restaurants, en boetieks. Probeer lokale specialiteiten zoals verse zeevruchten, tapioca, en açai bowls. 's Avonds kunt u genieten van livemuziek en dansen in de vele sfeervolle bars en clubs.
 
-#USP's
+#Highlights
 - Baía dos Golfinhos: Zwemmen met wilde dolfijnen in Pipa
 - Praia do Amor: Prachtig strand met hartvormige baai in Pipa
 - Chapadão: Adembenemend uitzicht over kliffen en oceaan
 - Avenida Baía dos Golfinhos: Levendige straat met bars en restaurants
 - Surfen: Uitstekende golven voor surfers van elk niveau
-- Combineer een arrangement in Pipa met één van de vele andere bestemmingen in Brazilië
+- Combineer een arrangement in Pipa met één van de vele andere bestemmingen in Brazilie
 
 #Reisdetails
 
 #1. Pipa - Aankomst
-Deze bouwsteen start in Natal. U wordt opgehaald op de luchthaven of bij het hotel in Natal en naar Pipa gebracht met een privé transfer. De rest van de dag kan naar eigen inzicht worden besteed. Indien u overigens opgehaald wenst te worden vanuit Recife dan is dat ook mogelijk. Informeer hiervoor bij ons naar de toeslag.
+Deze bouwsteen start in Natal. U wordt opgehaald op de luchthaven of bij het hotel in Natal en naar Pipa gebracht met een prive transfer. De rest van de dag kan naar eigen inzicht worden besteed. Indien u overigens opgehaald wenst te worden vanuit Recife dan is dat ook mogelijk. Informeer hiervoor bij ons naar de toeslag.
 - Keuze uit toeristenklasse of superieure klasse accommodatie tijdens uw verblijf in Pipa
 
 #2. Pipa - Buggy Tour
-Vandaag gaat u de omgeving van Pipa op spectaculaire wijze verkennen met een enerverende strand, meren en duinen buggy dagtour. "Wilt u een buggytour met of zonder emotie?", zal de buggy chauffeur u vragen. De keus is uiteraard aan u. Zorg dat u goed beschermd bent tegen de zon en u zult een fantastische dag hebben. U wordt opgehaald en weer afgezet bij het hotel.
+Vandaag gaat u de omgeving van Pipa op spectaculaire wijze verkennen met een enerverende strand, meren en duinen buggy dagtour. 'Wilt u een buggytour met of zonder emotie?', zal de buggy chauffeur u vragen. De keus is uiteraard aan u. Zorg dat u goed beschermd bent tegen de zon en u zult een fantastische dag hebben. U wordt opgehaald en weer afgezet bij het hotel.
 
 #3. Pipa - Vrije dag
 Geniet van een vrije dag in Pipa, waar u kunt ontspannen op de prachtige stranden of de gezellige hoofdstraat kunt verkennen. Wandel langs de levendige winkeltjes en geniet van lokale gerechten in de vele restaurants. Bezoek het beroemde strand Praia do Amor voor een unieke ervaring van natuurlijke schoonheid, of ga dolfijnen spotten langs de kust. Pipa biedt een perfecte mix van natuur en cultuur, ideaal voor een ontspannen dagje uit.
@@ -346,31 +334,6 @@ Geniet van een vrije dag in Pipa, waar u kunt ontspannen op de prachtige strande
 #14. Pipa - Einde arrangement
 Vandaag eindigt het verblijf in Pipa. U wordt opgehaald bij het hotel Pipa en naar de luchthaven gebracht van Natal. Einde arrangement. U kunt voor een toeslag ook naar Recife worden gebracht. Informeer bij ons naar de mogelijkheden.
 
-#Bestemmingen
-
-#Pipa
-Pipa: De Ultieme Gids voor het Meest Charmante Stranddorp van Brazilië
-
-Ten zuiden van Natal, genesteld tussen spectaculaire oranjerode kliffen en een smaragdgroene zee, ligt het magische dorp Pipa. Ooit een rustig vissersdorp, nu een geliefde bestemming die populair is bij Brazilianen en reizigers van over de hele wereld. Pipa is de perfecte mix van een relaxte bohemiensfeer, adembenemende natuur en een bruisend nachtleven.
-
-De Iconische Stranden van Pipa:
-Pipa is beroemd om haar unieke stranden, elk met een eigen karakter. Je bereikt ze vaak via trappen die langs de indrukwekkende kliffen naar beneden leiden.
-- Baía dos Golfinhos (Dolfijnenbaai): De naam zegt het al. Dit is dé plek om te zwemmen, kajakken of suppen terwijl wilde dolfijnen nieuwsgierig om je heen zwemmen. Het kalme water maakt dit een perfect strand om te relaxen.
-- Praia do Madeiro: Een prachtig, breed strand net voor de Dolfijnenbaai. Het is ideaal om te leren surfen vanwege de rustige golven en de aanwezige surfscholen.
-- Praia do Amor (Liefdesstrand): Gevormd als een hart (het best te zien vanaf de kliffen), is dit het meest iconische strand van Pipa. De golven zijn hier sterker, wat het een favoriete spot maakt voor ervaren surfers.
-- Praia do Centro: Het centrale strand van Pipa, direct aan het dorp. Het is hier levendig met strandbarretjes en bij eb vormen zich heerlijke natuurlijke zwembaden.
-
-Wat te Doen in Pipa: Van Dolfijnen tot Buggy's:
-- Spot wilde dolfijnen: Ga mee met een boottocht of huur een kajak om de dolfijnen in hun natuurlijke habitat te bewonderen. Een onvergetelijke ervaring.
-- Buggytour over de duinen: Maak een spannende tocht over de uitgestrekte zandduinen en langs afgelegen stranden. Een avontuur vol adrenaline en spectaculaire uitzichten.
-- Wandel over de kliffen: Voor de natuurliefhebbers zijn er prachtige wandelpaden bovenop de kliffen die de verschillende baaien met elkaar verbinden en fenomenale uitzichten bieden.
-- Paardrijden bij zonsondergang: Verken de omgeving te paard en geniet van een magische zonsondergang op het strand.
-
-Culinair Genieten & Bruisend Nachtleven:
-'s Avonds transformeert Pipa. De charmante hoofdstraat, de Avenida Baía dos Golfinhos, komt tot leven en vult zich met de gezellige drukte van mensen die op zoek zijn naar een goed restaurant of een gezellige bar.
-- Gastronomie: Pipa heeft een indrukwekkend aanbod aan eetgelegenheden, van eenvoudige, lokale eettentjes tot verfijnde internationale restaurants. Proef de verse vis, de Braziliaanse moqueca of geniet van een perfecte pizza.
-- Nachtleven: Na het diner kun je terecht in een van de vele sfeervolle bars met livemuziek. Pipa staat bekend om haar bruisende, maar altijd relaxte uitgaansleven dat doorgaat tot in de vroege uurtjes.
-
 #opmerkingen
 
 Inbegrepen:
@@ -391,6 +354,30 @@ Reissom:
 - De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom kunnen berekenen voor u.
 - De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag. Informeer bij ons naar de meerkosten.
 
+#Bestemmingen
+
+#Pipa
+
+Pipa: De Ultieme Gids voor het Meest Charmante Stranddorp van Brazilië
+
+Ten zuiden van Natal, genesteld tussen spectaculaire oranjerode kliffen en een smaragdgroene zee, ligt het magische dorp Pipa. Ooit een rustig vissersdorp, nu een geliefde bestemming die populair is bij Brazilianen en reizigers van over de hele wereld. Pipa is de perfecte mix van een relaxte bohemiensfeer, adembenemende natuur en een bruisend nachtleven.
+
+De Iconische Stranden van Pipa:
+- Baía dos Golfinhos (Dolfijnenbaai): De naam zegt het al. Dit is dé plek om te zwemmen, kajakken of suppen terwijl wilde dolfijnen nieuwsgierig om je heen zwemmen. Het kalme water maakt dit een perfect strand om te relaxen.
+- Praia do Madeiro: Een prachtig, breed strand net voor de Dolfijnenbaai. Het is ideaal om te leren surfen vanwege de rustige golven en de aanwezige surfscholen.
+- Praia do Amor (Liefdesstrand): Gevormd als een hart (het best te zien vanaf de kliffen), is dit het meest iconische strand van Pipa. De golven zijn hier sterker, wat het een favoriete spot maakt voor ervaren surfers.
+- Praia do Centro: Het centrale strand van Pipa, direct aan het dorp. Het is hier levendig met strandbarretjes en bij eb vormen zich heerlijke natuurlijke zwembaden.
+
+Wat te Doen in Pipa: Van Dolfijnen tot Buggy's:
+- Spot wilde dolfijnen: Ga mee met een boottocht of huur een kajak om de dolfijnen in hun natuurlijke habitat te bewonderen.
+- Buggytour over de duinen: Maak een spannende tocht over de uitgestrekte zandduinen en langs afgelegen stranden.
+- Wandel over de kliffen: Voor de natuurliefhebbers zijn er prachtige wandelpaden bovenop de kliffen die de verschillende baaien met elkaar verbinden en fenomenale uitzichten bieden.
+- Paardrijden bij zonsondergang: Verken de omgeving te paard en geniet van een magische zonsondergang op het strand.
+
+Culinair Genieten & Bruisend Nachtleven:
+- Gastronomie: Pipa heeft een indrukwekkend aanbod aan eetgelegenheden, van eenvoudige, lokale eettentjes tot verfijnde internationale restaurants. Proef de verse vis, de Braziliaanse moqueca of geniet van een perfecte pizza.
+- Nachtleven: Na het diner kun je terecht in een van de vele sfeervolle bars met livemuziek. Pipa staat bekend om haar bruisende, maar altijd relaxte uitgaansleven dat doorgaat tot in de vroege uurtjes.
+
 #Hotels
 
 #Toeristenklasse Hotels
@@ -399,31 +386,29 @@ Reissom:
 Pousada Coco Fresco ligt op 150 meter afstand van het levendige centrum in Pipa en op 200 meter van het strand. Het wordt omgeven door een tropische tuin. De pousada heeft ruime kamers, uitgerust met airconditioning, satelliet-tv, eigen badkamer, minibar en een kluisje. Alle balkons beschikken over een hangmat met een panoramisch uitzicht op de tuin. Verder beschikt de pousada over een buitenzwembad, 24-uursreceptie, privéparkeergelegenheid en Wifi.
 
 #2. Pipa - Hotel Sunbay
-Hotel Sun Bay Pipa Hotéis is rustig gelegen aan het begin van de hoofdstraat van Pipa, met een schitterend uitzicht over de baai. Elke kamer beschikt over een balkon, airconditioning en overal is gratis wifi beschikbaar. Geniet van het grote zwembad en de prachtige tuin met uitzicht op zee. Een poolbar en een restaurant staan ter beschikking van de gasten. Gratis parkeren is mogelijk. Gelegen boven de Dolfijnenbaai, aan het strand van Pipa in Rio Grande do Norte, zet Sun Bay zich in voor natuurbehoud. Het hotel biedt een uitgestrekte buitenruimte die harmonieus aansluit bij de inheemse vegetatie van de regio. Proef de heerlijke regionale keuken terwijl u op vrijdag- en zaterdagavond geniet van live muziek in Bar Molhado. Het menu is à la carte en biedt een diversiteit aan zeevruchten, vlees, pasta's, soepen, desserts, voorgerechten en een uitgebreide drankenkaart.
+Hotel Sun Bay Pipa Hotéis is rustig gelegen aan het begin van de hoofdstraat van Pipa, met een schitterend uitzicht over de baai. Elke kamer beschikt over een balkon, airconditioning en overal is gratis wifi beschikbaar. Geniet van het grote zwembad en de prachtige tuin met uitzicht op zee. Een poolbar en een restaurant staan ter beschikking van de gasten. Gratis parkeren is mogelijk. Gelegen boven de Dolfijnenbaai, aan het strand van Pipa in Rio Grande do Norte, zet Sun Bay zich in voor natuurbehoud. Proef de heerlijke regionale keuken terwijl u op vrijdag- en zaterdagavond geniet van live muziek in Bar Molhado.
 
 #3. Pipa - Pipa Residence
 Dit prachtige en moderne appartement heeft een fantastische ligging in Pipa bij het strand 'Praia do Amor' en is geschikt voor 4 of 6 personen. In het 4-persoonsappartement in Pipa zijn twee slaapkamers beschikbaar, waarvan 1 suite en in het 6-persoonsappartement zijn drie slaapkamers beschikbaar. Het appartement heeft verder een keuken, huiskamer en een 2e badkamer. Geniet tijdens uw verblijf heerlijk op de veranda of aan het zwembad van het complex. U bevindt zich op loopafstand van het strand in Pipa. Dit is een perfect appartement voor families en gezelschappen tot 6 personen.
 
 #4. Pipa - vakantiehuisje 'Casa Girassois'
-Op het luxe condomium 'Girassois' verhuren wij 2 huisjes, gelegen aan de hoofdstraat van Pipa en vlakbij het strand 'Praia do Amor.' Het condomium (complex met huisjes) beschikt over 2 zwembaden, een sauna, bar, restaurant, 24-uurs receptie, WIFI en parkeergelegenheid. De huisjes zijn uitgerust met een complete keuken, slaapkamer met kingsize bed, 2 badkamers, zowel een balkon als een terras en een woonkamer met slaapbank die eventueel nog ruimte biedt aan 2 extra personen. De slaap- en woonkamer beschikken beiden over een airconditioning. De Nederlandse eigenaren Jelle en Krista wonen al jaren in Pipa, en zijn tijdens jullie verblijf bereikbaar voor vragen en tips.
+Op het luxe condomium 'Girassois' verhuren wij 2 huisjes, gelegen aan de hoofdstraat van Pipa en vlakbij het strand 'Praia do Amor.' Het condomium (complex met huisjes) beschikt over 2 zwembaden, een sauna, bar, restaurant, 24-uurs receptie, WIFI en parkeergelegenheid. De huisjes zijn uitgerust met een complete keuken, slaapkamer met kingsize bed, 2 badkamers, zowel een balkon als een terras en een woonkamer met slaapbank die eventueel nog ruimte biedt aan 2 extra personen. De Nederlandse eigenaren Jelle en Krista wonen al jaren in Pipa, en zijn tijdens jullie verblijf bereikbaar voor vragen en tips.
 
 #Superieure klasse hotels
 
 #1. Pipa - Hotel Sombra e Agua Fresca Spa Floresta
-Het hotel Sombra e Agua Fresca is één van de beste opties om te verblijven in Pipa. Het is centraal gelegen in Pipa op 5 minuten loopafstand van de hoofdstraat en pal naast het strand 'Praia do Amor'. Dit hotel biedt prachtige uitzichten op de omgeving en beschikt over 3 complexen. U verblijft in het Spa gedeelte en krijgt gratis toegang tot de faciliteiten en zwembaden van alle drie de complexen. Alle kamers zijn uitgerust met airconditioning, kabel-tv, cd-en dvd-speler, minibar, kluisje, haardroger en een kingsize bed. Het Sombra e Agua Fresca Floresta is een complex van 15.000 m² met ongerepte fauna en flora. Spa Floresta heeft 34 suites, zeven zwembaden, een natte bar, een complete fitnessruimte, massageruimtes, droge en natte sauna's en een privéparkeerplaats. De recreatieve faciliteiten omvatten twee panoramische zwembaden, een bar, een ontspanningsruimte, een lounge en een restaurant.
-
-#Excursies
+Het hotel Sombra e Agua Fresca is één van de beste opties om te verblijven in Pipa. Het is centraal gelegen in Pipa op 5 minuten loopafstand van de hoofdstraat en pal naast het strand 'Praia do Amor', vrij vertaald 'liefdesstrand'. Dit hotel biedt prachtige uitzichten op de omgeving en beschikt over 3 complexen. U verblijft in dit geval in het Spa gedeelte en krijgt gratis toegang tot de faciliteiten en zwembaden van alle drie de complexen. Alle kamers zijn uitgerust met airconditioning, kabel-tv, cd-en dvd-speler, minibar, kluisje, haardroger en een kingsize bed. Het Sombra e Agua Fresca Floresta is een complex van 15.000 m² met ongerepte fauna en flora. Spa Floresta heeft 34 suites, zeven zwembaden, een natte bar, een complete fitnessruimte, massageruimtes, droge en natte sauna's en een privéparkeerplaats.
 
 #Excursies inbegrepen
 
 #Pipa - Buggy tour (duur circa 6 uur)
-Tijdens deze excursie gaat u de omgeving van Pipa op spectaculaire wijze verkennen met een enerverende strand, meren en duinen buggy dagtour. "Wilt u een buggytour met of zonder emotie?", zal de buggy chauffeur u vragen. De keus is uiteraard aan u. Zorg dat u goed beschermd bent tegen de zon en u zult een fantastische dag hebben. U wordt opgehaald en weer afgezet bij het hotel.
+Tijdens deze excursie gaat u de omgeving van Pipa op spectaculaire wijze verkennen met een enerverende strand, meren en duinen buggy dagtour. 'Wilt u een buggytour met of zonder emotie?', zal de buggy chauffeur u vragen. De keus is uiteraard aan u. Zorg dat u goed beschermd bent tegen de zon en u zult een fantastische dag hebben. U wordt opgehaald en weer afgezet bij het hotel.
 
 #Optionele excursies
 
 #Pipa - Excursies
 In en om Pipa is ontzettend veel te doen. Bij onze Nederlandstalige host ter plaatse kunt u fantastische excursies boeken:
-- Solemio tour: Dit is een gastronomische tour over het meer van Tibau. Drinken en eten is inclusief tijdens de dagtour. Samen met andere toeristen verkent u het prachtige meer van Tibau. Tijdens de tocht zijn er meerdere zwemstops gepland en u gaat zelf schelpdieren vangen, die erna worden gebruikt voor de lunch. U wordt opgehaald en weer afgezet bij het hotel. Deze tour kost circa 55 euro per persoon.
+- Solemio tour: Dit is een gastronomische tour over het meer van Tibau, Drinken en eten is inclusief tijdens de dagtour. Samen met andere toeristen verkent u het prachtige meer van Tibau. Tijdens de tocht zijn er meerdere zwemstops gepland en u gaat zelf schelpdieren vangen, die erna worden gebruikt voor de lunch. U wordt opgehaald en weer afgezet bij het hotel. Deze tour kost circa 55 euro per persoon.
 - Kayak: Heeft u zin in een actieve dag. Ga dan kayakken op de mooie zee van Pipa. Dit kost circa 15 euro per persoon.
 - Quad tour: Voor de avontuurlijk ingestelde gasten, is er een Quad tour te boeken, waarmee u de omgeving van Pipa kunt verkennen. Het huren van een Quad in Pipa kost circa 55 euro per persoon.
 - Paardrijden Pipa: Pipa leent zich heel goed ook om te paardrijden. U wordt opgehaald bij het hotel en naar de fazenda gebracht, waar de paarden op stal staan. Vervolgens gaat u heerlijk paardrijden in de omgeving van Pipa en over de stranden. De paarden zijn kalm en ook geschikt voor beginners. U kunt al paardrijden vanaf 49 euro per persoon.]]></get-trip-scraped-content>
@@ -462,6 +447,7 @@ In en om Pipa is ontzettend veel te doen. Bij onze Nederlandstalige host ter pla
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>14-daagse Strandvakantie Porto de Galinhas</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>764</get-trip-lowest-price-2p>
@@ -472,23 +458,23 @@ In en om Pipa is ontzettend veel te doen. Bij onze Nederlandstalige host ter pla
 
 Onder Recife, in het noordoosten van Brazilië, ligt de strandbestemming Porto de Galinhas. Het is een populaire vakantiebestemming bij de Brazilianen zelf. Er zijn een aantal resorts in de omgeving en Porto de Galinhas is een levendig plaatsje met bars, winkeltjes, restaurants en een goed aanbod aan hotels.
 
-Boekingsprocedure:
+Reiscode: 166
+Vanaf 764,00 € p.p.
+14 dagen
+
+#Highlights
+- Fantastische badplaats om te snorkelen voor de kust
+- Perfect als strandvakantie en afsluiting van een rondreis
+- Combineer Porto de Galinhas met een bezoek aan Recife
+
+#Boekingsprocedure
 Heeft u interesse in deze strandvakantie? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
 
 Voordelen reisvoorstel:
 - Kosteloos en vrijblijvend: Uw persoonlijke reisvoorstel stellen wij gratis en vrijblijvend voor u samen. U bent dus nergens aan gebonden. Bovendien ontvangt u het voorstel meestal al binnen één werkdag.
-- Flexibiliteit: Inkorten of verlengen: Bent u in hoofdlijnen geïnteresseerd in deze strandvakantie en wenst u de reis te verlengen, in te korten, of het combineren met een andere bestemming in Brazilië? Geen probleem; wij verwerken dit in uw persoonlijke reisvoorstel.
+- Flexibiliteit - Inkorten of verlengen: Bent u in hoofdlijnen geïnteresseerd in deze strandvakantie en wenst u de reis te verlengen, in te korten, of het combineren met een andere bestemming in Brazilië? Geen probleem; wij verwerken dit in uw persoonlijke reisvoorstel.
 - Vluchten: De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Recife, vanwaar het arrangement begint.
 - Exacte reissom wordt berekend, rekening houdend met de samenstelling van uw reisgezelschap. De gemiddelde prijs per persoon verschilt namelijk, indien u alleen reist, met twee personen of bijvoorbeeld een reis met 4 personen boekt.
-
-Reiscode: 166
-Vanaf: € 764,00 p.p.
-14 dagen
-
-USP's:
-- Fantastische badplaats om te snorkelen voor de kust
-- Perfect als strandvakantie en afsluiting van een rondreis
-- Combineer Porto de Galinhas met een bezoek aan Recife
 
 #opmerkingen
 
@@ -498,7 +484,7 @@ Inbegrepen:
 - Vervoer: Vermelde transfers in de dag tot dag-beschrijving
 - Excursies: Excursies die vermeld zijn in het excursie tabblad
 - Reisbegeleiding: Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies. Zo geniet u van de vrijheid van het individuele reizen, maar wel altijd met ondersteuning ter plaatse.
-- Zekerheden: Brazilië Reis Specialist is lid van de SGR, ANVR, DRV en het Calamiteitenfonds.
+- Zekerheden: Brazilië Reis Specialist is lid van de SGR, ANVR, DRV en het Calamiteitenfonds. Hierdoor bent u ervan verzekerd dat BRS voldoet aan de strengste normen die aan een Nederlandse reisorganisatie gesteld kunnen worden. Stichting Garantiefonds Reisgelden (SGR) beschermt vooruitbetaalde reisgelden van reizigers die bij een SGR-deelnemer een reis boeken.
 
 Niet inbegrepen:
 - Vluchten: De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Recife, vanwaar het arrangement begint.
@@ -507,8 +493,8 @@ Niet inbegrepen:
 - Boekingskosten á € 25,- per dossier
 
 Reissom:
-- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren.
-- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag.
+- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom kunnen berekenen voor u.
+- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag. Informeer bij ons naar de meerkosten.
 
 #Reisdetails
 
@@ -527,8 +513,8 @@ Vrije dag in Porto de Galinhas. Tijdens je verblijf kun je heerlijk genieten van
 - Geniet van verse zeevruchten in een van de vele gezellige restaurants aan zee.
 Alle activiteiten zijn optioneel en kunnen ter plaatse geregeld worden.
 
-#3 t/m #13. Porto de Galinhas - Vrije dag
-(Zelfde programma als dag 2, herhaald voor dagen 3 t/m 13)
+#3 t/m 13. Porto de Galinhas - Vrije dag
+(Zelfde programma als dag 2, alle activiteiten zijn optioneel en kunnen ter plaatse geregeld worden.)
 
 #14. Porto de Galinhas - Einde arrangement
 Vandaag eindigt het verblijf in Porto de Galinhas. U wordt opgehaald bij het hotel en met een privé transfer naar de luchthaven of het hotel in Recife gebracht (duur circa 1 uur), einde arrangement.
@@ -538,7 +524,7 @@ Vandaag eindigt het verblijf in Porto de Galinhas. U wordt opgehaald bij het hot
 #Porto de Galinhas
 Porto de Galinhas, gelegen ten zuiden van Recife in het noordoosten van Brazilië, is een van de populairste strandbestemmingen onder Brazilianen. Dit levendige kustplaatsje combineert ontspannen charme met volop gezelligheid dankzij de vele bars, winkeltjes, sfeervolle restaurants en uitstekende hotels. Ook in de nabije omgeving vind je een aantal aantrekkelijke resorts.
 
-Porto de Galinhas staat bekend om zijn schitterende stranden, kristalheldere en rustige zee, en spectaculaire natuurlijke zwembaden. Bij eb verschijnt een lang rif voor de kust waar kleurrijke tropische vissen zwemmen. Met een typische Braziliaanse "jangada" (traditioneel zeilbootje) vaar je naar deze natuurlijke zwembaden om heerlijk te snorkelen en de onderwaterwereld te ontdekken.
+Porto de Galinhas staat bekend om zijn schitterende stranden, kristalheldere en rustige zee, en spectaculaire natuurlijke zwembaden. Bij eb verschijnt een lang rif voor de kust waar kleurrijke tropische vissen zwemmen. Met een typische Braziliaanse 'jangada' (traditioneel zeilbootje) vaar je naar deze natuurlijke zwembaden om heerlijk te snorkelen en de onderwaterwereld te ontdekken.
 
 Dankzij het aangename klimaat, het heerlijke lokale eten en de gastvrije Braziliaanse bevolking is Porto de Galinhas dé bestemming bij uitstek om heerlijk te ontspannen en zorgeloos te genieten van zon, zee en strand.
 
@@ -554,6 +540,8 @@ Pousada Tabajuba is een kleurrijk boutique hotel, gelegen aan het strand van de 
 #1. Porto de Galinhas - Kembali Hotel
 Dit is één van de beste hotels in Porto de Galinhas. Het Kembali Hotel Porto de Galinhas ligt aan het prachtige strand van Porto de Galinhas. Iedere kamer heeft een specifieke thematische inrichting, zoals Balinees, Kuuroord, Muziek of Retro kamer. De kamers zijn voorzien van airconditioning en een flatscreen-tv met kabelzenders, en een eigen badkamer met een haardroger en gratis toiletartikelen. Ze beschikken allemaal over een balkon met uitzicht op zee en op het zwembad van het hotel. Het hotel heeft ook een zwembadbar, waar heerlijke regionale gerechten te verkrijgen zijn. Bij de excursiebalies kunt u terecht voor leuke uitstapjes.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0004/01/734b2e9faba38ccf359e8c7fa910e4d32c5d3638.png</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/f/2/csm_NE_PortoGalinhas0237__1024x683__1ec627f98c.webp</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/f/2/csm_NE_PortoGalinhas0237__1024x683__0813aa85a4.webp</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/8/c/csm_Cavalgada__1024x683__842d990912.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/d/1/csm_foto01__1024x580__68fdc829c7.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/f/2/csm_NE_PortoGalinhas0237__1024x683__65404716df.jpg</get-trip-image-url-overview>
@@ -578,6 +566,7 @@ Dit is één van de beste hotels in Porto de Galinhas. Het Kembali Hotel Porto d
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>14-daagse Strandvakantie Rio de Janeiro</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.214</get-trip-lowest-price-2p>
@@ -590,31 +579,40 @@ Rio de Janeiro is voor veel reizigers het startpunt van een onvergetelijke reis 
 
 Naast losse strandvakantie in Rio werken wij bij Brazilië Reis Specialist veel met maatwerk rondreizen, waarbij Rio wordt gecombineerd met andere bestemmingen zoals Paraty, Ilha Grande, Foz do Iguaçu, de Pantanal of de Amazone. Zo ontstaat een reis met de juiste balans tussen stad, natuur, cultuur en ontspanning — volledig afgestemd op uw wensen en reistempo.
 
-#Voordelen van een persoonlijk reisvoorstel
-
-Kosteloos en vrijblijvend
-U ontvangt een voorstel zonder verplichtingen, meestal al binnen één werkdag.
-
-Volledig op maat
-De reis kan worden ingekort, verlengd of gecombineerd met andere bestemmingen in Brazilië, geheel afgestemd op uw interesses en reistempo.
-
-Vluchten
-Wij zoeken samen met u het best passende vluchtschema voor scherpe tarieven. Omdat dit per periode verschilt, zijn vluchten niet standaard opgenomen in onze voorbeeldreizen. Voor reizen met Rio adviseren wij aan te vliegen op Rio de Janeiro, waarna wij de logistiek verder passend invullen.
-
-Exacte reissom op basis van uw samenstelling
-De uiteindelijke reissom hangt af van:
-- het aantal reizigers
-- gekozen accommodaties en kamerindeling
-- reisperiode en gewenste excursies
-Dit verwerken wij transparant in uw persoonlijke offerte.
-
-#USP's
+#Kenmerken
 - Geniet van een onvergetelijke strandvakantie in Rio de Janeiro
 - Ontdek de stranden van Copacabana, Ipanema en Leblon
 - Iconische stad met stranden, uitzichtpunten, cultuur en levendige wijken
 - Perfect startpunt voor maatwerk rondreizen door Brazilië
 - Combineer Rio met Paraty, Ilha Grande, Iguaçu of de Pantanal
-- Inspiratie via voorbeeldreizen — eenvoudig filteren op "Rio de Janeiro"
+- Inspiratie via voorbeeldreizen — eenvoudig filteren op 'Rio de Janeiro'
+
+#Reiscode
+171
+
+#Prijs
+Vanaf 1.214,00 € p.p. (gebaseerd op deelname van 2 personen)
+
+#Reisduur
+14 dagen
+
+#Inbegrepen
+- Accommodatie; In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer bijvoorbeeld. De mogelijkheden verschillen per hotel. Informeer bij ons naar de upgrade opties.
+- Maaltijden; Ontbijt is inbegrepen.
+- Vervoer; Vermelde transfers in de dag tot dag-beschrijving.
+- Excursies; Excursies die vermeld zijn in het excursie tabblad.
+- Reisbegeleiding; Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies. Zo geniet u van de vrijheid van het individuele reizen, maar wel altijd met ondersteuning ter plaatse.
+- Zekerheden; Brazilië Reis Specialist is lid van VZR Garant, VvKR, DRV en het Calamiteitenfonds.
+
+#Niet inbegrepen
+- Vluchten; De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint.
+- Optionele excursies; Excursies die eventueel vermeld zijn in het optionele excursie tabblad
+- Bijdrage calamiteitenfonds á € 2,50 per boeking
+- Boekingskosten á € 25,- per dossier
+
+#Reissom
+- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom kunnen berekenen voor u.
+- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag. Informeer bij ons naar de meerkosten.
 
 #Reisdetails
 
@@ -656,11 +654,8 @@ Deze dag kunt u naar eigen inzicht besteden. Ontspan op de prachtige stranden zo
 Vandaag staat er een chauffeur met privégids gedurende 6 uur tot uw beschikking. Bepaal samen met de gids de highlights van Rio die u vandaag wenst te bezoeken. Ontdek het iconische Christus de Verlosser beeld, bewonder de kleurrijke trappen van Selarón, of wandel door de historische wijk Santa Teresa. Neem de kabelbaan naar de top van de Suikerbroodberg voor een adembenemend uitzicht over de stad, bezoek het beroemde Copacabana strand, of verken het Tijuca-regenwoud. De keuze is aan u om de cultuur, natuur en levendigheid van Rio te ervaren. Geef uw wensen door en de gids stemt het programma hierop af. Entrees voor de bezienswaardigheden zijn niet inbegrepen en worden ter plaatse betaald.
 
 #13. Rio de Janeiro - Mangrove en Jungletocht, privé (RIOEX9)
-Mangrove en Jungletocht:
-Rio heeft het geluk om zich te vestigen op een magische locatie, omringd door bergen, natuur en de jungle. Met deze tour ontdekt u een deel van het grootste stadsbos ter wereld, het Nationaal Park van Tijuca, na het rijden naar het begin van het pad beginnen we een korte wandeling (45 minuten) naar de top van Pedra Bonita piek 693m boven de zee) niveau). Deze piek heeft een van de meest indrukwekkende uitzichten over hele Rio! Na de wandeling en naar beneden rijden we verder naar het moderne stranddistrict Barra da Tijuca, dit gebied heeft een heel bijzonder karakter met veel lagunes met mangrove en moerassig gebied met veel vissen en dieren. Om dit te ontdekken maken we gebruik van een bootje voor een ritje tussen vele eilanden en smalle kanalen waar twee inheemse soorten dieren leven, met name de capibara en de breedsnuitkaaiman. De kans om beide te spotten is erg groot en een geweldige ervaring om ze in hun natuurlijke habitat in een grote stad te zien.
-
+Mangrove en Jungletocht: Rio heeft het geluk om zich te vestigen op een magische locatie, omringd door bergen, natuur en de jungle. Met deze tour ontdekt u een deel van het grootste stadsbos ter wereld, het Nationaal Park van Tijuca, na het rijden naar het begin van het pad beginnen we een korte wandeling (45 minuten) naar de top van Pedra Bonita piek 693m boven de zee) niveau). Deze piek heeft een van de meest indrukwekkende uitzichten over hele Rio! Na de wandeling en naar beneden rijden we verder naar het moderne stranddistrict Barra da Tijuca, dit gebied heeft een heel bijzonder karakter met veel lagunes met mangrove en moerassig gebied met veel vissen en dieren. Om dit te ontdekken maken we gebruik van een bootje voor een ritje tussen vele eilanden en smalle kanalen waar twee inheemse soorten dieren leven, met name de capibara en de breedsnuitkaaiman. De kans om beide te spotten is erg groot en een geweldige ervaring om ze in hun natuurlijke habitat in een grote stad te zien.
 Duur 6 uur, start in de ochtend.
-
 Inbegrepen:
 - Vervoer met ophalen en wegbrengen
 - Nederlands of Engelstalig begeleiding
@@ -671,47 +666,28 @@ Inbegrepen:
 #14. Rio de Janeiro - Luchthaven
 Vandaag eindigt het arrangement in Rio. U wordt opgehaald bij de accommodatie en naar de luchthaven gebracht met een prive transfer, einde arrangement.
 
-#opmerkingen
-
-#Inbegrepen
-- Accommodatie; In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer bijvoorbeeld. De mogelijkheden verschillen per hotel. Informeer bij ons naar de upgrade opties.
-- Maaltijden; Ontbijt is inbegrepen.
-- Vervoer; Vermelde transfers in de dag tot dag-beschrijving.
-- Excursies; Excursies die vermeld zijn in het excursie tabblad.
-- Reisbegeleiding; Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies. Zo geniet u van de vrijheid van het individuele reizen, maar wel altijd met ondersteuning ter plaatse.
-- Zekerheden; Brazilië Reis Specialist is lid van VZR Garant, VvKR, DRV en het Calamiteitenfonds.
-
-#Niet inbegrepen
-- Vluchten; De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint.
-- Optionele excursies; Excursies die eventueel vermeld zijn in het optionele excursie tabblad
-- Bijdrage calamiteitenfonds á € 2,50 per boeking
-- Boekingskosten á € 25,- per dossier
-
-#Reissom
-- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren.
-- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag.
-
 #Bestemmingen
 
 #Rio de Janeiro
+Rio de Janeiro: De Ultieme Gids voor de 'Cidade Maravilhosa'
 Rio de Janeiro, de 'Prachtige Stad', is zonder twijfel een van de mooiste steden ter wereld. Het is een adembenemende mix van weelderige, groene bergen die uit de oceaan rijzen, goudgele zandstranden en een bruisende metropool. De energie is voelbaar, het ritme aanstekelijk en de lokale bevolking, de Cariocas, staan bekend om hun levensvreugde.
 
 De Beroemde Hoogtepunten: Wat je Niet Mag Missen
-- De Corcovadoberg: Beklim de berg per treintje en sta oog in oog met het 38 meter hoge standbeeld van Christus de Verlosser.
-- De Suikerbroodberg (Pão de Açúcar): Een spectaculaire kabelbaan brengt je naar de top van deze granieten rots.
-- Copacabana & Ipanema: De twee beroemdste stranden ter wereld.
+- De Corcovadoberg: Beklim de berg per treintje en sta oog in oog met het 38 meter hoge standbeeld van Christus de Verlosser. Vanaf hier heb je het meest complete panoramische uitzicht over de hele stad.
+- De Suikerbroodberg (Pão de Açúcar): Een spectaculaire kabelbaan brengt je naar de top van deze granieten rots. Vooral tijdens zonsondergang is het uitzicht over de baai en de stad magisch.
+- Copacabana & Ipanema: De twee beroemdste stranden ter wereld. Wandel over de iconische boulevards, geniet van de zon en observeer het leven van de Cariocas, van voetvolley tot het drinken van een ijskoude caipirinha bij een strandkiosk.
 
 Voorbij de Clichés: Ontdek het Echte Rio
-- De Wijken Lapa & Santa Teresa: Ervaar het Boheemse hart van de stad.
-- Floresta da Tijuca & Vista Chinesa: Rio heeft een compleet regenwoud midden in de stad.
-- De Zondagse Boulevard: Op zondag worden de boulevards langs de stranden grotendeels autovrij gemaakt.
+- De Wijken Lapa & Santa Teresa: Ervaar het Boheemse hart van de stad. In Lapa vind je 's avonds de beste live sambaclubs en gezellige bars. Overdag verbindt de beroemde gekleurde trap, de Escadaria Selarón, Lapa met het heuvelachtige en artistieke Santa Teresa, vol met ateliers en charmante straatjes.
+- Floresta da Tijuca & Vista Chinesa: Wist je dat Rio een compleet regenwoud midden in de stad heeft? Het Tijuca Nationaal Park is een oase van rust. Huur een fiets of neem een taxi naar het uitzichtpunt Vista Chinesa voor een adembenemend en minder bekend panorama over de stad.
+- De Zondagse Boulevard: Op zondag worden de boulevards langs de stranden grotendeels autovrij gemaakt. Huur een fiets of een step en sluit je aan bij de sportende Cariocas voor de ultieme lokale ervaring.
 
 Culinair Rio: Onze Selectie van de Beste Restaurants
-- Voor de beste steak: Churrascaria Palace in Copacabana
-- Braziliaans met uitzicht: Aprazível in Santa Teresa
-- Authentieke lokale keuken: Bar do Mineiro in Santa Teresa
-- Creatief en hip: Zaza Bistrô Tropical in Ipanema
-- Topklasse sushi: Sushi Leblon in Leblon
+- Voor de beste steak: Churrascaria Palace in Copacabana is een bekroond restaurant waar obers met spiezen vol perfect gegrild vlees aan je tafel komen.
+- Braziliaans met uitzicht: In de charmante wijk Santa Teresa biedt Aprazível heerlijke, authentieke Braziliaanse gerechten in een prachtige setting met een panoramisch uitzicht over de stad.
+- Authentieke lokale keuken: Voor een informele, lokale ervaring ga je naar Bar do Mineiro, ook in Santa Teresa. Dit is dé plek om een traditionele feijoada (stoofpot van zwarte bonen) te proberen.
+- Creatief en hip: Zaza Bistrô Tropical in Ipanema staat bekend om zijn kleurrijke inrichting en creatieve fusiongerechten.
+- Topklasse sushi: Sushi Leblon is een van de meest gerenommeerde Japanse restaurants van Brazilië, gelegen in de chique wijk Leblon.
 
 #Hotels
 
@@ -725,45 +701,38 @@ Hotel Atlantis Copacabana ligt op 3 minuten lopen van het beroemde en gelijknami
 
 #1. Rio de Janeiro - Hotel Windsor Excelsior
 Maaltijd type: Ontbijt inbegrepen
-Windsor Excelsior Copacabana – Rio de Janeiro. Ervaar het beste van Rio de Janeiro met een verblijf in het comfortabele en elegant gelegen Windsor Excelsior, direct aan het wereldberoemde strand van Copacabana.
-
+Windsor Excelsior Copacabana – Rio de Janeiro. Ervaar het beste van Rio de Janeiro met een verblijf in het comfortabele en elegant gelegen Windsor Excelsior, direct aan het wereldberoemde strand van Copacabana. Dit stijlvolle hotel biedt alles wat je nodig hebt voor een ontspannen strandvakantie in de Cidade Maravilhosa: een toplocatie, een heerlijk ontbijtbuffet, een dakterras met zwembad en panoramisch uitzicht over zee.
 Kamers:
-- Standaard kamer (zonder uitzicht): Knus en praktisch ingericht, ideaal voor wie op zoek is naar comfort tegen een aantrekkelijke prijs.
-- Superior kamer (zijzeezicht op Copacabana): Ruimer en lichter, met zijdelings uitzicht op zee.
-- Deluxe kamer (frontaal zeezicht): Voor wie graag wakker wordt met een spectaculair uitzicht op de baai van Copacabana.
-
-Faciliteiten:
-- Dakterras met zwembad en uitzicht op zee
-- Fitnessruimte met moderne apparatuur
-- Rijk ontbijtbuffet met verse producten
-- Gratis wifi in het hele hotel
-- Vriendelijk en behulpzaam personeel
+- Standaard kamer (zonder uitzicht): Knus en praktisch ingericht, ideaal voor wie op zoek is naar comfort tegen een aantrekkelijke prijs. Voorzien van een tweepersoonsbed, airconditioning, kabel-tv, minibar, kluisje en een werkplek met internet.
+- Superior kamer (zijzeezicht op Copacabana): Ruimer en lichter, met zijdelings uitzicht op zee. Geschikt voor 2 tot 3 personen.
+- Deluxe kamer (frontaal zeezicht): Voor wie graag wakker wordt met een spectaculair uitzicht op de baai van Copacabana. Kingsize bed, koffiemachine, geluidsdichte ramen en een luxe badkamer met jacuzzi.
+Faciliteiten: Dakterras met zwembad en uitzicht op zee, fitnessruimte, rijk ontbijtbuffet, gratis wifi.
 
 #2. Rio de Janeiro - TuAkAzA Exclusive Boutique Lodge
 Maaltijd type: Ontbijt inbegrepen
-Genesteld in de rustige en exclusieve wijk São Conrado van Rio de Janeiro, biedt de TuAkAzA Exclusive Boutique Lodge een onvergetelijke ervaring voor bezoekers die op zoek zijn naar luxe en privacy. Omringd door het weelderige groen van de Atlantische regenwouden en met een adembenemend uitzicht op de omliggende bergen en de zee.
+Genesteld in de rustige en exclusieve wijk São Conrado van Rio de Janeiro, biedt de TuAkAzA Exclusive Boutique Lodge een onvergetelijke ervaring voor bezoekers die op zoek zijn naar luxe en privacy. Omringd door het weelderige groen van de Atlantische regenwouden en met een adembenemend uitzicht op de omliggende bergen en de zee. Met slechts enkele, maar uiterst luxueus ingerichte kamers, verzekert de lodge een intieme en persoonlijke ervaring voor alle gasten. Gasten kunnen ontspannen aan het infinity pool met uitzicht op de oceaan, genieten van exclusieve culinaire creaties in het eigen restaurant, of zich terugtrekken in hun privékamer voor ultieme rust.
 
 #3. Rio de Janeiro - Mercure Rio Boutique Hotel Copacabana
 Maaltijd type: Ontbijt inbegrepen
-Het Mercure Boutique Hotel kijkt uit op het midden van het Copacabana-strand. Op een steenworp afstand van het hotel heeft u exclusieve toegang tot een nabijgelegen strandtent.
+Het Mercure Boutique Hotel kijkt uit op het midden van het Copacabana-strand. Op een steenworp afstand van het hotel heeft u exclusieve toegang tot een nabijgelegen strandtent. Het interieur van het hotel is geïnspireerd op de levendige mode van Rio en combineert heldere en vrolijke prints met ultramodern design en strak houten meubilair.
 
 #Superieure klasse hotels
 
 #1. Rio de Janeiro - Hotel Miramar by Windsor
 Maaltijd type: Ontbijt inbegrepen
-Hotel Miramar by Windsor, gelegen tegenover het wereldberoemde Copacabana-strand in Rio de Janeiro, biedt luxe in een van de beste hotels van de stad.
+Hotel Miramar by Windsor, gelegen tegenover het wereldberoemde Copacabana-strand in Rio de Janeiro, biedt luxe in een van de beste hotels van de stad. Gasten kunnen genieten van het prachtige zwembad en de moderne fitnessruimte, of de dag beginnen met een fantastisch en uitgebreid ontbijtbuffet. Elk van de 200 appartementen ademt luxe en is ingericht in elegante grijze tinten.
 
 #2. Rio de Janeiro - Hotel Belmond Copacabana Palace
 Maaltijd type: Ontbijt inbegrepen
-Copacabana Palace – Tijdloze elegantie aan het beroemdste strand van Brazilië. Al ruim een eeuw lang verwelkomt dit iconische art-decohotel aan de wereldberoemde Copacabana haar gasten.
+Copacabana Palace – Tijdloze elegantie aan het beroemdste strand van Brazilië. Al ruim een eeuw lang verwelkomt dit iconische art-decohotel aan de wereldberoemde Copacabana haar gasten met een ongeëvenaarde combinatie van stijl, service en sereniteit. Het hotel beschikt over 140 elegant ingerichte kamers en suites. Restaurants: MEE (Michelinster, pan-Aziatisch), Pérgula (Braziliaanse klassiekers, verse zeevruchten), Piano Bar (cocktails en livemuziek). Faciliteiten: half-olympisch zwembad, tennisbaan op dakterras, exclusieve beachservice, Copacabana Palace Spa.
 
 #3. Rio de Janeiro - Hotel La Suite by Dussol
 Maaltijd type: Ontbijt inbegrepen
-La Suite by Dussol is een kleinschalig boutique hotel met een prachtige overloopzwembad. Het is stijlvol ingericht en ligt op slechts 200 meter van Joatinga Beach.
+La Suite by Dussol is een kleinschalig boutique hotel met een prachtige overloopzwembad. Het is stijlvol ingericht en ligt op slechts 200 meter van Joatinga Beach. U kunt genieten van een spa- en wellnesscentrum en de gerechten proeven in het à-la-carterestaurant.
 
 #4. Rio de Janeiro - Hotel Santa Teresa MGallery By Sofitel
 Maaltijd type: Ontbijt inbegrepen
-Santa Teresa Hotel RJ – MGallery is gevestigd op een historische koffieboerderij uit 1850 en is een luxe, boutique-achtig toevluchtsoord midden in de sfeervolle wijk Santa Teresa in Rio de Janeiro.
+Santa Teresa Hotel RJ – MGallery is gevestigd op een historische koffieboerderij uit 1850 en is een luxe, boutique-achtig toevluchtsoord midden in de sfeervolle wijk Santa Teresa in Rio de Janeiro. Restaurant Térèze biedt een culinaire ontdekkingstocht door lokale smaken. Bar dos Descasados biedt panoramisch uitzicht. Le Spa biedt verfijnde behandelingen.
 
 #Excursies inbegrepen
 
@@ -771,29 +740,40 @@ Santa Teresa Hotel RJ – MGallery is gevestigd op een historische koffieboerder
 De Urban bike tour begint om 9u in de ochtend in de fietsenwinkel in Copacabana. Fietsen in Rio de Janeiro geeft u de mogelijkheid om van dichtbij te ervaren hoe de carioca's leven. De Stadstour is een 3 uur durende fietstour in Rio de Janeiro, die je meeneemt door het zuidelijk gedeelte van de strandstad. We beginnen bij het strand van Copacabana, fietsen naar de Suikerbrood Berg, stoppen bij het Rode Strand (Praia Vermelha), gaan naar de wijk Botafogo en eindigen bij Lagoa, het imposante stadsmeer.
 
 #Rio de Janeiro - Tour (6 uur), Chauffeur met privé gids
-Vandaag staat er een chauffeur met privégids gedurende 6 uur tot uw beschikking. Bepaal samen met de gids de highlights van Rio die u vandaag wenst te bezoeken. Entrees voor de bezienswaardigheden zijn niet inbegrepen en worden ter plaatse betaald.
+Vandaag staat er een chauffeur met privégids gedurende 6 uur tot uw beschikking. Bepaal samen met de gids de highlights van Rio die u vandaag wenst te bezoeken. Ontdek het iconische Christus de Verlosser beeld, bewonder de kleurrijke trappen van Selarón, of wandel door de historische wijk Santa Teresa. Entrees voor de bezienswaardigheden zijn niet inbegrepen en worden ter plaatse betaald.
 
 #Rio de Janeiro - Mangrove en Jungletocht, prive (RIOEX9)
-Mangrove en Jungletocht door het Nationaal Park van Tijuca. Wandeling naar de top van Pedra Bonita piek (693m). Daarna naar Barra da Tijuca voor een boottocht bij de lagunes en het mangrovegebied. Kaaiman en Capibara spotten.
+Mangrove en Jungletocht door het Nationaal Park van Tijuca. Wandeling naar de top van Pedra Bonita piek (693m). Daarna naar Barra da Tijuca voor een boottocht bij de lagunes en het mangrovegebied. Capibara en breedsnuitkaaiman spotten.
 Duur 04 uur, start in de ochtend.
 Inbegrepen: Vervoer met ophalen en wegbrengen, Nederlands of Engelstalig begeleiding, Junglewandeling naar de Pedra Bonita-piek, Boottocht bij Barra Lagoons en Mangrove gebied, Kaaiman en Capibara spotten.
 
 #Optionele excursies
 
 #Rio de Janeiro - 1 uur Samba les met Sambafeest (SIB) (RIOEX11)
-1 uur Samba les met professionele dansinstructeur, gevolgd door een samba avondje uit. Ontmoetingspunt: Rua Farme de Amoedo, 135 - Ipanema. Toegang tot de club is niet inbegrepen.
+1 uur Samba les, professionele dansinstructeur, Samba avondje uit. Na de express Samba cursus ga je naar een lokale club. Ontmoetingspunt: Rua Farme de Amoedo, 135 - Ipanema. Toegang tot de club is niet inbegrepen. Geen retourvervoer inbegrepen.
 
 #Rio de Janeiro - Botanische tuinen
-Excursie naar de botanische tuinen (Jardim Botanico do Rio de Janeiro), circa 3 uur. U wordt opgehaald en weer afgezet bij het hotel. De tuinen zijn aangelegd in de 19e eeuw en bevatten zo'n 6.200 plantensoorten.
+Excursie naar de botanische tuinen in gezelschap van andere toeristen, duur circa 3 uur. U wordt opgehaald en weer afgezet bij het hotel. De 'Jardim Botanico do Rio de Janeiro' bevat zo'n 6.200 plantensoorten. De excursie eindigt in de 'Sao Cristovão' wijk met een bezoek aan de 'Quinta da Boa Vista' huizen.
 
 #Rio de Janeiro - Diner en Show
-Avondexcursie met spectaculaire show en grill diner in uitgaansgelegenheid Plataforma. Samba, Lambada en Capoeira demonstraties. U wordt 's avonds opgehaald en weer afgezet bij het hotel.
+Deze avond excursie combineert een spectaculaire show met een heerlijk grill diner in de uitgaansgelegenheid Plataforma. Na het diner begint de show met Samba, Lambada en Capoeira demonstraties. U wordt 's avonds opgehaald en weer afgezet bij het hotel.
 
 #Rio de Janeiro - Favela wandeltour (SIB) (RIOEX14)
-Bezoek aan favela Pavão-Pavãozinho, gelegen tussen Ipanema en Copacabana. Duur: 3,5 uur. Vertrek: 10:00. Inbegrepen: Begeleiding door een favela-bewoner, wandeltour en jungle hike, stop bij een lokaal sociaal project, bezoek aan een gemeenschapstuin, lunch in een gemeenschapsrestaurant.
+Bezoek aan favela Pavão-Pavãozinho, gelegen tussen Ipanema en Copacabana. Duur: 3,5 uur. Vertrek: 10:00.
+Inbegrepen: Begeleiding door een favela-bewoner, wandeltour en jungle hike, stop bij een lokaal sociaal project, bezoek aan een gemeenschapstuin, lunch in een gemeenschapsrestaurant.
+Niet inbegrepen: Fooien, persoonlijke uitgaven, drankjes.
 
 #Rio de Janeiro - Jeep excursie Tijuca regenwoud (SIB) (RIOEX18)
-Circa 4 uur durende jeep tocht door het 'Tijuca' regenwoud. Stops voor wandelingen door de jungle, fotomomenten en de mogelijkheid om te zwemmen bij de watervallen. Uitzichtpunt Vista Chinesa met panoramische vergezichten over Copacabana, Ipanema, de Suikerbroodberg en de baai van Guanabara.]]></get-trip-scraped-content>
+Deze excursie duurt circa 4 uur en staat in het teken van een enerverende jeep tocht door het weelderige 'Tijuca' regenwoud. 'Floresta da Tijuca' is 's werelds grootste stedelijke jungle. Tijdens de jeep tour staan verschillende strategische stops op het programma voor wandelingen door de jungle, foto momenten en er is zelfs de mogelijkheid om te zwemmen bij de watervallen. U wordt opgehaald en weer afgezet bij het hotel.
+
+#Boekingsprocedure
+Heeft u interesse in een strandvakantie of rondreis met Rio de Janeiro als onderdeel? Neem contact met ons op en wij stellen een persoonlijk reisvoorstel voor u samen.
+
+#Voordelen van een persoonlijk reisvoorstel
+- Kosteloos en vrijblijvend: U ontvangt een voorstel zonder verplichtingen, meestal al binnen één werkdag.
+- Volledig op maat: De reis kan worden ingekort, verlengd of gecombineerd met andere bestemmingen in Brazilië, geheel afgestemd op uw interesses en reistempo.
+- Vluchten: Wij zoeken samen met u het best passende vluchtschema voor scherpe tarieven. Omdat dit per periode verschilt, zijn vluchten niet standaard opgenomen in onze voorbeeldreizen. Voor reizen met Rio adviseren wij aan te vliegen op Rio de Janeiro.
+- Exacte reissom op basis van uw samenstelling: De uiteindelijke reissom hangt af van het aantal reizigers, gekozen accommodaties en kamerindeling, reisperiode en gewenste excursies.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0004/01/21b58ff57f70b2ef4781d62b5f9a4fecdcea7322.png</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/b/f/csm_Rio_de_Janeiro__ipanema_b2ff575b8d.webp</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/b/f/csm_Rio_de_Janeiro__ipanema_1ed6ce48c1.webp</get-trip-image-url-overview>
@@ -829,24 +809,21 @@ Circa 4 uur durende jeep tocht door het 'Tijuca' regenwoud. Stops voor wandeling
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-name>21-daagse Rondreis Brazilië Brasil Fantastico</get-trip-name>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>21-daagse Rondreis Brazilië &apos;Brasil Fantastico&apos;</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>3.197</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/21-daagse-rondreis-brazilie-brasil-fantastico</get-trip-url>
-    <get-trip-scraped-content><![CDATA[# 21-daagse Rondreis Brazilië Brasil Fantastico
+    <get-trip-scraped-content><![CDATA[#21-daagse Rondreis Brazilië 'Brasil Fantastico'
 
-"Stel je voor: in drie weken de ultieme essentie van Brazilië beleven. Dat is precies wat deze 21-daagse droomreis doet. Het is onze meest complete rondreis die de iconische natuurwonderen combineert met de onmiskenbare Braziliaanse sfeer.
+Stel je voor: in drie weken de ultieme essentie van Brazilië beleven. Dat is precies wat deze 21-daagse droomreis doet. Het is onze meest complete rondreis die de iconische natuurwonderen combineert met de onmiskenbare Braziliaanse sfeer.
 
-Je avontuur begint in Manaus, de toegangspoort tot de Amazone. Al snel laat je de bewoonde wereld achter je voor een onvergetelijk verblijf in een authentieke jungle-lodge, waar je in slaap valt met de geluiden van het regenwoud. Vervolgens reis je door naar het zuiden, waar je snorkelt in de kristalheldere rivieren van Bonito en op safari gaat in de Pantanal, het beste wildlife-gebied van Zuid-Amerika. Hier ga je met lokale gidsen op zoek naar apen, capibara's en met wat geluk zelfs de ongrijpbare jaguar. Geen hoogtepunt is zo overweldigend als de Iguaçu-watervallen, die je van zowel de panoramische Braziliaanse kant als de Argentijnse kant (waar je de kracht van dichtbij voelt) zult ervaren. De reis eindigt met een perfecte balans: eerst de tomeloze energie van wereldstad Rio de Janeiro en daarna de serene rust op het autovrije, paradijselijke eiland Ilha Grande."
+Je avontuur begint in Manaus, de toegangspoort tot de Amazone. Al snel laat je de bewoonde wereld achter je voor een onvergetelijk verblijf in een authentieke jungle-lodge, waar je in slaap valt met de geluiden van het regenwoud. Vervolgens reis je door naar het zuiden, waar je snorkelt in de kristalheldere rivieren van Bonito en op safari gaat in de Pantanal, het beste wildlife-gebied van Zuid-Amerika. Hier ga je met lokale gidsen op zoek naar apen, capibara's en met wat geluk zelfs de ongrijpbare jaguar. Geen hoogtepunt is zo overweldigend als de Iguaçu-watervallen, die je van zowel de panoramische Braziliaanse kant als de Argentijnse kant (waar je de kracht van dichtbij voelt) zult ervaren. De reis eindigt met een perfecte balans: eerst de tomeloze energie van wereldstad Rio de Janeiro en daarna de serene rust op het autovrije, paradijselijke eiland Ilha Grande.
 
-Reiscode: 008
-Vanaf: € 3.197,00 p.p.
-Duur: 21 dagen
-
-# USP's
+#Highlights
 - Prijsupdate 2026 inbegrepen. De ultieme 3-weekse rondreis: van de diepe Amazone-jungle tot de bruisende boulevards van Rio
 - Authentieke Amazone-ervaring: overnacht in een jungle lodge, ga piranha vissen en maak een nachtwandeling op zoek naar kaaimannen
 - Beste wildlife van Zuid-Amerika: snorkel tussen de vissen in Bonito's kristalheldere rivieren en ga in de Pantanal op zoek naar de miereneter
@@ -854,25 +831,16 @@ Duur: 21 dagen
 - Van wereldstad tot paradijs: sta aan de voet van het Christusbeeld in Rio en relax vervolgens op de autovrije, tropische stranden van Ilha Grande
 - Zorgeloos en uitgebalanceerd: een perfect reistempo met verblijf in sfeervolle pousada's, persoonlijk voor jou samengesteld
 
-# Boekingsprocedure
-Heeft u interesse in deze rondreis? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
+#Reisdetails
 
-Voordelen reisvoorstel:
-- Kosteloos en vrijblijvend: Uw persoonlijke reisvoorstel stellen wij gratis en vrijblijvend voor u samen. U bent dus nergens aan gebonden.
-- Actueel vluchtschema: Wij selecteren de logistiek best passende vluchten voor de scherpste prijs en nemen deze op in een actueel vluchtschema, rekening houdend met uw gewenste reisdata.
-- Flexibiliteit: Inkorten of verlengen: Bent u in hoofdlijnen geïnteresseerd in deze voorbeeld rondreis en wenst u de reis te verlengen, in te korten, of een opgenomen reisbestemming in de rondreis te vervangen met een andere? Geen probleem; wij verwerken dit in uw persoonlijke reisvoorstel.
-- Wij nemen de excursies op die passen bij uw interessegebieden. Vertel ons wat u leuk vindt om te doen tijdens uw reis en wij adviseren in de mogelijkheden.
-
-# Reisdetails
-
-## 1. Manaus - Aankomst
+#1. Manaus - Aankomst
 Na aankomst op de luchthaven wordt u verwelkomd en met een prive transfer naar het hotel gebracht. De rest van de dag is vrij te besteden.
 - Zie tabblad hotels voor de hotelselectie tijdens het verblijf in Manaus
 
-## 2. Manaus - Vrije dag
+#2. Manaus - Vrije dag
 Vandaag kunt u naar eigen inzicht besteden en Manaus verkennen.
 
-## 3. Amazone Regenwoud - Amazon Turtle Lodge (Start arrangement)
+#3. Amazone Regenwoud - Amazon Turtle Lodge (Start arrangement)
 De dag begint om 07:30 uur met een transfer per auto naar de Ceasa rivierhaven in Manaus, een rit van ongeveer 20 minuten. Vanaf hier volgt een tocht met een speedboot naar het dorp Careiro da Várzea, een reis van 30 minuten. Tijdens deze oversteek passeert de boot de beroemde 'Meeting of the Waters', waar de donkere Rio Negro en de zandkleurige Rio Solimões samenkomen zonder te mengen. Dit natuurfenomeen markeert het begin van de machtige Amazone-rivier, die vanaf hier naar de Atlantische Oceaan stroomt.
 
 Na een korte stop bij de lokale fruitmarkt gaat de reis verder met een busrit van ongeveer 40 minuten over de Manaus-Porto Velho weg (BR-319) naar de Araçá-rivier. Hier ligt een boot klaar voor de volgende etappe.
@@ -883,132 +851,156 @@ De aankomst bij de Amazon Turtle Lodge staat gepland rond het middaguur. Bij aan
 
 In de middag staat een gemotoriseerde kanotocht op het programma, waarbij je de unieke omgeving van de lodge verkent. Tijdens deze tocht is er volop gelegenheid om dieren te observeren, zoals apen, luiaards, leguanen, spinnen en een grote diversiteit aan vogels.
 
-Het diner wordt om 19:30 uur geserveerd in het restaurant van de lodge. Ook hier biedt het buffet een ruime keuze aan zoetwatervis, vlees, kip, salades en tropisch fruit.
+Het diner wordt om 19:30 uur geserveerd in het restaurant van de lodge.
 
-## 4. Amazone Regenwoud - Amazon Turtle Lodge (Dag 2 arrangement)
+#4. Amazone Regenwoud - Amazon Turtle Lodge (Dag 2 arrangement)
 Dag 2: Jungle-avonturen en natuurbeleving
 
-De dag begint vroeg, om 05:30 uur, met een zonsopgangtour. Dit is het perfecte moment om de Amazone tot leven te zien komen terwijl de eerste zonnestralen de rivier en het omliggende regenwoud verlichten. De serene stilte wordt slechts doorbroken door het geluid van ontwakende vogels en dieren. Na deze bijzondere ervaring keert u terug naar de lodge voor een uitgebreid ontbijt.
+De dag begint vroeg, om 05:30 uur, met een zonsopgangtour. Na deze bijzondere ervaring keert u terug naar de lodge voor een uitgebreid ontbijt.
 
-Om 08:30 uur start een boeiende jungle trekking onder begeleiding van ervaren gidsen. Tijdens deze wandeling leert u essentiële overlevingstechnieken in de jungle, zoals het gebruik van lianen als touwen, het klimmen in bomen, het vinden van water, en zelfs jachtvaardigheden. De gids deelt ook interessante inzichten over de biodiversiteit en de vele soorten flora en fauna die in het regenwoud voorkomen.
+Om 08:30 uur start een boeiende jungle trekking onder begeleiding van ervaren gidsen. Tijdens deze wandeling leert u essentiële overlevingstechnieken in de jungle, zoals het gebruik van lianen als touwen, het klimmen in bomen, het vinden van water, en zelfs jachtvaardigheden.
 
-Rond het middaguur wordt de lunch geserveerd in de lodge, met een selectie van lokale gerechten die de smaken van de Amazone weerspiegelen.
+Rond het middaguur wordt de lunch geserveerd in de lodge.
 
-In de middag staat een kano-avontuur op het programma. Afhankelijk van de omstandigheden kunt u kiezen voor een kano met roeispanen of een gemotoriseerde kano. Dit is een ontspannen manier om de rivieren en kreken verder te verkennen. Tijdens deze tocht kunt u talloze vogels, apen en mogelijk zelfs luiaards observeren.
+In de middag staat een kano-avontuur op het programma. Afhankelijk van de omstandigheden kunt u kiezen voor een kano met roeispanen of een gemotoriseerde kano.
 
-Na het diner is er tijd om te ontspannen en de unieke avondgeluiden van de Amazone in u op te nemen. U kunt relaxen bij het zwembad met een verfrissende caipirinha in de hand of een rustige wandeling maken door de prachtige Amazone-tuin van de Turtle Lodge.
+Na het diner (om 19:30 uur) is er tijd om te ontspannen bij het zwembad met een verfrissende caipirinha of een rustige wandeling door de Amazone-tuin van de Turtle Lodge.
 
-## 5. Amazone Regenwoud - Amazon Turtle Lodge (Dag 3 arrangement)
+#5. Amazone Regenwoud - Amazon Turtle Lodge (Dag 3 arrangement)
 Dag 3: Lokale cultuur, piranha vissen en nachtelijk avontuur
 
-De dag begint om 08:00 uur met een bezoek aan het huis van een caboclo, een lokale inwoner van de Amazone die geen Indiaan is maar leeft van de natuurlijke rijkdom van het regenwoud. Tijdens dit bezoek krijgt u een fascinerend inkijkje in hun dagelijks leven, gewoonten en tradities. U bezoekt onder andere rubber- en cassaveplantages en leert meer over het traditionele gebruik van deze gewassen.
+De dag begint om 08:00 uur met een bezoek aan het huis van een caboclo, een lokale inwoner van de Amazone. U bezoekt onder andere rubber- en cassaveplantages en leert meer over het traditionele gebruik van deze gewassen.
 
-In de omliggende jungle verzamelt u samen met de gids en de caboclo vers fruit, paranoten, kruiden, groenten en specerijen. Terug in het huis krijgt u te zien hoe deze ingrediënten worden verwerkt en bereid in typische gerechten.
+In de omliggende jungle verzamelt u samen met de gids en de caboclo vers fruit, paranoten, kruiden, groenten en specerijen.
 
-Rond het middaguur keert u terug naar de lodge, waar de lunch wordt geserveerd.
+Rond het middaguur keert u terug naar de lodge voor de lunch.
 
-In de middag staat piranha vissen op het programma, een spannende activiteit waarbij u zelf deze iconische vissoort uit de Amazone probeert te vangen.
+In de middag staat piranha vissen op het programma.
 
-Na het diner, dat om 19:30 uur in de lodge wordt geserveerd, begint een nachtelijke kanotocht. Deze tocht is gericht op wildobservatie en alligator spotten met behulp van flitslicht. Het mysterieuze regenwoud komt tot leven in het donker, en met een beetje geluk ziet u kaaimannen, nachtelijke vogels en andere dieren.
+Na het diner (om 19:30 uur) begint een nachtelijke kanotocht gericht op wildobservatie en alligator spotten met behulp van flitslicht.
 
-## 6. Amazone regenwoud - Campo Grande
+#6. Amazone regenwoud - Campo Grande
 Vandaag komt er een einde aan het Amazone jungle arrangement. U wordt na het ontbijt met een transfer terug naar Manaus gebracht en afgezet op de luchthaven. Aansluitend is de binnenlandse vlucht naar Campo Grande. Na aankomst wordt u verwelkomd op de luchthaven en met een privé transfer naar het hotel gebracht.
 - Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Campo Grande
 
-## 7. Campo Grande - Bonito (Prive transfer)
+#7. Campo Grande - Bonito (Prive transfer)
 Deze bouwsteen start op de luchthaven of hotel in Campo Grande. In Campo Grande wordt u met een privé transfer naar het hotel in Bonito gebracht. Deze transfer duurt 3 a 4 uur. De rest van de dag kunt u naar eigen inzicht besteden en Bonito alvast verkennen.
 - Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Bonito
 
-## 8. Bonito - Rivier snorkelen en bezoek Buraco das Araras
+#8. Bonito - Rivier snorkelen en bezoek 'Buraco das Araras'
 Vandaag staat er een fantastische dagexcursie op het programma. Deze combineert het rivier snorkelen in de rivier 'Rio da Prata' met het bezoek aan 'Buraco das Araras'. U wordt opgehaald bij het hotel en naar de 2 plekken van de excursies gebracht met een prive transfer. Na afloop wordt u weer afgezet bij het hotel.
 
-## 9. Bonito - Bezoek grot Gruta do Lago Azul - Pantanal
+#9. Bonito - Bezoek grot 'Gruta do Lago Azul' - Pantanal
 Vandaag staat in de ochtend een excursie op het programma naar de Grot 'Gruta do Lago Azul'. In de ochtend wordt u opgehaald en met een prive transfer naar de ingang van de grot gebracht. Na afloop van de excursie wordt u teruggebracht naar het hotel. Na het uitchecken gaat u door naar de Pantanal met een privé transfer naar de lodge. Na aankomst wordt het programma met alle excursies voor de komende dagen met u doorgenomen.
 - Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in de Pantanal. Het verblijf is op basis van volpension en met dagelijkse excursies inbegrepen
 
-## 10. Pantanal - Verblijf in de lodge
+#10. Pantanal - Verblijf in de lodge
 Tijdens uw verblijf in de Pantanal is het arrangement op basis van volpension, met dagelijkse excursies inbegrepen. De aangeboden excursies zijn onder andere natuurwandelingen, piranha vissen, kano tochten, paardrijtochten, zonsopgang- en zonsondergang tours. Ook staan er avondexcursies op het programma om op zoek te gaan naar dieren in het wild die 's nachts actief zijn.
 
-Dagelijks staan er gemiddeld twee excursies op het programma. Één in de ochtend en één in de middag na de lunch als het wat koeler is. Tussen beide excursies door is er de gelegenheid om te ontspannen en te genieten van de faciliteiten op de lodge en een heerlijke Braziliaanse buffet lunch.
+Dagelijks staan er gemiddeld twee excursies op het programma. Één in de ochtend en één in de middag na de lunch als het wat koeler is.
 
-Tijdens het verblijf in de Pantanal is er minimaal één avondexcursie ingepland. Alle tours zijn bedoeld om te genieten van de natuur en op zoek te gaan naar de unieke dieren van de Pantanal. Neem uw verrekijker mee en ga op zoek naar de Jaguar, honderden soorten vogels, reuzenmiereneters, kaaimannen en Capibara's.
+Tijdens het verblijf in de Pantanal is er minimaal één avondexcursie ingepland. Neem uw verrekijker mee en ga op zoek naar de Jaguar, honderden soorten vogels, reuzenmiereneters, kaaimannen en Capibara's.
 
-## 11. Pantanal - Verblijf in de lodge
-U verblijft in de lodge op basis van volpension, met dagelijkse excursies inbegrepen. Indien u een voorkeur heeft voor bepaalde excursies, dan kunt u dit doorgeven aan de lodge en dan houden ze daar rekening mee.
+#11. Pantanal - Verblijf in de lodge
+U verblijft in de lodge op basis van volpension, met dagelijkse excursies inbegrepen. Indien u een voorkeur heeft voor bepaalde excursies, dan kunt u dit doorgeven aan de lodge.
 
-## 12. Zuidelijke Pantanal - Foz do Iguaçu
+#12. Zuidelijke Pantanal - Foz do Iguaçu
 In de loop van de dag wordt u opgehaald bij de lodge en naar de luchthaven gebracht van Campo Grande met een privé transfer (duur circa 3 a 4 uur). Aansluitend is er een binnenlandse vlucht naar Foz do Iguaçu. Na aankomst wordt u verwelkomd op de luchthaven en met een privé transfer naar het hotel gebracht.
 - Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Foz do Iguaçu
 
-## 13. Foz do Iguaçu - Excursie Braziliaanse zijde watervallen (prive) (IGUEX1)
+#13. Foz do Iguaçu - Excursie Braziliaanse zijde watervallen (prive) (IGUEX1)
 Vandaag staat een 3 uur durende privé-excursie naar de Braziliaanse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel.
 
-## 14. Foz do Iguaçu - Excursie Argentijnse zijde watervallen (prive) (IGUEX3)
+#14. Foz do Iguaçu - Excursie Argentijnse zijde watervallen (prive) (IGUEX3)
 Vandaag staat een halve dag privé-excursie naar de Argentijnse zijde van de watervallen op het programma. U wordt hiervoor opgehaald en weer afgezet bij het hotel. Tijdens het bezoek aan de Argentijnse zijde van de watervallen is het mogelijk om een fantastische jungle- en watervallen bootexcursie bij te boeken, de Gran Aventura Boat tour.
 
-## 15. Foz do Iguaçu - Rio de Janeiro
+#15. Foz do Iguaçu - Rio de Janeiro
 Vandaag eindigt het Foz do Iguaçu arrangement. U wordt opgehaald bij het hotel en met een privé transfer naar de luchthaven gebracht, met aansluitend de binnenlandse vlucht naar Rio de Janeiro. Na aankomst wordt u verwelkomd op de luchthaven en naar hotel gebracht met een privé transfer.
 - Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Rio de Janeiro
 
-## 16. Rio de Janeiro - Urban bike tour (SIB) (RIOEX16)
+#16. Rio de Janeiro - Urban bike tour (SIB) (RIOEX16)
 Vandaag staat de Urban bike tour op het programma in de ochtend, in gezelschap van andere toeristen en met Engelstalige begeleiding. Deze excursie is perfect als eerste kennismaking om Copacabana en de omliggende wijken goed te leren kennen.
 
-## 17. Rio de Janeiro - Excursie Corcovado (SIB) (RIOEX2)
+#17. Rio de Janeiro - Excursie Corcovado (SIB) (RIOEX2)
 Vandaag staat de excursie op het programma, in gezelschap van andere toeristen (duur circa 4 uur) naar het Christusbeeld op de 710 meter hoge Corcovado berg. Deze excursie is met een Engelstalige gids en u wordt opgehaald en weer afgezet bij het hotel.
+
 Indien u deze excursie op privé basis wenst te boeken, dan geldt er een toeslag.
 
-## 18. Rio de Janeiro hotel - Ilha Grande
+#18. Rio de Janeiro hotel - Ilha Grande
 In de loop van de ochtend wordt u opgehaald bij het hotel en met een transfer naar het haventje Angra dos Reis gebracht, in gezelschap van andere toeristen (prive transfer beschikbaar tegen meerkosten). Angra dos Reis ligt op circa 2 a 3 uur rijden van Rio de Janeiro, afhankelijk van de drukte.
 
 Vanuit het haventje vertrekt u met de flexboot naar Ilha Grande (tickets inbegrepen), waarna u na aankomst wordt verwelkomd bij het haventje van Vila do Abraão op het eiland Ilha Grande en al wandelend naar de accommodatie wordt gebracht.
-
-Tijdens het wandelen wordt u ondersteund met de bagage door locals (kleine fooi geven). Indien u verblijft in het Casa da Ilha Inn of Pousada Asalem, dan is de aankomst transfer iets anders. Zij hebben namelijk een eigen bootje en pikken u daarmee op bij het haventje van Vila do Abraão voor de transfer naar de accommodatie, dat een paar minuten verderop ligt nabij het dorpje.
 - Zie tabblad hotels voor de hotelselectie tijdens uw verblijf op het eiland Ilha Grande
 
-## 19. Ilha Grande - Vrije dag
-Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
+#19. Ilha Grande - Vrije dag
+Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao.
 
-## 20. Ilha Grande - Vrije dag
-Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren. Proef de lokale keuken in het gezellige dorpje Vila do Abraao en dompel uzelf onder in de rustige sfeer van dit prachtige eiland.
+#20. Ilha Grande - Vrije dag
+Deze dag kunt u naar eigen inzicht besteden en genieten van Ilha Grande. Verken de ongerepte natuur door te wandelen op de talrijke paden van het met Atlantisch regenwoud overdekte eiland of ontspan op de serene stranden zoals Lopes Mendes. Kajakken of Suppen door de helderblauwe wateren is ook een uitstekende manier om de schoonheid van het eiland te ervaren.
 
-## 21. Ilha Grande - Rio de Janeiro Luchthaven (SIB)
+#21. Ilha Grande - Rio de Janeiro Luchthaven (SIB)
 Vandaag eindigt het arrangement op Ilha Grande. U neemt de flexboot (boottickets inbegrepen) terug naar het haventje van Angra dos Reis, met aansluitend de transfer in gezelschap van andere toeristen naar de luchthaven van Rio de Janeiro (privé transfer tegen meerkosten beschikbaar).
 
-# Bestemmingen
+#Inbegrepen
+- Accommodatie (zie tabblad hotels voor hotelselectie; standaard kamer inbegrepen, upgrades mogelijk)
+- Maaltijden: bij alle hotels is het ontbijt inbegrepen; in de lodges van de Pantanal en de Amazone is het arrangement op basis van volpension (alle maaltijden inbegrepen)
+- Vervoer: transfers op privé basis of in gezelschap van andere toeristen (per transfer aangegeven)
+- Excursies: de excursies die vermeld staan in de beschrijving zijn inbegrepen in het arrangement; op privé basis of in gezelschap van andere toeristen (per excursie aangegeven)
+- Reisbegeleiding: per bestemming in Brazilië lokale vertegenwoordiging ter plaatse
+- Boottickets flexboot Ilha Grande (heen en terug)
+- Zekerheden: BRS is lid van VZR Garant, VvKR, DRV en het Calamiteitenfonds
 
-## Manaus
+#Niet inbegrepen
+- Vluchten (internationale vluchten en binnenlandse vluchten: Manaus - Campo Grande - Foz do Iguaçu - Rio de Janeiro; binnenlandse vluchten kosten tussen de 400 en 500 euro per persoon indien ruim van tevoren geboekt; internationale vlucht via TAP via Lissabon, ca. 900 euro p.p. in laagseizoen)
+- Bijdrage calamiteitenfonds á € 2,50 per boeking
+- Boekingskosten á € 15,- per persoon
+- VZR Garant Bijdrage á € 7,50 per persoon
+- Optionele excursies (apart tabblad)
+- Upgrades accommodatie
+
+#Reissom
+- Landarrangement vanaf € 3.197,- per persoon op basis van deelname 2 personen met verblijf in de toeristenklasse accommodaties in het laagseizoen, exclusief vluchten. (2026 tarief)
+- De vermelde reissom betreft een hele goede indicatie. Het kan voorkomen dat een bepaald hotel niet beschikbaar is, waardoor er een alternatief wordt aangeboden. Of uw reis kan net vallen tijdens een feestdag, waardoor hotels een afwijkende prijs hanteren.
+- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets.
+
+#Bestemmingen
+
+#Manaus
 Door de machtige Amazone, een rivier systeem dat geen gelijke kent, vloeit één vijfde van al het zoetwater van de gehele planeet. En in het hart van het Amazonegebied stromen de donkere 'Rio Negro' en de lichtere 'Rio Solimões' samen in een spectaculair schouwspel dat bekend staat als 'Encontro das Aguas', de ontmoeting van de wateren.
 
 Hier, midden van in de jungle, is een metropool van maar liefst 2 miljoen inwoners ontstaan, het onvergelijkbare Manaus. De rubber exploitatie in de laat 19e eeuw bracht de stad gouden tijden en nu is het het knooppunt van de broeiende economie van de Amazone.
 
-Manaus is een moderne stad met alle voorzieningen die je maar kunt bedenken.
+Manaus is een moderne stad met alle voorzieningen. Uit de gloriedagen in de laat 19e eeuw zijn nog een aantal parels overgebleven: het theater 'Theatro Amazonas' gebouwd in de Italiaanse Renaissance stijl, de markt 'Mercado Alfredo Lisboa' dat door Eiffel is ontworpen naar het voorbeeld van Les Halles in Parijs, en het paleis 'Palacio Rio Negro'.
 
-# opmerkingen
+#Amazone
+Het Amazonegebied, met zijn weelderige tropische regenwouden en ongeëvenaarde biodiversiteit, is een van de meest indrukwekkende natuurgebieden ter wereld. Het immense regenwoud beslaat een oppervlakte zo groot dat Nederland er maar liefst 100 keer in past.
 
-## Prijs
-Landarrangement vanaf € 3.197,- per persoon op basis van deelname 2 personen met verblijf in de toeristenklasse accommodaties in het laagseizoen, exclusief vluchten. (2026 tarief)
+Rondom Manaus bieden talloze lodges bezoekers de mogelijkheid om zich volledig onder te dompelen in de geuren, kleuren en geluiden van het oerwoud. Maak kennis met de charmante roze rivierdolfijnen, de 'boto', ontmoet de vriendelijke en gastvrije lokale gemeenschappen, en bewonder de unieke flora en fauna.
 
-## Inbegrepen
-- Accommodatie; Zie tabblad hotels voor hotelselectie. We kunnen in uw persoonlijke reisvoorstel ook een accommodatie mix selecteren, dus bijvoorbeeld toeristenklasse in bepaalde gedeeltes van de rondreis en wat luxer afsluiten. In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer bijvoorbeeld. Mocht het voorkomen dat een vermelde accommodatie geen beschikbaarheid heeft, dan bieden wij een passend alternatief aan in de gewenste klasse.
-- Maaltijden; Bij alle hotels is het ontbijt inbegrepen, tenzij anders vermeld. In de lodges van de Pantanal en de Amazone is het arrangement op basis van volpension, dus alle maaltijden zijn daar inbegrepen.
-- Vervoer; Transfers kunnen op privé basis of in gezelschap van andere toeristen worden aangeboden.
-- Excursiemogelijkheden; De excursies die vermeld staan in de beschrijving zijn inbegrepen in het arrangement. Optionele excursies staan in een apart tabblad.
-- Reisbegeleiding; Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies.
-- Zekerheden; Brazilië Reis Specialist is lid van VZR Garant, VvKR, DRV en het Calamiteitenfonds.
+#Bonito
+Bonito, het ecotoerisme paradijs van Brazilië, is gelegen in een adembenemende omgeving met kalkstenen plateaus, uitgestrekte graslanden en betoverende valleien. De rivieren in Bonito staan bekend om hun kristalheldere water. Tijdens het riviersnorkelen in de Rio Sucuri of Rio da Prata rivier kun je van dichtbij genieten van de overvloed aan kleurrijke vissen.
 
-## Niet inbegrepen
-- Vluchten; De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen. Voor deze reis adviseren wij een internationale vlucht te boeken bij TAP. Het voordeel van TAP is dat het via Lissabon zowel naar Manaus als Rio vliegt. Indien u ruim van tevoren boekt, zijn vluchten heen naar Manaus en terug vanuit Rio al beschikbaar voor zo'n 900 euro per persoon in het laagseizoen. Voor deze rondreis dienen wij op de volgende trajecten een binnenlandse vlucht te boeken: Manaus - Campo Grande - Foz do Iguaçu - Rio de Janeiro. Deze binnenlandse vluchten kosten tussen de 400 en 500 euro per persoon, indien ruim van tevoren geboekt.
-- Bijdrage calamiteitenfonds á € 2,50 per boeking
-- Boekingskosten á € 15,- per persoon
-- VZR Garant Bijdrage á € 7,50 per persoon
+Een absolute aanrader is een excursie naar de 'Gruta do Lago Azul' (de grot van het blauwe meer). Via een stenen trap daal je af naar de diepte van de grot, waar je wordt begroet door het mysterieuze en kristalheldere blauwe meer.
 
-## Reissom
-De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat een bepaald hotel niet beschikbaar is, waardoor er een alternatief wordt aangeboden, waarvan de prijs iets anders is. Of uw reis kan net vallen tijdens een feestdag, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom kunnen berekenen voor u.
+#Pantanal-Zuid
+De Zuidelijke Pantanal is een toegankelijk en divers wildlife-paradijs dat perfect te combineren is met de natuurlijke wonderen van Bonito. De Pantanal is een enorm laagland dat tijdens het regenseizoen gedeeltelijk overstroomt, waardoor het het grootste moerasgebied ter wereld vormt. Met een oppervlakte van meer dan 150.000 km².
 
-De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten.]]></get-trip-scraped-content>
+Dieren die u kunt spotten: wilde papagaaien en de majestueuze Jabiru-ooievaar, reuzenmiereneters en tapirs, capibara's (reuzen cavia's) en zwarte kaaimannen, wilde zwijnen en diverse apensoorten, en mogelijk de jaguar.
+
+#Foz do Iguaçu
+Foz do Iguaçu, een van de meest adembenemende natuurwonderen van Brazilië, betovert reizigers met haar majestueuze watergordijn. Een oogverblindende cluster van maar liefst 275 watervallen strekt zich uit over een breedte van 2,7 kilometer. Centraal in dit waterige spektakel ligt de 'Devil's Throat', waar een intense symfonie van 14 watervallen samensmelt.
+
+Bezoekers kunnen op verschillende manieren dit schouwspel ervaren: het pad van de loopbruggen volgen, deelnemen aan een opwindende boottocht, of een helikoptervlucht boeken.
+
+#Boekingsprocedure
+Heeft u interesse in deze rondreis? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
+
+Voordelen reisvoorstel:
+- Kosteloos en vrijblijvend: Uw persoonlijke reisvoorstel stellen wij gratis en vrijblijvend voor u samen.
+- Actueel vluchtschema: Wij selecteren de logistiek best passende vluchten voor de scherpste prijs en nemen deze op in een actueel vluchtschema, rekening houdend met uw gewenste reisdata.
+- Flexibiliteit: Inkorten of verlengen mogelijk; wij verwerken dit in uw persoonlijke reisvoorstel.
+- Wij nemen de excursies op die passen bij uw interessegebieden.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0004/01/5e304a01b6028acc625b0722c03814adc45d49a3.png</get-trip-image-url-manual-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/4/9/csm_Brasil_fantastico_rondreis_sfeer_6cd4911393.webp</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/4/9/csm_Brasil_fantastico_rondreis_sfeer_d200111c8a.webp</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/2/0/csm_Manaus_meeting_of_the_waters_c62b7e8dbd.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/d/f/csm_Manaus_theater_3_c3e1f1db1c.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/7/e/csm_boto_corderosa__1024x768__bc6b204e4d.jpg</get-trip-image-url-overview>
@@ -1037,178 +1029,11 @@ De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere pe
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Manaus/Manaus_meeting_of_the_waters.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Manaus/Manaus_meeting_of_the_waters_2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Manaus/Manaus_theater.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Manaus/Manaus_theater_3.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Manaus/port1__1024x768_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/meeting-of-waters-manaus-2_6_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/boto_corderosa__1024x768_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/Amazon_Alto_Negro_indiginous_people.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/Amazon_Alto_Negro.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0765.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0852.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0912.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/hangmat_amazone.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/Rio_do_Peixe_cachoeira_tour.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/CO_Bonito0889__1024x683_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/river_snorkelling.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/bonito_pantanal2__1024x685_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/CO_Bonito0629__1024x683_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/abismoanhumas__1024x675_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/DSC_0062.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/passeio_bote__1024x687_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/Rio_da_Prata-Snorkeling-Bonito.png</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/Rio_da_Prata-Snorkeling-Bonito_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/Rio_do_Peixe_cachoeira_tour_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jungle_Lodge_kano_activity_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jungle_Lodge_Jaguar.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Capivara_1.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jungle_Lodge_kano_activity.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jungle_Lodge_hiking.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jabiru.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_paardrijden.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_papagaai.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/piuva_1.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/sunset.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Tamandua_Bandeira.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/tucano2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/0_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/BRS_Foz_do_Iguacu.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Foz_do_Iguacu_Gran_aventura_boot.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Helikopter_tour_Foz_do_Iguacu.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/SU_FozIguacu0721__1024x683_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/1_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/3_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/4_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/5_-_Destinations_-_Parana___ue_-_Foz_do_Iguac___ou_-_Golf_in_Brazil_-_Luxury_Travel_-_Riolize_Golf.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/Rio_de_Janeiro_-_Suikerbroodberg.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/rio_de_janeiro__corcovado_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/Rio_de_Janeiro__ipanema.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/rio_de_janeiro__kabelbaan_naar_suikerbroodberg_sugar_loaf_pao_de_acucar.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/lopes_mendes.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/8008000180_e2b726f994_b.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/Ilha_Grande_duiken.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/Ilha_Grande_Lago_Azul.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img1_a__1024x666_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img2_a.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img3_a__765x1024_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/img10__1024x716_.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/casa_dos_frades_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/casa_dos_frades_entree.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/casa_dos_frades_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0772.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0791.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/DSC_0797.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/IMG_3209.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/IMG_3236.JPG</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Amazone_Regenwoud/piranha_eten.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Amazon_turtle_lodge__meer_met_bungalows.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Amazon_turtle_lodge__standaard_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/indaia_park_hotel_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/indaia_park_hotel_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/indaia_park_hotel_breakfast.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_ouro_preto_de_bonito_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_ouro_preto_de_bonito_breakfast.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_ouro_preto_de_bonito_patio.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_ouro_preto_de_bonito_garden_area.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_ouro_preto_de_bonito_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_Aguape_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_Aguape_hangmat_lounge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_Aguape_lodge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_Aguape_wandeling_wildlife.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Pousada_Aguape_wildlife_safari.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Nadai_confort_e_spa_zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Nadai_confort_e_spa_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Nadai_confort_e_spa_yacuzzi.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Nadai_confort_e_spa_building.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/hotel_atlantis_copacabana_zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/hotel_atlantis_copacabana_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/atlantis_copacabana_breakfast_area.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_atlantis_copacabana_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pool_pousada_do_canto.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_do_canto_pool_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_do_canto_triple_suite.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_do_canto_suite_ocean_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/intercity_manaus_lobby.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/intercity_manaus_pool_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/intercity_manaus.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/intercity_manaus_dbl_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/intercity_manaus_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Juma_Lodge__aankomst.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Juma_Lodge__bungalow_op_palen.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Juma_Lodge_River_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/deville_prime_cgr.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pool_deville_prime_cgr.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Cabanas_Bonito_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Cabanas_Bonito_rio_formoso.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Cabanas_Bonito_bungalow.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Arara.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pantanal_Hotel_front.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pantanal_Hotel_front_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Walking_trail.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pantanal_Hotel_pool_area.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Comitiva-2.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Drinking_terere.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Fazenda-Solar_energy.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pousada_room.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vivaz_cataratas_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vivaz_cataratas_hotel.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vivaz_cataratas_gastronomy.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Windsor_Excelsior_pool_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Windsor_Excelsior_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Windsor_Excelsior_pool.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Windsor_Excelsior_deluxe_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Windsor_Excelsior_standard_room_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/portal_do_sol_veranda_ilha_grande.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/portal_do_sol_veranda_ilha_grande_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/portal_do_sol_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/portal_do_sol_veranda_breakfast.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/portal_do_sol_view_ilha_grande.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_villa_amazonia__building.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_villa_amazonia__lounge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_villa_amazonia__premium_room.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_villa_amazonia__premium_room_bathroom.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Anavilhanas_lodge__bungalow.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Anavilhanas_lodge__zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/anavilhanas_chale.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/anavilhanas_tours.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Anavilhanas_lodge__bungalow_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Santa_Esmeralda_Bonito_bungalow.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Santa_Esmeralda_Bonito_natuur_zwemmen.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Santa_Esmeralda_Bonito_zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Refugio_Ecologico_Caiman_baiazinha.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Refugio_Ecologico_Caiman_nachtsafari.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Refugio_Ecologico_Caiman_zwembad.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Refugio_Ecologico_Caiman_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Refugio_Ecologico_Caiman_lodge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Belmond_das_cataratas__luchtfoto_complex.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_4.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__zwembad_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_3.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__kamer_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Belmond_das_cataratas__entree.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Slaapkamer_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Zwembad_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/bar_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__beach_service.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__Zwembad_hotel_2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Sagu_Mini_resort_garden_view.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Sagu_Mini_resort_gebouw_aan_zee_met_steiger.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Sagu_Mini_resort_kamer.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Sagu_Mini_resort_kamer_deco.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Bonito/Bonito_Buraco_das_Araras.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Foz_do_Iguacu/Foz_do_Iguacu_watervallen.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/rio_de_janeiro__corcovado.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/3454150825_7a72224444_o.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/Babilonia_e_APA_-_Foto_AF_Rodrigues_5.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/ilha_grande/lopes_mendes2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/BRS_Amazon_Premium_Lodge.png</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Tupana_lodge_BRS.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_Jungle_Lodge_on_stilts.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Pantanal/Pantanal_caiman_lodge.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strandvakantie Rio de Janeiro en Costa del Sol</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
@@ -1217,123 +1042,131 @@ De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere pe
     <get-trip-url>https://www.braziliereisspecialist.nl/reizen/detail/strandvakantie-rio-de-janeiro-en-costa-del-sol</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Strandvakantie Rio de Janeiro en Costa del Sol
 
-Beleef Rio de Janeiro en combineer het met een fantastisch strandverblijf in Buzios of Arraial do Cabo. Ten oosten van Rio de Janeiro ligt de Costa do Sol: de zonnekust. Hier vind je enkele van de beste strandbestemmingen van Brazilië die populair zijn bij toeristen uit binnen en buitenland. In de 'Cabo Frio' regio springt het schiereiland Buzios en Arraial do Cabo in het oog.
+Beleef Rio de Janeiro en combineer het met een fantastisch strandverblijf in Buzios of Arraial do Cabo. Ten oosten van Rio de Janeiro ligt de Costa do Sol: de zonnekust. Hier vind je enkele van de beste strandbestemmingen van Brazilië, populair bij toeristen uit binnen- en buitenland. In de Cabo Frio-regio springt het schiereiland Buzios en Arraial do Cabo meteen in het oog.
 
 Reiscode: 301
 Duur: 12 dagen
 
 #Boekingsprocedure
 
-Heeft u interesse in deze strandvakantie? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
+Heb je interesse in deze strandvakantie? Neem contact met ons op en ontvang een persoonlijk reisvoorstel.
 
 Voordelen reisvoorstel:
-- Kosteloos en vrijblijvend: Uw persoonlijke reisvoorstel stellen wij gratis en vrijblijvend voor u samen. U bent dus nergens aan gebonden. Bovendien ontvangt u het voorstel meestal al binnen één werkdag.
+- Kosteloos en vrijblijvend: Je persoonlijke reisvoorstel stellen wij gratis en vrijblijvend samen. Je bent dus nergens aan gebonden. Bovendien ontvang je het voorstel meestal al binnen één werkdag.
 - Flexibiliteit:
-  - Inkorten of verlengen: Bent u in hoofdlijnen geïnteresseerd in deze strandvakantie en wenst u de reis te verlengen, in te korten, of het combineren met een andere bestemming in Brazilië? Geen probleem; wij verwerken dit in uw persoonlijke reisvoorstel.
-- Vluchten: De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, aangezien er dagelijks diverse opties zijn om te vliegen naar- en in Brazilië. Wij zoeken altijd samen met u naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant en om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint.
-- Exacte reissom wordt berekend, rekening houdend met de samenstelling van uw reisgezelschap. De gemiddelde prijs per persoon verschilt namelijk, indien u alleen reist, met twee personen of bijvoorbeeld een reis met 4 personen boekt.
+  - Inkorten of verlengen: Ben je in hoofdlijnen geïnteresseerd in deze strandvakantie en wil je de reis verlengen, inkorten, of combineren met een andere bestemming in Brazilië? Geen probleem; wij verwerken dit in jouw persoonlijke reisvoorstel.
+- Vluchten: De vluchten naar en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, omdat er dagelijks diverse opties zijn om naar en in Brazilië te vliegen. Wij zoeken altijd samen met jou naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant; om die reden zijn de vluchten niet opgenomen in de reissom van de voorbeeldarrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint. Neem contact met ons op en wij stellen een logistiek passend vluchtschema voor je samen.
+- De exacte reissom wordt berekend op basis van de samenstelling van jouw reisgezelschap. De gemiddelde prijs per persoon verschilt namelijk of je alleen reist, met twee personen, of bijvoorbeeld met vier personen boekt.
 
-#opmerkingen
+#Inbegrepen
 
-Inbegrepen:
-- Accommodatie: In het gewenste hotel is een standaard kamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer, of een familiekamer bijvoorbeeld. De mogelijkheden verschillen per hotel. Informeer bij ons naar de upgrade opties.
+- Accommodatie: In het gewenste hotel is een standaardkamer inbegrepen. Upgrades zijn uiteraard mogelijk, zoals een upgrade naar een suite, deluxe kamer of familiekamer. De mogelijkheden verschillen per hotel. Informeer bij ons naar de upgrade-opties.
 - Maaltijden: Ontbijt is inbegrepen
-- Vervoer: Retour privé transfers luchthaven Rio de Janeiro; Retour transfers in gezelschap van andere toeristen Rio de Janeiro - Búzios
-- Excursies: Excursies die vermeld zijn in het excursie tabblad
-- Reisbegeleiding: Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse bij wie u terecht kunt voor tips, reisondersteuning en optionele excursies. Zo geniet u van de vrijheid van het individuele reizen, maar wel altijd met ondersteuning ter plaatse.
-- Zekerheden: Brazilië Reis Specialist is lid van de SGR, ANVR, DRV en het Calamiteitenfonds.
+- Vervoer: Retour privétransfers luchthaven Rio de Janeiro. Retour transfers in gezelschap van andere toeristen Rio de Janeiro – Búzios
+- Excursies: Excursies die vermeld zijn in het excursietabblad
+- Reisbegeleiding: Gedurende de reis bieden wij per bestemming in Brazilië lokale vertegenwoordiging ter plaatse, bij wie je terecht kunt voor tips, reisondersteuning en optionele excursies. Zo geniet je van de vrijheid van het individuele reizen, maar altijd met ondersteuning ter plaatse.
+- Zekerheden: Brazilië Reis Specialist is lid van de SGR, ANVR, DRV en het Calamiteitenfonds. Hierdoor ben je ervan verzekerd dat BRS voldoet aan de strengste normen die aan een Nederlandse reisorganisatie gesteld kunnen worden. Stichting Garantiefonds Reisgelden (SGR) beschermt vooruitbetaalde reisgelden van reizigers die bij een SGR-deelnemer een reis boeken.
 
-Niet inbegrepen:
-- Vluchten: De vluchten naar- en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen... om deze reden zijn de vluchten niet opgenomen in de reissom van de voorbeeld arrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint.
-- Optionele excursies: Excursies die eventueel vermeld zijn in het optionele excursie tabblad
+#Niet inbegrepen
+
+- Vluchten: De vluchten naar en in Brazilië worden aangeboden door verschillende luchtvaartmaatschappijen, omdat er dagelijks diverse opties zijn om naar en in Brazilië te vliegen. Wij zoeken altijd samen met jou naar het best passende schema voor de scherpste tarieven op de gewenste reisdagen. Dit verschilt per dag en per klant; om die reden zijn de vluchten niet opgenomen in de reissom van de voorbeeldarrangementen op onze site. Voor deze reis adviseren wij aan te vliegen op Rio de Janeiro, vanwaar het arrangement begint.
+- Optionele excursies: Excursies die eventueel vermeld zijn in het optionele excursietabblad
 - Bijdrage calamiteitenfonds á € 2,50 per boeking
 - Boekingskosten á € 25,- per dossier
 
-Reissom:
-- De vermelde reissom bij onze voorbeeldrondreizen betreft een hele goede indicatie. Het kan echter voorkomen dat uw reis kan net vallen tijdens een feestdag, of er gelden hoogseizoen prijzen, waardoor hotels gedurende die periode een afwijkende prijs hanteren.
-- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen zakt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Indien u deze reis wenst te boeken als éénpersoons reis, dan geldt er een toeslag.
+#Reissom
+
+- De vermelde reissom bij onze voorbeeldrondreizen is een heel goede indicatie. Het kan echter voorkomen dat jouw reis samenvalt met een feestdag, of dat er hoogseizoenprijzen gelden, waardoor hotels gedurende die periode een afwijkende prijs hanteren. Neem daarom altijd eerst contact met ons op, zodat wij de beschikbaarheid kunnen checken en de exacte reissom voor je kunnen berekenen.
+- De reissom is gebaseerd op deelname van 2 personen. Bij deelname van meerdere personen daalt de reissom per persoon iets, omdat de transfers en excursies gedeeld worden met de overige reisgenoten. Wil je deze reis als eenpersoonreis boeken, dan geldt er een toeslag. Informeer bij ons naar de meerkosten.
 
 #Reisdetails
 
 #1. Rio de Janeiro - Aankomst
-Na aankomst in Rio de Janeiro wordt u verwelkomd op de luchthaven en met een privé transfer naar het hotel gebracht in Rio de Janeiro. De rest van de dag kan naar eigen inzicht worden besteed om bijvoorbeeld het bruisende Rio alvast te ontdekken. Overdag kan je heerlijk wandelen over de kilometerslange Copacabana boulevard, vol met leuke kioskjes waar je een heerlijke Braziliaanse Caipirinha (Braziliaanse cocktail) kan drinken.
-- Zie tabblad hotels voor de accommodatie selectie tijdens uw verblijf in Rio de Janeiro
+
+Na aankomst in Rio de Janeiro word je verwelkomd op de luchthaven en per privétransfer naar het hotel in Rio de Janeiro gebracht. De rest van de dag besteed je naar eigen inzicht; ideaal om het bruisende Rio alvast te verkennen. Overdag wandel je heerlijk over de kilometerslange Copacabana boulevard, vol met leuke kioskjes waar je een Braziliaanse Caipirinha kunt drinken.
+- Zie het tabblad hotels voor de accommodatieselectie tijdens jouw verblijf in Rio de Janeiro
 
 #2. Rio de Janeiro - Excursie Corcovado (SIB) (RIOEX2)
-Vandaag staat de excursie op het programma, in gezelschap van andere toeristen (duur circa 4 uur) naar het Christusbeeld op de 710 meter hoge Corcovado berg. Deze excursie is met een Engelstalige gids en u wordt opgehaald en weer afgezet bij het hotel.
-Indien u deze excursie op privé basis wenst te boeken, dan geldt er een toeslag.
 
-#3. Rio de Janeiro - vrije dag
-Deze dag kunt u naar eigen inzicht besteden. Ontspan op de prachtige stranden zoals Copacabana of Ipanema, verken de levendige wijken zoals het artistieke Santa Teresa, of geniet van een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de unieke sfeer die Rio te bieden heeft.
+Vandaag staat de excursie op het programma, in gezelschap van andere toeristen (duur circa 4 uur), naar het Christusbeeld op de 710 meter hoge Corcovado berg. De excursie is met een Engelstalige gids en je wordt opgehaald en weer afgezet bij het hotel.
+Wil je deze excursie op privébasis boeken, dan geldt er een toeslag.
 
-#4. Rio de Janeiro - vrije dag
-Deze dag kunt u naar eigen inzicht besteden. Ontspan op de prachtige stranden zoals Copacabana of Ipanema, verken de levendige wijken zoals het artistieke Santa Teresa, of geniet van een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de unieke sfeer die Rio te bieden heeft.
+#3. Rio de Janeiro - Vrije dag
+
+Deze dag besteed je naar eigen inzicht. Ontspan op de stranden van Copacabana of Ipanema, verken de levendige wijkjes zoals het artistieke Santa Teresa, of maak een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de sfeer die Rio te bieden heeft.
+
+#4. Rio de Janeiro - Vrije dag
+
+Deze dag besteed je naar eigen inzicht. Ontspan op de stranden van Copacabana of Ipanema, verken de levendige wijkjes zoals het artistieke Santa Teresa, of maak een wandeling in de botanische tuin Jardim Botânico. Proef de rijke smaken van de Braziliaanse keuken in lokale eetgelegenheden en geniet van de sfeer die Rio te bieden heeft.
 
 #5. Rio de Janeiro - Búzios
-Vanuit Rio vertrekt de transfer naar Búzios, in gezelschap van andere toeristen (prive transfer tegen meerkosten beschikbaar). De gehele transfer duurt een aantal uur. Na aankomst wordt u afgezet bij het hotel in Búzios en kunt u de rest van de dagen genieten van deze fantastische badplaats.
-- Keuze uit toeristenklasse of superieure klasse accommodatie tijdens uw verblijf in Búzios
+
+Vanuit Rio vertrek je per transfer naar Búzios, in gezelschap van andere toeristen (privétransfer is beschikbaar tegen meerkosten). De gehele transfer duurt een aantal uur. Na aankomst word je afgezet bij het hotel in Búzios en kun je de rest van de dagen genieten van deze fijne badplaats.
+- Keuze uit toeristenklasse of superieure klasse accommodatie tijdens jouw verblijf in Búzios
 
 #6. Búzios - Vrije dag
-Geniet van een vrije dag in Búzios, waar u naar eigen inzicht de dag kunt invullen. Verken de schilderachtige stranden zoals Praia de Geribá, ideaal voor surfen, of Praia dos Ossos voor een rustiger sfeer. Het strand van Joao Fernandes biedt heel rustig en helder water, ideaal voor families met kinderen. Maak een wandeling langs de charmante Rua das Pedras, vol met boetiekjes en restaurants. Overweeg een boottocht te maken rond het schiereiland om afgelegen stranden en de kristalheldere wateren te ontdekken. Ontspan en geniet van de gezellige sfeer van dit prachtige kustplaatsje.
 
-Voor een avontuurlijke afwisseling kunt u overwegen een dagtrip te maken naar Arraial do Cabo, ook bekend als het 'Caribisch gebied van Brazilië' vanwege zijn adembenemend heldere turquoise wateren. Deze bestemming staat bekend om de beste snorkel- en duiklocaties vanwege de rijke mariene biodiversiteit en uitstekende zichtbaarheid onder water. Neem deel aan een georganiseerde boottocht die u meeneemt langs de prachtige stranden zoals Praia do Forno. Vergeet niet een bezoek te brengen aan de beroemde Gruta Azul, een indrukwekkende zeegrot.
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult. Verken de stranden zoals Praia de Geribá, ideaal voor surfen, of Praia dos Ossos voor een rustiger sfeertje. Het strand van Joao Fernandes biedt heel rustig en helder water, ideaal voor families met kinderen. Maak een wandelingetje langs de charmante Rua das Pedras, vol met boetiekjes en restaurantjes. Of overweeg een boottocht rond het schiereiland om afgelegen stranden en kristalhelder water te ontdekken.
+
+Voor een avontuurlijke afwisseling kun je via de receptie van jouw hotel een dagtrip boeken naar Arraial do Cabo, ook bekend als het 'Caribisch gebied van Brazilië' vanwege zijn turquoise wateren. Deze bestemming staat bekend om de beste snorkel- en duiklocaties, dankzij de rijke mariene biodiversiteit en uitstekende zichtbaarheid onder water. Neem deel aan een georganiseerde boottocht langs stranden zoals Praia do Forno, waar het water kalm en ondiep is. Vergeet niet een bezoek te brengen aan de Gruta Azul, een zeegrot die een spectaculaire lichtshow biedt als de zon op het juiste moment binnenvalt. Arraial do Cabo biedt ook prachtige trektochten met panoramische uitzichten op de Atlantische Oceaan, waardoor het een mooie aanvulling is op jouw verblijf in Búzios.
 
 #7. Búzios - Vrije dag
-(Zelfde programma als dag 6)
+
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult. Verken de stranden zoals Praia de Geribá, ideaal voor surfen, of Praia dos Ossos voor een rustiger sfeertje. Het strand van Joao Fernandes biedt heel rustig en helder water, ideaal voor families met kinderen. Maak een wandelingetje langs de charmante Rua das Pedras, vol met boetiekjes en restaurantjes. Of overweeg een boottocht rond het schiereiland om afgelegen stranden en kristalhelder water te ontdekken.
+
+Voor een avontuurlijke afwisseling kun je een dagtrip maken naar Arraial do Cabo, ook bekend als het 'Caribisch gebied van Brazilië'.
 
 #8. Búzios - Vrije dag
-(Zelfde programma als dag 6)
+
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult.
 
 #9. Búzios - Vrije dag
-(Zelfde programma als dag 6)
+
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult.
 
 #10. Búzios - Vrije dag
-(Zelfde programma als dag 6)
+
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult.
 
 #11. Búzios - Vrije dag
-(Zelfde programma als dag 6)
+
+Geniet van een vrije dag in Búzios, die je naar eigen inzicht invult.
 
 #12. Búzios - Einde arrangement
-Vandaag eindigt uw verblijf in Búzios. U wordt opgehaald bij het hotel in Búzios en met een transfer in gezelschap van andere toeristen naar de luchthaven of een hotel in Rio gebracht (duur circa 3 uur). Een privé transfer is beschikbaar tegen meerkosten. Einde arrangement.
+
+Vandaag eindigt jouw verblijf in Búzios. Je wordt opgehaald bij het hotel in Búzios en per transfer in gezelschap van andere toeristen naar de luchthaven of een hotel in Rio gebracht (duur circa 3 uur). Een privétransfer is beschikbaar tegen meerkosten. Einde arrangement.
 
 #Bestemmingen
 
 #Rio de Janeiro
-Rio de Janeiro, de 'Prachtige Stad', is zonder twijfel een van de mooiste steden ter wereld. Het is een adembenemende mix van weelderige, groene bergen die uit de oceaan rijzen, goudgele zandstranden en een bruisende metropool. De energie is voelbaar, het ritme aanstekelijk en de lokale bevolking, de Cariocas, staan bekend om hun levensvreugde.
 
-De Beroemde Hoogtepunten: Wat je Niet Mag Missen
-- De Corcovadoberg: Beklim de berg per treintje en sta oog in oog met het 38 meter hoge standbeeld van Christus de Verlosser. Vanaf hier heb je het meest complete panoramische uitzicht over de hele stad.
-- De Suikerbroodberg (Pão de Açúcar): Een spectaculaire kabelbaan brengt je naar de top van deze granieten rots. Vooral tijdens zonsondergang is het uitzicht over de baai en de stad magisch.
-- Copacabana & Ipanema: De twee beroemdste stranden ter wereld. Wandel over de iconische boulevards, geniet van de zon en observeer het leven van de Cariocas.
+Rio de Janeiro, de 'Prachtige Stad', is zonder twijfel een van de mooiste steden ter wereld. Het is een mix van weelderige, groene bergen die uit de oceaan rijzen, goudgele zandstranden en een bruisende metropool. De energie is voelbaar, het ritme aanstekelijk en de lokale bevolking, de Cariocas, staan bekend om hun levensvreugde.
 
-Voorbij de Clichés: Ontdek het Echte Rio
-- De Wijken Lapa & Santa Teresa: Ervaar het Boheemse hart van de stad. In Lapa vind je 's avonds de beste live sambaclubs en gezellige bars. De beroemde gekleurde trap, de Escadaria Selarón, verbindt Lapa met het heuvelachtige en artistieke Santa Teresa.
-- Floresta da Tijuca & Vista Chinesa: Rio heeft een compleet regenwoud midden in de stad. Het Tijuca Nationaal Park is een oase van rust.
-- De Zondagse Boulevard: Op zondag worden de boulevards langs de stranden grotendeels autovrij gemaakt.
+De beroemde highlights: wat je niet mag missen
+- De Corcovadoberg: Beklim de berg per treintje en sta oog in oog met het 38 meter hoge standbeeld van Christus de Verlosser.
+- De Suikerbroodberg (Pão de Açúcar): Een spectaculaire kabelbaan brengt je naar de top van deze granieten rots.
+- Copacabana & Ipanema: De twee beroemdste stranden ter wereld.
 
-Culinair Rio: Onze Selectie van de Beste Restaurants
-- Voor de beste steak: Churrascaria Palace in Copacabana
-- Braziliaans met uitzicht: Aprazível in Santa Teresa
-- Authentieke lokale keuken: Bar do Mineiro in Santa Teresa
-- Creatief en hip: Zaza Bistrô Tropical in Ipanema
-- Topklasse sushi: Sushi Leblon in Leblon
+Voorbij de clichés: ontdek het echte Rio
+- De wijkjes Lapa & Santa Teresa: Ervaar het Boheemse hart van de stad.
+- Floresta da Tijuca & Vista Chinesa: Rio heeft een compleet regenwoud midden in de stad.
+- De zondagse boulevard: Op zondag worden de boulevards langs de stranden grotendeels autovrij gemaakt.
 
 #Búzios
-Genesteld ten oosten van het levendige Rio de Janeiro, bevindt zich de stralende Costa do Sol, oftewel de Zonnekust. Buzios, een elegant en trendy schiereiland, pronkt met 17 adembenemende stranden die variëren van avontuurlijke surfhotspots tot vredige baaien. Watersportliefhebbers worden verwend met geweldige surf-, kite- en windsurfomstandigheden dankzij de constante wind.
 
-Het 'Saint Tropez' van Brazilië heeft zijn eenvoudige wortels als een slaperig vissersdorpje uit de jaren '60 weten te behouden. De transformatie naar een glamoureuze vakantiebestemming begon toen de Franse actrice Brigitte Bardot haar liefde voor het idyllische landschap van Buzios verklaarde.
+Genesteld ten oosten van het levendige Rio de Janeiro bevindt zich de stralende Costa do Sol, oftewel de Zonnekust. Buzios, een elegant en trendy schiereiland, pronkt met 17 stranden die variëren van surfhotspots tot vredige baaien. Het 'Saint Tropez' van Brazilië, zoals Buzios tegenwoordig bekendstaat, heeft zijn eenvoudige wortels als slaperig vissersdorpje uit de jaren '60 weten te behouden. De transformatie naar een glamoureuze vakantiebestemming begon toen de Franse actrice Brigitte Bardot haar liefde voor het landschap van Buzios verklaarde.
 
-Naast al deze genoegens is Buzios ook een perfecte uitvalsbasis voor een dagexcursie naar het betoverende Arraial do Cabo, ook wel het 'Caribisch gebied van Brazilië' genoemd. Met zijn ongerepte witte zandstranden en glashelder water, is een bezoek aan Arraial do Cabo absoluut de moeite waard.
-
-Het bezoeken van Buzios en haar omgeving is gemakkelijk te combineren met een reis naar Rio de Janeiro, slechts op 2,5 uur of 165 km rijafstand.
+Naast al deze genoegens is Buzios ook een perfecte uitvalsbasis voor een dagexcursie naar het betoverende Arraial do Cabo, ook wel het 'Caribisch gebied van Brazilië' genoemd.
 
 #Hotels
 
-Toeristenklasse Hotels:
+##Toeristenklasse Hotels
 
-1. Rio de Janeiro - Hotel Astoria Copacabana
-Het Astoria Copacabana ligt in de buurt van theaters, winkels en restaurants, op slechts 300 meter van het beroemde strand van Copacabana. Er is een zwembad op het dak en er wordt een uitgebreid continentaal ontbijt geserveerd. De kamers beschikken over airconditioning, een lichte inrichting en roomservice. Ze zijn allemaal voorzien van een televisie met kabelzenders, een minibar en een bureau. De eigen badkamer is uitgerust met een douche. Sommige kamers hebben ook een 32-inch lcd-tv. Wifi is gratis.]]></get-trip-scraped-content>
+###1. Rio de Janeiro - Hotel Astoria Copacabana
+Het Astoria Copacabana ligt in de buurt van theaters, winkels en restaurantjes, op slechts 300 meter van het beroemde strand van Copacabana. Er is een zwembad op het dak en er wordt een uitgebreid continentaal ontbijt geserveerd. De kamers beschikken over airconditioning,]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0004/01/7fb8c0c1f2fabe0d6b21652a044aa7d419e16d64.png</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/9/1/csm_Buzios_Brigitte_Bardot_05a261ff99.webp</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/9/1/csm_Buzios_Brigitte_Bardot_c300851351.webp</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/0/d/csm_018__1024x707__f76ae4fa81.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/9/1/csm_Buzios_Brigitte_Bardot_d0bc9da35f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/a/0/csm_praia_azeda_cf68a256c6.png</get-trip-image-url-overview>
@@ -1354,8 +1187,6 @@ Het Astoria Copacabana ligt in de buurt van theaters, winkels en restaurants, op
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Buzios/praia02__1024x768_.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Buzios/Praia_armacao1__1024x673_.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/_processed_/a/0/csm_praia_azeda_0c9de664ae.png</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/rio_de_janeiro__corcovado.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Rio_de_Janeiro/5716981635_40e5276927_b.jpg</get-trip-image-url-overview>
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Ingang_hotel_Astoria_Copacabana.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Zwembad_hotel_Astoria_Copacabana.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Hotel_Atlantico_Praia_ontbijt.jpg</get-trip-image-url-acco>
@@ -1364,41 +1195,5 @@ Het Astoria Copacabana ligt in de buurt van theaters, winkels en restaurants, op
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/hotel_atlantis_copacabana_zwembad.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/hotel_atlantis_copacabana_kamer.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/atlantis_copacabana_breakfast_area.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/hotel_atlantis_copacabana_view.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vila_gale_rio_by_night.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vila_gale_rio_building.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vila_gale_rio_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/vila_gale_rio_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_afrika_kamer.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/pousada_afrika_zwembad.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Aguazul_pousada__zwembad.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Aguazul_pousada__zwembad_panorama.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pousada_Sable_D_or_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Pousada_Sable_D_or_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Astoria_Palace_kamer.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Astoria_Palace_zwembad_dak.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/Astoria_Palace_uitzicht_dak_over_copacabana.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_suite_ocean_view.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_beach_service.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/Travelimages/Hotels/copacabana_palace_restaurant.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_building_beach.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_deluxe_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_building.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/copacabana_palace_breakfast.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Slaapkamer_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Zwembad_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/bar_hotel_Miramar_by_Windsor_Rio_de__Janeiro.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__beach_service.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__Zwembad_hotel_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Miramar_by_Windsor_Rio_de__Janeiro__view.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Blue_tree_premium_design_infinity_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Blue_tree_premium_design_pool_by_night.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Blue_tree_premium_design_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/Blue_tree_premium_design_fitness.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/porto_bay_rio_de_janeiro_pool.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/porto_bay_rio_de_janeiro_room.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/porto_bay_rio_de_janeiro_breakfast.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.braziliereisspecialist.nl/files/user_upload/porto_bay_rio_de_janeiro_lobby.jpg</get-trip-image-url-acco>
   </trip>
 </trips>
