@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-23T12:23:39.739Z" count="12">
+<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-23T14:24:16.278Z" count="12">
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -7,7 +7,7 @@
     <get-trip-name>Wildlife Care en Revalidatie</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.conservationafrica.net/our-projects/wildlife-care-rehabilitation</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Wildlife Care en Revalidatie
@@ -510,7 +510,7 @@ De prijzen op onze website zijn actueel, maar kunnen veranderen tussen nu en het
     <get-trip-name>Golola Rhino Orphanage And Rehabilitation Centre</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.conservationafrica.net/projects/golola-rhino-orphanage-and-rehabilitation-centre/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Golola Rhino Orphanage And Rehabilitation Centre
@@ -1114,7 +1114,7 @@ De prijzen op onze website zijn actueel, maar kunnen veranderen tussen nu en het
     <get-trip-name>Rhino Conservation Experience</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.conservationafrica.net/projects/rhino-conservation-experience/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#Rhino Conservation Experience
