@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T09:21:16.839Z" count="37">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T10:22:38.908Z" count="37">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië Flycamper – Vrijheid ten top!</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -99,6 +100,7 @@ Apollo Euro Tourer — Ontdek de mooiste plekken van Australië met deze 2-perso
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australie Flydrive East Coast Discovery</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -371,6 +373,7 @@ Melbourne by Bike — Ontdek de verschillende stadswijken van Melbourne per fiet
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië verlaten westkust</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -656,6 +659,7 @@ Arnhemland Tour — Ontdek Arnhemland met zijn oeroude rotsschilderingen. Klik h
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Flydrive Australie Sydney Outback Reef Explorer</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -902,6 +906,7 @@ Noosa Crest — Prachtige appartementen die op Noosa Hill gelegen zijn met schit
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Authentiek Melanesië en Polynesië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -1050,6 +1055,7 @@ Tanoa Tusitala — Op zoek naar een hotel in Samoa? Bij Pacific Island Travel bo
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bounty Reis – Fiji, Cook Eilanden en Frans-Polynesië</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
@@ -1244,6 +1250,7 @@ Moorea Beach Lodge — Op zoek naar een hotel in Frans Polynesië? Bij Pacific I
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fiji Escape to Paradise reis</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -1427,6 +1434,7 @@ Matangi Island Resort — Op zoek naar een hotel op de eilanden van Fiji? Bij Pa
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fiji – Off the beaten track</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -1584,6 +1592,7 @@ Matava Resort op Fiji — Kleine oase in ongerepte natuur, prachtig om te duiken
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fiji Discovery &amp; Hong Kong</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -1719,6 +1728,7 @@ Club Fiji Resort — Op zoek naar een hotel op de eilanden van Fiji? Bij Pacific
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Melanesian Explorer - Sydney, Vanuatu en Fiji</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -1895,6 +1905,7 @@ Yatule Resort and Spa — Op zoek naar een hotel op de eilanden van Fiji? Bij Pa
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stille Zuidzee Symfonie – Hawaii, Samoa, Tonga en Fiji</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -2046,6 +2057,7 @@ Sandy Beach Resort — Op zoek naar een hotel op de eilanden van Tonga? Bij Paci
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Blue Lagoon Cruises</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -2163,6 +2175,7 @@ Hoe kunnen we u helpen?]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bora Bora – Leef de Droom</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2310,6 +2323,7 @@ Royal Bora Bora Hotel — Op zoek naar een hotel in Frans Polynesië? Bij Pacifi
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Polynesian Explorer Reis – Cook Eilanden &amp; Frans-Polynesië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -2474,6 +2488,7 @@ Le Maitai Polynesia — Op zoek naar een hotel in Frans Polynesië? Bij Pacific 
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Frans-Polynesië Reis – Bora Bora</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2606,6 +2621,7 @@ Tikehau Pearl Beach Resort — Op zoek naar een hotel in Frans Polynesië? Bij P
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Frans-Polynesië reis Kontiki</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -2761,6 +2777,7 @@ Tahiti by Pearl Resorts — Op zoek naar een hotel in Frans Polynesië? Bij Paci
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Leilani</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -2883,6 +2900,7 @@ Castle Kamaole Sands — Op zoek naar een hotel op de eilanden van Hawaii? Bij P
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Makai</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2990,6 +3008,7 @@ Castle Kamaole Sands — Op zoek naar een hotel op de eilanden van Hawaii? Bij P
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hawaii Vakantie Reis Hula</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3111,6 +3130,7 @@ Grand Hyatt Kauai — Op zoek naar een hotel op de eilanden van Hawaii? Bij Paci
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hawaii Leilani Reis</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -3263,6 +3283,7 @@ Grand Hyatt Kauai — Op zoek naar een hotel op de eilanden van Hawaii? Bij Paci
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hawaii Vakantie Reis Makai</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3384,6 +3405,7 @@ Andaz Maui at Wailea Resort — Luxe, stijlvol en goed verzorgd resort in Wailea
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autorondreis Nieuw-Zeeland standaard</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -3698,6 +3720,7 @@ Flying Fox Helihike — Avontuurlijke excursie met helikoptervlucht en landing o
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Droomreis – Nieuw-Zeeland en de Stille Zuidzee</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -3837,6 +3860,7 @@ Moorea Beach Lodge — Op zoek naar een hotel in Frans Polynesië? Bij Pacific I
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Flycamper</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -3932,6 +3956,7 @@ Apollo Euro Tourer — Huur uw Apollo Euro Tourer bij Apollo Campers in Nieuw-Ze
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Flycamper en Fiji</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -4050,6 +4075,7 @@ Apollo Euro Tourer — Huur uw Apollo Euro Tourer bij Apollo Campers in Nieuw-Ze
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In kleine groep over de Nullarbor Plain</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -4169,6 +4195,7 @@ Met Nullarbor Plain intensief ontdekt u in 9 dagen de mooie route van Perth naar
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kimberley Complete Deluxe 4WD-kampeersafari</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4313,6 +4340,7 @@ Ontdek de afgelegen Kimberley regio in het noordwesten van Australië. U rijdt v
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00029</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best of New Zealand</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4543,6 +4571,7 @@ Een reis over beide eilanden van Auckland naar Christchurch, die u langs de hoog
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00030</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Moatrek</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4724,6 +4753,7 @@ Moatrek is een 23-daagse busreis van Auckland naar Christchurch. Aanrader! Ideaa
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00031</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>New Zealand Exclusive</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -4883,6 +4913,7 @@ New Zealand Exclusive is een 13-daagse exclusieve tour in Nieuw-Zeeland. Bekijk 
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00032</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis per 4WD</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -5062,6 +5093,7 @@ Rondreis per 4WD in Nieuw-Zeeland. Tijdens deze 18 of 22-daagse rondreis ziet u 
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00033</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Darwin – Adelaide selfdrive</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5138,6 +5170,7 @@ Hoe kunnen we u helpen?]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00034</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Perth – Darwin selfdrive</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -5208,6 +5241,7 @@ Hoe kunnen we u helpen?]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00035</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sydney – Adelaide</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -5274,6 +5308,7 @@ Hoe kunnen we u helpen?]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00036</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sydney – Cairns Selfdrive</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -5340,6 +5375,7 @@ Hoe kunnen we u helpen?]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00037</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Island hopping &amp; bultruggen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -5426,6 +5462,7 @@ Een ontmoeting met gigantische walvissen behoort tot de grootste natuurwonderen 
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00038</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vanuatu Highlights</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
