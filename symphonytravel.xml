@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="symphonytravel" partner="Symphony Travel" generated="2026-08-25T09:21:16.839Z" count="29">
+<trips feed="symphonytravel" partner="Symphony Travel" generated="2026-08-25T10:22:38.908Z" count="29">
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autorondreis: de Kaap, Panorama route &amp; Safari</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -237,6 +238,7 @@ Wanneer je verblijft bij Fairview Hotels, Spa and Golf Resort in Tzaneen, bevind
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Charmant West-Canada</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -692,6 +694,7 @@ Ontdek de betoverende schoonheid van West-Canada met onze autoreis 'Charmant Wes
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Japan</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -877,6 +880,7 @@ Parkeren]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Noordoost-Amerika &amp; Canada</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1396,6 +1400,7 @@ Ontdek het noordoosten van Amerika en Canada met deze autoreis. De reis begint i
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Thailand</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1730,6 +1735,7 @@ Maak u klaar om ondergedompeld te worden in de weelderige schoonheid en intriger
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Zuid-Afrika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -2327,6 +2333,7 @@ Maak kennis met het prachtige en zeer gastvrije Zuid-Afrika. U maakt tijdens dez
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Zuidwest-Amerika</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -2907,6 +2914,7 @@ Fantastische autorondreis om het zuidwesten van Amerika met al zijn facetten te 
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het mooiste van West-Canada incl. Tofino</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -3158,6 +3166,7 @@ Maak gebruik van het binnenzwembad, het bubbelbad en de fitnessfaciliteiten. Er 
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Bali</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -3575,6 +3584,7 @@ Ontdek hier onze voorbeeldreizen]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Japan</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3945,6 +3955,7 @@ Maak u klaar voor een onvergetelijke reis langs de hoogtepunten van Japan. En da
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Oost-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -4191,6 +4202,7 @@ Holiday Inn Ottawa Dwtn - Parliament Hill by IHG ligt centraal in Ottawa, op dri
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Texas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4357,6 +4369,7 @@ Het Bed & Breakfast-pakket omvat: accommodatie in het geboekte kamertype, ontbij
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van West-Canada</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -4756,6 +4769,7 @@ British Columbia, Alberta en de Rocky Mountains vormen zonder twijfel unieke hoo
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Indrukwekkend Bali</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -5096,6 +5110,7 @@ Ontdek het betoverende Bali tijdens een onvergetelijke 13-daagse individuele rei
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Maak kennis met Bali &amp; Gili Trawagan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5519,6 +5534,7 @@ Welkom op een betoverende reis door Bali! Uw avontuur begint in het pittoreske S
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Maak kennis met Oost-Canada</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -6091,6 +6107,7 @@ Verken de betoverende geschiedenis van Québec City en Montréal, de levendige e
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Maak kennis met Thailand incl. Koh Samui</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -6356,6 +6373,7 @@ Sukhothai is een klein stadje in het noorden van Thailand dat sinds 1991 op de U
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Maak kennis met Thailand incl. Krabi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6788,6 +6806,7 @@ Ontdek hier onze voorbeeldreizen]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek de mooiste parken van West-Amerika</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -7486,6 +7505,7 @@ Tijdens deze reis maakt u kennis met de mooiste parken van West-Amerika en bezoe
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek de Tuinroute en het Kariega Game Reserve</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -7779,6 +7799,7 @@ Tijdens deze reis maakt u kennis met het beste van de Tuinroute. De reis begint 
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek het prachtige Bali</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8184,6 +8205,7 @@ Welkom op een onvergetelijke reis naar het betoverende Bali! Uw avontuur begint 
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00022</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek het prachtige Japan</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -8432,6 +8454,7 @@ In twee weken tijd reist u per trein van Tokyo naar Osaka. Uw reis begint in de 
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek het prachtige zuiden van Thailand</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -8789,6 +8812,7 @@ Ontdek hier onze voorbeeldreizen]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Java en Bali</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -9143,6 +9167,7 @@ We nemen u mee op een onvergetelijke reis door Java en Bali, twee eilanden vol c
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Noordoost-Amerika</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -9381,6 +9406,7 @@ Cambria Hotel Portland Downtown-Old Port]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek &apos;n Wereld in een land</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -9795,6 +9821,7 @@ Deze 23-daagse reis brengt u langs de belangrijkste hoogtepunten van Zuid-Afrika
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek paradijselijk Thailand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10107,6 +10134,7 @@ Maak kennis met paradijselijk Thailand. De reis begint in de de bruisende metrop
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek West-Canada</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -10320,6 +10348,7 @@ Het Dutch Lake Motel ligt vlak bij de Columbia Mountains, op 1,1 km van het Well
   <trip>
     <get-trip-id>GT-SYMPHONYTRAVEL-00029</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari Zuid-Afrika &amp; strand Mauritius</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
