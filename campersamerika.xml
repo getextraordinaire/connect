@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-25T10:22:38.908Z" count="11">
+<trips feed="campersamerika" partner="Campers Amerika" generated="2026-08-25T10:59:01.131Z" count="11">
   <trip>
     <get-trip-id>GT-CAMPERSAMERIKA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -73,7 +73,7 @@ Indrukwekkende camperreis vanuit Las Vegas via Zion, Bryce, Antelope, de Grand C
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Boston, Vermont &amp; Massachusetts</get-trip-name>
+    <get-trip-name>Camperreis vanuit Boston</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -202,7 +202,7 @@ Denver en omgeving ontdekken met de camper? Bekijk de mogelijkhden. Huur nu je c
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Camperreis Las Vegas</get-trip-name>
+    <get-trip-name>Camperreis vanuit Las Vegas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -258,7 +258,7 @@ Start in Las Vegas en maak een rondreis langs de Mighty Five parken van Utah, Mo
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Camperreis Los Angeles</get-trip-name>
+    <get-trip-name>Camperreis vanuit Los Angeles</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -327,7 +327,7 @@ Rondreis vanuit Los Angeles - Campers Amerika, voor camperhuur en meer in Amerik
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis vanuit New York</get-trip-name>
+    <get-trip-name>Camperreis vanuit New York</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -400,7 +400,7 @@ Bekijk camperreis Noord Oost Amerika: Washington D.C., Niagara Falls, Boston, Ne
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis vanuit Seattle</get-trip-name>
+    <get-trip-name>Camperreis vanuit Seattle</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -572,7 +572,7 @@ Prachtige camperreis door de Deep South langs Atlanta, Pensacola, New Orleans, M
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Camperreis Denver naar Chicago</get-trip-name>
+    <get-trip-name>Camperreis vanuit Denver naar Chicago</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -637,7 +637,7 @@ Je start je camperrondreis in Denver en reist via de staten Nebraska, South en N
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Route Miami naar New York</get-trip-name>
+    <get-trip-name>Camperreis vanuit Miami naar New York</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
