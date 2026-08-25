@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="betterplaces" partner="Better Places" generated="2026-08-25T10:59:01.131Z" count="21">
+<trips feed="betterplaces" partner="Better Places" generated="2026-08-25T11:38:44.399Z" count="21">
   <trip>
     <get-trip-id>GT-BETTERPLACES-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
