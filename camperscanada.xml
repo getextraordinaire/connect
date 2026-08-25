@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-25T09:21:16.839Z" count="6">
+<trips feed="camperscanada" partner="Campers Canada" generated="2026-08-25T10:22:38.908Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Calgary naar Vancouver</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -89,6 +90,7 @@ Wij raden je aan minimaal twee weken uit te trekken voor de noordroute van Calga
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis New Brunswick &amp; Nova Scotia</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -131,6 +133,7 @@ Wij raden je aan minimaal 10 dagen uit te trekken voor de provincies New Brunswi
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Ontario</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -183,6 +186,7 @@ Wij raden je aan minimaal twee weken uit te trekken voor de provincie Ontario. V
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Quebec, Oost Canada</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -231,6 +235,7 @@ Wij raden je aan minimaal twee weken uit te trekken voor een reis door de provin
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Vancouver Island</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -289,6 +294,7 @@ Lees hier meer.
   <trip>
     <get-trip-id>GT-CAMPERSCANADA-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Vancouver naar Calgary</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
