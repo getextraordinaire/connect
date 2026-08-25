@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="betterplaces" partner="Better Places" generated="2026-08-25T09:21:16.839Z" count="21">
+<trips feed="betterplaces" partner="Better Places" generated="2026-08-25T10:22:38.908Z" count="21">
   <trip>
     <get-trip-id>GT-BETTERPLACES-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actieve Roemenië reis</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -150,6 +151,7 @@ Bekijk onze individuele, actieve Roemenië reis met wandelen, fietsen en kajakke
   <trip>
     <get-trip-id>GT-BETTERPLACES-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autorondreis Schotland</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -296,6 +298,7 @@ Regel je individuele autorondreis Schotland rechtstreeks bij Henk, onze Schotlan
   <trip>
     <get-trip-id>GT-BETTERPLACES-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijke reisroute Guatemala</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -425,6 +428,7 @@ Ontdek Guatemala met lokale ervaringen, Mayatempels, jungle, vulkanen en tropisc
   <trip>
     <get-trip-id>GT-BETTERPLACES-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Noord-Macedonië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -560,6 +564,7 @@ Regel je familierondreis Noord-Macedonië rechtstreeks bij Ema, de specialist di
   <trip>
     <get-trip-id>GT-BETTERPLACES-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fishermen&apos;s Trail wandelreis</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -685,6 +690,7 @@ Wandel de Fishermen's Trail in Portugal en beleef een onvergetelijke tocht langs
   <trip>
     <get-trip-id>GT-BETTERPLACES-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Guatemala met Belize</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -821,6 +827,7 @@ Ontwerp je rondreis Guatemala met Belize samen met Petra, de reisspecialist die 
   <trip>
     <get-trip-id>GT-BETTERPLACES-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Individuele rondreis Tanzania</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -959,6 +966,7 @@ Een unieke en individuele rondreis door Tanzania? Ontwerp je vakantie samen met 
   <trip>
     <get-trip-id>GT-BETTERPLACES-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Magische Malawi reis</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -1095,6 +1103,7 @@ Tijdens deze reis leer je zowel de cultuur als de natuur van Malawi kennen. Je m
   <trip>
     <get-trip-id>GT-BETTERPLACES-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roadtrip Cyprus</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -1206,6 +1215,7 @@ Tijdens deze roadtrip op Cyprus verken je pittoreske dorpjes, indrukwekkende nat
   <trip>
     <get-trip-id>GT-BETTERPLACES-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roadtrip Noord-Macedonië</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -1333,6 +1343,7 @@ Regel je roadtrip door Noord-Macedonië rechtstreeks bij Ema die er al jaren woo
   <trip>
     <get-trip-id>GT-BETTERPLACES-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roadtrip Slovenië</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1484,6 +1495,7 @@ Regel je roadtrip Slovenië rechtstreeks bij Ruud, de specialist die er al jaren
   <trip>
     <get-trip-id>GT-BETTERPLACES-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Madeira</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1599,6 +1611,7 @@ Ontdek Madeira in 14 dagen: actieve wandelingen, sfeervolle dorpen, indrukwekken
   <trip>
     <get-trip-id>GT-BETTERPLACES-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zweden met eigen auto</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -1714,6 +1727,7 @@ Regel je rondreis door Zweden met eigen auto rechtstreeks bij Sylvia, de special
   <trip>
     <get-trip-id>GT-BETTERPLACES-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Slovenië en Kroatië met kinderen</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1859,6 +1873,7 @@ In deze Slovenië en Kroatië met kinderen reis ontdek je de parels op een speel
   <trip>
     <get-trip-id>GT-BETTERPLACES-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tanzania met kinderen</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -2007,6 +2022,7 @@ Tanzania is een geweldig land voor een rondreis met kinderen. Ontdek alle mooie 
   <trip>
     <get-trip-id>GT-BETTERPLACES-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Treinreis Spanje</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2149,6 +2165,7 @@ Regel je treinreis Spanje rechtstreeks bij Debora, de specialist die er al jaren
   <trip>
     <get-trip-id>GT-BETTERPLACES-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tsjechië met kinderen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2281,6 +2298,7 @@ Deze Tsjechië met kinderen rondreis biedt spectaculaire wandelingen, prachtige 
   <trip>
     <get-trip-id>GT-BETTERPLACES-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vakantie Asturië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2422,6 +2440,7 @@ Tijdens deze vakantie in Asturië, ontdek je de hoogtepunten van deze noordelijk
   <trip>
     <get-trip-id>GT-BETTERPLACES-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandel- en fietsvakantie in Tsjechië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2539,6 +2558,7 @@ Boek deze treinreis via The Train Traveller
   <trip>
     <get-trip-id>GT-BETTERPLACES-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Winterreis Zweden</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -2662,6 +2682,7 @@ Op zoek naar een unieke winterreis Zweden? Geef je wensen door aan Sylvia, de sp
   <trip>
     <get-trip-id>GT-BETTERPLACES-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Zweden met kinderen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
