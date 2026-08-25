@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tiogatours" partner="Tioga Tours" generated="2026-08-25T09:21:16.839Z" count="19">
+<trips feed="tiogatours" partner="Tioga Tours" generated="2026-08-25T10:22:38.908Z" count="19">
   <trip>
     <get-trip-id>GT-TIOGATOURS-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autoreis: Deep South &amp; Carolinas</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -158,6 +159,7 @@ Nashville, The Hermitage. Courtesy of Nashville Convention & Visitors Corporatio
   <trip>
     <get-trip-id>GT-TIOGATOURS-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Kids Go Cities &amp; Beaches</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -437,6 +439,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autoreis: Plantages in Deep South</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -632,6 +635,7 @@ Boek vakantievilla's in Florida om het het hele gezin in een luxe villa te verbl
   <trip>
     <get-trip-id>GT-TIOGATOURS-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autoreis: Kids Go Florida</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -803,6 +807,7 @@ Lake Eola Park is populair vanwege de fontein die 's avonds van kleur verandert.
   <trip>
     <get-trip-id>GT-TIOGATOURS-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Kids Go Florida</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -974,6 +979,7 @@ Lake Eola Park is populair vanwege de fontein die 's avonds van kleur verandert.
   <trip>
     <get-trip-id>GT-TIOGATOURS-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Autoreis: Oost-Canada &amp; New England-cruise</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -1142,6 +1148,7 @@ Boek vakantievilla's in Florida om het het hele gezin in een luxe villa te verbl
   <trip>
     <get-trip-id>GT-TIOGATOURS-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Unspoiled Northwest</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1320,6 +1327,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: America the Rockies</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -1523,6 +1531,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Kids Go Rockies (24 dgn)</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -1784,6 +1793,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Kids Go Rockies (25 dgn)</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -2051,6 +2061,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Best of the West</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -2259,6 +2270,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Coast to Coast Discovery</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -2461,6 +2473,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Highlights of the West</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2643,6 +2656,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Kids Go West</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -2914,6 +2928,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Nova Scotia &amp; Prince Edward Island</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3061,6 +3076,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Canadian Experience</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -3263,6 +3279,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Mountain Country</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -3471,6 +3488,7 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
   <trip>
     <get-trip-id>GT-TIOGATOURS-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: Rockies &amp; Vancouver Island</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -3664,6 +3682,7 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
   <trip>
     <get-trip-id>GT-TIOGATOURS-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis: The Wild West</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
