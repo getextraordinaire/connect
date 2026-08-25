@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="walkabout" partner="Walkabout" generated="2026-08-25T10:22:38.908Z" count="11">
+<trips feed="walkabout" partner="Walkabout" generated="2026-08-25T10:59:01.131Z" count="11">
   <trip>
     <get-trip-id>GT-WALKABOUT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -408,7 +408,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Beste van Australië Rondreis</get-trip-name>
+    <get-trip-name>Beste van Australië Rondreis (april - november)</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>6.570</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -628,7 +628,7 @@ Complete rondreis door Australië. Een onvergetelijk avontuur. Bijzondere locati
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Beste van Australië Rondreis</get-trip-name>
+    <get-trip-name>Beste van Australië Rondreis (oktober - mei)</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>5.700</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
