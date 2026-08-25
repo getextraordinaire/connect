@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="walkabout" partner="Walkabout" generated="2026-08-25T09:21:16.839Z" count="11">
+<trips feed="walkabout" partner="Walkabout" generated="2026-08-25T10:22:38.908Z" count="11">
   <trip>
     <get-trip-id>GT-WALKABOUT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsreis Western Australia Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -119,6 +120,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsreis Australie Wildlife Conservation Journey</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
@@ -189,6 +191,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>4WD avontuur westkust en Kimberley</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
@@ -403,6 +406,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beste van Australië Rondreis</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -622,6 +626,7 @@ Complete rondreis door Australië. Een onvergetelijk avontuur. Bijzondere locati
   <trip>
     <get-trip-id>GT-WALKABOUT-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beste van Australië Rondreis</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -829,6 +834,7 @@ Complete rondreis door Australië. Een onvergetelijk avontuur! Bijzondere locati
   <trip>
     <get-trip-id>GT-WALKABOUT-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië met kinderen Rondreis</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -1058,6 +1064,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>New Zealand Adventure</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1280,6 +1287,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The New Zealand Trek</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1407,6 +1415,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultimate New Zealand Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -1527,6 +1536,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
   <trip>
     <get-trip-id>GT-WALKABOUT-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland &apos;Nature &amp; Comfort&apos; Rondreis</get-trip-name>
     <get-trip-duration>33</get-trip-duration>
@@ -1749,6 +1759,7 @@ Fantastische rondreis door Nieuw-Zeeland met een mix aan kleinschalige accommoda
   <trip>
     <get-trip-id>GT-WALKABOUT-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Comfort B&amp;B Self-Drive</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
