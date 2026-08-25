@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-25T09:21:16.839Z" count="12">
+<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-25T10:22:38.908Z" count="12">
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildlife Care en Rehabilitatie</get-trip-name>
     <get-trip-duration>36</get-trip-duration>
@@ -216,6 +217,7 @@ Wij werken alleen samen met wildlife sanctuaries en revalidatiecentra in Afrika 
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Care For Wild Africa Rhino Sanctuary</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -446,6 +448,7 @@ Care For Wild Africa onderneemt urgente actie om biodiversiteitsverlies te stopp
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Coastal Conservation Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -612,6 +615,7 @@ Wij zijn gekwalificeerde zoölogen]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Game Ranger Experience</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -815,6 +819,7 @@ Klik of tik op het hartje in het websitemenu om al je favorieten te bekijken.]]>
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Golola Rhino Orphanage And Rehabilitation Centre</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -1117,6 +1122,7 @@ To see all your favourites, simply click or tap the heart icon in the website me
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Moholoholo Wildlife Rehabilitation Centre</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -1491,6 +1497,7 @@ To see all your favourites, simply click or tap the heart icon in the website me
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Okavango Wilderness Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -1816,6 +1823,7 @@ To see all your favourites, simply click or tap the heart icon in the website me
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Phinda Wildlife Research Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -2009,6 +2017,7 @@ Phinda bouwt duurzame en veerkrachtige gebouwen met materialen die lokaal worden
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rhino Conservation Experience</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2221,6 +2230,7 @@ Ik heb dingen meegemaakt die ik nooit voor mogelijk had gehouden, en herinnering
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Shimongwe Wildlife Veterinary Experience</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -2554,6 +2564,7 @@ To see all your favourites, simply click or tap the heart icon in the website me
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Vikela Kruger Conservation Experience</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -2910,6 +2921,7 @@ To see all your favourites, simply click or tap the heart icon in the website me
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildlife Capture And Relocation Experience</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
