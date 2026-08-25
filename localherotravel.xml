@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="localherotravel" partner="Local Hero Travel" generated="2026-08-25T09:21:16.839Z" count="33">
+<trips feed="localherotravel" partner="Local Hero Travel" generated="2026-08-25T10:22:38.908Z" count="33">
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boetiek rondreis China</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -237,6 +238,7 @@ Travel the real world, regel je reis lokaal. Boek je persoonlijke rondreis bij e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget China</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -429,6 +431,7 @@ Een budget China rondreis. Wandel over de Great Wall en fiets door rijstvelden. 
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>China best local experiences</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -636,6 +639,7 @@ Travel the real world, regel je reis lokaal. Boek je persoonlijke rondreis bij e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis China met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -835,6 +839,7 @@ Een familiereis China. Beklim met je gezin de Chinese muur, verken Beijing. Stel
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis China</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1056,6 +1061,7 @@ De leukste China rondreis. Fiets door rijstvelden, neem de highspeed trein en sl
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boetiek rondreis Colombia</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1253,6 +1259,7 @@ Colombia met een tikkeltje meer comfort? Slaap in knusse boetiekhotels met een b
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget Colombia</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -1475,6 +1482,7 @@ Een budget Colombia rondreis. Bezoek Bogotá en de Caribische kust. Slaap in knu
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Colombia best local experience rondreis</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -1693,6 +1701,7 @@ Colombia van de gebaande paden: ontdek ballendorpje Monguí, help mee op een kof
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Colombia met kinderen</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -1905,6 +1914,7 @@ Een familiereis Colombia. Struin door Bogotá of zipline met de kids door Valle 
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Colombia</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2133,6 +2143,7 @@ Een rondreis Colombia. Verblijf op een koffiefarm en dwaal door Cartagena. Sjors
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boetiek rondreis Costa Rica</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -2331,6 +2342,7 @@ Een boetiek rondreis Costa Rica. Rustig reistempo, kleinschalige boetiek hotels 
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget Costa Rica</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2585,6 +2597,7 @@ Een budget Costa Rica rondreis. Wandel langs vulkanen en ontspan op palmstranden
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica best local experiences rondreis</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2798,6 +2811,7 @@ Een best local experience rondreis Costa Rica. Help mee op het platteland, slaap
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica rondreis de leukste</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -3043,6 +3057,7 @@ Een rondreis Costa Rica per 4WD. Zipline door de jungle, hike bij vulkaan Arenal
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Costa Rica met kinderen</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -3275,6 +3290,7 @@ Een familiereis Costa Rica. Met de kinderen schildpadden spotten in Tortuguero. 
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Japan met kinderen</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -3489,6 +3505,7 @@ Een familiereis Japan. Sumo lunch, tempels, geisha's, hypermoderne steden en sla
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan rondreis betaalbaar</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -3675,6 +3692,7 @@ Japan on a budget. Trein naar Tokyo, Hiroshima, Kyoto en de Japanse alpen. Je re
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan rondreis de leukste</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -3879,6 +3897,7 @@ De leukste Japan rondreis met de trein. Tempels, geisha's, hypermoderne steden e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan rondreis met huurauto</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4100,6 +4119,7 @@ Japan met een huurauto. Een selfdrive reis met een stukje in een snelle trein is
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boetiek rondreis Madagaskar</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -4361,6 +4381,7 @@ Travel the real world, regel je reis lokaal. Boek je persoonlijke rondreis bij e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget Madagaskar</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4623,6 +4644,7 @@ Een budget Madagaskar rondreis. Zie baobab bomen en hike door Isalo Park. Mirind
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00022</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Madagaskar</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -4880,6 +4902,7 @@ Een familiereis Madagaskar. Zie baobab bomen en spot wildlife met de kinderen. M
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Madagaskar best local experiences</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -5134,6 +5157,7 @@ Travel the real world, regel je reis lokaal. Boek je persoonlijke rondreis bij e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Madagaskar rondreis exclusief</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5375,6 +5399,7 @@ Travel the real world, regel je reis lokaal. Boek je persoonlijke rondreis bij e
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Madagaskar rondreis de leukste</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5666,6 +5691,7 @@ De leukste Madagaskar rondreis. Wandel door Tsingy park en verblijf in lodges en
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boetiek rondreis Peru</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5918,6 +5944,7 @@ Izaak Evertslaan 5]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Peru met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -6199,6 +6226,7 @@ Een familiereis Peru. Bezoek Lima en Cusco, de Ballestas eilanden en een local g
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Peru best local experiences rondreis</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -6530,6 +6558,7 @@ Peru the local way. Ervaar Peru zoals de locals dat doen. Je local Hero regelt h
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00029</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Peru rondreis betaalbaar</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -6821,6 +6850,7 @@ Een budget rondreis Peru. Ga op pad in Cusco en Inca stad Machu Picchu. Francesc
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00030</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -7114,6 +7144,7 @@ De leukste Peru rondreis. Cusco en spot condors bij Colca Canyon. Je local Hero 
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00031</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Suriname</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -7340,6 +7371,7 @@ Een familiereis Suriname. Spot schildpadden met de kids en fiets over plantages.
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00032</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Suriname rondreis de leukste</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -7586,6 +7618,7 @@ De leukste Suriname rondreis. Fiets langs plantages en vaar door de jungle. Je l
   <trip>
     <get-trip-id>GT-LOCALHEROTRAVEL-00033</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Suriname best local experiences rondreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
