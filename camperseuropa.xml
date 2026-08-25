@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T11:38:44.399Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T12:45:25.350Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Voorbeeldreis camperreis Denemarken met kinderen</get-trip-name>
+    <get-trip-name>Camperreis Denemarken met kinderen</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -71,7 +71,7 @@ Meer lezen over Denemarken? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Voorbeeldreis camperreis IJsland</get-trip-name>
+    <get-trip-name>Camperreis IJsland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -143,7 +143,7 @@ Meer lezen over IJsland? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Voorbeeldreis camperreis Noord Spanje</get-trip-name>
+    <get-trip-name>Camperreis Noord Spanje</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>3.054</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -232,7 +232,7 @@ Meer lezen over Spanje? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Voorbeeldreis camperreis Portugal</get-trip-name>
+    <get-trip-name>Camperreis Portugal</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.803</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -304,7 +304,7 @@ Meer lezen over Portugal? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Voorbeeldreis camperreis Schotland</get-trip-name>
+    <get-trip-name>Camperreis Schotland</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
@@ -388,7 +388,7 @@ Meer lezen over het Verenigd Koninkrijk? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Een camperreis in Zuid-Zweden</get-trip-name>
+    <get-trip-name>Camperreis Zuid-Zweden</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>2.800</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
