@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T12:45:25.350Z" count="38">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T13:46:40.480Z" count="38">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -102,7 +102,7 @@ Apollo Euro Tourer — Ontdek de mooiste plekken van Australië met deze 2-perso
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Australie Flydrive East Coast Discovery</get-trip-name>
+    <get-trip-name>Australië Flydrive East Coast Discovery</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>6.250</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -661,7 +661,7 @@ Arnhemland Tour — Ontdek Arnhemland met zijn oeroude rotsschilderingen. Klik h
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Flydrive Australie Sydney Outback Reef Explorer</get-trip-name>
+    <get-trip-name>Flydrive Australië Sydney Outback Reef Explorer</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
     <get-trip-lowest-price-2p>4.975</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
