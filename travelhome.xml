@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T09:21:16.839Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T10:22:38.908Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis door Florida</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -130,6 +131,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Toronto</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -258,6 +260,7 @@ Travelhome
   <trip>
     <get-trip-id>GT-TRAVELHOME-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Sunshine Coast</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -461,6 +464,7 @@ paradijs!
   <trip>
     <get-trip-id>GT-TRAVELHOME-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Edmonton retour</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -561,6 +565,7 @@ Travelhome
   <trip>
     <get-trip-id>GT-TRAVELHOME-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Las Vegas retour</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -764,6 +769,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Halifax retour</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -964,6 +970,7 @@ Overig:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australian Adventure</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
@@ -1097,6 +1104,7 @@ Overig:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijk Yukon</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1246,6 +1254,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bucketlist West-Amerika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -1330,6 +1339,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bucketlist West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -1663,6 +1673,7 @@ Dag 7
   <trip>
     <get-trip-id>GT-TRAVELHOME-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camper &amp; Cruise: West-Canada en Alaska</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -1912,6 +1923,7 @@ Peyto Lake is beroemd om zijn unieke vorm en het adembenemende uitzicht. In tege
   <trip>
     <get-trip-id>GT-TRAVELHOME-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis van Sydney naar Cairns</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -2194,6 +2206,7 @@ Overig:
   <trip>
     <get-trip-id>GT-TRAVELHOME-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Campingpakket Edmonton en de Rockies</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -2459,6 +2472,7 @@ Logan Pass]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De highlights van Ontario</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -2671,6 +2685,7 @@ Overig:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De ultieme vakantie in Florida</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -2758,6 +2773,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Drie weken West-Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -3046,6 +3062,7 @@ Overig:
   <trip>
     <get-trip-id>GT-TRAVELHOME-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Eastcoast Experience</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -3274,6 +3291,7 @@ Overig:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Edmonton in combinatie met de Yukon</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -3352,6 +3370,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Epische reis door Zuidwest-Amerika en Hawaii</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -3545,6 +3564,7 @@ Manoa Falls]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Golden Outback natuur en stranden</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -3692,6 +3712,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het ruige westen</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
@@ -3862,6 +3883,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00022</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Lone Star State Texas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4035,6 +4057,7 @@ Travelhome
   <trip>
     <get-trip-id>GT-TRAVELHOME-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onvergetelijk West-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -4219,6 +4242,7 @@ Vliegreis:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Populairste reis door West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -4560,6 +4584,7 @@ Overig:
   <trip>
     <get-trip-id>GT-TRAVELHOME-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Southern Sounds &amp; Sights</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -4709,6 +4734,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Great American West met stopover in IJsland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -4877,6 +4903,7 @@ ICELANDAIR]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Triangle</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -5060,6 +5087,7 @@ Overig:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van oceaan naar outback</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -5233,6 +5261,7 @@ Travelhome]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00029</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Veelzijdig West-Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -5498,6 +5527,7 @@ Vliegreis:]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00030</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>West-Canada met citytrip Toronto</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -5579,6 +5609,7 @@ Travelhome
   <trip>
     <get-trip-id>GT-TRAVELHOME-00031</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Western Wonders</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
