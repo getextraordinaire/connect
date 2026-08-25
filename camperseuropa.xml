@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T09:21:16.839Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T10:22:38.908Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Voorbeeldreis camperreis Denemarken met kinderen</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -68,6 +69,7 @@ Meer lezen over Denemarken? Klik hier.
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Voorbeeldreis camperreis IJsland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -139,6 +141,7 @@ Meer lezen over IJsland? Klik hier.
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Voorbeeldreis camperreis Noord Spanje</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -227,6 +230,7 @@ Meer lezen over Spanje? Klik hier.
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Voorbeeldreis camperreis Portugal</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -298,6 +302,7 @@ Meer lezen over Portugal? Klik hier.
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Voorbeeldreis camperreis Schotland</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -381,6 +386,7 @@ Meer lezen over het Verenigd Koninkrijk? Klik hier.
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Een camperreis in Zuid-Zweden</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
