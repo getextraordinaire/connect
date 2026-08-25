@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelessence" partner="Travel Essence" generated="2026-08-25T09:21:16.839Z" count="20">
+<trips feed="travelessence" partner="Travel Essence" generated="2026-08-25T10:22:38.908Z" count="20">
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00001</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de highlights van Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -163,6 +164,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00002</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De highlights van Nieuw-Zeeland met het hele gezin</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -308,6 +310,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00003</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De hoogtepunten van Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -451,6 +454,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00004</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Nieuw-Zeeland in 4 weken</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -590,6 +594,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00005</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Australische oostkust in 4 weken</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -724,6 +729,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00006</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>3 weken langs de Australische oostkust met het hele gezin</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -849,6 +855,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00007</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Op avontuur met het gezin door Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -1009,6 +1016,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00008</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met het gezin langs de highlights van Australië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -1165,6 +1173,7 @@ Port Douglas combineert tropische warmte met een verfijnde, ontspannen sfeer. Di
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00009</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland doorkruisen met het gezin</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1296,6 +1305,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00010</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Nieuw-Zeeland in 5 weken</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
@@ -1457,6 +1467,7 @@ Gedurende de reis zit u in een ergonomisch ontworpen stoel met verstelbare hoofd
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00011</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Solo op pad het Noordereiland ontdekken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1587,6 +1598,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00012</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Soloreis langs alle highlights in Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -1719,6 +1731,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00013</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijke soloreis over het Zuidereiland</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1832,6 +1845,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00014</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Solo op reis van Sydney tot Queensland</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -1960,6 +1974,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00015</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Solo op pad van Sydney naar Melbourne</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -2090,6 +2105,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00016</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Sydney via Melbourne naar Tasmanië</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -2232,6 +2248,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00017</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Sydney en Uluru tot Noord-Queensland</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -2366,6 +2383,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00018</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van zuid naar noord Nieuw-Zeeland in 3 weken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -2483,6 +2501,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00019</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vijfweekse soloreis door Australië</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -2625,6 +2644,7 @@ U vliegt terug naar huis met een internationale vlucht in Economy Class Essentia
   <trip>
     <get-trip-id>GT-TRAVELESSENCE-00020</get-trip-id>
     <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verken het Zuid-Westen van Australië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
