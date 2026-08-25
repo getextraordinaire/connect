@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T10:59:01.131Z" count="37">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T11:38:44.399Z" count="38">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -3401,6 +3401,82 @@ Andaz Maui at Wailea Resort — Luxe, stijlvol en goed verzorgd resort in Wailea
     <get-trip-image-url-acco image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2025/08/aston-kaanapali-shores.webp</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2025/08/kahala-hotel-5.webp</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2025/08/andaz-maui-at-wailea-overzicht.webp</get-trip-image-url-acco>
+  </trip>
+  <trip>
+    <get-trip-id>GT-PACIFICISLANDTRAVEL-00022</get-trip-id>
+    <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-publish>Push</get-trip-publish>
+    <get-trip-name>San Francisco en Hawaii</get-trip-name>
+    <get-trip-duration>12</get-trip-duration>
+    <get-trip-lowest-price-2p>2.250</get-trip-lowest-price-2p>
+    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-country>Amerika</get-trip-country>
+    <get-trip-url>https://pacificislandtravel.nl/hawaii/rondreis-in-hawaii/san-francisco-en-hawaii/</get-trip-url>
+    <get-trip-scraped-content><![CDATA[San Francisco en Hawaii | Pacific Island Travel
+#San Francisco en Hawaii
+Home > Bestemmingen > Hawaii > Rondreis in Hawaii > San Francisco en Hawaii
+Rondreis Hawaii
+Inspiratie nodig?
+Carola van Gelstwijk
+Déanne Wetzels
+Jurgen Pol
+Margret Stornebrink
+Maxime Leiwakabessy
+#Over de reis
+Tijdens deze 12 daagse reis combineert u een 3 daagse 'City' stopover in San Francisco met een verlenging op het Hawaiianse eiland Oahu. Ontdek de hoogtepunten van San Francisco zoals het Golden Gate Bridge, Alcatraz en Fisherman's Wharf. Daarna vliegt u naar Hawaii waar u in Waikiki op Oahu verblijft. Een top reis!
+Vanaf € 2.250 p.p.
+##In een oogopslag
+- 12 daagse individuele reis incl. internationale en nationale vluchten
+- Overnachtingen in San Francisco en op Oahu
+#Reisprogramma (wijzigingen voorbehouden)
+Dag 1:
+Amsterdam – San Francisco.
+Dag 2 – 3:
+San Francisco.
+Dag 4:
+San Francisco – Oahu.
+Dag 10 – 12:
+Oahu – Amsterdam.
+Dag 12:
+Aankomst in Amsterdam.
+Bekijk uitgebreide reisprogramma
+#Reisprogramma (wijzigingen voorbehouden)
+Dag 1:
+##Amsterdam – San Francisco.
+Vlucht vanaf Amsterdam rechtstreeks naar San Francisco met United Airlines. Na aankomst transfer op eigen gelegenheid naar uw hotel. U verblijft drie nachten in San Francisco.
+- Overnachting 3 overnachtingen: Caza Hotel – Deluxe King Room logies, of soortgelijk.
+Dag 2 – 3:
+##San Francisco.
+San Francisco wordt ook wel 'The Golden Gate City' genoemd. San Francisco biedt indrukwekkende vergezichten met z'n twee imposante hangbruggen en piramide wolkenkrabber. San Francisco is ook bekend vanwege Chinatown, het gevangeniseiland Alcatraz, het gezellige Fishermans Wharf, de trams en de kronkelige Lombard Street. Een stopover in San Francisco is goed te combineren met een reis naar tropisch Hawaii.
+Dag 4:
+##San Francisco – Oahu.
+U verlaat de 'city' en vliegt naar Honolulu op Oahu, het hoofdeiland van Hawaii. Na aankomst transfer op eigen gelegenheid naar uw hotel.
+- Overnachting 6 overnachtingen: Shoreline Hotel Waikiki – Queensize Room logies, of soortgelijk.
+Dag 10 – 12:
+##Oahu – Amsterdam.
+U vliegt laat in de avond terug naar Amsterdam. Door het tijdsverschil komt u vroeg in de ochtend op dag 13 aan in Amsterdam, het is totaal ca. 18 uur vliegen.
+Dag 12:
+##Aankomst in Amsterdam.
+Aankomst in Amsterdam, vroeg in de ochtend.
+##Shoreline Hotel Waikiki
+Gelegen op minder dan 5 minuten lopen van Waikiki Beach en het Royal Hawaiian Centre en op ca. 20 minuten rijden van de internationale luchthaven.
+Inspiratie nodig?
+Carola van Gelstwijk
+Déanne Wetzels
+Jurgen Pol
+Margret Stornebrink
+Maxime Leiwakabessy
+Geïnspireerd geraakt?
+Krijgt u al zin om op reis te gaan? Onze reisadviseurs helpen u graag bij het samenstellen van deze rondreis.
+Plan een persoonlijk advies
+Hoe kunnen we u helpen?
+Altijd al stad en strand willen combineren? Tijdens deze unieke reis naar San Francisco en Hawaii combineert u stad en strand op een goede manier. Tijdens deze reis ziet u de Golden Gate Bridge en blijf daarna een paar dagen op Oahu. Klik hier voor het gehele programma!
+Shoreline Hotel Waikiki — Modern boutique hotel met eiland flair op loopafstand van Waikiki Beach. Pacific Island Travel helpt u graag met het boeken van uw reis naar Hawaii!]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0014/17/498ca4c79352a4562b706a0d1b1e7e1e2ce7c032.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2025/08/San-Francisco-1-scaled-2048x1367.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2026/01/csm_leahi-waikiki-oahu_1492b0f4fd.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://pacificislandtravel-nl.b-cdn.net/wp-content/uploads/2025/08/Shoreline-Hotel-Waikiki.webp</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00023</get-trip-id>
