@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="littleamerica" partner="Little America" generated="2026-08-25T11:38:44.399Z" count="33">
+<trips feed="littleamerica" partner="Little America" generated="2026-08-25T12:45:25.350Z" count="33">
   <trip>
     <get-trip-id>GT-LITTLEAMERICA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>2 weken Californië met het gezin</get-trip-name>
+    <get-trip-name>Californië met het gezin (2 weken)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>4.400</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -121,7 +121,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>2 weken – Vancouver Island met het gezin</get-trip-name>
+    <get-trip-name>Vancouver Island met het gezin (2 weken)</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>3.850</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -241,7 +241,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>2 weken Vancouver Island met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Vancouver Island met z&apos;n tweeën (2 weken)</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>4.900</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -363,7 +363,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Culturele rondreis door West-Canada</get-trip-name>
+    <get-trip-name>Culturele rondreis door West-Canada (3 weken)</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>8.600</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -494,7 +494,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Alaska met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Alaska met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>8.450</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -616,7 +616,7 @@ Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken British Columbia met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>British Columbia met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.950</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -753,7 +753,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Canada highlights met het gezin</get-trip-name>
+    <get-trip-name>Canada highlights met het gezin (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>4.650</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -882,7 +882,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken De Amerikaanse Rockies met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>De Amerikaanse Rockies met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>7.300</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1014,7 +1014,7 @@ Aankomst in Frankfurt International (FRA)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken De Canadese Rockies met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>De Canadese Rockies met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>5.100</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1138,7 +1138,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken De Deep South met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>De Deep South met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1265,7 +1265,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken De Rockies met het hele gezin</get-trip-name>
+    <get-trip-name>De Rockies met het hele gezin (3 weken)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.350</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1385,7 +1385,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken – Een luxe rondreis door British Columbia met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Een luxe rondreis door British Columbia met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>9.850</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1488,7 +1488,7 @@ Vlucht van Vancouver International Airport (YVR) naar Amsterdam - Schiphol Airpo
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Het Noordwesten van de VS met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Het Noordwesten van de VS met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.400</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1623,7 +1623,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken – Het Zuidwesten van Amerika met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Het Zuidwesten van Amerika met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>8.250</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1750,7 +1750,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Het Zuidwesten van de VS met het gezin</get-trip-name>
+    <get-trip-name>Het Zuidwesten van de VS met het gezin (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.750</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1889,7 +1889,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken New England met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>New England met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2013,7 +2013,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken New York &amp; het Zuidwesten met het gezin</get-trip-name>
+    <get-trip-name>New York &amp; het Zuidwesten met het gezin (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>6.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2130,7 +2130,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Noordoost-Amerika &amp; Oost-Canada met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Noordoost-Amerika &amp; Oost-Canada met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.650</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2260,7 +2260,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Oost-Canada met het gezin</get-trip-name>
+    <get-trip-name>Oost-Canada met het gezin (3 weken)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>3.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2385,7 +2385,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Oost-Canada met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Oost-Canada met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>4.450</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2511,7 +2511,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Solo door Oost-Canada</get-trip-name>
+    <get-trip-name>Solo door Oost-Canada (3 weken)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>7.650</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2617,7 +2617,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Solo door de Deep South</get-trip-name>
+    <get-trip-name>Solo door de Deep South (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>8.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2744,7 +2744,7 @@ Binnenlandse vlucht, Economy Class]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Solo door het Zuidwesten van de VS</get-trip-name>
+    <get-trip-name>Solo door het Zuidwesten van de VS (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>13.950</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2877,7 +2877,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Solo door New England</get-trip-name>
+    <get-trip-name>Solo door New England (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>11.500</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2989,7 +2989,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken Solo langs de highlights van Canada</get-trip-name>
+    <get-trip-name>Solo langs de highlights van Canada (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>8.300</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3111,7 +3111,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>3 weken – Van Calgary naar Vancouver met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Van Calgary naar Vancouver met z&apos;n tweeën (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>5.300</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3227,7 +3227,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>4 weken Solo door Vancouver Island &amp; British Columbia</get-trip-name>
+    <get-trip-name>Solo door Vancouver Island &amp; British Columbia (4 weken)</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>16.950</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3370,7 +3370,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>4 weken Vancouver Island &amp; British Columbia met het gezin</get-trip-name>
+    <get-trip-name>Vancouver Island &amp; British Columbia met het gezin (4 weken)</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>5.400</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3525,7 +3525,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>4 weken – Vancouver Island &amp; British Columbia met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Vancouver Island &amp; British Columbia met z&apos;n tweeën (4 weken)</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>6.800</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3671,7 +3671,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>4 weken – Zuidwest-Amerika &amp; de Rockies met het gezin</get-trip-name>
+    <get-trip-name>Zuidwest-Amerika &amp; de Rockies met het gezin (4 weken)</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>6.900</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3819,7 +3819,7 @@ Aankomst in Frankfurt International (FRA)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>5 weken British Columbia &amp; Alberta met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>British Columbia &amp; Alberta met z&apos;n tweeën (5 weken)</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>8.450</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3985,7 +3985,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>5 weken Noord- en Zuidwest-Amerika met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Noord- en Zuidwest-Amerika met z&apos;n tweeën (5 weken)</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
     <get-trip-lowest-price-2p>9.950</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4156,7 +4156,7 @@ Aankomst in Amsterdam - Schiphol Airport (AMS)]]></get-trip-scraped-content>
     <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>403 (Forbidden)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>6 weken Het complete westen van Canada met z&apos;n tweeën</get-trip-name>
+    <get-trip-name>Het complete westen van Canada met z&apos;n tweeën (6 weken)</get-trip-name>
     <get-trip-duration>42</get-trip-duration>
     <get-trip-lowest-price-2p>9.250</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
