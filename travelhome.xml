@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T11:38:44.399Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T12:45:25.350Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -972,7 +972,7 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Australian Adventure</get-trip-name>
+    <get-trip-name>Camperreis Australian Adventure</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1106,7 +1106,7 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Avontuurlijk Yukon</get-trip-name>
+    <get-trip-name>Camperreis Avontuurlijk Yukon</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1256,7 +1256,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Bucketlist West-Amerika</get-trip-name>
+    <get-trip-name>Bucketlist camperreis West-Amerika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -1341,7 +1341,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Bucketlist West-Canada</get-trip-name>
+    <get-trip-name>Bucketlist camperreis West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>2.999</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2474,7 +2474,7 @@ Logan Pass]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>De highlights van Ontario</get-trip-name>
+    <get-trip-name>Camperreis &apos;De highlights van Ontario&apos;</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2687,7 +2687,7 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>De ultieme vakantie in Florida</get-trip-name>
+    <get-trip-name>De ultieme camperreis in Florida</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -2775,7 +2775,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Drie weken West-Amerika</get-trip-name>
+    <get-trip-name>Camperreis West-Amerika (3 weken)</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>1.909</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3064,7 +3064,7 @@ Overig:
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Eastcoast Experience</get-trip-name>
+    <get-trip-name>Camperreis Eastcoast Experience</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3293,7 +3293,7 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Edmonton in combinatie met de Yukon</get-trip-name>
+    <get-trip-name>Camperreis Edmonton in combinatie met de Yukon</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3372,7 +3372,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Epische reis door Zuidwest-Amerika en Hawaii</get-trip-name>
+    <get-trip-name>Epische camperreis door Zuidwest-Amerika en Hawaii</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3566,7 +3566,7 @@ Manoa Falls]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Golden Outback natuur en stranden</get-trip-name>
+    <get-trip-name>Camperreis Golden Outback natuur en stranden</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3714,7 +3714,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Het ruige westen</get-trip-name>
+    <get-trip-name>Camperreis Het ruige westen</get-trip-name>
     <get-trip-duration>34</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -3885,7 +3885,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Lone Star State Texas</get-trip-name>
+    <get-trip-name>Camperreis Lone Star State Texas</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4059,7 +4059,7 @@ Travelhome
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Onvergetelijk West-Canada</get-trip-name>
+    <get-trip-name>Camperreis Onvergetelijk West-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4244,7 +4244,7 @@ Vliegreis:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Populairste reis door West-Canada</get-trip-name>
+    <get-trip-name>Populairste camperreis door West-Canada</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>1.859</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4586,7 +4586,7 @@ Overig:
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Southern Sounds &amp; Sights</get-trip-name>
+    <get-trip-name>Camperreis Southern Sounds &amp; Sights</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4736,7 +4736,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>The Great American West met stopover in IJsland</get-trip-name>
+    <get-trip-name>Camperreis The Great American West met stopover in IJsland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -4905,7 +4905,7 @@ ICELANDAIR]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>The Triangle</get-trip-name>
+    <get-trip-name>Camperreis The Triangle</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -5089,7 +5089,7 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Van oceaan naar outback</get-trip-name>
+    <get-trip-name>Camperreis &apos;Van oceaan naar outback&apos;</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -5263,7 +5263,7 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Veelzijdig West-Amerika</get-trip-name>
+    <get-trip-name>Camperreis Veelzijdig West-Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -5529,7 +5529,7 @@ Vliegreis:]]></get-trip-scraped-content>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>West-Canada met citytrip Toronto</get-trip-name>
+    <get-trip-name>Camperreis West-Canada met citytrip Toronto</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
@@ -5611,7 +5611,7 @@ Travelhome
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Western Wonders</get-trip-name>
+    <get-trip-name>Camperreis Western Wonders</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
