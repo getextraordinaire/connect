@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T15:57:55.239Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-08-25T18:22:41.272Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -54,6 +54,7 @@ Benieuwd welke campers er te huur zijn? Bekijk alle campers en filter op Duitsla
 Meer lezen over Denemarken? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="423481">https://images.panoramix.getaway.nl/media/default/0023/34/b0ecd0594e9c7c4c7abd566d6b6ab7107a995a80.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Camperreis-door-Denemarken.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2020/12/Ribe-Denemarken.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2020/12/Aarhus-Denemarken.jpg</get-trip-image-url-overview>
@@ -126,6 +127,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!
 Meer lezen over IJsland? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1034" image-weight="437305">https://images.panoramix.getaway.nl/media/default/0023/34/d490dc6fdbb1edb5862e18fc42fab26c7a7157a3.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Voorbeeldreis-IJsland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Reykjavik-centrum.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/IJsland-kust.jpg</get-trip-image-url-overview>
@@ -212,6 +214,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!
 Meer lezen over Spanje? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="436177">https://images.panoramix.getaway.nl/media/default/0023/34/06302d8afc975c6868d893be80915325f336f573.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Rondreis-Noord-Spanje-vanuit-Madrid.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Fontein-in-Madrid.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Las-Bardenas-Reales.jpg</get-trip-image-url-overview>
@@ -287,6 +290,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!
 Meer lezen over Portugal? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="419473">https://images.panoramix.getaway.nl/media/default/0023/34/5435f778ba2c0f81d3f082b0a1b9abb8f2af7898.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Voorbeeldreis-Porto-naar-Lissabon.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2020/10/Espigueiros.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Portugal-Braga.jpg</get-trip-image-url-overview>
@@ -368,6 +372,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!
 Meer lezen over het Verenigd Koninkrijk? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1152" image-weight="414985">https://images.panoramix.getaway.nl/media/default/0023/34/57004fe7977e9dc0aaea31eefe55eadb7126ffcb.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Rondreis-Schotland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Edinburgh-castle.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Edinburgh-oude-centrum.jpg</get-trip-image-url-overview>
@@ -449,6 +454,7 @@ Scroll naar boven op deze pagina en bereken je eigen prijs voor je reisperiode!
 Meer lezen over Zweden? Klik hier.
 ##Share This
 ##]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1064" image-weight="390811">https://images.panoramix.getaway.nl/media/default/0023/34/e60d06ff11d54cffd0775940dc2a316f13ad98c6.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Rondreis-Zuid-Zweden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Malmö.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Fietsen-bij-Växjö.jpg</get-trip-image-url-overview>
