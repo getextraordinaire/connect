@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-25T09:21:16.839Z" count="39">
+<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-25T10:22:38.908Z" count="39">
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Namibië Wildlife Rescue Project</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
@@ -115,6 +116,7 @@ Als vrijwilliger krijg je in Namibië de kans om actief betrokken te zijn bij he
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Neushoorn &amp; Olifanten Project</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
@@ -233,6 +235,7 @@ Red als vrijwilliger in Afrika de neushoorn en de olifanten in Zimbabwe van ille
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Paardrijden &amp; Wildlife Bescherming</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -352,6 +355,7 @@ Combineer paardrijden met vrijwilligerswerk in Afrika! Help als vrijwilliger mee
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Big 5 Wildlife Project</get-trip-name>
     <get-trip-duration>70</get-trip-duration>
@@ -452,6 +456,7 @@ Het Big 5 Wildlife Paterson project in Zuid-Afrika zet zich in voor het bescherm
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sport &amp; Kidsclub Project</get-trip-name>
     <get-trip-duration>70</get-trip-duration>
@@ -568,6 +573,7 @@ Vrijwilligerswerk in Zuid-Afrika: Maak een verschil met het Sport & Kidsclub Pro
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget Backpacker Pass</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -672,6 +678,7 @@ Backpack flexibel door Australië met de Budget Backpacker Pass! Reis met de Gre
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Backpackreis Groep Oostkust Australie</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -816,6 +823,7 @@ Ontdek de Oostkust van Australië met deze semi-begeleide backpackreis. Verken B
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beach &apos;n Bush Groepsreis</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -948,6 +956,7 @@ Ontdek in een groep de oostkust van Australië! Neem deel aan de 43-daagse Beach
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oostkust Budget Groepsreis</get-trip-name>
     <get-trip-duration>43</get-trip-duration>
@@ -1102,6 +1111,7 @@ Ontdek in een groep de oostkust van Australië! Neem deel aan de 36-daagse Oostk
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oostkust Experience Groepsreis</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1227,6 +1237,7 @@ Australië ontdekken in een groep is fantastisch! Maak nieuwe vrienden voor het 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Spot X Level 1 Surfinstructeur Surfleraar</get-trip-name>
     <get-trip-duration>90</get-trip-duration>
@@ -1324,6 +1335,7 @@ Word surfleraar in Australië met de 3 maanden Spot X cursus. Leer surfen, volg 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildlife &amp; Regenwoud Vrijwilligersproject in Australië</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
@@ -1426,6 +1438,7 @@ Werk met dieren en bescherm natuur in Australië met het Wildlife & Regenwoud Pr
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boerderijwerk in Australië</get-trip-name>
     <get-trip-duration>365</get-trip-duration>
@@ -1542,6 +1555,7 @@ Werken op een boerderij in Australië tijdens je tussenjaar. Met deze baangarant
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Melbourne Plus Startpakket</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -1657,6 +1671,7 @@ Start je werkvakantie in Australië met het Melbourne Plus startpakket. Regel al
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sydney Plus Startpakket</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -1778,6 +1793,7 @@ Werkvakantie in Australië tijdens je tussenjaar. Start je avontuur met het Sydn
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Werken met Paarden in Australië</get-trip-name>
     <get-trip-duration>365</get-trip-duration>
@@ -1899,6 +1915,7 @@ Droom je van werken met paarden tijdens je tussenjaar? Met dit programma word je
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cambodja Explorer Groepsreis</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -2005,6 +2022,7 @@ Neem deel aan de 10-daagse Cambodja Explorer groepsreis voor jongeren. Verken o.
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cambodja Intro Groepsreis</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -2112,6 +2130,7 @@ Wil je met een groep jongvolwassenen Cambodja verkennen? Boek dan de 10-daagse C
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali &amp; Beyond Groepsreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -2239,6 +2258,7 @@ Tijdens deze 18-daagse Bali & Beyond Groepsreis, ontdek je niet alleen het mooie
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali &amp; Gili Intro Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -2362,6 +2382,7 @@ Ontdek Bali en Gili eilanden met de Bali & Gili Intro Jongeren Groepsreis! Inclu
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali &amp; Lombok Groepsreis</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -2502,6 +2523,7 @@ Op de jongerenreis naar Bali en Lombok is er plaats voor maximaal 20 avontuurlij
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00022</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali &amp; Penida Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -2651,6 +2673,7 @@ Met de 12-daagse Bali & Penida jongerenreis ontdek je in een groep Indonesië, e
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Intro Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -2759,6 +2782,7 @@ Maak je klaar voor de 9- of 12-daagse Thailand Intro jongerenreis. Je start met 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Northern Groepsreis</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2873,6 +2897,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -3034,6 +3059,7 @@ Wil je het beste van Thailand zien in een groep? Kies dan voor de 27-daagse Ulti
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Wanderer Groepsreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -3161,6 +3187,7 @@ Met de Thailand Wanderer Groepsreis maak je een reis van je leven! Deze 18-daags
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam Budget Groepsreis</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -3267,6 +3294,7 @@ Ontdek Vietnam tijdens de 12-daagse Vietnam Budget jongeren groepsreis voor 18- 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam Explorer Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -3403,6 +3431,7 @@ Ontdek met de 2-weekse Explorer jongerenreis, het adembenemende Vietnam! Je reis
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00029</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3558,6 +3587,7 @@ Backpacken in Vietnam? Ontdek samen met andere reizigers alle highlights tijdens
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00030</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali Engels Lesgeven Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -3667,6 +3697,7 @@ Doe vrijwilligerswerk op Bali in Ubud en geef Engelse les aan lokale kinderen. B
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00031</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali Rifbehoud Project</get-trip-name>
     <get-trip-duration>84</get-trip-duration>
@@ -3773,6 +3804,7 @@ Vrijwilligerswerk op Bali: help bij rifbehoud in Tianyar. Door kunstmatige riffe
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00032</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Olifanten Project • Vrijwilligerswerk in Thailand</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
@@ -3858,6 +3890,7 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met veel kennis
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00033</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Wildlife Vrijwilligersproject</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
@@ -3941,6 +3974,7 @@ Dit vrijwilligerswerkproject wordt uitgevoerd door een ervaren lokale organisati
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00034</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Adventure Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -4091,6 +4125,7 @@ Beleef Nieuw-Zeeland in 13 dagen met de Nieuw-Zeeland Adventure groepsreis. Van 
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00035</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Experience</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -4268,6 +4303,7 @@ Ontdek Nieuw-Zeeland in 24 dagen tijdens een groepsreis voor jongvolwassenen. Re
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00036</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Ultimate Groepsreis</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -4415,6 +4451,7 @@ Ontdek tijdens de 17-daagse Nieuw-Zeeland Ultimate jongenreis het Noorder- en Zu
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00037</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Auckland Intro Startpakket</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -4540,6 +4577,7 @@ Start jouw werkvakantie in Nieuw-Zeeland met het Auckland startpakket. Ontdek he
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00038</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Easy Start Werkvakantie</get-trip-name>
     <get-trip-duration>5</get-trip-duration>
@@ -4619,6 +4657,7 @@ Start je werkvakantie in Nieuw-Zeeland met het 5-daagse Easy Start pakket in Auc
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00039</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>USA Budget Groepsreis</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
