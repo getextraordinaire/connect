@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T13:46:40.480Z" count="38">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-25T15:57:55.239Z" count="38">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -2061,7 +2061,7 @@ Sandy Beach Resort — Op zoek naar een hotel op de eilanden van Tonga? Bij Paci
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Blue Lagoon Cruises</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
-    <get-trip-lowest-price-2p>3.745</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.554</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/cruises/blue-lagoon-cruises/</get-trip-url>
