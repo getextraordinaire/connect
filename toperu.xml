@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="toperu" partner="ToPeru" generated="2026-08-25T15:57:55.239Z" count="6">
+<trips feed="toperu" partner="ToPeru" generated="2026-08-25T18:22:41.272Z" count="6">
   <trip>
     <get-trip-id>GT-TOPERU-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -419,6 +419,7 @@ U vliegt over de Andes naar de diepte van Puerto Maldonado in het Amazone gebied
 Onze populaire 3 weekse rondreis Peru, 'Absoluut Peru'. Loop de Inca Trail en bezoek Machu Picchu. Boek uw rondreis bij de Peru specialist.
 Elementor 4.2.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap
 Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="416721">https://images.panoramix.getaway.nl/media/default/0023/34/e87d7cd97fce1ea401872a413e465fd1555edcbf.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://toperu.nl/wp-content/uploads/2025/01/257362_1900x300.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
