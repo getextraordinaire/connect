@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-25T09:21:16.839Z" count="12">
+<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-25T10:22:38.908Z" count="12">
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Namibië, Botswana en Zimbabwe: magnifieke natuur en fabelachtig wildlife</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -231,6 +232,7 @@ Rondreis Namibië, Botswana en Zimbabwe: magnifieke natuur en fabelachtig wildli
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijk Malawi: Het warme hart van Afrika</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -393,6 +395,7 @@ Boek nu een indrukwekkende rondreis Malawi, het warme hart van Afrika. Puur, vri
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Exclusieve groepsreis magisch Namibië</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -606,6 +609,7 @@ Bekijk deze exclusieve groepsreis Namibië (max 6 pers) langs de magische hoogte
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Hoogtepunten van Namibië (comfort – 19 dagen)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -845,6 +849,7 @@ Een bijzondere rondreis hoogtepunten van Namibië, van de ene verrassing naar de
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Namibië: De wonderen van Namibië</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1083,6 +1088,7 @@ Bekijk deze rondreis hoogtepunten van Namibië, met onder andere national park E
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Privé rondreis wildparken van Tanzania en Zanzibar</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -1265,6 +1271,7 @@ Een rondreis wildparken van Tanzania, zoals Serengetti en Ngorongoro. U slaapt i
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Individuele rondreis: De hoogtepunten van Zuid-Afrika</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -1571,6 +1578,7 @@ Een rondreis hoogtepunten van Zuid-Afrika met Kruger (Big Five), Panoramaroute, 
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kaapstad, Stellenbosch en Kruger Luxe</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -1718,6 +1726,7 @@ Kaapstad en Kruger Luxe Rondreis Zuid-Afrika, met ook de wijnlanden, tuinroute e
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Luxe lodges in mooiste wildparken van Zuid-Afrika</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1937,6 +1946,7 @@ U bent een fijnproever en wilt genieten van prachtige lodges en veel wild zien. 
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Afrika: Kaapstad, wijn, natuur en safari</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -2148,6 +2158,7 @@ Individuele rondreis Zuid-Afrika Kaapstad wijn en safari, met kuddes olifanten i
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Afrika met golf en safari</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2302,6 +2313,7 @@ Een rondreis Zuid-Afrika met golf en safari's. Ene dag de big Five, andere dag e
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Unieke roadtrip: Van Johannesberg langs de Wild Coast naar de Westkaap (met wildparken en golfbanen)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
