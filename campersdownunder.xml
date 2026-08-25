@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-25T09:21:16.839Z" count="12">
+<trips feed="campersdownunder" partner="Campers Down Under" generated="2026-08-25T10:22:38.908Z" count="12">
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Melbourne - Perth</get-trip-name>
     <get-trip-duration>42</get-trip-duration>
@@ -161,6 +162,7 @@ Camperreis langs de zuidkust van Australië. Bezoek alle highlights op deze prac
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>2WD Camperreis Broome - Darwin</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -292,6 +294,7 @@ Van Broome naar Darwin via de outback met een 2WD camper. Lees alles over de bez
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis West-Australië: Perth - Broome</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -412,6 +415,7 @@ Camperreis in West Australië. Start in Perth en reis langs de prachtige westkus
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperroute Noordereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -479,6 +483,7 @@ Lees hier meer.
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Darwin</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -582,6 +587,7 @@ Camperreis vanaf Darwin langs de prachtige parken zoals Kakadu, Katherine (Nitmi
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Perth (zuidwest Australië)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -740,6 +746,7 @@ Bekijk onze camperrondreis vanaf Perth. Een route langs de mooiste stranden, bij
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Perth (westkust Australië)</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -873,6 +880,7 @@ Een prachtige rondreis met de camper vanaf Perth via de westkust en outback van 
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>4WD camperreis Broome - Darwin (Gibb River Road)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1019,6 +1027,7 @@ Reis met een 4WD camper via de Gibb River Road door het Kimberley National Park.
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Sydney naar Adelaide</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -1122,6 +1131,7 @@ Bekijk onze routebeschrijving van de zuidkust van Australië: van Sydney tot Mel
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Sydney naar Cairns - Oostkust</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -1260,6 +1270,7 @@ Voor een camperreis in Australië is de Oostkust van Sydney naar Cairns of ander
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camper rondreis Zuidereiland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1327,6 +1338,7 @@ Lees hier meer.
   <trip>
     <get-trip-id>GT-CAMPERSDOWNUNDER-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Red Centre Australië</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
