@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-25T11:38:44.399Z" count="8">
+<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-25T12:45:25.350Z" count="8">
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -249,7 +249,7 @@ Een rondreis in Tanzania maken om nooit meer te vergeten? Hier vind je een breed
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (11 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (11 dagen)</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>2.474</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -492,7 +492,7 @@ Als honeymoon een rondreis in Tanzania en Zanzibar? Dat is een avontuur vol hoog
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (13 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (13 dagen)</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>2.890</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -800,7 +800,7 @@ Tijdens deze 13-daagse reis door Tanzania en Zanzibar ontdek je snel waarom Tanz
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (15 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Tanzania &amp; Zanzibar (15 dagen)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>3.349</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
