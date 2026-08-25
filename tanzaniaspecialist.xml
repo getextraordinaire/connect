@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-25T09:21:16.839Z" count="8">
+<trips feed="tanzaniaspecialist" partner="Tanzania Specialist" generated="2026-08-25T10:22:38.908Z" count="8">
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Tanzania, alle noordelijke parken in één reis!</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -246,6 +247,7 @@ Een rondreis in Tanzania maken om nooit meer te vergeten? Hier vind je een breed
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Tanzania &amp; Zanzibar (11 dgn)</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -488,6 +490,7 @@ Als honeymoon een rondreis in Tanzania en Zanzibar? Dat is een avontuur vol hoog
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Tanzania &amp; Zanzibar (13 dgn)</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -795,6 +798,7 @@ Tijdens deze 13-daagse reis door Tanzania en Zanzibar ontdek je snel waarom Tanz
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Tanzania &amp; Zanzibar (15 dgn)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1103,6 +1107,7 @@ Tijdens deze 15-daagse rondreis door Tanzania en Zanzibar ervaar je niet het bes
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Tanzania &amp; Zanzibar [De Grote Trek]</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1414,6 +1419,7 @@ Deze 18-daagse Tanzania & Zanzibar rondreis neemt je mee naar wildparken en pare
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari Tanzania</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -1611,6 +1617,7 @@ Op safari in Tanzania voor 7 dagen? Dan is deze route ideaal: bezoek de Ngorongo
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari in Tanzania – voor wie de grote trek niet wil missen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -1809,6 +1816,7 @@ Op vakantie naar Tanzania voor 8 dagen? Dat is een reis om nooit te vergeten. On
   <trip>
     <get-trip-id>GT-TANZANIASPECIALIST-00041</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beklimming van de Kilimanjaro via de populaire 6-daagse Machame Route</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
