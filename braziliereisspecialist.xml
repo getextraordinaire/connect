@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-25T09:21:16.839Z" count="6">
+<trips feed="braziliereisspecialist" partner="Brazilie Reis Specialist" generated="2026-08-25T10:22:38.908Z" count="6">
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe rondreis Rio de Janeiro, Costa Verde en Foz do Iguaçu</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -155,6 +156,7 @@ De rest van de dag besteed je naar eigen inzicht.]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strandvakantie Pipa</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -333,6 +335,7 @@ In en om Pipa is ontzettend veel te doen. Bij onze Nederlandstalige host ter pla
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strandvakantie Porto de Galinhas</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -443,6 +446,7 @@ Dit is één van de beste hotels in Porto de Galinhas. Het Kembali Hotel Porto d
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strandvakantie Rio de Janeiro</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -885,6 +889,7 @@ Belangrijke Opmerkingen
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Brazilië &apos;Brasil Fantastico&apos;</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1613,6 +1618,7 @@ Deze excursie bestaat uit een ontspannen 6u durende boottocht met een typische '
   <trip>
     <get-trip-id>GT-BRAZILIEREISSPECIALIST-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strandvakantie Rio de Janeiro en Costa do Sol</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
