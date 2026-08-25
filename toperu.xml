@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="toperu" partner="ToPeru" generated="2026-08-25T11:38:44.399Z" count="6">
+<trips feed="toperu" partner="ToPeru" generated="2026-08-25T12:45:25.350Z" count="6">
   <trip>
     <get-trip-id>GT-TOPERU-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Peru (10 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Peru (10 dagen)</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>1.357</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -93,7 +93,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Peru (12 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Peru (12 dagen)</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>2.165</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -223,7 +223,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Peru (23 dgn)</get-trip-name>
+    <get-trip-name>Rondreis Peru (23 dagen)</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
     <get-trip-lowest-price-2p>2.995</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
