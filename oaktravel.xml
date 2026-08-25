@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-25T12:45:25.350Z" count="39">
+<trips feed="oaktravel" partner="Oak Travel" generated="2026-08-25T13:46:40.480Z" count="39">
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -680,7 +680,7 @@ Backpack flexibel door Australië met de Budget Backpacker Pass! Reis met de Gre
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Backpackreis Groep Oostkust Australie</get-trip-name>
+    <get-trip-name>Backpackreis Groep Oostkust Australië</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>2.895</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
@@ -3806,7 +3806,7 @@ Vrijwilligerswerk op Bali: help bij rifbehoud in Tianyar. Door kunstmatige riffe
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Olifanten Project • Vrijwilligerswerk in Thailand</get-trip-name>
+    <get-trip-name>Olifanten Project in Thailand</get-trip-name>
     <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>595</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
