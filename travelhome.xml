@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T15:57:55.239Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-08-25T18:22:41.272Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -104,6 +104,7 @@ Travelhome
 Route - 15-daagse camperreis door Florida | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1068" image-weight="404195">https://images.panoramix.getaway.nl/media/default/0023/34/43ec25851bf1d6baa0adc43a95797b903a4a826c.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/al9MY0l5-beach-1156977.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/a3BqSEJl-arecaceae-3139586.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/V2dIM0xx-apalachicola_national_forest_klein.jpg</get-trip-image-url-overview>
@@ -230,6 +231,7 @@ Route - 15-daagse camperreis Toronto | Travelhome
 #Over de route
 Travelhome
 - Vliegreis]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x798" image-weight="265650">https://images.panoramix.getaway.nl/media/guide/0001/24/2982ac574127660a578e088a951a3dfcc232abcd.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/U1A5S2pV-canada_toronto.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/alZNYUJB-canada_ottawa.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/M3UyVUlI-canada_ontario-03.jpg</get-trip-image-url-overview>
@@ -437,6 +439,7 @@ paradijs!
 \ \
 - Compact
 - Wendbaar]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1066" image-weight="405218">https://images.panoramix.getaway.nl/media/default/0023/34/3f3b5e7780e163102074ae9479891d312aa20357.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UldQT0dL-porpoise-bay-beach.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dDFPTXdV-vancouver-island_sechelt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/d2pMUXA2-vancouver-island_victoria.jpg</get-trip-image-url-overview>
@@ -535,6 +538,7 @@ Travelhome
 38:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-baa38970513f9f9f.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-1aa7cb50edf6ef39.js'],'default']
 39:Tf97,
 3a:Td50,]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="416020">https://images.panoramix.getaway.nl/media/default/0023/34/d9afc319dd701af885c4b047987368392d22753a.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/andQX3hm-banner-canadream-west-canada-rond-kampvuur.png</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OTVnUlNk-rv_valley_roadway_2712_f3-klein-2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OVNUamxP-edmonton.jpg</get-trip-image-url-overview>
@@ -739,6 +743,7 @@ Travelhome
 Route - 22-daagse camperreis Las Vegas retour | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1063" image-weight="402171">https://images.panoramix.getaway.nl/media/default/0023/34/efadf0bf941db145a36ce3c1dae3e35b17840438.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dmlETFh2-las-vegas-img_8402-7d.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/am5mT2RE-vlakbij-vegas.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eGVPRWpW-las-vegas-strip---studieireis-mv-2.jpg</get-trip-image-url-overview>
@@ -945,6 +950,7 @@ Travelhome
 Vliegreis:
 Camperhuur:
 Overig:]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x803" image-weight="167533">https://images.panoramix.getaway.nl/media/guide/0001/24/7922c8280e9102c76dd7ffb5f3174196198a0c79.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cm52SmlK-nb-kouchibouguac-02-credit-parks-canada-1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Um1ZWWRY-prince-edward-island-54990_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dUw4SVEz-anthony-maw-ne0esumugxu-unsplash.jpg</get-trip-image-url-overview>
@@ -1222,6 +1228,7 @@ Travelhome
 Route - Avontuurlijk Yukon | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x800" image-weight="247857">https://images.panoramix.getaway.nl/media/guide/0001/25/142fe387392995dc0ecb93d0ae9b8d04a9aa9ebd.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WmtWbHBM-id_rm---gerhard-pfaff-09-29dp.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/enEtaU42-kalen-emsley-bkci_8qcdvq-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/YXlWb0ZD-yukon-3003242_1920.jpg</get-trip-image-url-overview>
@@ -1644,6 +1651,7 @@ Dag 7
 \ \
 - Compact
 - Wendbaar]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="386716">https://images.panoramix.getaway.nl/media/default/0023/34/6a57685b5635adb876c84c21ef6937a52cd5b5bb.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c1RLbk5E-dag-11d-rockies-heli-canada---cline-river-%2835%29.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eVgtc3BU-img_9969_dxo.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/U0RCVDEz-1canoe_lake_louise_zizka_2h.jpg</get-trip-image-url-overview>
@@ -1890,6 +1898,7 @@ Peyto Lake is beroemd om zijn unieke vorm en het adembenemende uitzicht. In tege
 #Whistler
 35:Tcc2,
 ##CHINATOWN]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="429371">https://images.panoramix.getaway.nl/media/default/0023/34/a17f57b07fa4b52979e9e35cdeb20b7954b38589.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dkRJdm9n-2hiking-lake-agnes-tea-housekl.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UmtaT1g3-glacier-bay-80644_1920kl.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VndsNXhk-calgary_pathways_downtown_m.jpg</get-trip-image-url-overview>
@@ -2177,6 +2186,7 @@ Overig:
 \ \
 - Compact
 - Wendbaar]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1068" image-weight="406134">https://images.panoramix.getaway.nl/media/default/0023/34/1a0bb9556c213430f115b575d5470f6e4ab5609f.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Ny02bnRu-au_three-sisters_blue-mountains_01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WkhBcEcx-brisbane.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/T01PNmxB-au_byron-bay_02.jpg</get-trip-image-url-overview>
@@ -2441,6 +2451,7 @@ Overig:
 Lake Louise
 Peyto Lake
 Logan Pass]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x884" image-weight="354016">https://images.panoramix.getaway.nl/media/guide/0001/24/7af1995bb9c827a4ef385587bf154072a512e908.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UkoyVGRE-elk-island-national-park.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WThJeFFo-city-gf59b985f9_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/aEFVYjNE-canada_alberta.jpg</get-trip-image-url-overview>
@@ -2655,6 +2666,7 @@ Travelhome
 Vliegreis:
 Camperhuur:
 Overig:]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x800" image-weight="320895">https://images.panoramix.getaway.nl/media/guide/0001/24/a9696718529b36139cf9313d42e8bf52aa9deb89.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/S1Rtckc3-toronto-tumb.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/bGZHc1B0-camperhuur-oost-canada-niagara-falls.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N1Uwdll5-algonquin-provincial-park.jpg</get-trip-image-url-overview>
@@ -2752,6 +2764,7 @@ Naples
 Afstand:
 2.400
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="386713">https://images.panoramix.getaway.nl/media/default/0023/34/9cd6cb09ff9cb5d7c547dd00815b7920ffbe6525.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ZERNektZ-joel-de-vriend-pbyjbtjh9yy-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eTBETDZY-swan-839546_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Z21fSEpw-footprints_in_sand_svndrwzdou95zqeybsw9tno_cmyk_s1kl.jpg</get-trip-image-url-overview>
@@ -3339,6 +3352,7 @@ Deel 2: Yukon/Whitehorse
 Incl. / Excl. - Edmonton in combinatie met de Yukon | Travelhome
 #Inclusief - Edmonton in combinatie met de Yukon
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1200x900" image-weight="241544">https://images.panoramix.getaway.nl/media/guide/0001/24/e5f686f105031b0843d66ae763fe5800d1330601.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UkoyVGRE-elk-island-national-park.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Qm5LV1N2-midnight-sun-1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SmRfWnM3-dawson-city-1-1.jpg</get-trip-image-url-overview>
@@ -4028,6 +4042,7 @@ Route - Lone Star State Texas | Travelhome
 #Over de route
 Travelhome
 ##Santa Fe]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="411110">https://images.panoramix.getaway.nl/media/default/0023/34/d1c7ba3ceef2ec0db01e89623d54948faa453dfb.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/bS1pRnJQ-where_the_west_begins_4-klein-1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WXktZVNs-weg-tussen-marathon-en-big-bend-credit-kenny-braun.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ZzJkTE1C-big-bend-national-park-far-flung-credit-in-foto.jpg</get-trip-image-url-overview>
@@ -4214,6 +4229,7 @@ Route - Onvergetelijk West-Canada | Travelhome
 #Over de route
 Travelhome
 Vliegreis:]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x867" image-weight="395796">https://images.panoramix.getaway.nl/media/default/0023/34/e289336b77c39924367fcc91c70220c34d2cb5b9.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cTVxalh4-canada_alberta_hert.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Q1E1ZEtU-3alberta3-low.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/czNiN3Fz-1.jpeg</get-trip-image-url-overview>
@@ -4555,6 +4571,7 @@ Overig:
 \ \
 - Compact
 - Wendbaar]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="427488">https://images.panoramix.getaway.nl/media/default/0023/34/1910c05ed90a16567affbcce3515f983814fa1fa.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/anBjUU1Y-admjast_exterior_024.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/blVtcWZS-unsplash-banff-national-park-wildlife.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eEJDNlQ4-waterton2%281%29.jpg</get-trip-image-url-overview>
@@ -4705,6 +4722,7 @@ Travelhome
 Route - Southern Sounds & Sights | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1196" image-weight="434203">https://images.panoramix.getaway.nl/media/default/0023/34/d575158015a5f0af7bfc615304c227fe3286bccc.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VkNONDRs-beale-street-4236474_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/bU5IN0hG-joao-francisco-jqwv5fnpksm-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N3pGRzlY-sun-studio-6754227_1280.jpg</get-trip-image-url-overview>
@@ -4874,6 +4892,7 @@ Route - The Great American West met stopover in IJsland | Travelhome
 Travelhome
 EXCURSIES
 ICELANDAIR]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="279160">https://images.panoramix.getaway.nl/media/default/0023/34/d7b3af94f53d458454486febf78890d2e99652f6.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VGpPZ2Vr-grand-teton-national-park.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WU5GRFdI-nikolay-j78ncravn8c-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OV9vOVRi-reykjavik-1988082_1920.jpg</get-trip-image-url-overview>
@@ -5497,6 +5516,7 @@ Travelhome
 -BELLAGIO
 -HOOVER DAM
 Vliegreis:]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="409786">https://images.panoramix.getaway.nl/media/default/0023/34/a2cbdc9c2b84777732caad7839bb9e7149d9719d.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/TWZqLXMy-2.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/a0Y2b1A1-1.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ZzdCcWRH-6.jpeg</get-trip-image-url-overview>
@@ -5756,6 +5776,7 @@ Travelhome
 Route - Western Wonders - Camperreis in Canada | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="305717">https://images.panoramix.getaway.nl/media/default/0023/34/06a62c904572f24f5683056224a75474973bf413.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VlUtajVX-pacific-rim---aerial-view-of-pacific-rim-national-park-reserve.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WmgzaW1l-163_-_vancouver_reflection_city_shot2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/MFJpcTBa-ca_whistler_04-docformaat.jpg</get-trip-image-url-overview>
