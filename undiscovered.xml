@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-25T18:22:41.272Z" count="10">
+<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-25T18:53:13.641Z" count="10">
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00082</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -278,6 +278,7 @@ Vanaf €2250 p.p.
 #Ontvang onze filipijnen reisgids
 Schrijf je in voor onze nieuwsbrief en ontvang direct een uitgebreide reisgids over de Filipijnen in je mailbox! Daarna blijf je op de hoogte van exclusieve reisideeën en insider-tips van onze reisspecialisten.
 Ga buiten de gebaande paden en ervaar de Filipijnen op zijn puurst, met ongerepte natuur, afgelegen eilanden en bijzondere ontmoetingen.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="428975">https://images.panoramix.getaway.nl/media/default/0023/34/219e8685df2346c01b870c03e73e716527cdfd75.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/hr-filip-palawan-rvp-aanvullende-selectie-35/hero_small/50x50/hr-filip-palawan-rvp-aanvullende-selectie-35.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/b1-tuasan-falls/large/50x50/b1-tuasan-falls.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/c1-mantigue-island/large/50x50/c1-mantigue-island.jpg</get-trip-image-url-overview>
@@ -2141,6 +2142,7 @@ Vanaf €2950 p.p.
 #Ontvang onze filipijnen reisgids
 Schrijf je in voor onze nieuwsbrief en ontvang direct een uitgebreide reisgids over de Filipijnen in je mailbox! Daarna blijf je op de hoogte van exclusieve reisideeën en insider-tips van onze reisspecialisten.
 Een avontuurlijke rondreis naar afgelegen locaties in de Filipijnen. Sluit af met de TAO Philippines boottocht die het mooiste archipel op aarde doorkruist.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="404268">https://images.panoramix.getaway.nl/media/default/0023/34/39c9fcb799824e7a70c663e7140574a2416e3774.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/tao-islands-tours24a76c411bbb42751f2844ebc03e8368bfd54d1/large/50x50/tao-islands-tours24a76c411bbb42751f2844ebc03e8368bfd54d1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/uw-6013/large/50x50/uw-6013.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.undiscovered.nl/media/img-4843/large/50x50/img-4843.jpg</get-trip-image-url-overview>
