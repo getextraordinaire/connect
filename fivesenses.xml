@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-25T13:46:40.480Z" count="21">
+<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-25T15:57:55.239Z" count="21">
   <trip>
     <get-trip-id>GT-FIVESENSES-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -204,7 +204,7 @@ Inclusief
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië CamperCombi Oost</get-trip-name>
     <get-trip-duration>39</get-trip-duration>
-    <get-trip-lowest-price-2p>5.175</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>6.265</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-oost/</get-trip-url>
@@ -1053,7 +1053,7 @@ Inclusief
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Southern Comfort</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
-    <get-trip-lowest-price-2p>5.820</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>8.225</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/southern-comfort/</get-trip-url>
