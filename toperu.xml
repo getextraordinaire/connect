@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="toperu" partner="ToPeru" generated="2026-08-25T09:21:16.839Z" count="6">
+<trips feed="toperu" partner="ToPeru" generated="2026-08-25T10:22:38.908Z" count="6">
   <trip>
     <get-trip-id>GT-TOPERU-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru (10 dgn)</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -90,6 +91,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
   <trip>
     <get-trip-id>GT-TOPERU-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru (12 dgn)</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -163,6 +165,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
   <trip>
     <get-trip-id>GT-TOPERU-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru; Inca trail en Regenwoud</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -218,6 +221,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
   <trip>
     <get-trip-id>GT-TOPERU-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru (23 dgn)</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -322,6 +326,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
   <trip>
     <get-trip-id>GT-TOPERU-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>3-weekse rondreis Peru</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -419,6 +424,7 @@ Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin 
   <trip>
     <get-trip-id>GT-TOPERU-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Noord Peru</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
