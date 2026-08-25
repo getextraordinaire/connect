@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="afrikasafari" partner="Afrika Safari" generated="2026-08-25T13:46:40.480Z" count="37">
+<trips feed="afrikasafari" partner="Afrika Safari" generated="2026-08-25T15:57:55.239Z" count="37">
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -2363,7 +2363,7 @@ Ontdek Zuid-Afrika in 16 dagen: Kaapstad, Tuinroute en Addo. Reis langs kust, na
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Garden Route en Addo</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>2.215</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.161</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://afrikasafari.nl/reisaanbod/12-dagen-zuid-afrika-garden-route-en-addo/</get-trip-url>
