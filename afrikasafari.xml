@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="afrikasafari" partner="Afrika Safari" generated="2026-08-25T09:21:16.839Z" count="37">
+<trips feed="afrikasafari" partner="Afrika Safari" generated="2026-08-25T10:22:38.908Z" count="37">
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: Safari-avontuur en strandontspanning</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -222,6 +223,7 @@ Van hartslagverhogende wildlife-ontmoetingen tot rustige strandmomenten: ervaar 
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: rondreis door het noorden plus strand</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -590,6 +592,7 @@ Ontdek Noord-Zuid-Afrika in 18 dagen met safari's, natuur en strand in St Lucia.
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>South Africa: hikes and beach</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -857,6 +860,7 @@ Vraag deze reis aan]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: laat je onderdompelen in safari&apos;s en natuur</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -1115,6 +1119,7 @@ Vraag deze reis aan
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Pretoria, safari en wandelingen</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -1327,6 +1332,7 @@ Vraag deze reis aan
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Panorama route, Kruger en Saint Lucia</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1699,6 +1705,7 @@ Verken Zuid-Afrika in 14 dagen: Panorama Route, Kruger en St Lucia. Spot wildlif
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Panorama route en Kruger</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -1932,6 +1939,7 @@ Vraag deze reis aan
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Hoogtepunten van de kust en Addo</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2351,6 +2359,7 @@ Ontdek Zuid-Afrika in 16 dagen: Kaapstad, Tuinroute en Addo. Reis langs kust, na
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Garden Route en Addo</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -2698,6 +2707,7 @@ Vraag deze reis aan
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: genieten aan de kust</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -3095,6 +3105,7 @@ Vraag deze reis aan
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: ontdek de Garden Route</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -3403,6 +3414,7 @@ Verken 10 dagen de Garden Route: kust, bossen en wildlife. Inclusief huurauto, s
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Kleine Karoo &amp; twee oceanen</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -3672,6 +3684,7 @@ Verken in 9 dagen Zuid-Afrika: van de struisvogelgebieden van de Kleine Karoo to
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika: Wegdromen bij zee &amp; rotsen</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -3908,6 +3921,7 @@ Geniet 7 dagen langs de kust en kliffen van Zuid-Afrika: van Paternoster en West
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oeganda: Savanne, primate trekking en avonturen op de Nijl</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4172,6 +4186,7 @@ Gorilla's en chimpansees. Leeuwen en olifanten. Adrenaline en avontuur. Dit is w
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: Go South!</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4474,6 +4489,7 @@ Van Masai Mara tot Amboseli en Tsavo; veel dieren en prachtige landschappen wach
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00022</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: Tsavo en Strand</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -4721,6 +4737,7 @@ Big Five in Tsavo East, de groene heuvels van Taita en een nachtelijke game driv
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00023</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia safari en strand: zo heb je veel van alles</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5113,6 +5130,7 @@ Ontdek 9 nationale parken, spot de beroemde Big Five en eindig je Kenia safari e
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00024</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: zuidoostelijke vibes en strand</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -5364,6 +5382,7 @@ Maak kennis met Kenia tijdens de rondreis zuidoostelijke vibes en strand. Bezoek
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00025</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia en strand: rij, wandel, vaar en zwem!</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5712,6 +5731,7 @@ Ontdek het beste van Kenia: rijd, wandel, vaar en zwem in de prachtige nationale
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00026</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia safari: tien parken op rij</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -6074,6 +6094,7 @@ Maak onvergetelijke safari's in maar liefst tien natuurparken in Kenia, ga op zo
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00027</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: de Big Five en het paradijs</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6373,6 +6394,7 @@ Ervaar de prachtige natuur van Kenia, ga op zoek naar de Big Five en sluit je re
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00028</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: Tsavo en de zee</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -6550,6 +6572,7 @@ Ervaar het Afrikaanse wildlife in Tsavo East National Park, en sluit de 6-daagse
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00030</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: Grand Slam van de safari&apos;s</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6888,6 +6911,7 @@ Met een bezoek aan maar liefst 9 nationale parken is deze reis door Kenia de Gra
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00031</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In Kenia: een rolstoelvriendelijke safari</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -7110,6 +7134,7 @@ Ervaar drie Keniaanse nationale parken, zie de Big Five en eindig op de tropisch
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00032</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oeganda: ontdek de cultuur</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -7467,6 +7492,7 @@ Oeganda heeft een unieke cultuur, die erom vraagt ontdekt te worden. Maak kennis
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00033</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Op verkenningstocht in het wilde westen van Oeganda</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -7827,6 +7853,7 @@ Ontdek in 12 dagen het wilde westen van Oeganda. Ontmoet chimpansees en berggori
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00034</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tocht in Oeganda: buiten de gebaande paden</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -8197,6 +8224,7 @@ Ontdek tijdens deze 12 daagse tocht Oeganda buiten de gebaande paden. Verken de 
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00035</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actieve rondreis Oeganda: hiken, raften en fietsen</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -8571,6 +8599,7 @@ Laat je hart sneller kloppen tijdens een actieve rondreis in Oeganda: hike, raft
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00036</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis: alle parels van Oeganda</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -9030,6 +9059,7 @@ Van de jungle tot de savanne en van de Shoebill tot de berggorilla: ontdek de pa
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00037</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oeganda: safari tussen neushoorns, bossen en meren</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -9358,6 +9388,7 @@ Kom oog in oog te staan met de zeldzame neushoorn, observeer chimpansees en bewo
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00038</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oeganda: op bezoek bij gorilla&apos;s en chimpansees</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -9648,6 +9679,7 @@ Onze verwanten zien in het wild? Laat je droom uitkomen tijdens een 9-daagse rei
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00039</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oeganda: de perfecte familiesafari</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -9906,6 +9938,7 @@ Relaxed, divers en vol plezier: deze 7-daagse familiesafari in Oeganda staat gar
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00046</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: de complete safari</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -10178,6 +10211,7 @@ Zes nationale parken, neushoorns, de Big Five en ontelbare herinneringen voor he
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00050</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: safari in het zuiden</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -10382,6 +10416,7 @@ Ontdek de natuurlijke schoonheid van Zuid-Kenia tijdens een 7-daagse safari. Laa
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00052</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: De Big Five Special</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -10628,6 +10663,7 @@ Ga tijdens een safari op zoek naar de Big Five. Bezoek het Masai Mara, Lake Naku
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00053</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: zuidelijke safari en zee</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -10884,6 +10920,7 @@ Verken tijdens een 10-daagse safari de prachtige natuur van Zuid-Kenia en sluit 
   <trip>
     <get-trip-id>GT-AFRIKASAFARI-00054</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia: wildlifewonderen en strandgeluk</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
