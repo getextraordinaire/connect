@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-25T09:21:16.839Z" count="21">
+<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-25T10:22:38.908Z" count="21">
   <trip>
     <get-trip-id>GT-FIVESENSES-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>A room with a view</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
@@ -51,6 +52,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australia by 4WD</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -98,6 +100,7 @@ U gaat u het avontuur tegemoet in de grootste staat van het land: Western Austra
   <trip>
     <get-trip-id>GT-FIVESENSES-00003</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australia by 4WD met kids</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -144,6 +147,7 @@ In de reis 'Australia by 4WD met kids' gaat u het avontuur tegemoet in de groots
   <trip>
     <get-trip-id>GT-FIVESENSES-00004</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië CamperCombi Kids</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
@@ -196,6 +200,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00005</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië CamperCombi Oost</get-trip-name>
     <get-trip-duration>39</get-trip-duration>
@@ -250,6 +255,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00006</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australië CamperCombi Zuid</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -301,6 +307,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00007</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature North</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -356,6 +363,7 @@ In de reis 'Nature North' ervaart u de fascinerende natuur van het tropische noo
   <trip>
     <get-trip-id>GT-FIVESENSES-00008</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature South</get-trip-name>
     <get-trip-duration>36</get-trip-duration>
@@ -411,6 +419,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00009</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noord en zuid in de lente</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -463,6 +472,7 @@ In de reis 'Noord en zuid in de lente' reist u voordat het hoogseizoen begint in
   <trip>
     <get-trip-id>GT-FIVESENSES-00010</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Walk &amp; Ride South</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
@@ -515,6 +525,7 @@ Inclusief:
   <trip>
     <get-trip-id>GT-FIVESENSES-00011</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>100% Noord</get-trip-name>
     <get-trip-duration>32</get-trip-duration>
@@ -568,6 +579,7 @@ Het Noordereiland van Nieuw-Zeeland staat soms enigszins in de schaduw van het Z
   <trip>
     <get-trip-id>GT-FIVESENSES-00012</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>100% Zuid</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -618,6 +630,7 @@ Inclusief:
   <trip>
     <get-trip-id>GT-FIVESENSES-00013</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>360° Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
@@ -671,6 +684,7 @@ Zet een aantal creatieve geesten voor lange tijd bij elkaar in een ruimte en de 
   <trip>
     <get-trip-id>GT-FIVESENSES-00014</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>360° Nieuw-Zeeland in de lente</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
@@ -723,6 +737,7 @@ Nergens ter wereld vind je zo'n uiteenlopend aanbod aan natuur en activiteiten o
   <trip>
     <get-trip-id>GT-FIVESENSES-00015</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actie op het Zuidereiland</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -775,6 +790,7 @@ Inclusief:
   <trip>
     <get-trip-id>GT-FIVESENSES-00016</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Indian Summer van Nieuw-Zeeland per camper</get-trip-name>
     <get-trip-duration>38</get-trip-duration>
@@ -827,6 +843,7 @@ De Nieuw-Zeelandse nazomer en herfst scoren ieder jaar goed als het gaat om rust
   <trip>
     <get-trip-id>GT-FIVESENSES-00017</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland CamperCombi</get-trip-name>
     <get-trip-duration>41</get-trip-duration>
@@ -880,6 +897,7 @@ Zeg je Nieuw-Zeeland, zeg je natuur. De link met kamperen is voor velen dan ook 
   <trip>
     <get-trip-id>GT-FIVESENSES-00018</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland CamperCombi Kids</get-trip-name>
     <get-trip-duration>40</get-trip-duration>
@@ -931,6 +949,7 @@ In de reis 'Nieuw-Zeeland CamperCombi Kids' hebben u en uw kinderen het beste va
   <trip>
     <get-trip-id>GT-FIVESENSES-00019</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland CamperCombi Zuidereiland</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -979,6 +998,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00020</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Camper Kids</get-trip-name>
     <get-trip-duration>37</get-trip-duration>
@@ -1029,6 +1049,7 @@ Inclusief
   <trip>
     <get-trip-id>GT-FIVESENSES-00021</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Southern Comfort</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
