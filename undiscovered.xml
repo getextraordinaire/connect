@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-25T09:21:16.839Z" count="7">
+<trips feed="undiscovered" partner="Undiscovered" generated="2026-08-25T10:22:38.908Z" count="7">
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00083</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bohol &amp; Palawan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -257,6 +258,7 @@ Bekijk de privé rondreis 'Bohol & Palawan'. Een comfortabele reis naar Bohol en
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00085</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Classic Philippines</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -544,6 +546,7 @@ Ervaar de hoogtepunten van de Filipijnen met rijstterrassen, de UNESCO Undergrou
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00086</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Distant Shores</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -808,6 +811,7 @@ Distant Shores is een droomreis door Palawan, langs verborgen lagunes, paradijse
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00087</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Enchanting Visayas</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1066,6 +1070,7 @@ Bekijk de privé rondreis 'Enchanting Visayas'. Een hele diverse route met korte
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00088</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Privé Rondreis &apos;Hidden Gems&apos;</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1331,6 +1336,7 @@ Bekijk de privé rondreis 'Hidden Gems'. Een avontuurlijke reis naar de Filipijn
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00090</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Philippine Experience</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1622,6 +1628,7 @@ Ontdek de Filipijnen buiten de gebaande paden. Zwem met walvishaaien, verken de 
   <trip>
     <get-trip-id>GT-UNDISCOVERED-00091</get-trip-id>
     <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Visayas Islandhopping</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
