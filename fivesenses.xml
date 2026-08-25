@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-23T14:24:16.278Z" count="21">
+<trips feed="fivesenses" partner="Fivesenses" generated="2026-08-25T09:21:16.839Z" count="21">
   <trip>
     <get-trip-id>GT-FIVESENSES-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -10,18 +10,15 @@
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/a-room-with-a-view/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#A room with a view
-
+    <get-trip-scraped-content><![CDATA[A room with a view - Fivesenses
+#A room with a view
 In de reis 'A room with a view' combineert u het afwisselende zuidoosten van Australië met het tropische noorden.
-
 U vliegt naar Melbourne waar u een aantal dagen verblijft voor u via de Great Ocean Road en de Yarra Valley aan een mooie 'roadtrip' door de High Country begint. Uw reis door het zuidoosten eindigt in Sydney. Hiervandaan vliegt u naar het noorden van de staat Queensland om hier in een tropische setting af te sluiten. U verblijft steeds in kleinschalige, comfortabele accommodaties die ieder steeds op hun eigen manier een overduidelijke meerwaarde aan uw beleving van Australië geven.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die een bijzondere, soms luxueuze accommodatie én contact met 'locals' op waarde in kunnen schatten. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'A room with a view' kan het beste in de Australische lente of nazomer plaatsvinden. Afhankelijk van de tijd van het jaar reist u in noordelijke of in zuidelijke richting.
-
+#Impressie van A room with a view
 #Wat maakt deze reis bijzonder?
 - Gematigd regenwoud in het zuiden en tropisch regenwoud in het noorden
 - Twee iconische steden in één reis
@@ -29,11 +26,9 @@ De reis 'A room with a view' kan het beste in de Australische lente of nazomer p
 - Great Alpine Road door de High Country
 - Zeiltocht naar het Great Barrier Reef
 - Overnachten in een boomhuis
-
 #Prijs / inclusief / reisduur
 De prijs van de 31-daagse reis 'A room with a view' is vanaf € 6150 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class en binnenlandse vlucht met Qantas
 - Luchthavenbelasting en overige toeslagen
 - 29 overnachtingen in leuke hotels, comfortabele B&B's, mooie appartementen en kleinschalige Lodges
@@ -44,16 +39,14 @@ De prijs van de 31-daagse reis 'A room with a view' is vanaf € 6150 per volwas
 - Transfers in Melbourne en Sydney
 - Afkoop eigen-risico verzekering voor de auto's
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'A room with a view'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/20d3083d415a5f16788ec1b6b34cb6cfa835363c.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-1-hero.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-6.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/RoomWithView_2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-4.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-5.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/RoomwithView_1_header.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-acco image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-6.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/RoomWithView_2.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-4.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Room_with_view-5.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-FIVESENSES-00002</get-trip-id>
@@ -65,20 +58,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'A room with a view'.]
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australia-by-4wd/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Australia by 4WD
-
+    <get-trip-scraped-content><![CDATA[Australia by 4WD - Fivesenses
+#Australia by 4WD
 'Tot hier…..en verder! Australia by 4WD' gaat u het avontuur tegemoet in de grootste staat van het land: Western Australia.
-
 U reist per 4WD voertuig en brengt de nachten door op het dak van de auto. U reist aan het begin van het droge seizoen. In deze tijd van het jaar is de natuur erg imposant, de onverharde wegen zijn uitdagend en het is rustig. Via Dirk Hartog Island, de mooie Ningaloo Coast, waar u met de walvishaai kunt zwemmen, en Karijini National Park in de Outback van de staat bereikt u Broome. Onderweg overnacht u op campings of zoek eens een mooie plek in de wildernis en ervaar de haast eindeloze ruimte met elkaar. Vanaf Broome rijdt u over de Gibb River Road door de Kimberley om uiteindelijk in Darwin te eindigen. Hiervandaan vliegt u via Singapore terug naar huis.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Mensen die bereid zijn om, soms, lange afstanden te rijden en hier ruimschoots voor beloond te worden; de afgelegen plekken in de woestijn of aan het strand heb je vaak voor jezelf. Western Australia en de Northern Territory zijn grote staten en haast is het laatste dat je hier moet hebben…
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Tot hier…..en verder! Australia by 4WD' is het mooist om tussen half maart en eind juni te doen. In die tijd kan de 4WD het best benut worden en is het rustiger dan in juli, augustus en september. Later in het seizoen is de natuur wat droger en zijn de watervallen minder gevuld. Wilt u graag zwemmen met een walvishaai aan de Ningaloo Coast dan moet er voor eind juli worden gereisd.
-
 #Impressie van Australia by 4WD
-
 #Wat maakt deze reis bijzonder?
 - Op een afgelegen plek kamperen en weten dat je de enige in een wijde omgeving bent
 - De ravijnen bij Mornington Wilderness Camp
@@ -86,11 +74,9 @@ De reis 'Tot hier…..en verder! Australia by 4WD' is het mooist om tussen half 
 - Dugongs, dolfijnen, schildpadden en roggen bij Dirk Hartog Island
 - Roofvogels spotten in de Kennedy Ranges
 - Zwemmen met een walvishaai bij het Ningaloo Reef
-
 #Prijs / inclusief / reisduur
 De prijs van de 35-daagse reis 'Tot hier…..en verder! Australia by 4WD' is vanaf € 6250 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief:
 - Internationale vlucht met Singapore Airlines in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - 2 overnachtingen in stadshotels
@@ -98,9 +84,8 @@ De prijs van de 35-daagse reis 'Tot hier…..en verder! Australia by 4WD' is van
 - Transfer in Perth
 - 'Swim with the Whaleshark' boottocht
 - 4WD atlas van Hema Maps met routesuggestie voor de camperreis
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verder! Australia by 4WD'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+U gaat u het avontuur tegemoet in de grootste staat van het land: Western Australia. U reist per 4WD voertuig en brengt de nachten door op het dak van de auto.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/fc6d3aa293244a05eaa96ab15a251a623877606e.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/04/AU_4WD-6-1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/04/AU_4WD-3-1.jpg</get-trip-image-url-overview>
@@ -116,24 +101,19 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verde
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Australia by 4WD met kids</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
-    <get-trip-lowest-price-2p>4.750</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>5.100</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australia-by-4wd-met-kids/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Australia by 4WD met kids
-
+    <get-trip-scraped-content><![CDATA[Australia by 4WD met kids - Fivesenses
+#Australia by 4WD met kids
 'Tot hier…..en verder met kids! Australia by 4WD' gaat u het avontuur tegemoet in de grootste staat van het land: Western Australia.
-
 U reist per 4WD voertuig en brengt de nachten door op het dak van de auto. Via Dirk Hartog Island, de mooie Ningaloo Coast, waar u met de walvishaai kunt zwemmen, en Karijini National Park in de Outback van de staat bereikt u Broome. Onderweg overnacht u op campings of zoek eens een mooie plek in de wildernis en ervaar de haast eindeloze ruimte met elkaar. Vanaf Broome rijdt u over de Gibb River Road door de Kimberley om uiteindelijk in Darwin te eindigen. Hiervandaan vliegt u via Singapore terug naar huis.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Gezinnen met kinderen vanaf ca. 4 jaar. In en op de 4WD is plek voor twee volwassenen en twee kinderen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Tot hier…..en verder met kids! Australia by 4WD' vindt plaats in de Nederlandse schoolvakantie. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per 4WD camper te reizen. Kunt u buiten de schoolvakantie reizen dan heeft dit een (voor u) positieve invloed op de prijs.
-
 #Impressie van Australia by 4WD met kids
-
 #Wat maakt deze reis bijzonder?
 - Bij een zelf gevonden plek in de Outback kamperen
 - Zwemmen met de walvishaai
@@ -141,11 +121,9 @@ De reis 'Tot hier…..en verder met kids! Australia by 4WD' vindt plaats in de N
 - Mitchell Falls, de mooiste waterval van het land
 - In Nederlandse voetstappen treden op Dirk Hartog Island
 - Sterrenkijken vanuit bed
-
 #Prijs / inclusief / reisduur
 De prijs van de 35-daagse reis 'Tot hier…..en verder met kids! Australia by 4WD' is vanaf € 5100 per volwassene en € 4750 per kind (niet ouder dan 11). Deze prijs is gebaseerd op twee volwassenen en twee kinderen (jonger dan 12). De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Singapore Airlines in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - 2 overnachtingen in stadshotels
@@ -153,9 +131,8 @@ De prijs van de 35-daagse reis 'Tot hier…..en verder met kids! Australia by 4W
 - Transfers in Perth
 - 'Swim with the Whaleshark' boottocht
 - 4WD atlas van Hema Maps met routesuggestie voor de camperreis
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verder met kids! Australia by 4WD'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+In de reis 'Australia by 4WD met kids' gaat u het avontuur tegemoet in de grootste staat van het land: Western Australia. U reist per 4WD voertuig en brengt de nachten door op het dak van de auto.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/827c4caf727a757dd402f5fc74beec5a820d7fba.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/04/4WD_kids-2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/04/4WD_kids-6.jpg</get-trip-image-url-overview>
@@ -174,18 +151,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Tot hier…..en verde
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-kids/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Australië CamperCombi Kids
-
+    <get-trip-scraped-content><![CDATA[Australië CamperCombi Kids - Fivesenses
+#Australië CamperCombi Kids
 In de reis 'Australië CamperCombi Kids' hebben u en uw kinderen het beste van twee werelden.
-
 Na een verblijf in Sydney, de mooiste stad van het Zuidelijk Halfrond, vliegt u naar Brisbane waarvandaan er per camper naar Cairns wordt gereisd. Onderweg is er tijd voldoende om mooie bestemmingen als de Border Ranges, Fraser Island en Lady Musgrave Island te bezoeken, maar blijf vooral ook eens een dag 'ergens hangen'. In Cairns ruilt u de camper om voor een auto. In het tropische noorden van Queensland verblijft u in een boomhuis in de hooggelegen Atherton Tablelands, in een junglehuis in Daintree National Park en u sluit af in het leuke stranddorp Port Douglas. Drie afwisselende, kleinschalige excursies zijn inbegrepen.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Gezinnen met kinderen van alle leeftijden. In de camper is goed plek voor twee of drie kinderen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Australië CamperCombi Kids' vindt plaats in de Nederlandse schoolvakantie. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Kunt u buiten de schoolvakantie reizen dan heeft dit een (voor u) positieve invloed op de prijs.
-
+#Impressie van Australië CamperCombi Kids
 #Wat maakt deze reis bijzonder?
 - Van wereldstad naar hartje natuur
 - Snorkelen bij Lady Musgrave Island
@@ -195,11 +169,9 @@ De reis 'Australië CamperCombi Kids' vindt plaats in de Nederlandse schoolvakan
 - Slapen in het regenwoud
 - Kokosnoten rapen in Mission Beach
 - Vlieg met Cathay Pacific, een van de meest kindvriendelijke luchtvaartmaatschappijen
-
 #Prijs / inclusief / reisduur
 De prijs van de 31-daagse reis 'Australië CamperCombi Kids' is vanaf € 4430 per volwassene en € 4210 per kind (niet ouder dan 11). Deze prijs is gebaseerd op twee volwassenen en twee kinderen (jonger dan 12). De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class en binnenlandse vlucht met Qantas
 - Luchthavenbelasting en overige toeslagen
 - 13 overnachtingen in leuke hotels, originele huizen en mooie appartementen
@@ -212,9 +184,7 @@ De prijs van de 31-daagse reis 'Australië CamperCombi Kids' is vanaf € 4430 p
 - Afkoop eigen-risico verzekering voor camper en auto
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperCombi Kids'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/fb1b7896a5009ee23b5effe2b723e737990b43e2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC-kids-2.jpg</get-trip-image-url-overview>
@@ -233,18 +203,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-oost/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Australië CamperCombi Oost
-
+    <get-trip-scraped-content><![CDATA[Australië CamperCombi Oost - Fivesenses
+#Australië CamperCombi Oost
 De reis 'Australië CamperCombi Oost' combineert camper en auto, eenvoud en luxe en stad met strand en regenwoud.
-
 Na een verblijf in Sydney reist u in ruim drie weken door New South Wales en Queensland naar Cairns. Eenmaal in het tropische noorden van Queensland aangekomen verruilt u de camper voor een auto en verblijft u in een boomhuis in de hooggelegen Atherton Tablelands, in een mooie B&B in Daintree National Park en u sluit af in het leuke stranddorp Port Douglas. Drie afwisselende, kleinschalige excursies zijn inbegrepen.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Voor mensen die zowel de eenvoud van een kampeerplek als het comfort van een goede accommodatie kunnen waarderen. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Australië CamperCombi Oost' kan het best plaatsvinden tussen maart en juni of oktober en december. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen.
-
+#Impressie van CamperCombi Oost
 #Wat maakt deze reis bijzonder?
 - Van wereldstad naar hartje natuur
 - Rustig reistempo en interessante routesuggesties
@@ -255,11 +222,9 @@ De reis 'Australië CamperCombi Oost' kan het best plaatsvinden tussen maart en 
 - Goede camper van een betrouwbare verhuurder
 - Wandelen door het eeuwenoude regenwoud
 - Zeilen op het Great Barrier Reef
-
 #Prijs / inclusief / reisduur
 De prijs van de 39-daagse reis 'Australië CamperCombi Oost' is vanaf € 6265 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren. Indien u korter wilt reizen, kunt u na een verblijf in Sydney naar Brisbane vliegen om hiervandaan aan de camperreis te beginnen. De reisduur is in dat geval 29 dagen en de prijs is vanaf € 5175 per volwassene.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - 13 overnachtingen in leuke hotels, originele huizen en mooie appartementen
@@ -272,9 +237,7 @@ De prijs van de 39-daagse reis 'Australië CamperCombi Oost' is vanaf € 6265 p
 - Afkoop eigen-risico verzekering voor camper en auto
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperCombi Oost'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/e4729d494f9f7200d630baf7f76221d2676919a2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2025/04/NSW-5-800x800-optimized-header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_oost_header.jpg</get-trip-image-url-overview>
@@ -294,22 +257,16 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/australie-campercombi-zuid/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Australië CamperCombi Zuid
-
+    <get-trip-scraped-content><![CDATA[Australië CamperCombi Zuid - Fivesenses
+#Australië CamperCombi Zuid
 De reis 'Australië CamperCombi Zuid' combineert camper en auto, eenvoud en luxe en stad met bergen, strand en Outback.
-
 Na een verblijf in Sydney reist u in 2½ week door de zuidelijke staten New South Wales en Victoria naar South Australia. Eenmaal in Adelaide aangekomen verruilt u de camper voor een auto en verblijft u in de wijngaarden van de Barossa Valley, in de Outback van de Flinders Ranges en u sluit af in Adelaide. Een 4WD excursie en een rondvlucht over de Outback zijn inbegrepen.
-
-#Geschikt voor wie?
-
+Geschikt voor wie?
 Voor mensen die zowel de eenvoud van een kampeerplek als het comfort van een goede accommodatie kunnen waarderen. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
-
+Beste tijd voor deze reis?
 De reis 'Australië CamperCombi Zuid' kan het best plaatsvinden tussen februari en mei of oktober en december. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen.
-
+#Impressie van CamperCombi Zuid
 #Wat maakt deze reis bijzonder?
-
 - Mooie wegen door de bergen van de High Country
 - Rustig reistempo en interessante routesuggesties
 - Wijn proeven in de Barossa Valley en de Clare Valley
@@ -319,13 +276,9 @@ De reis 'Australië CamperCombi Zuid' kan het best plaatsvinden tussen februari 
 - Herfstkleuren in de Indian Summer
 - Rondvlucht over de immense Outback
 - 'Mad March' in festivalstad Adelaide
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 30-daagse reis 'Australië CamperCombi Zuid' is vanaf € 4950 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
-
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - 10 overnachtingen in leuke hotels en B&B's
@@ -337,10 +290,7 @@ De prijs van de 30-daagse reis 'Australië CamperCombi Zuid' is vanaf € 4950 p
 - Afkoop eigen-risico verzekering voor camper en auto
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-
-Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperCombi Zuid'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/61f31dea6d42e6cd523a975d016d9c6826ac2866.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_zuid_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_Zuid-4-1.jpg</get-trip-image-url-overview>
@@ -358,18 +308,17 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Australië CamperComb
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/nature-north/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nature North
-
+    <get-trip-scraped-content><![CDATA[Nature North - Fivesenses
+#Nature North
+South Australia, Australië
+#Nature North
 In de reis 'Nature North' ervaart u de fascinerende natuur van het tropische noorden van Australië.
-
 Het Cobourg Peninsula, een van de 'last frontiers' van het land, speelt een prominente rol in deze reis. Dit schiereiland kent een roerige geschiedenis. In het verleden hebben verschillende landen geprobeerd Australië vanaf Cobourg Peninsula te koloniseren. Het soms meedogenloze klimaat en de zware leefomstandigheden gooiden roet in het eten en de verschillende ruïnes op het schiereiland zijn de laatste stille getuigen. Tegenwoordig mag slechts een handjevol mensen per dag op Cobourg Peninsula komen om er te kamperen en het vele wildlife dat er is te observeren. U reist twee weken per 4WD camper door de Top End van de Northern Territory en vliegt vervolgens over Arnhemland naar het tropische noorden van de staat Queensland. Hier reist u per auto en verblijft u in kleinschalige en in de natuur gelegen accommodaties. De combinatie van deels kamperen en deels overnachten in accommodaties zorgt voor een gevarieerde beleving van de Australische natuur.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Natuurliefhebbers, vogelaars, wandelaars, fietsers en fotografen. Tijdens de gehele reis is er veel gelegenheid om de afwisseling in natuur van dichtbij mee te maken. Er is sprake van een rustig reistempo zodat er goed kan worden geanticipeerd op verschillende (weers)omstandigheden.
-
-#Beste tijd voor deze reis?
-De reis 'Nature North' moet in het droge seizoen, tussen mei en oktober, plaats vinden. Cobourg Peninsula is pas vanaf mei bereikbaar en hoe later in het seizoen u reist, hoe 'makkelijker' Cahill's Crossing wordt... Een Google zoekopdracht om een idee van de doorwading te krijgen, kan geen kwaad... of misschien juist wel...
-
+Beste tijd voor deze reis?
+De reis 'Nature North' moet in het droge seizoen, tussen mei en oktober, plaats vinden. Cobourg Peninsula is pas vanaf mei bereikbaar en hoe later in het seizoen u reist, hoe 'makkelijker' Cahill's Crossing wordt…Een Google zoekopdracht om een idee van de doorwading te krijgen, kan geen kwaad…of misschien juist wel…
+#Impressie van Nature North
 #Wat maakt deze reis bijzonder?
 - Een exclusieve beleving van de natuur op Cobourg Peninsula; er mogen per dag slechts 40 mensen zijn.
 - Dolfijnen, dugongs, schildpadden en mantaroggen in Cobourg Marine Park
@@ -378,11 +327,9 @@ De reis 'Nature North' moet in het droge seizoen, tussen mei en oktober, plaats 
 - Rustig reistempo
 - Cahill's Crossing: een beruchte rivierdoorwading tussen Kakadu National Park en Arnhemland
 - Drie kleinschalige excursies inbegrepen
-
 #Prijs / inclusief / reisduur
 De prijs van de 28-daagse reis 'Nature North' is vanaf € 6245 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren. Ziet u het niet zitten om zelf per 4WD te rijden en/of te kamperen, neem dan deel aan een vijfdaagse safari met Venture North. Tijdens deze safari gaat u in een kleine groep naar zowel Kakadu National Park als Cobourg Peninsula.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Singapore Airlines in Economy Class
 - Binnenlandse vlucht met Qantas
 - Luchthavenbelasting en overige toeslagen
@@ -396,9 +343,8 @@ De prijs van de 28-daagse reis 'Nature North' is vanaf € 6245 per volwassene. 
 - Transfer in Darwin
 - Afkoop eigen-risico verzekering voor de 4WD camper en de auto
 - 4WD atlas van Hema Maps met routesuggestie voor de camperreis
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Nature North'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+In de reis 'Nature North' ervaart u de fascinerende natuur van het tropische noorden van Australië. Het Cobourg Peninsula, een van de 'last frontiers' van het land, speelt een prominente rol in deze reis.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/1e10e42581e54a8d39251168078638ba88ef8a07.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NatureNorth-1-hero.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NatureNorth-6.jpg</get-trip-image-url-overview>
@@ -417,24 +363,17 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nature North'.]]></ge
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/nature-south/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nature South
-
+    <get-trip-scraped-content><![CDATA[Nature South - Fivesenses
+#Nature South
 In de reis 'Nature South' draait het om de veelzijdigheid van de Australische natuur in het zuiden. Aan het begin van de reis wordt de lat meteen hoog gelegd.
-
 U vliegt op Tasmanië naar het afgelegen South-West National Park; de enige manier om hier te komen, is per boot, vliegtuig of te voet. Het landschap en de stilte zijn er indrukwekkend. Na twee weken in de Tasmaanse natuur maakt u de oversteek naar het vasteland om tijd door te brengen in het regenwoud van de Otways, vlakbij de kust van de Great Ocean Road. Hier is de kans groot dat u tijdens een wandeling koala's in het wild ziet en tijdens een kanotocht met een beetje geluk het vogelbekdier.
-
 Via de Grampians rijdt u naar de staat South Australia om hier, zowel vanuit de lucht als op de grond, een Outback-ervaring te hebben in Flinders Ranges National Park. Uw reis eindigt in Adelaide waarvandaan u weer terugvliegt naar Nederland.
-
-#Geschikt voor wie?
-
+Geschikt voor wie?
 Natuurliefhebbers, vogelaars, wandelaars, fietsers en fotografen. Tijdens de gehele reis is er veel gelegenheid om de afwisseling in natuur van dichtbij mee te maken. Er is sprake van een rustig reistempo zodat er goed kan worden geanticipeerd op verschillende (weers)omstandigheden.
-
-#Beste tijd voor deze reis?
-
+Beste tijd voor deze reis?
 De reis 'Nature South' kan het beste aan het einde van de Australische lente of in de Australische nazomer en herfst plaatsvinden. Afhankelijk van de tijd van het jaar reist u in oostelijke of in westelijke richting.
-
+#Impressie van Nature South
 #Wat maakt deze reis bijzonder?
-
 - Zeehonden, dolfijnen, albatrossen en zeearenden bij Bruny Island
 - Gematigd regenwoud op Tasmanië en in de Otways
 - Grote groepen kangoeroes in de Grampians
@@ -443,13 +382,9 @@ De reis 'Nature South' kan het beste aan het einde van de Australische lente of 
 - Fiets door de Barossa Valley
 - Rustig reistempo
 - Vijf kleinschalige excursies inbegrepen
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 36-daagse reis 'Nature South' is vanaf € 6875 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
-
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Binnenlandse vluchten met Qantas
 - Luchthavenbelasting en overige toeslagen
@@ -464,10 +399,7 @@ De prijs van de 36-daagse reis 'Nature South' is vanaf € 6875 per volwassene. 
 - Transfers in Hobart, Melbourne en Adelaide
 - Afkoop eigen-risico verzekering voor de auto's
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-
-Neem contact op voor een persoonlijk reisplan van de reis 'Nature South'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/0e0c0dcc5e397b812942306d3ff82c8a25895cd7.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NatureSouth-5.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NatureSouth_4.jpg</get-trip-image-url-overview>
@@ -486,24 +418,17 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nature South'.]]></ge
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/noord-en-zuid-in-de-lente/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Noord en zuid in de lente
-
+    <get-trip-scraped-content><![CDATA[Noord en zuid in de lente - Fivesenses
+#Noord en zuid in de lente
 In de reis 'Noord en zuid in de lente' reist u voordat het hoogseizoen begint in zowel het tropische noorden van Australië als in het zuidoosten van het land.
-
 Niet alleen reist u zodoende in twee totaal verschillende gebieden; u ervaart het ook op een rustige manier. In de Australische lente is de temperatuur in het noorden erg aangenaam en zijn de omstandigheden goed geschikt om bijvoorbeeld het rif op te gaan.
-
 In het zuiden is de lente in volle gang. De natuur komt tot bloei en het is een goede tijd van het jaar om actief te zijn. U verblijft tijdens de reis in kleinschalige, comfortabele accommodaties die ieder steeds op hun eigen manier een overduidelijke meerwaarde aan uw beleving van Australië geven.
-
-#Geschikt voor wie?
-
+Geschikt voor wie?
 Reizigers die buiten het hoogseizoen kunnen reizen en die een bijzondere, soms afgelegen accommodatie op waarde in kunnen schatten. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
-
+Beste tijd voor deze reis?
 De reis 'Noord en zuid in de lente' kan het beste tussen de maanden september en begin december plaatsvinden.
-
+#Impressie van Noord en zuid in de lente
 #Wat maakt deze reis bijzonder?
-
 - Afwisseling in flora en fauna
 - Twee iconische steden in één reis
 - Geen drukte in de Australische stranddorpen
@@ -511,13 +436,9 @@ De reis 'Noord en zuid in de lente' kan het beste tussen de maanden september en
 - Sneeuw op 2228 meter op het hoogste punt van het land
 - Zeiltocht naar het Great Barrier Reef
 - Mooie, rustige wegen door de bergen van de High Country
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 30-daagse reis 'Noord en zuid in de lente' is vanaf € 5855 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
-
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class en binnenlandse vlucht met Qantas
 - Luchthavenbelasting en overige toeslagen
 - 26 overnachtingen in leuke hotels, comfortabele B&B's, mooie appartementen en kleinschalige Lodges
@@ -529,10 +450,8 @@ De prijs van de 30-daagse reis 'Noord en zuid in de lente' is vanaf € 5855 per
 - Transfers in Melbourne en Sydney
 - Afkoop eigen-risico verzekering voor de auto's
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-
-Neem contact op voor een persoonlijk reisplan van de reis 'Noord en zuid in de lente'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+In de reis 'Noord en zuid in de lente' reist u voordat het hoogseizoen begint in zowel het tropische noorden van Australië als in het zuidoosten van het land. Niet alleen reist u zodoende in twee totaal verschillende gebieden; u ervaart het ook op een rustige manier]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/c145b81ada8ba831db0ec4fdebed76cf9257806f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NoordZuidLente_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/NoordZuidLente-5.jpg</get-trip-image-url-overview>
@@ -551,24 +470,17 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Noord en zuid in de l
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/australie/walk-ride-south/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Walk & Ride South
-
+    <get-trip-scraped-content><![CDATA[Walk & Ride South - Fivesenses
+#Walk & Ride South
 In de reis 'Walk & Ride South' ziet u Australië op een manier zoals maar weinigen het zien. U wandelt, fietst en kanoot in Victoria en Tasmanië.
-
 Op deze manier verplaatst u zich in een lage versnelling zodat u de natuur goed kunt ervaren. U begint de reis in Melbourne en rijdt naar de Great Ocean Road. Hier heeft u een basis en wandelt u twee trajecten van de indrukwekkende Great Ocean Walk. In de High Country fietst u de meerdaagse Murray-to-Mountains Trail. Terwijl u fietst, wordt uw bagage steeds verplaatst van de ene leuke B&B naar de andere.
-
 Op Tasmanië gaat u de wildernis van Cradle Mountain National Park in. Hier wandelt u met een kleine groep zes dagen over de Overland Track. Via de Freycinet Coast en Bruny Island bereikt u Hobart waarvandaan u weer terugvliegt naar Nederland.
-
-#Geschikt voor wie?
-
+Geschikt voor wie?
 Wandelaars, fietsers of in ieder geval actief ingestelde mensen. Voor alle actieve componenten is een gemiddelde conditie voldoende; er is geen extra voorbereiding noodzakelijk. Tijdens de wandelingen en fietstochten is er steeds sprake van een goede mate van comfort. Dit uit zich in kleinschalige accommodaties, goede maaltijden en deskundige begeleiding.
-
-#Beste tijd voor deze reis?
-
+Beste tijd voor deze reis?
 De reis 'Walk & Ride South' kan het beste aan het einde van de Australische lente of in de Australische nazomer en herfst plaatsvinden. Afhankelijk van de tijd van het jaar reist u in zuidelijke of in noordelijke richting.
-
+#Impressie van Walk & Ride South
 #Wat maakt deze reis bijzonder?
-
 - Slow travel
 - Koala's in het wild tijdens de Great Ocean Walk
 - Het groene Tasmaanse hart: overnachten in de wildernis
@@ -576,13 +488,9 @@ De reis 'Walk & Ride South' kan het beste aan het einde van de Australische lent
 - 'Food & wine' in de High Country
 - Actief én comfortabel
 - Mount Ossa, de hoogste berg van Tasmanië
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 31-daagse reis 'Walk & Ride South' is vanaf € 7750 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inbegrepen
-
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Binnenlandse vluchten met Qantas
 - Luchthavenbelasting en overige toeslagen
@@ -595,10 +503,7 @@ De prijs van de 31-daagse reis 'Walk & Ride South' is vanaf € 7750 per volwass
 - Zesdaagse Overland Track
 - Transfers in Melbourne en Launceston
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-
-Neem contact op voor een persoonlijk reisplan van de reis 'Walk & Ride South'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/70d278083da75ecc3d0524a629ca2c4924839043.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/WalkrideSouth_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/WalkRideSouth-4.jpg</get-trip-image-url-overview>
@@ -617,22 +522,16 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Walk & Ride South'.]]
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/100-noord/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#100% Noord
-
+    <get-trip-scraped-content><![CDATA[100% Noord - Fivesenses
+#100% Noord
 Het Noordereiland van Nieuw-Zeeland staat soms enigszins in de schaduw van het Zuidereiland. En dat terwijl beide eilanden hun geheel eigen identiteit hebben.
-
 Met gemak kun je maanden op het Noordereiland reizen en van de ene verbazing in de andere vallen. De reis '100% Noord' zorgt precies daarvoor, maar dan in bijna vijf weken. Goudgele stranden op Coromandel Peninsula. Intrigerende Maori-cultuur aan de East Cape. 'Food & wine' in Hawke's Bay. Iconische vulkanen in Taranaki en Tongariro. En dan hebben we 't nog niet eens over routes met namen als Gentle Annie Road, Forgotten World Highway en Whanganui River Road.
-
 De reis '100% Noord' geeft je een afwisselende en actieve ervaring op het ongekend mooie Noordereiland.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die per auto willen reizen, actief zijn ingesteld en 'een dag extra' op een bepaalde plek als een waardevolle investering zien. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis '100% Noord' kan het best plaatsvinden tussen oktober en eind april. In de Nieuw-Zeelandse zomer zijn de dagen lang en zeker in het tweede deel van de zomer zijn de weersomstandigheden vaak stabiel.
-
 #Impressie van 100% Noord
-
 #Wat maakt deze reis bijzonder?
 - Kayaktocht in de heldere zee van Coromandel Peninsula
 - Wandel bij de vulkaan Mount Taranaki die continu in beeld is
@@ -641,11 +540,9 @@ De reis '100% Noord' kan het best plaatsvinden tussen oktober en eind april. In 
 - Leuke en minder gangbare autoroutes
 - Spot dolfijnen in de Bay of Plenty en de Bay of Islands
 - Ervaar de culinaire kant van Nieuw-Zeeland in de hoofdstad Wellington
-
 #Prijs / inclusief / reisduur
 De prijs van de 32-daagse reis '100% Noord' is vanaf € 6285 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inbegrepen
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -657,9 +554,8 @@ De prijs van de 32-daagse reis '100% Noord' is vanaf € 6285 per volwassene. De
 - Kayaktocht bij Coromandel Peninsula
 - Afkoop eigen-risico verzekering voor de auto
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis '100% Noord'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+Het Noordereiland van Nieuw-Zeeland staat soms enigszins in de schaduw van het Zuidereiland. En dat terwijl beide eilanden hun geheel eigen identiteit hebben. Met gemak kun je maanden op het Noordereiland reizen en van de ene verbazing in de andere vallen.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/71264fe20c62f0c27377ade266c5bb0b89fececd.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/reis-100-noord-hero.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/04/100_noord_1.jpg</get-trip-image-url-overview>
@@ -679,20 +575,15 @@ Neem contact op voor een persoonlijk reisplan van de reis '100% Noord'.]]></get-
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/100-zuid/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#100% Zuid
-
+    <get-trip-scraped-content><![CDATA[100% Zuid - Fivesenses
+#100% Zuid
 Voor een ieder die maar geen genoeg kan krijgen van het Nieuw-Zeelandse natuurgeweld of voor diegene die graag uitgebreid de tijd neemt om een land te leren kennen, heeft Fivesenses '100% Zuid' ontworpen.
-
 Deze reis begint en eindigt in Christchurch. Tijdens de reis doet u een aantal uithoeken van het Zuidereiland aan waar u steeds langere tijd verblijft. U wandelt twee dagen bij de kust en door de bergen van Kaikoura. Op Stewart Island kunt u Mason Bay bezoeken waar er een grote kans is om overdag oog-in-oog met een kiwi te komen.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die per auto willen reizen, actief zijn ingesteld en 'een dag extra' op een bepaalde plek als een waardevolle investering zien. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis '100% Zuid' kan het best plaatsvinden tussen november en eind april. In de Nieuw-Zeelandse zomer zijn de dagen lang en zeker in het tweede deel van de zomer zijn de weersomstandigheden vaak stabiel.
-
 #Impressie van 100% Zuid
-
 #Wat maakt deze reis bijzonder?
 - Bekijk 'de andere kant' van Kaikoura tijdens de Kaikoura Coast Track
 - Verblijf in de spectaculaire, glazen Pure Pod
@@ -701,11 +592,9 @@ De reis '100% Zuid' kan het best plaatsvinden tussen november en eind april. In 
 - Ga naar Farewell Spit waar veel verschillende vogelsoorten voorkomen
 - Wandel door de bergvalleien naar Paradise
 - Uitgekiende selectie van kleinschalige accommodaties en activiteiten
-
 #Prijs / inclusief / reisduur
 De prijs van de 35-daagse reis '100% Zuid' is vanaf € 6885 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief:
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -717,9 +606,7 @@ De prijs van de 35-daagse reis '100% Zuid' is vanaf € 6885 per volwassene. Dez
 - Retourvlucht tussen Invercargill en Stewart Island
 - Afkoop eigen-risico verzekering voor de auto
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis '100% Zuid'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/1eb2a0506cc41873ecbd4ecfe974fa7eadde391f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/100Zuid_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/100_Zuid-2.jpg</get-trip-image-url-overview>
@@ -738,20 +625,16 @@ Neem contact op voor een persoonlijk reisplan van de reis '100% Zuid'.]]></get-t
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/360-nieuw-zeeland/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#360° Nieuw-Zeeland
-
+    <get-trip-scraped-content><![CDATA[360° Nieuw-Zeeland - Fivesenses
+#360° Nieuw-Zeeland
 Zet een aantal creatieve geesten voor lange tijd bij elkaar in een ruimte en de kans dat ze ook maar in de buurt van het concept 'Nieuw-Zeeland' komen, is minimaal.
-
 Nergens ter wereld vind je zo'n uiteenlopend aanbod aan natuur en activiteiten op een dergelijk klein oppervlak. De reis '360° Nieuw-Zeeland' voert langs de hoogtepunten van het land en laat 'en passant' de onbekende kanten zien. In ruim vier weken wordt in de Nieuw-Zeelandse zomer een land beleefd dat al het voorstellingsvermogen overtreft.
-
 U reist in een aangenaam tempo per auto over beide eilanden en verblijft steeds in erg leuke accommodaties. Aan het einde van de reis zult u gegarandeerd tot de conclusie komen dat een reis door Nieuw-Zeeland in alle opzichten een indrukwekkende ervaring is.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die per auto willen reizen en die bijzondere, soms afgelegen accommodaties op waarde in kunnen schatten. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis '360° Nieuw-Zeeland' vindt plaats tussen de maanden oktober en april. In de Nieuw-Zeelandse zomer zijn de dagen lang en zeker in het tweede deel van de zomer zijn de weersomstandigheden vaak stabiel.
-
+#Impressie van 360° Nieuw-Zeeland
 #Wat maakt deze reis bijzonder?
 - Afwisseling in verschillende soorten kleinschalige accommodaties en activiteiten
 - Rij de Gentle Annie Road tussen Hawke's Bay en Tongariro National Park
@@ -760,11 +643,9 @@ De reis '360° Nieuw-Zeeland' vindt plaats tussen de maanden oktober en april. I
 - Ervaar de oprechte Nieuw-Zeelandse gastvrijheid
 - Fiets door het historische binnenland van Otago
 - Ga ondergronds in de grotten bij Karamea
-
 #Prijs / inclusief / reisduur
 De prijs van de 37-daagse reis '360° Nieuw-Zeeland' is vanaf € 6805 per volwassene. Deze prijs is gebaseerd op twee volwassenen en een reis die in de Nieuw-Zeelandse zomer plaats vindt. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -776,9 +657,8 @@ De prijs van de 37-daagse reis '360° Nieuw-Zeeland' is vanaf € 6805 per volwa
 - Watertaxi in de Marlborough Sounds met bagagetransport
 - Afkoop eigen-risico verzekering voor de auto's
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland
+Zet een aantal creatieve geesten voor lange tijd bij elkaar in een ruimte en de kans dat ze ook maar in de buurt van het concept 'Nieuw-Zeeland' komen, is minimaal. Nergens ter wereld vind je zo'n uiteenlopend aanbod aan natuur en activiteiten op een dergelijk klein oppervlak.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/0b53baceea5917869059f499dc7c7c2a05038791.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/360NZ-1-hero.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/360_nz_header.jpg</get-trip-image-url-overview>
@@ -798,22 +678,16 @@ Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland'.
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/360-nieuw-zeeland-in-de-lente/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#360° Nieuw-Zeeland in de lente
-
+    <get-trip-scraped-content><![CDATA[360° Nieuw-Zeeland in de lente - Fivesenses
+#360° Nieuw-Zeeland in de lente
 Zet een aantal creatieve geesten voor lange tijd bij elkaar in een ruimte en de kans dat ze ook maar in de buurt van het concept 'Nieuw-Zeeland' komen, is minimaal.
-
 Nergens ter wereld vind je zo'n uiteenlopend aanbod aan natuur en activiteiten op een dergelijk klein oppervlak. De reis '360° Nieuw-Zeeland in de lente' voert langs de hoogtepunten van het land en laat 'en passant' de onbekende kanten zien. In ruim vier weken wordt een land beleefd dat al het voorstellingsvermogen overtreft.
-
 U reist in een aangenaam tempo per auto over beide eilanden en verblijft steeds in erg leuke accommodaties. Aan het einde van de reis zult u gegarandeerd tot de conclusie komen dat een reis door Nieuw-Zeeland in alle opzichten een indrukwekkende ervaring is.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die buiten het hoogseizoen kunnen reizen en die een bijzondere, soms afgelegen accommodatie op waarde in kunnen schatten. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis '360° Nieuw-Zeeland in de lente' kan het best plaatsvinden tussen half september en half december. In die tijd van het jaar is de natuur fris en groen, de watervallen zijn goed gevuld en het is rustiger en voordeliger dan in het hoogseizoen.
-
 #Impressie van 360° Nieuw-Zeeland in de lente
-
 #Wat maakt deze reis bijzonder?
 - In de Nieuw-Zeelandse lente komt de natuur weer helemaal tot leven.
 - Verblijf tussen de wijngaarden bij Millar Road in Hawke's Bay
@@ -822,11 +696,9 @@ De reis '360° Nieuw-Zeeland in de lente' kan het best plaatsvinden tussen half 
 - Ervaar de oprechte Nieuw-Zeelandse gastvrijheid
 - Ga ondergronds in de grotten bij Karamea
 - Kayaktocht in Milford Sound
-
 #Prijs / inclusief / reisduur
 De prijs van de 37-daagse reis '360° Nieuw-Zeeland in de lente' is vanaf € 6025 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -838,9 +710,8 @@ De prijs van de 37-daagse reis '360° Nieuw-Zeeland in de lente' is vanaf € 60
 - Watertaxi in de Marlborough Sounds met bagagetransport
 - Afkoop eigen-risico verzekering voor de auto's
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland in de lente'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland
+Nergens ter wereld vind je zo'n uiteenlopend aanbod aan natuur en activiteiten op een dergelijk klein oppervlak.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/200c0820f8a54330c367ba16f3251ba050245c39.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/360NZ_lente_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/360NZ_2.jpg</get-trip-image-url-overview>
@@ -859,18 +730,15 @@ Neem contact op voor een persoonlijk reisplan van de reis '360° Nieuw-Zeeland i
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/actie-op-het-zuidereiland/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Actie op het Zuidereiland
-
+    <get-trip-scraped-content><![CDATA[Actie op het Zuidereiland - Fivesenses
+#Actie op het Zuidereiland
 Nieuw-Zeeland is een land dat vraagt om actie. Met zoveel fietspaden, wandeltochten en kampeerplekken middenin de natuur word je op je wenken bediend wanneer je actief bent ingesteld.
-
 In de reis 'Actie op het Zuidereiland' is een van de mooiste, meerdaagse Great Walks opgenomen. U wandelt vier dagen in een alpiene setting in Fiordland National Park. In het binnenland van Otago fietst u meerdere dagen door de historische goudvelden en verblijft u in leuke B&B's. De combinatie van reizen per camper, auto, fiets en te voet geeft een brede beleving van de zo prominent aanwezige natuur op het Zuidereiland.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Voor mensen die graag meerdaagse wandel- en fietstochten maken, van kamperen houden, maar ook een leuke, kleinschalige accommodatie kunnen waarderen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Actie op het Zuidereiland' kan het best plaatsvinden tussen de maanden oktober en april. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Aangezien de vraag naar campers in de Nieuw-Zeelandse zomer het grootst is, kan het lonen om voor of na het hoogseizoen te reizen.
-
+#Impressie van Actie op het Zuidereiland
 #Wat maakt deze reis bijzonder?
 - Overnachten op grote hoogte tijdens de Kepler Track
 - Kampeer aan een van de vele mooie baaien op het Zuidereiland
@@ -879,11 +747,9 @@ De reis 'Actie op het Zuidereiland' kan het best plaatsvinden tussen de maanden 
 - Verblijf in kleinschalige accommodaties
 - Kayakken in Milford Sound
 - Relaxte afsluiting op Banks Peninsula
-
 #Prijs / inclusief / reisduur
 De prijs van de 35-daagse reis 'Actie op het Zuidereiland' is vanaf € 5910 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -897,9 +763,7 @@ De prijs van de 35-daagse reis 'Actie op het Zuidereiland' is vanaf € 5910 per
 - Afkoop eigen-risico verzekering voor auto en camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Actie op het Zuidereiland'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/db9577782cca17822694572a119a0d34f8b9fa5e.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Actie_zuidereiland_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Actie_Zuidereiland-2.jpg</get-trip-image-url-overview>
@@ -918,18 +782,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Actie op het Zuiderei
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/de-indian-summer-van-nieuw-zeeland-per-camper/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#De Indian Summer van Nieuw-Zeeland per camper
-
+    <get-trip-scraped-content><![CDATA[De Indian Summer van Nieuw-Zeeland per camper - Fivesenses
+#De Indian Summer van Nieuw-Zeeland per camper
 De Nieuw-Zeelandse nazomer en herfst scoren ieder jaar goed als het gaat om rust en aangename reisomstandigheden.
-
 Het is een tijd van het jaar waarin er veel gebeurt, zowel in de natuur als op het land. De bomen krijgen de meest fantastische kleuren en in de wijngaarden maakt men zich klaar voor de oogst. In de reis 'De Indian Summer van Nieuw-Zeeland per camper' reist u het grootste deel van de tijd per camper over beide eilanden. U wisselt een kampeerplek aan een meer af met een mooie plek bij een wijngaard. Na afloop van de camperreis sluit u af met een paar dagen op het mooie Waiheke Island.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die buiten het hoogseizoen kunnen reizen en die de veranderingen van het seizoen van dichtbij willen meemaken.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'De Indian Summer van Nieuw-Zeeland per camper' kan het best plaatsvinden tussen half maart en eind mei. In die tijd van het jaar is het rustig en zijn de herfstkleuren prominent aanwezig.
-
+#Impressie van de Indian Summer van Nieuw-Zeeland per camper
 #Wat maakt deze reis bijzonder?
 - Prachtige najaarskleuren op beide eilanden
 - Rustige wegen en kampeerplekken
@@ -938,11 +799,9 @@ De reis 'De Indian Summer van Nieuw-Zeeland per camper' kan het best plaatsvinde
 - Kampeer bij een van de vele wijngaarden
 - Wijnoogsten en verschillende 'food & wine' festivals
 - Verblijf op het mooie Waiheke Island na afloop van de camperreis
-
 #Prijs / inclusief / reisduur
 De prijs van de 38-daagse reis 'De Indian Summer van Nieuw-Zeeland per camper' is vanaf € 5125 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op de luchthaven van Hong Kong
@@ -955,9 +814,8 @@ De prijs van de 38-daagse reis 'De Indian Summer van Nieuw-Zeeland per camper' i
 - Afkoop eigen-risico verzekering voor de camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'De Indian Summer van Nieuw-Zeeland per camper'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under
+De Nieuw-Zeelandse nazomer en herfst scoren ieder jaar goed als het gaat om rust en aangename reisomstandigheden. Het is een tijd van het jaar waarin er veel gebeurt, zowel in de natuur als op het land.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/9fa1d7df846b8ee72a3c24095ae56184740e2157.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/IndianSummer_camper_3.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/indianSummer_1_thumb.jpg</get-trip-image-url-overview>
@@ -976,31 +834,25 @@ Neem contact op voor een persoonlijk reisplan van de reis 'De Indian Summer van 
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi
-
+    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland CamperCombi - Fivesenses
+#Nieuw-Zeeland CamperCombi
 Zeg je Nieuw-Zeeland, zeg je natuur. De link met kamperen is voor velen dan ook snel gelegd.
-
 Maar wat als je van nature geen kampeerder bent en twijfelt tussen reizen met een camper of een auto. Speciaal voor diegenen is de reis 'Nieuw-Zeeland CamperCombi' op het lijf geschreven. Tijdens deze reis rijdt u op het Noordereiland in een huurauto en overnacht u in speciaal geselecteerde, kleinschalige accommodaties. Eenmaal op het Zuidereiland wordt de reis voortgezet per camper. U laat de luxe achter u en gaat de 'basics' van het kamperen tegemoet. Op deze manier heeft u verspreid over twee compleet verschillende eilanden, 'the best of both worlds'.
-
 Geschikt voor wie?
 Voor mensen die zowel de eenvoud van een kampeerplek als het comfort van een goede accommodatie kunnen waarderen. Sommige accommodaties zijn ook geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
 Beste tijd voor deze reis?
 De reis 'Nieuw-Zeeland CamperCombi' kan het best plaatsvinden tussen de maanden oktober en april. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Aangezien de vraag naar campers in de Nieuw-Zeelandse zomer het grootst is, kan het lonen om voor of na het hoogseizoen te reizen.
-
+#Impressie van Nieuw-Zeeland CamperCombi
 #Wat maakt deze reis bijzonder?
 - Afwisseling in accommodatie op het Noordereiland
 - Rij de Forgotten World Highway naar Taranaki en New Plymouth
 - Ervaar het leven op een Nieuw-Zeelandse schapenboerderij
 - Wandel met een Maori-gids door Whirinaki Forest
 - Goede camper van een betrouwbare verhuurder
-- Wakker worden van echte vogelgeluiden
+- Wakker worden van échte vogelgeluiden
 - Rij via Karamea Bluff naar het subtropische noordwesten van het Zuidereiland
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 41-daagse reis 'Nieuw-Zeeland CamperCombi' is vanaf € 6080 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
 Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class en binnenlandse vlucht met Air New Zealand
 - Luchthavenbelasting en overige toeslagen
@@ -1013,7 +865,9 @@ Inclusief
 - Begeleide dagwandeling met een Maori-gids in Whirinaki Forest
 - Afkoop eigen-risico verzekering voor auto en camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
-- Kampeer- en wegenatlas van Hema Maps]]></get-trip-scraped-content>
+- Kampeer- en wegenatlas van Hema Maps
+##Ontdek de magie van Nieuw-Zeeland
+Zeg je Nieuw-Zeeland, zeg je natuur. De link met kamperen is voor velen dan ook snel gelegd. Maar wat als je van nature geen kampeerder bent en twijfelt tussen reizen met een camper of een auto. Speciaal voor diegenen is de reis 'Nieuw-Zeeland CamperCombi' op het lijf geschreven.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/0f59a7165cdb32b39277b91f9060b2601d4984de.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_NZ-1-hero.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_NZ-1-thumb.jpg</get-trip-image-url-overview>
@@ -1033,22 +887,16 @@ Inclusief
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi-kids/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi Kids
-
+    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland CamperCombi Kids - Fivesenses
+#Nieuw-Zeeland CamperCombi Kids
 In de reis 'Nieuw-Zeeland CamperCombi Kids' hebben u en uw kinderen het beste van twee werelden.
-
 Op het Noordereiland reist u per auto in een rustig tempo langs verschillende, kleinschalige accommodaties. Het leven op een boerderij wordt afgewisseld met imposante vulkanen, modderpoelen en mooie (surf)stranden. Vanaf Wellington gaat u per ferry en trein naar Christchurch om in drie weken het hele Zuidereiland rond te kunnen reizen. Onderweg is er voldoende tijd om mooie bestemmingen als de Marlborough Sounds, Golden Bay en Otago Peninsula te bezoeken en het prettige leven in de Nieuw-Zeelandse vrije natuur te beleven.
-
 Geschikt voor wie?
 Gezinnen met kinderen van alle leeftijden. In de camper is plek voor maximaal twee kinderen. Bent u met meer, dan kan van een groter model gebruik worden gemaakt.
-
 Beste tijd voor deze reis?
 De reis 'Nieuw-Zeeland CamperCombi Kids' kan het best plaatsvinden tussen de maanden oktober en april. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Wanneer u alleen in de Nederlandse schoolvakantie kunt reizen, dan is het winter in Nieuw-Zeeland. Het kan een erg fraaie tijd zijn om te reizen, maar wees voorbereid op koude dagen en nachten. Een groot voordeel van deze tijd van het jaar is wel dat het erg rustig is in Nieuw-Zeeland.
-
 #Impressie van Nieuw-Zeeland CamperCombi Kids
-
 #Wat maakt deze reis bijzonder?
-
 - Dolfijnen tellen in de fjorden
 - Verschillende actieve vulkanen
 - Ervaar het leven op een Nieuw-Zeelandse schapenboerderij
@@ -1056,11 +904,8 @@ De reis 'Nieuw-Zeeland CamperCombi Kids' kan het best plaatsvinden tussen de maa
 - Goede camper van een betrouwbare verhuurder
 - Wandelen over de Heaphy Track: loop langs palmbomen en zie pinguïns uit zee waggelen
 - Rij naar French Pass, een van de mooiste kampeerplekken van het land
-
 #Prijs / inclusief / reisduur
-
 De prijs van de 40-daagse reis 'Nieuw-Zeeland CamperCombi Kids' is vanaf € 4390 per volwassene en € 4160 per kind (niet ouder dan 11). Deze prijs is gebaseerd op twee volwassenen en twee kinderen (jonger dan 12). De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
 Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
@@ -1073,13 +918,12 @@ Inclusief
 - Afkoop eigen-risico verzekering voor auto en camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-
-Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperCombi Kids'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland
+In de reis 'Nieuw-Zeeland CamperCombi Kids' hebben u en uw kinderen het beste van twee werelden. Op het Noordereiland reist u per auto in een rustig tempo langs verschillende, kleinschalige accommodaties en in drie weken resit u het hele Zuidereiland rond.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/b3ae29a0eac706fa93b239d2872050c3f40d8d68.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids-1-hero.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids-3.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2025/01/avontuur.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids-4.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids-5.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_kids_2.jpg</get-trip-image-url-overview>
@@ -1094,20 +938,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperC
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-campercombi-zuidereiland/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland CamperCombi Zuidereiland
-
+    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland CamperCombi Zuidereiland - Fivesenses
+#Nieuw-Zeeland CamperCombi Zuidereiland
 Het Zuidereiland van Nieuw-Zeeland is gezegend met oogstrelend mooie natuur waar je middenin mag en kunt kamperen.
-
 Maar op veel plekken op het eiland zijn er ook waanzinnig leuke, kleinschalige accommodaties. Van een schapenboerderij waar de eigenaar je mee uit golfen neemt tot een mooie B&B waar de fietspaden voor de deur beginnen. In de reis 'Nieuw-Zeeland CamperCombi Zuidereiland' ervaart u in iets minder dan een maand beide manieren van reizen. Vanaf Christchurch rijdt u per camper tegen de klok in via het mooie noorden en de West Coast naar Queenstown. Hier wordt een camper ingeruild voor een goede auto. U verblijft in verschillende, bijzondere accommodaties en heeft zodoende twee verschillende manieren van reizen in één.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Voor mensen die zowel de eenvoud van een kampeerplek als het comfort van een goede accommodatie kunnen waarderen. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Nieuw-Zeeland CamperCombi Zuidereiland' kan het best plaatsvinden tussen de maanden oktober en april. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Aangezien de vraag naar campers in de Nieuw-Zeelandse zomer het grootst is, kan het lonen om voor of na het hoogseizoen te reizen.
-
 #Impressie van CamperCombi Zuidereiland
-
 #Wat maakt deze reis bijzonder?
 - Zwem of kayak tussen de dolfijnen en zeehonden in de Marlborough Sounds
 - Vergaap je aan het uitzicht op Lake Pukaki
@@ -1116,11 +955,9 @@ De reis 'Nieuw-Zeeland CamperCombi Zuidereiland' kan het best plaatsvinden tusse
 - Kampeer aan de rand van een van de vele meren op het Zuidereiland
 - Goede camper van een betrouwbare verhuurder
 - Wandel de Routeburn Track in de omgeving van Glenorchy
-
 #Prijs / inclusief / reisduur
 De prijs van de 28-daagse reis 'Nieuw-Zeeland CamperCombi Zuidereiland' is vanaf € 4890 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -1130,9 +967,7 @@ De prijs van de 28-daagse reis 'Nieuw-Zeeland CamperCombi Zuidereiland' is vanaf
 - Afkoop eigen-risico verzekering voor auto en camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperCombi Zuidereiland'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/a6a08ed26233b07f922d70d74b3f64a8eba7d1f2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_Zuid_1_header.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/CC_Zuid-2.jpg</get-trip-image-url-overview>
@@ -1151,18 +986,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland CamperC
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/nieuw-zeeland/nieuw-zeeland-camper-kids/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Nieuw-Zeeland Camper Kids
-
+    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland Camper Kids - Fivesenses
+#Nieuw-Zeeland Camper Kids
 In de reis 'Nieuw-Zeeland Camper Kids' staat bijna alles in het teken van het Nieuw-Zeelandse buitenleven.
-
 Ruim vier weken lang ervaren u en uw kinderen de natuur van heel dichtbij door op beide eilanden per camper te reizen. In de ochtend gaan de deuren van de camper open, slippers (of laarzen) aan en de dag kan meteen beginnen met vogels spotten of een duik in zee. In de avond brandt het kampvuur bij uw kampeerplaats, wordt er voor bedtijd nog één keer met zaklamp door het bos gewandeld en is een goede nachtrust verzekerd. Voorafgaand aan de camperreis brengt u eerst een paar dagen op het relaxte Waiheke Island door. Op deze manier komt u op een prettige plek bij van de vlucht en kunt u zich met elkaar goed voorbereiden op uw reis door de Nieuw-Zeelandse natuur.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Gezinnen met kinderen van alle leeftijden. In de camper is plek voor maximaal twee kinderen. Bent u met meer, dan kan, afhankelijk van de leeftijd van de kinderen, van een groter model gebruik worden gemaakt.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Nieuw-Zeeland Camper Kids' kan het best plaatsvinden tussen de maanden oktober en april. In die tijd van het jaar zijn de weers- en reisomstandigheden goed om per camper te reizen. Wanneer u alleen in de Nederlandse schoolvakantie kunt reizen, dan is het winter in Nieuw-Zeeland. Het kan een erg fraaie tijd zijn om te reizen, maar wees voorbereid op koude dagen en nachten. Een groot voordeel van deze tijd van het jaar is wel dat het erg rustig is in Nieuw-Zeeland.
-
+#Impressie van Nieuw-Zeeland Camper Kids
 #Wat maakt deze reis bijzonder?
 - Iedere dag afwisseling in natuur
 - Geen vastomlijnd programma, maar flexibiliteit en vrijheid
@@ -1171,11 +1003,9 @@ De reis 'Nieuw-Zeeland Camper Kids' kan het best plaatsvinden tussen de maanden 
 - Rij naar Kidds Bush Reserve en kampeer aan het meer van Wanaka met zicht op de bergen
 - Verblijf op het mooie Waiheke Island voorafgaand (of na afloop) van de camperreis
 - Vlieg met Cathay Pacific, een van de meest kindvriendelijke luchtvaartmaatschappijen
-
 #Prijs / inclusief / reisduur
-De prijs van de 37-daagse reis 'Nieuw-Zeeland Camper Kids' is vanaf EUR 4120 per volwassene en EUR 3895 per kind (niet ouder dan 11). Deze prijs is gebaseerd op twee volwassenen en twee kinderen (jonger dan 12). De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
-
-#Inclusief
+De prijs van de 37-daagse reis 'Nieuw-Zeeland Camper Kids' is vanaf € 4120 per volwassene en € 3895 per kind (niet ouder dan 11). Deze prijs is gebaseerd op twee volwassenen en twee kinderen (jonger dan 12). De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren.
+Inclusief
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Luchthavenbelasting en overige toeslagen
 - Dagkamer op het vliegveld van Hong Kong
@@ -1187,9 +1017,7 @@ De prijs van de 37-daagse reis 'Nieuw-Zeeland Camper Kids' is vanaf EUR 4120 per
 - Afkoop eigen-risico verzekering voor de camper
 - Uitgebreide en afwisselende routesuggestie voor de camperreis
 - Kampeer- en wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland Camper Kids'.]]></get-trip-scraped-content>
+##Ontdek de magie van Nieuw-Zeeland]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/8b0bf96882a0dfec15c57f50d6b0cf6a7cacf712.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Camper_kids-6.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/Camper_kids_6.jpg</get-trip-image-url-overview>
@@ -1208,18 +1036,15 @@ Neem contact op voor een persoonlijk reisplan van de reis 'Nieuw-Zeeland Camper 
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://fivesenses.nl/voorbeeldreizen/southern-comfort/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Southern Comfort
-
+    <get-trip-scraped-content><![CDATA[Southern Comfort - Fivesenses
+#Southern Comfort
 In de reis 'Southern Comfort' staan de kleuren blauw, groen en rood centraal.
-
 U begint de reis in Sydney met een verblijf in een hotel dat aan een van de mooiste havens ter wereld ligt. Op Tasmanië bent u vervolgens ruim twee weken in de groene wildernis voor u naar de rode Outback van South Australia gaat. Hier gaat u vier dagen in een kleine groep op safari met Geoff Scholz in de prachtige Gawler Ranges. U verblijft tijdens de gehele reis afwisselend in mooie stadshotels, afgelegen Lodges, sfeervolle B&B's en om het geheel af te maken bent u vier dagen in een comfortabel safarikamp.
-
-#Geschikt voor wie?
+Geschikt voor wie?
 Reizigers die een bijzondere, soms luxueuze accommodatie én contact met 'locals' op waarde in kunnen schatten. Sommige accommodaties zijn ook goed geschikt voor meerdere personen en om die reden leuk om met familie of vrienden te delen.
-
-#Beste tijd voor deze reis?
+Beste tijd voor deze reis?
 De reis 'Southern Comfort' kan het beste aan het einde van de Australische lente of in de Australische nazomer en herfst plaatsvinden. Afhankelijk van de tijd van het jaar reist u in westelijke of in oostelijke richting.
-
+#Impressie van Southern Comfort
 #Wat maakt deze reis bijzonder?
 - De afwisselende Outback in de Gawler Ranges
 - Varen op de Arcadia II over de Pieman River aan de stille westkust van Tasmanië
@@ -1228,11 +1053,9 @@ De reis 'Southern Comfort' kan het beste aan het einde van de Australische lente
 - Pinguïns op Bruny Island
 - 'Mad March' in Adelaide, de festivalstad van het land
 - Rondvlucht en boottocht in South-West National Park
-
 #Prijs / inclusief / reisduur
 De prijs van de 30-daagse reis 'Southern Comfort' is vanaf € 8225 per volwassene. Deze prijs is gebaseerd op twee volwassenen. De definitieve reissom is afhankelijk van de reisperiode, beschikbaarheid en uw persoonlijke reisvoorkeuren. Reist u liever niet in (klein) groepsverband, dan kunt u ook op eigen gelegenheid door de Outback van South Australia reizen. U verblijft dan drie nachten in de Flinders Ranges in plaats van in de Gawler Ranges. De prijs bedraagt in dat geval € 5820 per volwassene.
-
-#Inclusief
+Inclusief:
 - Internationale vlucht met Cathay Pacific in Economy Class
 - Binnenlandse vluchten met Qantas
 - Luchthavenbelasting en overige toeslagen
@@ -1244,9 +1067,7 @@ De prijs van de 30-daagse reis 'Southern Comfort' is vanaf € 8225 per volwasse
 - Transfers in Sydney, Hobart en Adelaide
 - Afkoop eigen-risico verzekering voor de auto
 - Wegenatlas van Hema Maps
-
-#Meer informatie / offerte aanvragen
-Neem contact op voor een persoonlijk reisplan van de reis 'Southern Comfort'.]]></get-trip-scraped-content>
+##Ontdek de magie van Down Under]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0013/70/ae5d55c92f3d18696f3773de57b0900c1260fb43.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/SouthernComfort-1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://fivesenses.nl/wp-content/uploads/2024/09/SouthernComfort-5.jpg</get-trip-image-url-overview>
