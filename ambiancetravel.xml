@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-25T12:45:25.350Z" count="12">
+<trips feed="ambiancetravel" partner="AmbianceTravel" generated="2026-08-25T13:46:40.480Z" count="12">
   <trip>
     <get-trip-id>GT-AMBIANCETRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -611,7 +611,7 @@ Bekijk deze exclusieve groepsreis Namibië (max 6 pers) langs de magische hoogte
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Rondreis Hoogtepunten van Namibië (comfort – 19 dagen)</get-trip-name>
+    <get-trip-name>Rondreis Hoogtepunten van Namibië (comfort)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>6.200</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
