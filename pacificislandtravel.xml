@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-27T08:39:46.145Z" count="38">
+<trips feed="pacificislandtravel" partner="Pacific Island Travel" generated="2026-08-27T09:01:58.593Z" count="38">
   <trip>
     <get-trip-id>GT-PACIFICISLANDTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -1441,6 +1441,7 @@ Matangi Island Resort — Op zoek naar een hotel op de eilanden van Fiji? Bij Pa
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
+    <get-trip-country>China</get-trip-country>
     <get-trip-country>Japan</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/aanbiedingen/fiji-off-the-beaten-track/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Off the beaten track | Pacific Island Travel
@@ -1598,6 +1599,7 @@ Matava Resort op Fiji — Kleine oase in ongerepte natuur, prachtig om te duiken
     <get-trip-lowest-price-2p>5.775</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Fiji</get-trip-country>
+    <get-trip-country>China</get-trip-country>
     <get-trip-url>https://pacificislandtravel.nl/fiji/aanbiedingen/fiji-reis-hong-kong-discovery/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Fiji Discovery & Hong Kong | Pacific Island Travel
 #Fiji Discovery & Hong Kong
