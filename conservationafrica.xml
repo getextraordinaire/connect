@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-27T12:47:39.533Z" count="11">
+<trips feed="conservationafrica" partner="African Conservation Experience" generated="2026-08-27T13:10:46.895Z" count="11">
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00002</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Care For Wild Africa Rhino Sanctuary</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>1.441</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -344,7 +344,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Coastal Conservation Project</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>1.753</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -529,7 +529,6 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-image-url-overview image-size="" image-weight="">https://images.prismic.io/acev2/aMB0WmGNHVfTO2hU_coastalconservationdolphinlandscape.JPG?auto=format%2Ccompress&amp;rect=0%2C473%2C4592%2C2583&amp;w=480&amp;h=270</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://images.prismic.io/acev2/aMB15GGNHVfTO2im_MarineRehabStudentMonitoringReptileCloseupwebsiteadvert.JPG?auto=format%2Ccompress&amp;rect=0%2C0%2C3456%2C1944&amp;w=480&amp;h=270</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://images.prismic.io/acev2/aMB15WGNHVfTO2in_MarineGroupViewingLandscapewebsiteadvert.jpg?auto=format%2Ccompress&amp;rect=0%2C871%2C2448%2C1377&amp;w=480&amp;h=270</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://images.prismic.io/acev2/aMBlsWGNHVfTO2Wl_LearningViewingSealBoatBotanicalHero.jpeg?auto=format%2Ccompress&amp;rect=0%2C0%2C5333%2C4000&amp;w=400&amp;h=300</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-CONSERVATIONAFRICA-00004</get-trip-id>
@@ -537,7 +536,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Game Ranger Experience</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>2.879</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -718,7 +717,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Golola Rhino Orphanage And Rehabilitation Centre</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>1.936</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -1037,7 +1036,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Moholoholo Wildlife Rehabilitation Centre</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>1.733</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -1428,7 +1427,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Okavango Wilderness Project</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>2.927</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Botswana</get-trip-country>
@@ -1770,7 +1769,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Phinda Wildlife Research Project</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>2.603</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -2468,7 +2467,7 @@ Vaste reisduur: 14 dagen.]]></get-trip-scraped-content>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Shimongwe Wildlife Veterinary Experience</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>4.176</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -2817,7 +2816,7 @@ Kortste boekbare reisduur: 14 dagen. Langste boekbare reisduur: 84 dagen. De van
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Vikela Kruger Conservation Experience</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>2.455</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -3190,7 +3189,7 @@ Kortste boekbare reisduur: 7 dagen. Langste boekbare reisduur: 84 dagen. De vana
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildlife Capture And Relocation Experience</get-trip-name>
-    <get-trip-duration>84</get-trip-duration>
+    <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>4.176</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
