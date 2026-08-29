@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="toperu" partner="ToPeru" generated="2026-08-29T02:00:00.907Z" count="6">
+<trips feed="toperu" partner="ToPeru" generated="2026-08-29T11:30:49.235Z" count="6">
   <trip>
     <get-trip-id>GT-TOPERU-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status-code>0 (No response)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru (10 dagen)</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
