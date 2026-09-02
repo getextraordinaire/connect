@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-09-02T02:00:00.868Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-09-02T16:03:50.311Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Denemarken met kinderen</get-trip-name>
-    <get-trip-duration>Unknown</get-trip-duration>
+    <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Denemarken</get-trip-country>
