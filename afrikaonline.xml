@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-03T20:27:03.666Z" count="21">
+<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-03T21:08:57.432Z" count="21">
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31439</get-trip-id>
+    <get-trip-id-org>6443</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -286,6 +287,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31440</get-trip-id>
+    <get-trip-id-org>6715</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -628,6 +630,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31441</get-trip-id>
+    <get-trip-id-org>6718</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -906,6 +909,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31442</get-trip-id>
+    <get-trip-id-org>6720</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1203,6 +1207,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31443</get-trip-id>
+    <get-trip-id-org>6721</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1586,6 +1591,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31446</get-trip-id>
+    <get-trip-id-org>6730</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1898,6 +1904,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31448</get-trip-id>
+    <get-trip-id-org>6733</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2175,6 +2182,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31450</get-trip-id>
+    <get-trip-id-org>6738</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2452,6 +2460,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31451</get-trip-id>
+    <get-trip-id-org>6740</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2708,6 +2717,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31457</get-trip-id>
+    <get-trip-id-org>6750</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2949,6 +2959,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31462</get-trip-id>
+    <get-trip-id-org>6758</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3237,6 +3248,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31463</get-trip-id>
+    <get-trip-id-org>6759</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3530,6 +3542,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31464</get-trip-id>
+    <get-trip-id-org>6769</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3836,6 +3849,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31467</get-trip-id>
+    <get-trip-id-org>6772</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4175,6 +4189,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31470</get-trip-id>
+    <get-trip-id-org>6778</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4521,6 +4536,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31471</get-trip-id>
+    <get-trip-id-org>6779</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4893,6 +4909,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31477</get-trip-id>
+    <get-trip-id-org>9257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5200,6 +5217,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31478</get-trip-id>
+    <get-trip-id-org>9262</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5473,6 +5491,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31481</get-trip-id>
+    <get-trip-id-org>10254</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5856,6 +5875,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31482</get-trip-id>
+    <get-trip-id-org>10548</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6262,6 +6282,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31483</get-trip-id>
+    <get-trip-id-org>10552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
