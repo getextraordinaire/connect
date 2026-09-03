@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-03T21:08:57.432Z" count="10">
+<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-03T21:47:34.379Z" count="10">
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-35490</get-trip-id>
     <get-trip-id-org>10141</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mongolië rondreis</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
