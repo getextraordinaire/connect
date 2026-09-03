@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-03T21:08:57.432Z" count="92">
+<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-03T21:47:34.379Z" count="92">
   <trip>
     <get-trip-id>GT-TICOREIZEN-30729</get-trip-id>
     <get-trip-id-org>2</get-trip-id-org>
@@ -1144,7 +1144,7 @@ Colombia is een dunbevolkt land met naar schatting 48 miljoen inwoners. De bevol
     <get-trip-id>GT-TICOREIZEN-30745</get-trip-id>
     <get-trip-id-org>33</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Bolivia Compleet</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4582,7 +4582,7 @@ Fooi geven is gebruikelijk in Panama. In restaurants wordt meestal ca. 10% fooi 
     <get-trip-id>GT-TICOREIZEN-30901</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Japan Deluxe</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -7824,7 +7824,7 @@ Religie
     <get-trip-id>GT-TICOREIZEN-31135</get-trip-id>
     <get-trip-id-org>116</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Combinatiereis Ecuador &amp; Peru</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -13855,7 +13855,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
     <get-trip-id>GT-TICOREIZEN-32292</get-trip-id>
     <get-trip-id-org>596</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Japan</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -16802,7 +16802,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
     <get-trip-id>GT-TICOREIZEN-32721</get-trip-id>
     <get-trip-id-org>527</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis tijdens de winter | Winterreis IJsland</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -18001,7 +18001,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
     <get-trip-id>GT-TICOREIZEN-34060</get-trip-id>
     <get-trip-id-org>270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe cruise | Three Arctic Islands</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
