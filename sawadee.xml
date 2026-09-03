@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-03T21:08:57.432Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-03T21:47:34.379Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
     <get-trip-id-org>ABF</get-trip-id-org>
@@ -24628,7 +24628,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-16198</get-trip-id>
     <get-trip-id-org>SLF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Sri Lanka</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -31675,7 +31675,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-16237</get-trip-id>
     <get-trip-id-org>ZUA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Zuidelijk Afrika - kampeerreis</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -47819,7 +47819,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-26624</get-trip-id>
     <get-trip-id-org>ZAG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Zuid-Afrika Tuinroute &amp; Kruger</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -53322,7 +53322,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-30394</get-trip-id>
     <get-trip-id-org>JRTHA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>22-35ers reis Thailand</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -59869,7 +59869,7 @@ De richtlijn wat betreft fooi voor de Egyptische reisbegeleiders USD 5 per dag e
     <get-trip-id>GT-SAWADEE-32240</get-trip-id>
     <get-trip-id-org>JRKET</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>22-35ers reis Kenia &amp; Tanzania</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -63748,7 +63748,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32760</get-trip-id>
     <get-trip-id-org>AZO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelvakantie Azoren</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -66997,7 +66997,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32773</get-trip-id>
     <get-trip-id-org>GEF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Georgië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -70156,7 +70156,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32786</get-trip-id>
     <get-trip-id-org>XNS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Spitsbergen 8, 11 of</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -74945,7 +74945,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-35750</get-trip-id>
     <get-trip-id-org>BAL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Estland, Letland en Litouwen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -79373,7 +79373,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-36348</get-trip-id>
     <get-trip-id-org>FRPRO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsvakantie Provence</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
