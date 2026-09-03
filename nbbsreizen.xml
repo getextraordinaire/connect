@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-03T21:08:57.432Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-03T21:47:34.379Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
     <get-trip-id-org>140730</get-trip-id-org>
@@ -1130,7 +1130,7 @@ Update 04.06.26.]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35815</get-trip-id>
     <get-trip-id-org>70866</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Texas The Lone Star State</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2362,7 +2362,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35828</get-trip-id>
     <get-trip-id-org>26503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Unbelievable Colombia</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -4114,7 +4114,7 @@ White River	13	Stille Woning (standaard)]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35841</get-trip-id>
     <get-trip-id-org>Unknown</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bush Discovery and Mauritius</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -7082,7 +7082,7 @@ Rio de Janeiro	21-22	Copa Sul	Arena Copacabana]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35867</get-trip-id>
     <get-trip-id-org>3913</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Classics of Peru</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8263,7 +8263,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-35880</get-trip-id>
     <get-trip-id-org>5222</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Surprising New Zealand</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -11863,7 +11863,7 @@ Manuel Antonio	15-16	Villas Lirio]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-36153</get-trip-id>
     <get-trip-id-org>4239</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wonders of Costa Rica</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
