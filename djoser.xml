@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoser" partner="Djoser" generated="2026-09-03T20:27:03.666Z" count="193">
+<trips feed="djoser" partner="Djoser" generated="2026-09-03T21:08:57.432Z" count="193">
   <trip>
     <get-trip-id>GT-DJOSER-184</get-trip-id>
+    <get-trip-id-org>ZBNH24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -456,6 +457,7 @@ De duur zal per aanvraag en gemeente verschillen. Neem hiervoor contact op met j
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-185</get-trip-id>
+    <get-trip-id-org>ZBN24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -930,6 +932,7 @@ De duur zal per aanvraag en gemeente verschillen. Neem hiervoor contact op met j
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-192</get-trip-id>
+    <get-trip-id-org>NZ25</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1283,6 +1286,7 @@ Bekijk ook onze 30-daagse reis naar Australië en Nieuw-Zeeland.]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-194</get-trip-id>
+    <get-trip-id-org>ZAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1668,6 +1672,7 @@ Het is tijdens deze reis niet mogelijk om gebruik te maken van een driepersoonsk
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-195</get-trip-id>
+    <get-trip-id-org>ZANK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1949,6 +1954,7 @@ Het uittreksel geboorteakte moet niet alleen de gegevens van het kind maar ook d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-196</get-trip-id>
+    <get-trip-id-org>ZANO18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2237,6 +2243,7 @@ Telefoneren met een mobiele telefoon is (bijna) overal mogelijk. Vaak beschikt d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-199</get-trip-id>
+    <get-trip-id-org>JB18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2554,6 +2561,7 @@ Tijdens de reis bestaat op Bali de mogelijkheid om te duiken bij het noordelijke
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-1357</get-trip-id>
+    <get-trip-id-org>SUL24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2852,6 +2860,7 @@ Ter plaatse kun je nog besluiten of je wel of niet deelneemt aan de trekking. Je
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2811</get-trip-id>
+    <get-trip-id-org>EGK11</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3127,6 +3136,7 @@ Je kunt overal gemakkelijk telefoneren via het vaste net. Mobiele telefonie is r
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2813</get-trip-id>
+    <get-trip-id-org>EGL20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3445,6 +3455,7 @@ De Djoser groepen bestaan gemiddeld uit 16 personen. De maximale groepsgrootte i
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2816</get-trip-id>
+    <get-trip-id-org>MAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3730,6 +3741,7 @@ De groepen bestaan uit maximaal 20 personen.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2819</get-trip-id>
+    <get-trip-id-org>JOL12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4014,6 +4026,7 @@ Ja, Djoser heeft diverse reizen naar Jordanië. Bekijk hier het overzicht aan ro
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2825</get-trip-id>
+    <get-trip-id-org>ME16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4307,6 +4320,7 @@ Bellen is vrijwel overal mogelijk. Mobiel bellen is sterk afhankelijk van je Ned
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2828</get-trip-id>
+    <get-trip-id-org>SU20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4679,6 +4693,7 @@ Het schildpadden seizoen start ongeveer vanaf februari t/m augustus. Tijdens dez
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2829</get-trip-id>
+    <get-trip-id-org>ECGA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5081,6 +5096,7 @@ Je kunt hiervoor een eSIM of een lokale simkaart gebruiken voor extra gemak en b
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2831</get-trip-id>
+    <get-trip-id-org>PE21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5453,6 +5469,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2837</get-trip-id>
+    <get-trip-id-org>NEK16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5708,6 +5725,7 @@ Onze groepen bestaan uit samen- en alleenreizenden. Reis je alleen dan vind je z
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2839</get-trip-id>
+    <get-trip-id-org>CUM14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6046,6 +6064,7 @@ De groepen naar Cuba bestaan uit gemiddeld 16 personen, de maximale groepsgroott
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2841</get-trip-id>
+    <get-trip-id-org>oe17</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6314,6 +6333,7 @@ De reis wordt begeleidt door een ervaren Oost-Afrikaanse, Engelstalige crew.]]><
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2845</get-trip-id>
+    <get-trip-id-org>BCP24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6637,6 +6657,7 @@ Je kunt deze reis boeken zonder internationale vluchten, je boekt dan zelf je vl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2847</get-trip-id>
+    <get-trip-id-org>INCH23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7007,6 +7028,7 @@ Makphet (vertaling: chili) restaurant is onderdeel van een project om kansarme j
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2848</get-trip-id>
+    <get-trip-id-org>JAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7352,6 +7374,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2854</get-trip-id>
+    <get-trip-id-org>MAL20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7681,6 +7704,7 @@ Doordat we maar kort in Kinabalu nationaal park zijn is het niet mogelijk om Mou
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2856</get-trip-id>
+    <get-trip-id-org>THK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7982,6 +8006,7 @@ In Thailand kan je in de meeste steden pinnen. Alleen op de jungle rafts bij de 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2857</get-trip-id>
+    <get-trip-id-org>TH21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8346,6 +8371,7 @@ In Thailand kan je in de meeste steden pinnen. Alleen op de jungle rafts bij de 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2858</get-trip-id>
+    <get-trip-id-org>VICA27</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8739,6 +8765,7 @@ In het nog niet zo lang voor toeristen opengestelde Cambodja bezoeken we de twee
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2859</get-trip-id>
+    <get-trip-id-org>CHTI30</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9120,6 +9147,7 @@ Het is belangrijk dat je bagage niet te groot is, vanwege de beperkte opslagruim
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2860</get-trip-id>
+    <get-trip-id-org>INNE22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9459,6 +9487,7 @@ De uitleg kun je vinden op de Mijn Djoser-pagina onder Visum & reisdocumenten.]]
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2861</get-trip-id>
+    <get-trip-id-org>INRA30</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9868,6 +9897,7 @@ De uitleg kun je vinden op de Mijn Djoser-pagina onder Visum & reisdocumenten.]]
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2862</get-trip-id>
+    <get-trip-id-org>SRMA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10221,6 +10251,7 @@ Het is mogelijk om je verblijf op de Malediven te verlengen. De prijzen voor dez
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2867</get-trip-id>
+    <get-trip-id-org>COL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10558,6 +10589,7 @@ Reis je met drie (of vijf) personen, dan kun je na het afronden van de boeking d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2870</get-trip-id>
+    <get-trip-id-org>CH24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10913,6 +10945,7 @@ De groepen bestaan gemiddeld uit zo'n 16 personen. De groepen bestaan maximaal u
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2873</get-trip-id>
+    <get-trip-id-org>VIK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11221,6 +11254,7 @@ De netspanning is 220 Volt. Een wereldstekker kan van pas komen: in het zuiden v
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2875</get-trip-id>
+    <get-trip-id-org>SR15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11533,6 +11567,7 @@ In Sri Lanka zijn voldoende mogelijkheden om de omgeving te voet te verkennen. B
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2876</get-trip-id>
+    <get-trip-id-org>SRL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11886,6 +11921,7 @@ In Sri Lanka zijn voldoende mogelijkheden om de omgeving te voet te verkennen. B
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2877</get-trip-id>
+    <get-trip-id-org>IN15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12195,6 +12231,7 @@ Het visum voor India kun je online aanvragen voor 30 dagen. Je ontvangt na aanvr
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2881</get-trip-id>
+    <get-trip-id-org>TANK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12479,6 +12516,7 @@ Neem ook een klein dagrugzakje mee voor uw camera, verrekijker, waterflesje etc.
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2884</get-trip-id>
+    <get-trip-id-org>MEGU24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12817,6 +12855,7 @@ De gemiddelde groepsgrootte op onze reizen bedraagt 16 personen, de maximale gro
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2885</get-trip-id>
+    <get-trip-id-org>CALA22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13110,6 +13149,7 @@ De Djoser groepen bestaan gemiddeld uit 16 personen, de maximale groepsgrootte i
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2892</get-trip-id>
+    <get-trip-id-org>TW15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13417,6 +13457,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-2893</get-trip-id>
+    <get-trip-id-org>BABE27</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13771,6 +13812,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-5103</get-trip-id>
+    <get-trip-id-org>MA23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14156,6 +14198,7 @@ Let op: een verlenging tijdens een stopover is niet mogelijk]]></get-trip-scrape
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-5732</get-trip-id>
+    <get-trip-id-org>KETH18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14479,6 +14522,7 @@ Het is vaak ook mogelijk om op de bestemming een lokale data simkaart aan te sch
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6105</get-trip-id>
+    <get-trip-id-org>SUSU21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14801,6 +14845,7 @@ Op Lombok kun je duiken en snorkelen bij de tropische Gili eilanden. Hier zijn d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6140</get-trip-id>
+    <get-trip-id-org>ARIG26</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15172,6 +15217,7 @@ Voor liefhebbers van fotografie is dit een schitterende bestemming. We raden je 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6168</get-trip-id>
+    <get-trip-id-org>USA22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15481,6 +15527,7 @@ Ja, je kunt vanuit Los Angeles op eigen gelegenheid naar Anaheim waar het park g
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6187</get-trip-id>
+    <get-trip-id-org>KO15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15800,6 +15847,7 @@ Het voltage in Zuid Korea is 220 volt. De stekkers zijn het zelfde als in Nederl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6227</get-trip-id>
+    <get-trip-id-org>VI22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16182,6 +16230,7 @@ Op de 27-daagse reis naar Vietnam & Cambodja reizen we in omgekeerde richting: v
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6229</get-trip-id>
+    <get-trip-id-org>KTZA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16531,6 +16580,7 @@ Met een volle groep is de richtlijn per persoon ca. 25 à 30 USD voor de gehele 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-6234</get-trip-id>
+    <get-trip-id-org>USNN18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16801,6 +16851,7 @@ De netspanning is 110 Volt. Men gebruikt stopcontacten voor stekkers van het Ame
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-12128</get-trip-id>
+    <get-trip-id-org>EGR14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17073,6 +17124,7 @@ In het overwegend islamitische Egypte wordt, zeker op het platteland, gepaste kl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-14622</get-trip-id>
+    <get-trip-id-org>USAH21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17364,6 +17416,7 @@ Ja, alle entreegelden voor de nationale parken zijn bij de reissom inbegrepen.]]
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-14850</get-trip-id>
+    <get-trip-id-org>ARCH23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17728,6 +17781,7 @@ Voor liefhebbers van fotografie is dit een schitterende bestemming. We raden je 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-19246</get-trip-id>
+    <get-trip-id-org>SJBL28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18071,6 +18125,7 @@ Op Lombok kunt u duiken en snorkelen bij de tropische Gili eilanden. Hier zijn d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-19414</get-trip-id>
+    <get-trip-id-org>NE20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18361,6 +18416,7 @@ WiFi wordt steeds populairder in Nepal. Over het algemeen hebben de hotels waar 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-19415</get-trip-id>
+    <get-trip-id-org>TMS21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18725,6 +18781,7 @@ Via Djoser kun je de datum voor de terugvlucht verplaatsen. Deze verlenging dien
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-19764</get-trip-id>
+    <get-trip-id-org>MAR21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19043,6 +19100,7 @@ De groepen bestaan uit maximaal 20 personen.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-19907</get-trip-id>
+    <get-trip-id-org>PEJU24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19447,6 +19505,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21296</get-trip-id>
+    <get-trip-id-org>ZATO29</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19846,6 +19905,7 @@ Het uittreksel geboorteakte moet niet alleen de gegevens van het kind maar ook d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21370</get-trip-id>
+    <get-trip-id-org>XINW18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20150,6 +20210,7 @@ Het visum voor India kun je online aanvragen voor 30 dagen. De uitleg kun je vin
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21587</get-trip-id>
+    <get-trip-id-org>BH20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20506,6 +20567,7 @@ Het is mogelijk de datum van je terugvlucht te wijzigen, om langer in Kolkata te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21591</get-trip-id>
+    <get-trip-id-org>SUGG21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20898,6 +20960,7 @@ Overige excursies kun je ter plaatse boeken en betalen.]]></get-trip-scraped-con
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21592</get-trip-id>
+    <get-trip-id-org>TUR16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21186,6 +21249,7 @@ Een enthousiaste, lokale, Nederlands sprekende reisbegeleider begeleidt de reis 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-21606</get-trip-id>
+    <get-trip-id-org>PEK14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21489,6 +21553,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-22675</get-trip-id>
+    <get-trip-id-org>JAHO22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21857,6 +21922,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-23108</get-trip-id>
+    <get-trip-id-org>XSRW15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22164,6 +22230,7 @@ We raden aan te reizen met een zachte reistas/koffer en het gewicht te beperken 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-24520</get-trip-id>
+    <get-trip-id-org>JAWI15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22472,6 +22539,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-24818</get-trip-id>
+    <get-trip-id-org>JAZK10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22769,6 +22837,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-25498</get-trip-id>
+    <get-trip-id-org>CHK18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23087,6 +23156,7 @@ Voor de culinaire liefhebber is een reis door China en haar keuken één groot a
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-25509</get-trip-id>
+    <get-trip-id-org>SJB21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23409,6 +23479,7 @@ Tijdens de reis bestaat op Bali de mogelijkheid om te duiken bij het noordelijke
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-25854</get-trip-id>
+    <get-trip-id-org>INDA23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23737,6 +23808,7 @@ Het is mogelijk de datum van je terugvlucht te wijzigen, om langer in Kolkata te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-25967</get-trip-id>
+    <get-trip-id-org>ZBZI20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24057,6 +24129,7 @@ Ter plekke reizen we over land reizen we met een safaritruck, toegerust voor het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-25985</get-trip-id>
+    <get-trip-id-org>AUNZ30</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24442,6 +24515,7 @@ Bij reizen die worden uitgevoerd door Singapore Airlines is het mogelijk om de r
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-26167</get-trip-id>
+    <get-trip-id-org>JOK8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24697,6 +24771,7 @@ Deze prijzen zijn zonder de wijzigingskosten (€50,- per persoon)voor de vlucht
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-27935</get-trip-id>
+    <get-trip-id-org>BOPE22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25039,6 +25114,7 @@ Tijdens de overnachting op Isla del Sol zijn er geen eenpersoonskamer beschikbaa
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-27975</get-trip-id>
+    <get-trip-id-org>JA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25404,6 +25480,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-27995</get-trip-id>
+    <get-trip-id-org>OETZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25746,6 +25823,7 @@ Zanzibar is een eiland met prachtige stranden en mooie koraalriffen. Wij verblij
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28018</get-trip-id>
+    <get-trip-id-org>KTZH20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26085,6 +26163,7 @@ Telefoneren via het vaste net is mogelijk in grotere plaatsen en in de meeste ho
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28276</get-trip-id>
+    <get-trip-id-org>AL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26366,6 +26445,7 @@ Ja, de entreegelden voor de nationale parken zijn bij de reissom inbegrepen. Moc
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28278</get-trip-id>
+    <get-trip-id-org>ARBR21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26703,6 +26783,7 @@ In alle grote steden in Argentinië en Brazilië staan pinautomaten waar je met 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28280</get-trip-id>
+    <get-trip-id-org>COKO16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26982,6 +27063,7 @@ In alle hotels is er wifi aanwezig. Houdt er wel rekening mee dat in een afgeleg
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28281</get-trip-id>
+    <get-trip-id-org>COLA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27259,6 +27341,7 @@ In alle hotels is er wifi aanwezig. Houdt er wel rekening mee dat in een afgeleg
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28282</get-trip-id>
+    <get-trip-id-org>CUL20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27619,6 +27702,7 @@ De groepen naar Cuba bestaan uit gemiddeld 16 personen, de maximale groepsgroott
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-28327</get-trip-id>
+    <get-trip-id-org>ZIJC28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27957,6 +28041,7 @@ Wij adviseren om een wereldstekker en eventueel een powerbank mee te nemen, zoda
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-29179</get-trip-id>
+    <get-trip-id-org>ZA22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28400,6 +28485,7 @@ Het uittreksel geboorteakte moet niet alleen de gegevens van het kind maar ook d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-29415</get-trip-id>
+    <get-trip-id-org>EGJO15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28677,6 +28763,7 @@ In deze overwegend islamitische landen wordt, zeker op het platteland, gepaste k
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-29530</get-trip-id>
+    <get-trip-id-org>CA19</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28987,6 +29074,7 @@ Veel Canadese steden zijn gebouwd rondom de spoorlijnen, omdat treinen in de 19e
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-29865</get-trip-id>
+    <get-trip-id-org>NBZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29401,6 +29489,7 @@ Ja dit is mogelijk. Per deelnemer kan binnen de boekingmodule worden gekozen voo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31243</get-trip-id>
+    <get-trip-id-org>WJO9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29717,6 +29806,7 @@ Jordanië is uiteraard overwegend islamitisch en zeker op het platteland wordt g
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31244</get-trip-id>
+    <get-trip-id-org>WKV13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30027,6 +30117,7 @@ Voor deze reis wordt een vaccinatie tegen DTP en Hepatitis A aangeraden. Daarnaa
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31247</get-trip-id>
+    <get-trip-id-org>FICU18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30394,6 +30485,7 @@ Op Cuba zijn snacks momenteel moeilijk te krijgen, daarom adviseren wij deze alv
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31248</get-trip-id>
+    <get-trip-id-org>FIMA10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30698,6 +30790,7 @@ In het hotel in Marrakech kun je gebruik maken van wifi. De rest van de reis is 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31249</get-trip-id>
+    <get-trip-id-org>FISR15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31100,6 +31193,7 @@ Tijdens het strandverblijf in Ahangama hebben we nog een fietstocht op de planni
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31250</get-trip-id>
+    <get-trip-id-org>FIVC18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31491,6 +31585,7 @@ In de meeste hotels kun je van wifi gebruik maken, dan wel tegen betaling. Ook i
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31852</get-trip-id>
+    <get-trip-id-org>MADA24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31864,6 +31959,7 @@ Indien je een compacte reisklamboe hebt, kun je deze eventueel meenemen. De mees
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31883</get-trip-id>
+    <get-trip-id-org>NAHO21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32183,6 +32279,7 @@ Telefoneren via het vaste net is uitsluitend mogelijk in de grotere plaatsen. Oo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-31953</get-trip-id>
+    <get-trip-id-org>TURO20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32466,6 +32563,7 @@ Turkije is uiteraard een islamitisch land en zeker op het platteland wordt gepas
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32160</get-trip-id>
+    <get-trip-id-org>RILI24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32772,6 +32870,7 @@ Voor mensen met hart- en vaatziekten en astmapatiënten raden wij aan vooraf hun
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32220</get-trip-id>
+    <get-trip-id-org>INZU22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33093,6 +33192,7 @@ Het visum voor India kun je online aanvragen voor 30 dagen. De uitleg kun je vin
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32258</get-trip-id>
+    <get-trip-id-org>MALT21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33420,6 +33520,7 @@ Doordat we maar kort in Kinabalu nationaal park zijn is het niet mogelijk om Mou
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32259</get-trip-id>
+    <get-trip-id-org>GBT22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33695,6 +33796,7 @@ De groepen bestaan uit gemiddeld 15 personen. De maximale groepsgrootte is 18 pe
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32260</get-trip-id>
+    <get-trip-id-org>MASH8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33926,6 +34028,7 @@ Marokko is een gematigd islamitisch land. In de grote plaatsen verdringt de spij
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32262</get-trip-id>
+    <get-trip-id-org>BEDE30</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34428,6 +34531,7 @@ De groepen bestaan gemiddeld uit 15 personen. De maximale groepsgrootte is 20.]]
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32264</get-trip-id>
+    <get-trip-id-org>WTU8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34687,6 +34791,7 @@ Turkije is uiteraard een islamitisch land en zeker op het platteland wordt gepas
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32265</get-trip-id>
+    <get-trip-id-org>FIBL18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35030,6 +35135,7 @@ Je kunt de was laten doen in Ubud, Lovina, Senggigi en Gili Air.]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32272</get-trip-id>
+    <get-trip-id-org>MO16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35255,6 +35361,7 @@ Heeft u niet de Nederlandse en Belgische nationaliteit of wilt u langer dan 30 d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32273</get-trip-id>
+    <get-trip-id-org>ZAMO19</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35538,6 +35645,7 @@ Het is verstandig enigszins te letten op wat je eet. Tevens raden we je aan een 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32278</get-trip-id>
+    <get-trip-id-org>KOJE21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35882,6 +35990,7 @@ Het voltage in Zuid Korea is 220 volt. De stekkers zijn het zelfde als in Nederl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32459</get-trip-id>
+    <get-trip-id-org>FI22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36143,6 +36252,7 @@ De Filipijnen hebben een tropisch klimaat, het gehele jaar door zijn er hoge tem
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32511</get-trip-id>
+    <get-trip-id-org>EGN14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36408,6 +36518,7 @@ In het overwegend islamitische Egypte wordt, zeker op het platteland, gepaste kl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32609</get-trip-id>
+    <get-trip-id-org>WNO8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36702,6 +36813,7 @@ Je kunt met Noorse Kronen betalen in Noorwegen. In de meeste plaatsen kun je met
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32797</get-trip-id>
+    <get-trip-id-org>ALMA15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37009,6 +37121,7 @@ Tijdens de reis door Albanië en Macedonië bezoeken we ook het meer van Ohrid. 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32799</get-trip-id>
+    <get-trip-id-org>GEAR15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37284,6 +37397,7 @@ In Armenië en Georgië is het voltage 220 Volt, de Nederlandse stekkers passen 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32800</get-trip-id>
+    <get-trip-id-org>AZAG21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37608,6 +37722,7 @@ Het is belangrijk dat je bagage niet te groot is, vanwege de beperkte opslagruim
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32802</get-trip-id>
+    <get-trip-id-org>AZ10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37858,6 +37973,7 @@ Het is mogelijk de luchthaven af te gaan bij een lange overstap. Dit is wel op e
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32804</get-trip-id>
+    <get-trip-id-org>BALK8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38068,6 +38184,7 @@ De gezellige centra van de steden Vilnius, Riga en Tallinn zijn compact en goed 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32805</get-trip-id>
+    <get-trip-id-org>BAL12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38292,6 +38409,7 @@ Het reisgezelschap bestaat uit gemiddeld 16 personen, het maximum is 22.]]></get
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32812</get-trip-id>
+    <get-trip-id-org>XFIB6</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38502,6 +38620,7 @@ In het Oulanka Basecamp is wifi aanwezig bij de receptie en in de eetzaal.]]></g
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32813</get-trip-id>
+    <get-trip-id-org>GRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38777,6 +38896,7 @@ Tijdens je rondreis Griekenland is de netspanning 220, stopcontacten zijn gelijk
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32814</get-trip-id>
+    <get-trip-id-org>GREI14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39050,6 +39170,7 @@ Onze reisgezelschappen bestaan gemiddeld uit 15 personen. Bij 10 deelnemers word
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32818</get-trip-id>
+    <get-trip-id-org>GRL18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39369,6 +39490,7 @@ Tijdens je rondreis Griekenland is de netspanning 220, stopcontacten zijn gelijk
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32819</get-trip-id>
+    <get-trip-id-org>IER12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39618,6 +39740,7 @@ De beste reistijd voor deze reis is van mei tot en met augustus. Het kan het hel
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32821</get-trip-id>
+    <get-trip-id-org>IJWI7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39832,6 +39955,7 @@ De reisbegeleider op de rondreis IJsland 7 dagen is een Engels- of Nederlandsspr
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32822</get-trip-id>
+    <get-trip-id-org>IJS13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40120,6 +40244,7 @@ Ja, tijdens deze 13-daagse rondreis IJsland zijn er diverse mogelijkheden om te 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32831</get-trip-id>
+    <get-trip-id-org>ITMA15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40342,6 +40467,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, de natuur is dan op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32844</get-trip-id>
+    <get-trip-id-org>BAFI14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40594,6 +40720,7 @@ In de steden Vilnius, Riga, Tallinn en Helsinki is veel vrije tijd om zelf lekke
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32847</get-trip-id>
+    <get-trip-id-org>MAGR18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40878,6 +41005,7 @@ Het is mogelijk om tot uiterlijk 8 weken voor vertrek de reis te verlengen in Th
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32852</get-trip-id>
+    <get-trip-id-org>POL14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41140,6 +41268,7 @@ Je kunt vrijwel overal gemakkelijk telefoneren. De bereikbaarheid van mobiele te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32853</get-trip-id>
+    <get-trip-id-org>ITSA12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41382,6 +41511,7 @@ In het voor- en najaar is het de beste tijd voor een reis Sardinië, de natuur i
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32855</get-trip-id>
+    <get-trip-id-org>SEMK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41661,6 +41791,7 @@ Voor deze reis kun je enkel met een ID kaart reizen, niet met een paspoort. Serv
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32856</get-trip-id>
+    <get-trip-id-org>SP12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41900,6 +42031,7 @@ Ja, de gehele reis wordt begeleid door enthousiaste Nederlandstalige reisbegelei
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32858</get-trip-id>
+    <get-trip-id-org>SPPO13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42153,6 +42285,7 @@ Deze reis is voor iedereen met een goede conditie goed te doen. Het is een actie
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32881</get-trip-id>
+    <get-trip-id-org>JGRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42381,6 +42514,7 @@ Vergeet niet om je rijbewijs mee te nemen, voor het geval je zelf een dagje een 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32907</get-trip-id>
+    <get-trip-id-org>WALB8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42659,6 +42793,7 @@ In de zomer en het najaar is het in Albanië een zeer aangename temperatuur om t
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32908</get-trip-id>
+    <get-trip-id-org>WAN8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42917,6 +43052,7 @@ De prijzen zijn zonder de transfer van/naar de luchthaven. Deze kan eenvoudig te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32911</get-trip-id>
+    <get-trip-id-org>WIE8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43181,6 +43317,7 @@ De beste reistijd voor deze reis is van mei tot en met september. Het kan het he
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32915</get-trip-id>
+    <get-trip-id-org>WIAB8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43436,6 +43573,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, met een aangename wa
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32917</get-trip-id>
+    <get-trip-id-org>WIT8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43702,6 +43840,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32920</get-trip-id>
+    <get-trip-id-org>WITA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43981,6 +44120,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, de natuur is dan op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32928</get-trip-id>
+    <get-trip-id-org>WKR8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44245,6 +44385,7 @@ Het klimaat in Kroatië varieert van Mediterraans langs de Adriatische kust tot 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32930</get-trip-id>
+    <get-trip-id-org>WLP8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44518,6 +44659,7 @@ Op La Palma wordt er betaald met de euro. Het is bijna overal mogelijk om te pin
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32934</get-trip-id>
+    <get-trip-id-org>WMA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44816,6 +44958,7 @@ We kunnen vaak maar een beperkt aantal vluchten aanvragen bij een luchtvaartmaat
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32937</get-trip-id>
+    <get-trip-id-org>WAZ14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45167,6 +45310,7 @@ Helaas is het niet mogelijk om rechtstreeks te vliegen naar de Azoren. Transavia
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32939</get-trip-id>
+    <get-trip-id-org>WPO8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45432,6 +45576,7 @@ Het voor- en najaar is het de beste tijd voor deze reis. Het hete mediterrane kl
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32940</get-trip-id>
+    <get-trip-id-org>WSC8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45716,6 +45861,7 @@ De beste reistijd voor deze reis is van mei tot en met augustus. Het kan het hel
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32945</get-trip-id>
+    <get-trip-id-org>WSPN8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46001,6 +46147,7 @@ Het noorden van Spanje staat bekend om het - in tegenstelling tot de rest van Sp
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32947</get-trip-id>
+    <get-trip-id-org>WPY13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46261,6 +46408,7 @@ In de zomermaanden is het erg aangenaam wandelen in zowel de Franse als de Spaan
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32948</get-trip-id>
+    <get-trip-id-org>WSP8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46536,6 +46684,7 @@ De netspanning is 220 volt, de stopcontacten zijn gelijk aan die in Nederland.]]
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32951</get-trip-id>
+    <get-trip-id-org>WTG9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46798,6 +46947,7 @@ Je kunt via Djoser de heen- of terugvlucht wijzigen, dit is op aanvraag. Wijzigi
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32953</get-trip-id>
+    <get-trip-id-org>WEZW8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47063,6 +47213,7 @@ Ja, voor Engeland heb je een visum nodig. Dit visum kun je online aanvragen. Op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32957</get-trip-id>
+    <get-trip-id-org>WWA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47361,6 +47512,7 @@ Ja, voor Engeland heb je een visum nodig. Dit visum kun je online aanvragen. Op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32961</get-trip-id>
+    <get-trip-id-org>FIBA9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47662,6 +47814,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Deze fietsreis wordt
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32964</get-trip-id>
+    <get-trip-id-org>FIPU8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47946,6 +48099,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32965</get-trip-id>
+    <get-trip-id-org>FISA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48224,6 +48378,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32969</get-trip-id>
+    <get-trip-id-org>FIKR9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48515,6 +48670,7 @@ In het voor- en najaar is het de beste tijd voor deze fietsreis. De temperatuur 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-32971</get-trip-id>
+    <get-trip-id-org>FIPL8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48790,6 +48946,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34093</get-trip-id>
+    <get-trip-id-org>JLAP7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48977,6 +49134,7 @@ Neem voor deze reis warme kleding mee zoals fleecetruien, wintersportkleding, th
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34851</get-trip-id>
+    <get-trip-id-org>INGU21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49284,6 +49442,7 @@ Vanwege het 'vrijheid blijheid'-principe kun je de reis zo zwaar maken als je ze
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34852</get-trip-id>
+    <get-trip-id-org>XDECH40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49702,6 +49861,7 @@ Het visum voor India kun je online aanvragen voor 365 dagen. Je ontvangt na aanv
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34853</get-trip-id>
+    <get-trip-id-org>XSUBA40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50085,6 +50245,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34854</get-trip-id>
+    <get-trip-id-org>KAVE13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50375,6 +50536,7 @@ Tevens bieden wij verlengingen in Mindelo aan in combinatie met een hotel. Meer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34857</get-trip-id>
+    <get-trip-id-org>OMAN9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50608,6 +50770,7 @@ Voor deze reis wordt er aanbevolen om je te laten inenten tegen DTP en hepatitis
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34863</get-trip-id>
+    <get-trip-id-org>WEN8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50859,6 +51022,7 @@ Ja, voor Engeland heb je een visum nodig. Dit visum kun je online aanvragen. Op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34864</get-trip-id>
+    <get-trip-id-org>FIAL8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51147,6 +51311,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34865</get-trip-id>
+    <get-trip-id-org>FISE8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51430,6 +51595,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34866</get-trip-id>
+    <get-trip-id-org>FIZA15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51741,6 +51907,7 @@ Het uittreksel geboorteakte moet niet alleen de gegevens van het kind maar ook d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-34876</get-trip-id>
+    <get-trip-id-org>CAJE21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52031,6 +52198,7 @@ Jazeker, alleen de Masjid al-Nabawi en de Quba moskee zijn niet toegankelijk voo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35163</get-trip-id>
+    <get-trip-id-org>GUBE19</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52294,6 +52462,7 @@ De meeste hotels tijdens deze reis beschikken over Wifi. Vaak zal de Wifi echter
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35166</get-trip-id>
+    <get-trip-id-org>WIPU8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52545,6 +52714,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35187</get-trip-id>
+    <get-trip-id-org>THNZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52865,6 +53035,7 @@ Voor het verblijf op de River Kwai is het aan te raden om een zaklamp mee te nem
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35188</get-trip-id>
+    <get-trip-id-org>XJODA40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53229,6 +53400,7 @@ Deze 42-daagse overlandreis is gemaakt voor avontuurlijke reizigers die Afrika i
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35220</get-trip-id>
+    <get-trip-id-org>JAKO22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53575,6 +53747,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35380</get-trip-id>
+    <get-trip-id-org>WSPL10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53844,6 +54017,7 @@ De genoemde prijzen zijn zonder wijzigingskosten van de vlucht en de transfer va
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35620</get-trip-id>
+    <get-trip-id-org>BRAM15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54102,6 +54276,7 @@ De reis wordt begeleid door een Nederlandse reisbegeleider. Op onze eigen Djoser
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35622</get-trip-id>
+    <get-trip-id-org>IT15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54376,6 +54551,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, de natuur is dan op 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-35966</get-trip-id>
+    <get-trip-id-org>JAN22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54719,6 +54895,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36037</get-trip-id>
+    <get-trip-id-org>AUKA28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55132,6 +55309,7 @@ Bekijk ook onze 30-daagse reis naar Australië en Nieuw-Zeeland.]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36049</get-trip-id>
+    <get-trip-id-org>STP16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55409,6 +55587,7 @@ Een visum voor een 15-daags verblijf (dit volstaat voor onze reis indien u niet 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36081</get-trip-id>
+    <get-trip-id-org>EGG8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55636,6 +55815,7 @@ Gedurende de reis maken we gebruik van onze eigen bus voorzien van airconditioni
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36106</get-trip-id>
+    <get-trip-id-org>BURO14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55919,6 +56099,7 @@ Je kunt vrijwel overal gemakkelijk telefoneren. De bereikbaarheid van mobiele te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36163</get-trip-id>
+    <get-trip-id-org>XBRA40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56345,6 +56526,7 @@ Het schildpadden seizoen start ongeveer vanaf februari t/m augustus.]]></get-tri
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36217</get-trip-id>
+    <get-trip-id-org>FISP9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56614,6 +56796,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36231</get-trip-id>
+    <get-trip-id-org>PEEC28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57004,6 +57187,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36266</get-trip-id>
+    <get-trip-id-org>COGU25</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57283,6 +57467,7 @@ Gedurende deze reis is er in verschillende hotels WiFi aanwezig.]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36272</get-trip-id>
+    <get-trip-id-org>WMAR14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57569,6 +57754,7 @@ In het hotel in Marrakech kun je gebruik maken van wifi. De rest van de reis is 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36278</get-trip-id>
+    <get-trip-id-org>CHO18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57853,6 +58039,7 @@ In China kun je overal gemakkelijk bellen en internetten. De internetverbinding 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36287</get-trip-id>
+    <get-trip-id-org>NO11</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58103,6 +58290,7 @@ Het uiterste noorden van Europa heeft door het hele jaar heen iets bijzonders te
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36315</get-trip-id>
+    <get-trip-id-org>ANG19</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58385,6 +58573,7 @@ De beste periode om Angola te bezoeken is van mei tot oktober, tijdens het droge
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36672</get-trip-id>
+    <get-trip-id-org>FINE16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58735,6 +58924,7 @@ In Nepal is er WiFi beschikbaar, welke minder stabiel is dan wij gewend zijn. In
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36714</get-trip-id>
+    <get-trip-id-org>JSRK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59024,6 +59214,7 @@ Tijdens het bezoek aan een tempel is het verplicht om kleren met lange mouwen en
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36745</get-trip-id>
+    <get-trip-id-org>WGR8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59277,6 +59468,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-36966</get-trip-id>
+    <get-trip-id-org>INLA22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59639,6 +59831,7 @@ Het traject Delhi - Amritsar overbruggen we met een dagtrein en een binnenlandse
   </trip>
   <trip>
     <get-trip-id>GT-DJOSER-37109</get-trip-id>
+    <get-trip-id-org>TZA28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
