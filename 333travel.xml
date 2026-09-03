@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-03T20:27:03.666Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-03T21:08:57.432Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
+    <get-trip-id-org>T-CN-0476</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -130,6 +131,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21839</get-trip-id>
+    <get-trip-id-org>T-CN-4305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -314,6 +316,7 @@ Omdat het van november t/m maart erg koud is in deze regio, bieden wij deze tour
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21883</get-trip-id>
+    <get-trip-id-org>T-VN-0330</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -465,6 +468,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21986</get-trip-id>
+    <get-trip-id-org>T-AU-6652</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -575,6 +579,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21990</get-trip-id>
+    <get-trip-id-org>T-AU-6653</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -747,6 +752,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21992</get-trip-id>
+    <get-trip-id-org>T-AU-6656</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -874,6 +880,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-21995</get-trip-id>
+    <get-trip-id-org>T-AU-6659</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1008,6 +1015,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22023</get-trip-id>
+    <get-trip-id-org>T-MY-4408</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1133,6 +1141,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22081</get-trip-id>
+    <get-trip-id-org>R-0032</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1331,6 +1340,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22082</get-trip-id>
+    <get-trip-id-org>R-0033</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1504,6 +1514,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22083</get-trip-id>
+    <get-trip-id-org>R-0034</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1676,6 +1687,7 @@ Op Koh Kradan is geen pinautomaat aanwezig. Zorg ervoor dat je voldoende geld bi
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22085</get-trip-id>
+    <get-trip-id-org>R-0037</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1821,6 +1833,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22087</get-trip-id>
+    <get-trip-id-org>R-0042</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1985,6 +1998,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22090</get-trip-id>
+    <get-trip-id-org>R-0046</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2238,6 +2252,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22091</get-trip-id>
+    <get-trip-id-org>R-0047</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2478,6 +2493,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22092</get-trip-id>
+    <get-trip-id-org>R-0048</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2767,6 +2783,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22097</get-trip-id>
+    <get-trip-id-org>R-0057</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3009,6 +3026,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22098</get-trip-id>
+    <get-trip-id-org>R-0058</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3235,6 +3253,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22099</get-trip-id>
+    <get-trip-id-org>R-0061</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3531,6 +3550,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22102</get-trip-id>
+    <get-trip-id-org>R-0072</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3734,6 +3754,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22103</get-trip-id>
+    <get-trip-id-org>R-0073</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3926,6 +3947,7 @@ Let op: plastic tasjes en piepschuim verpakkingen zijn verboden op Koh Samet. Zo
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22104</get-trip-id>
+    <get-trip-id-org>R-0078</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4190,6 +4212,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22105</get-trip-id>
+    <get-trip-id-org>R-0079</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4401,6 +4424,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22106</get-trip-id>
+    <get-trip-id-org>R-0080</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4619,6 +4643,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22107</get-trip-id>
+    <get-trip-id-org>R-0081</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4874,6 +4899,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22108</get-trip-id>
+    <get-trip-id-org>R-0082</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5113,6 +5139,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22109</get-trip-id>
+    <get-trip-id-org>R-0083</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5305,6 +5332,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22110</get-trip-id>
+    <get-trip-id-org>R-0084</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5498,6 +5526,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22112</get-trip-id>
+    <get-trip-id-org>R-0201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5735,6 +5764,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22113</get-trip-id>
+    <get-trip-id-org>R-0202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6004,6 +6034,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22116</get-trip-id>
+    <get-trip-id-org>R-0205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6199,6 +6230,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22118</get-trip-id>
+    <get-trip-id-org>R-0208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6421,6 +6453,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22121</get-trip-id>
+    <get-trip-id-org>R-0211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6612,6 +6645,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22122</get-trip-id>
+    <get-trip-id-org>R-0214</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6721,6 +6755,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22123</get-trip-id>
+    <get-trip-id-org>R-0215</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6948,6 +6983,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22124</get-trip-id>
+    <get-trip-id-org>R-0216</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7174,6 +7210,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22125</get-trip-id>
+    <get-trip-id-org>R-0217</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7331,6 +7368,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22126</get-trip-id>
+    <get-trip-id-org>R-0218</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7557,6 +7595,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22127</get-trip-id>
+    <get-trip-id-org>R-0219</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7776,6 +7815,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22128</get-trip-id>
+    <get-trip-id-org>R-0306</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7949,6 +7989,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22130</get-trip-id>
+    <get-trip-id-org>R-0308</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8178,6 +8219,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22132</get-trip-id>
+    <get-trip-id-org>R-0310</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8409,6 +8451,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22134</get-trip-id>
+    <get-trip-id-org>R-0312</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8634,6 +8677,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22136</get-trip-id>
+    <get-trip-id-org>R-0318</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8949,6 +8993,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22138</get-trip-id>
+    <get-trip-id-org>R-0323</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9204,6 +9249,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22139</get-trip-id>
+    <get-trip-id-org>R-0326</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9436,6 +9482,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22141</get-trip-id>
+    <get-trip-id-org>R-0328</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9663,6 +9710,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22142</get-trip-id>
+    <get-trip-id-org>R-0329</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9899,6 +9947,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22143</get-trip-id>
+    <get-trip-id-org>R-0330</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10071,6 +10120,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22144</get-trip-id>
+    <get-trip-id-org>R-0331</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10250,6 +10300,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22149</get-trip-id>
+    <get-trip-id-org>R-0462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10508,6 +10559,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22151</get-trip-id>
+    <get-trip-id-org>R-0464</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10701,6 +10753,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22152</get-trip-id>
+    <get-trip-id-org>R-0468</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10892,6 +10945,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22155</get-trip-id>
+    <get-trip-id-org>R-0471</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11078,6 +11132,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22156</get-trip-id>
+    <get-trip-id-org>R-0474</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11285,6 +11340,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22158</get-trip-id>
+    <get-trip-id-org>R-0476</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11534,6 +11590,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22160</get-trip-id>
+    <get-trip-id-org>R-0478</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11763,6 +11820,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22161</get-trip-id>
+    <get-trip-id-org>R-0479</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12025,6 +12083,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22162</get-trip-id>
+    <get-trip-id-org>R-0480</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12302,6 +12361,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22163</get-trip-id>
+    <get-trip-id-org>R-0481</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12536,6 +12596,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22164</get-trip-id>
+    <get-trip-id-org>R-0482</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12801,6 +12862,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22166</get-trip-id>
+    <get-trip-id-org>R-0484</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13025,6 +13087,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22167</get-trip-id>
+    <get-trip-id-org>R-0485</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13237,6 +13300,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22169</get-trip-id>
+    <get-trip-id-org>R-0490</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13461,6 +13525,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22170</get-trip-id>
+    <get-trip-id-org>R-0491</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13728,6 +13793,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22171</get-trip-id>
+    <get-trip-id-org>R-0492</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14017,6 +14083,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22172</get-trip-id>
+    <get-trip-id-org>R-0501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14283,6 +14350,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22173</get-trip-id>
+    <get-trip-id-org>R-0502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14491,6 +14559,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22174</get-trip-id>
+    <get-trip-id-org>R-0503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14687,6 +14756,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22175</get-trip-id>
+    <get-trip-id-org>R-0504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14929,6 +14999,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22176</get-trip-id>
+    <get-trip-id-org>R-0505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15094,6 +15165,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22177</get-trip-id>
+    <get-trip-id-org>R-0506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15310,6 +15382,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22178</get-trip-id>
+    <get-trip-id-org>R-0507</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15568,6 +15641,7 @@ Bij verschillende luchtvaartmaatschappijen geldt er een extra toeslag als je hee
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22179</get-trip-id>
+    <get-trip-id-org>R-0511</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15711,6 +15785,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22180</get-trip-id>
+    <get-trip-id-org>R-0514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15912,6 +15987,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22181</get-trip-id>
+    <get-trip-id-org>R-0515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16113,6 +16189,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22182</get-trip-id>
+    <get-trip-id-org>R-0520</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16336,6 +16413,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22184</get-trip-id>
+    <get-trip-id-org>R-0522</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16529,6 +16607,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22185</get-trip-id>
+    <get-trip-id-org>R-0523</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16828,6 +16907,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22186</get-trip-id>
+    <get-trip-id-org>R-0529</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16991,6 +17071,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22187</get-trip-id>
+    <get-trip-id-org>R-0530</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17159,6 +17240,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22188</get-trip-id>
+    <get-trip-id-org>R-0531</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17376,6 +17458,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22189</get-trip-id>
+    <get-trip-id-org>R-0533</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17636,6 +17719,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22191</get-trip-id>
+    <get-trip-id-org>R-0536</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17815,6 +17899,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22192</get-trip-id>
+    <get-trip-id-org>R-0537</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18002,6 +18087,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22193</get-trip-id>
+    <get-trip-id-org>R-0538</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18229,6 +18315,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22194</get-trip-id>
+    <get-trip-id-org>R-0539</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18499,6 +18586,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22195</get-trip-id>
+    <get-trip-id-org>R-0601</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18675,6 +18763,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22207</get-trip-id>
+    <get-trip-id-org>R-0664</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18908,6 +18997,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22208</get-trip-id>
+    <get-trip-id-org>R-0665</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19134,6 +19224,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22209</get-trip-id>
+    <get-trip-id-org>R-0666</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19411,6 +19502,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22210</get-trip-id>
+    <get-trip-id-org>R-0667</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19681,6 +19773,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22212</get-trip-id>
+    <get-trip-id-org>R-0669</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19943,6 +20036,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22213</get-trip-id>
+    <get-trip-id-org>R-0670</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20186,6 +20280,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22214</get-trip-id>
+    <get-trip-id-org>R-0671</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20459,6 +20554,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22215</get-trip-id>
+    <get-trip-id-org>R-0672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20724,6 +20820,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22216</get-trip-id>
+    <get-trip-id-org>R-0674</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20905,6 +21002,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22217</get-trip-id>
+    <get-trip-id-org>R-0675</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21115,6 +21213,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22218</get-trip-id>
+    <get-trip-id-org>R-0676</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21314,6 +21413,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22219</get-trip-id>
+    <get-trip-id-org>R-0677</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21527,6 +21627,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22220</get-trip-id>
+    <get-trip-id-org>R-0678</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21729,6 +21830,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22221</get-trip-id>
+    <get-trip-id-org>R-0679</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21955,6 +22057,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22222</get-trip-id>
+    <get-trip-id-org>R-0750</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22200,6 +22303,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22224</get-trip-id>
+    <get-trip-id-org>R-0752</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22500,6 +22604,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22226</get-trip-id>
+    <get-trip-id-org>R-0754</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22740,6 +22845,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22228</get-trip-id>
+    <get-trip-id-org>R-0756</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23074,6 +23180,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22229</get-trip-id>
+    <get-trip-id-org>R-0757</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23297,6 +23404,7 @@ Indien u in de periode 20 december en 5 januari in India en/of Nepal verblijft d
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22234</get-trip-id>
+    <get-trip-id-org>R-0760</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23626,6 +23734,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22235</get-trip-id>
+    <get-trip-id-org>R-0761</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23877,6 +23986,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22238</get-trip-id>
+    <get-trip-id-org>R-0764</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24081,6 +24191,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22244</get-trip-id>
+    <get-trip-id-org>R-0950</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24240,6 +24351,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22245</get-trip-id>
+    <get-trip-id-org>R-0951</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24397,6 +24509,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22246</get-trip-id>
+    <get-trip-id-org>R-0952</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24610,6 +24723,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22247</get-trip-id>
+    <get-trip-id-org>R-0953</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24802,6 +24916,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22248</get-trip-id>
+    <get-trip-id-org>R-0956</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24978,6 +25093,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22250</get-trip-id>
+    <get-trip-id-org>R-4301</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25198,6 +25314,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22251</get-trip-id>
+    <get-trip-id-org>R-4302</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25394,6 +25511,7 @@ De gebruikelijke verschijnselen die zich direct na aankomst kunnen voordoen zijn
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22252</get-trip-id>
+    <get-trip-id-org>R-4303</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25623,6 +25741,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22253</get-trip-id>
+    <get-trip-id-org>R-4400</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25846,6 +25965,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22254</get-trip-id>
+    <get-trip-id-org>R-4401</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26079,6 +26199,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22255</get-trip-id>
+    <get-trip-id-org>R-4502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26349,6 +26470,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22256</get-trip-id>
+    <get-trip-id-org>R-4504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26594,6 +26716,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22257</get-trip-id>
+    <get-trip-id-org>R-4505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26845,6 +26968,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22258</get-trip-id>
+    <get-trip-id-org>R-4507</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27052,6 +27176,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22259</get-trip-id>
+    <get-trip-id-org>R-4508</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27293,6 +27418,7 @@ Houdt er rekening mee dat je afhankelijk van de airline, beperkte bagage mee mag
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22263</get-trip-id>
+    <get-trip-id-org>R-4632</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27500,6 +27626,7 @@ Bij een bezoek aan het Royal Palace en de Silver Pagoda in Phnom Penh gelden er 
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22271</get-trip-id>
+    <get-trip-id-org>R-5504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27636,6 +27763,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22274</get-trip-id>
+    <get-trip-id-org>R-5620</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27787,6 +27915,7 @@ Dit betekent dat het onderweg heel druk kan zijn en dat veel hotels toeslagen be
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22278</get-trip-id>
+    <get-trip-id-org>R-6000</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28091,6 +28220,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22280</get-trip-id>
+    <get-trip-id-org>R-6002</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28400,6 +28530,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22282</get-trip-id>
+    <get-trip-id-org>R-6004</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28622,6 +28753,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22287</get-trip-id>
+    <get-trip-id-org>R-6500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28956,6 +29088,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22288</get-trip-id>
+    <get-trip-id-org>R-6501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29238,6 +29371,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22289</get-trip-id>
+    <get-trip-id-org>R-6502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29595,6 +29729,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22291</get-trip-id>
+    <get-trip-id-org>R-6504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29883,6 +30018,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22292</get-trip-id>
+    <get-trip-id-org>R-6505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30122,6 +30258,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22301</get-trip-id>
+    <get-trip-id-org>R-7000</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30297,6 +30434,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22302</get-trip-id>
+    <get-trip-id-org>R-7001</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30480,6 +30618,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22304</get-trip-id>
+    <get-trip-id-org>R-7003</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30704,6 +30843,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22306</get-trip-id>
+    <get-trip-id-org>R-7005</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30995,6 +31135,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22307</get-trip-id>
+    <get-trip-id-org>R-7006</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31294,6 +31435,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22309</get-trip-id>
+    <get-trip-id-org>R-7008</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31576,6 +31718,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22311</get-trip-id>
+    <get-trip-id-org>R-7010</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31793,6 +31936,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22313</get-trip-id>
+    <get-trip-id-org>R-7012</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32023,6 +32167,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22314</get-trip-id>
+    <get-trip-id-org>R-7013</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32247,6 +32392,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22316</get-trip-id>
+    <get-trip-id-org>R-7015</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32553,6 +32699,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22318</get-trip-id>
+    <get-trip-id-org>R-7021</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32819,6 +32966,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22320</get-trip-id>
+    <get-trip-id-org>R-7023</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33062,6 +33210,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22322</get-trip-id>
+    <get-trip-id-org>R-7025</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33177,6 +33326,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22328</get-trip-id>
+    <get-trip-id-org>R-7040</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33307,6 +33457,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22331</get-trip-id>
+    <get-trip-id-org>R-7045</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33448,6 +33599,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22334</get-trip-id>
+    <get-trip-id-org>R-7048</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33651,6 +33803,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22336</get-trip-id>
+    <get-trip-id-org>R-7050</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33917,6 +34070,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22337</get-trip-id>
+    <get-trip-id-org>R-7051</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34199,6 +34353,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22340</get-trip-id>
+    <get-trip-id-org>R-7055</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34406,6 +34561,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22341</get-trip-id>
+    <get-trip-id-org>R-7056</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34645,6 +34801,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22342</get-trip-id>
+    <get-trip-id-org>R-7057</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34823,6 +34980,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22343</get-trip-id>
+    <get-trip-id-org>R-7058</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35010,6 +35168,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22344</get-trip-id>
+    <get-trip-id-org>R-7059</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35184,6 +35343,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22346</get-trip-id>
+    <get-trip-id-org>R-7061</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35339,6 +35499,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22347</get-trip-id>
+    <get-trip-id-org>R-7062</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35507,6 +35668,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22348</get-trip-id>
+    <get-trip-id-org>R-7063</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35791,6 +35953,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22349</get-trip-id>
+    <get-trip-id-org>R-7064</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36086,6 +36249,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22350</get-trip-id>
+    <get-trip-id-org>R-7500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36299,6 +36463,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22351</get-trip-id>
+    <get-trip-id-org>R-7501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36572,6 +36737,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22353</get-trip-id>
+    <get-trip-id-org>R-7503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36804,6 +36970,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22355</get-trip-id>
+    <get-trip-id-org>R-7505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37117,6 +37284,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22357</get-trip-id>
+    <get-trip-id-org>R-7507</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37346,6 +37514,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22358</get-trip-id>
+    <get-trip-id-org>R-7508</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37579,6 +37748,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22360</get-trip-id>
+    <get-trip-id-org>R-7510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37845,6 +38015,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22361</get-trip-id>
+    <get-trip-id-org>R-7512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38092,6 +38263,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22362</get-trip-id>
+    <get-trip-id-org>R-7513</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38322,6 +38494,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22363</get-trip-id>
+    <get-trip-id-org>R-7514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38579,6 +38752,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22364</get-trip-id>
+    <get-trip-id-org>R-8000</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38782,6 +38956,7 @@ N.B. Geef je voorkeur voor een vertrektijd direct bij boeking aan. Dit helpt ons
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22366</get-trip-id>
+    <get-trip-id-org>R-8002</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39007,6 +39182,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22367</get-trip-id>
+    <get-trip-id-org>R-8004</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39207,6 +39383,7 @@ Laat uw drone thuis, recreatief gebruik is niet toegestaan binnen de grenzen van
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22368</get-trip-id>
+    <get-trip-id-org>R-8006</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39503,6 +39680,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22370</get-trip-id>
+    <get-trip-id-org>R-8010</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39768,6 +39946,7 @@ Laat uw drone thuis, recreatief gebruik is niet toegestaan binnen de grenzen van
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22371</get-trip-id>
+    <get-trip-id-org>R-8011</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39968,6 +40147,7 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22372</get-trip-id>
+    <get-trip-id-org>R-8013</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40202,6 +40382,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22373</get-trip-id>
+    <get-trip-id-org>R-8015</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40380,6 +40561,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22647</get-trip-id>
+    <get-trip-id-org>R-0333</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40582,6 +40764,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22668</get-trip-id>
+    <get-trip-id-org>R-8017</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40846,6 +41029,7 @@ Visum kosten Canada en Amerika]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22712</get-trip-id>
+    <get-trip-id-org>T-CN-0454</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40930,6 +41114,7 @@ Deze tour is te boeken vanuit Beijing, Shanghai, Xian of Chongqing, waarbij je d
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22831</get-trip-id>
+    <get-trip-id-org>T-VN-4664</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41059,6 +41244,7 @@ Vanwege omstandigheden zoals het weer kan het voorkomen dat er ter plaatse van h
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22840</get-trip-id>
+    <get-trip-id-org>T-IN-0703</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41161,6 +41347,7 @@ Het vervoer is afhankelijk van de grootte van je reisgezelschap:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22843</get-trip-id>
+    <get-trip-id-org>T-NP-0705</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41247,6 +41434,7 @@ De beste tijd om een trekking in Nepal te maken is van midden september - april.
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-22992</get-trip-id>
+    <get-trip-id-org>T-ZA-7539</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41356,6 +41544,7 @@ Autohuur, Overige maaltijden en persoonlijke uitgaves, fooien. Entree West Coast
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24490</get-trip-id>
+    <get-trip-id-org>R-7065</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41657,6 +41846,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24524</get-trip-id>
+    <get-trip-id-org>R-7066</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41910,6 +42100,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24796</get-trip-id>
+    <get-trip-id-org>R-0500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42157,6 +42348,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24961</get-trip-id>
+    <get-trip-id-org>R-0608</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42307,6 +42499,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24964</get-trip-id>
+    <get-trip-id-org>R-0611</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42465,6 +42658,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-24965</get-trip-id>
+    <get-trip-id-org>R-0615</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42651,6 +42845,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25075</get-trip-id>
+    <get-trip-id-org>R-0493</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42868,6 +43063,7 @@ De boot tussen Bintan en Batam word uitgevoerd door een lokale ferrymaatschappij
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25097</get-trip-id>
+    <get-trip-id-org>R-8018</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43148,6 +43344,7 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25266</get-trip-id>
+    <get-trip-id-org>R-8500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43317,6 +43514,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25268</get-trip-id>
+    <get-trip-id-org>R-8502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43496,6 +43694,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25303</get-trip-id>
+    <get-trip-id-org>R-9200</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43688,6 +43887,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25308</get-trip-id>
+    <get-trip-id-org>R-9201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43936,6 +44136,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25327</get-trip-id>
+    <get-trip-id-org>R-9202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44179,6 +44380,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25393</get-trip-id>
+    <get-trip-id-org>R-0612</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44351,6 +44553,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25434</get-trip-id>
+    <get-trip-id-org>R-9203</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44644,6 +44847,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25488</get-trip-id>
+    <get-trip-id-org>R-0467</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44863,6 +45067,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25500</get-trip-id>
+    <get-trip-id-org>R-4506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45152,6 +45357,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25938</get-trip-id>
+    <get-trip-id-org>R-8021</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45386,6 +45592,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25946</get-trip-id>
+    <get-trip-id-org>R-0508</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45616,6 +45823,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25947</get-trip-id>
+    <get-trip-id-org>R-0086</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45862,6 +46070,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-25965</get-trip-id>
+    <get-trip-id-org>R-0087</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46112,6 +46321,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29050</get-trip-id>
+    <get-trip-id-org>R-7515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46325,6 +46535,7 @@ Naast de normale entree voor het Kruger National Park (deze conservation levy is
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29051</get-trip-id>
+    <get-trip-id-org>R-0088</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46557,6 +46768,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29052</get-trip-id>
+    <get-trip-id-org>R-8509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46701,6 +46913,7 @@ Er gelden afwijkende wijzigings- en annuleringsvoorwaarden voor Kenia.]]></get-t
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29053</get-trip-id>
+    <get-trip-id-org>R-7068</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46905,6 +47118,7 @@ Houd er rekening mee dat sommige hotels bij aankomst een borg via de creditcard 
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29054</get-trip-id>
+    <get-trip-id-org>R-0494</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47161,6 +47375,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29055</get-trip-id>
+    <get-trip-id-org>R-8510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47330,6 +47545,7 @@ Er gelden afwijkende wijzigings- en annuleringsvoorwaarden voor Kenia.]]></get-t
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29056</get-trip-id>
+    <get-trip-id-org>R-0509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47517,6 +47733,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29317</get-trip-id>
+    <get-trip-id-org>R-0510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47713,6 +47930,7 @@ Check-in/check-out is niet mogelijk op 8 maart 2027 (Nyepi day) bij verblijf in 
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29365</get-trip-id>
+    <get-trip-id-org>R-8511</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47874,6 +48092,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29366</get-trip-id>
+    <get-trip-id-org>R-8513</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48035,6 +48254,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29430</get-trip-id>
+    <get-trip-id-org>R-0914</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48170,6 +48390,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29431</get-trip-id>
+    <get-trip-id-org>R-0915</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48281,6 +48502,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29850</get-trip-id>
+    <get-trip-id-org>R-0100</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48493,6 +48715,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29851</get-trip-id>
+    <get-trip-id-org>R-0104</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48740,6 +48963,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29852</get-trip-id>
+    <get-trip-id-org>R-0106</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49022,6 +49246,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29853</get-trip-id>
+    <get-trip-id-org>R-0108</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49302,6 +49527,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29857</get-trip-id>
+    <get-trip-id-org>R-9300</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49543,6 +49769,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29858</get-trip-id>
+    <get-trip-id-org>R-9301</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49806,6 +50033,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29860</get-trip-id>
+    <get-trip-id-org>R-9303</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50136,6 +50364,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29861</get-trip-id>
+    <get-trip-id-org>R-9304</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50414,6 +50643,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29862</get-trip-id>
+    <get-trip-id-org>R-0110</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50584,6 +50814,7 @@ Tussen april en augustus kunnen er grote hoeveelheden zeewier aanspoelen op de s
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29889</get-trip-id>
+    <get-trip-id-org>R-0976</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50799,6 +51030,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29891</get-trip-id>
+    <get-trip-id-org>R-0980</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50929,6 +51161,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29892</get-trip-id>
+    <get-trip-id-org>R-0981</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51089,6 +51322,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29954</get-trip-id>
+    <get-trip-id-org>R-0955</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51257,6 +51491,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29955</get-trip-id>
+    <get-trip-id-org>R-8700</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51407,6 +51642,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29957</get-trip-id>
+    <get-trip-id-org>R-8702</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51560,6 +51796,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29959</get-trip-id>
+    <get-trip-id-org>R-8704</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51705,6 +51942,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29961</get-trip-id>
+    <get-trip-id-org>R-8706</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51850,6 +52088,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29963</get-trip-id>
+    <get-trip-id-org>R-8708</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52002,6 +52241,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29965</get-trip-id>
+    <get-trip-id-org>R-8710</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52152,6 +52392,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29966</get-trip-id>
+    <get-trip-id-org>R-8711</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52302,6 +52543,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-29995</get-trip-id>
+    <get-trip-id-org>R-7069</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52539,6 +52781,7 @@ Let op: voor sommige nationale parken, is het in de zomermaanden verplicht om vo
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-30354</get-trip-id>
+    <get-trip-id-org>R-7071</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52711,6 +52954,7 @@ Houd er rekening mee dat sommige hotels bij aankomst een borg via de creditcard 
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31001</get-trip-id>
+    <get-trip-id-org>R-7700</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52934,6 +53178,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31002</get-trip-id>
+    <get-trip-id-org>R-7701</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53152,6 +53397,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31003</get-trip-id>
+    <get-trip-id-org>R-7702</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53399,6 +53645,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31004</get-trip-id>
+    <get-trip-id-org>R-7703</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53654,6 +53901,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31005</get-trip-id>
+    <get-trip-id-org>R-7070</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53911,6 +54159,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31006</get-trip-id>
+    <get-trip-id-org>R-7072</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54121,6 +54370,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31007</get-trip-id>
+    <get-trip-id-org>R-7073</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54391,6 +54641,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31023</get-trip-id>
+    <get-trip-id-org>R-8027</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54567,6 +54818,7 @@ In iedere grotere toeristische plaats is wel een zogenaamd Visitor Centre te vin
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31024</get-trip-id>
+    <get-trip-id-org>R-8028</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54774,6 +55026,7 @@ In iedere grotere toeristische plaats is wel een zogenaamd Visitor Centre te vin
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31025</get-trip-id>
+    <get-trip-id-org>R-0111</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55074,6 +55327,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31033</get-trip-id>
+    <get-trip-id-org>R-0982</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55318,6 +55572,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31036</get-trip-id>
+    <get-trip-id-org>R-1954</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55533,6 +55788,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31037</get-trip-id>
+    <get-trip-id-org>R-1955</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55720,6 +55976,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31121</get-trip-id>
+    <get-trip-id-org>R-9319</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55991,6 +56248,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31219</get-trip-id>
+    <get-trip-id-org>R-7800</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56202,6 +56460,7 @@ De bagage op de binnenlandse vluchten bedraagt 15 kilo per persoon, tegen betali
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31220</get-trip-id>
+    <get-trip-id-org>R-7801</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56456,6 +56715,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31221</get-trip-id>
+    <get-trip-id-org>R-6200</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56662,6 +56922,7 @@ Op de trein naar en van Aguas Calientes is slechts 1 rugtas per persoon van maxi
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31223</get-trip-id>
+    <get-trip-id-org>R-6202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56900,6 +57161,7 @@ Op de trein naar en van Aguas Calientes is slechts 1 rugtas per persoon van maxi
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31227</get-trip-id>
+    <get-trip-id-org>R-6206</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57167,6 +57429,7 @@ Ook voor je verblijf in de Amazone is maar een beperkte hoeveelheid handbagage t
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31228</get-trip-id>
+    <get-trip-id-org>R-7804</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57387,6 +57650,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31230</get-trip-id>
+    <get-trip-id-org>R-7803</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57613,6 +57877,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31231</get-trip-id>
+    <get-trip-id-org>R-7805</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57909,6 +58174,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31233</get-trip-id>
+    <get-trip-id-org>R-6207</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58151,6 +58417,7 @@ Ook voor je verblijf in de Amazone is maar een beperkte hoeveelheid handbagage t
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31234</get-trip-id>
+    <get-trip-id-org>R-6208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58349,6 +58616,7 @@ Op de trein naar en van Aguas Calientes is slechts 1 rugtas per persoon van maxi
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31711</get-trip-id>
+    <get-trip-id-org>R-0975</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58520,6 +58788,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31712</get-trip-id>
+    <get-trip-id-org>R-0220</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58731,6 +59000,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31713</get-trip-id>
+    <get-trip-id-org>R-0221</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58974,6 +59244,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31715</get-trip-id>
+    <get-trip-id-org>R-0113</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59155,6 +59426,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31870</get-trip-id>
+    <get-trip-id-org>R-7704</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59453,6 +59725,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31875</get-trip-id>
+    <get-trip-id-org>R-6901</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59616,6 +59889,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31880</get-trip-id>
+    <get-trip-id-org>R-6902</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59780,6 +60054,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31965</get-trip-id>
+    <get-trip-id-org>R-6800</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59955,6 +60230,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31966</get-trip-id>
+    <get-trip-id-org>R-6801</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60133,6 +60409,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31967</get-trip-id>
+    <get-trip-id-org>R-6802</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60350,6 +60627,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31968</get-trip-id>
+    <get-trip-id-org>R-6803</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60564,6 +60842,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31969</get-trip-id>
+    <get-trip-id-org>R-6808</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60732,6 +61011,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-31999</get-trip-id>
+    <get-trip-id-org>R-4403</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60923,6 +61203,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32139</get-trip-id>
+    <get-trip-id-org>R-1957</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61120,6 +61401,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32140</get-trip-id>
+    <get-trip-id-org>R-0115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61303,6 +61585,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32335</get-trip-id>
+    <get-trip-id-org>R-6904</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61480,6 +61763,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32336</get-trip-id>
+    <get-trip-id-org>R-9305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61806,6 +62090,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32394</get-trip-id>
+    <get-trip-id-org>R-0495</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62084,6 +62369,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32395</get-trip-id>
+    <get-trip-id-org>R-0917</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62203,6 +62489,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32397</get-trip-id>
+    <get-trip-id-org>R-7144</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62452,6 +62739,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32398</get-trip-id>
+    <get-trip-id-org>R-7145</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62723,6 +63011,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32533</get-trip-id>
+    <get-trip-id-org>R-0250</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62916,6 +63205,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32691</get-trip-id>
+    <get-trip-id-org>R-0120</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63175,6 +63465,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32736</get-trip-id>
+    <get-trip-id-org>R-9350</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63318,6 +63609,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32737</get-trip-id>
+    <get-trip-id-org>R-9351</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63480,6 +63772,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32738</get-trip-id>
+    <get-trip-id-org>R-9352</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63678,6 +63971,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32739</get-trip-id>
+    <get-trip-id-org>R-9353</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63875,6 +64169,7 @@ Deze reis is alleen beschikbaar van juli tot september en moet worden geboekt me
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32740</get-trip-id>
+    <get-trip-id-org>R-9355</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64017,6 +64312,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-32741</get-trip-id>
+    <get-trip-id-org>R-9356</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64192,6 +64488,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34073</get-trip-id>
+    <get-trip-id-org>T-GL-9500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64279,6 +64576,7 @@ Deze reis is i.v.m. weersomstandigheden alleen uitvoerbaar van juni t/m septembe
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34742</get-trip-id>
+    <get-trip-id-org>R-7705</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64577,6 +64875,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34750</get-trip-id>
+    <get-trip-id-org>R-1005</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64774,6 +65073,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34751</get-trip-id>
+    <get-trip-id-org>R-1007</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65004,6 +65304,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34752</get-trip-id>
+    <get-trip-id-org>R-1008</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65254,6 +65555,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34836</get-trip-id>
+    <get-trip-id-org>R-7900</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65462,6 +65764,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34838</get-trip-id>
+    <get-trip-id-org>R-7902</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65640,6 +65943,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34839</get-trip-id>
+    <get-trip-id-org>R-7904</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65856,6 +66160,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34842</get-trip-id>
+    <get-trip-id-org>R-7905</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66032,6 +66337,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34843</get-trip-id>
+    <get-trip-id-org>R-7908</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66211,6 +66517,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34844</get-trip-id>
+    <get-trip-id-org>R-7906</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66376,6 +66683,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-34845</get-trip-id>
+    <get-trip-id-org>R-7909</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66535,6 +66843,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35252</get-trip-id>
+    <get-trip-id-org>R-1004</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66741,6 +67050,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35253</get-trip-id>
+    <get-trip-id-org>R-1006</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66942,6 +67252,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35368</get-trip-id>
+    <get-trip-id-org>R-1959</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67133,6 +67444,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35542</get-trip-id>
+    <get-trip-id-org>R-7075</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67334,6 +67646,7 @@ Let op: voor sommige nationale parken, is het in de zomermaanden verplicht om vo
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35574</get-trip-id>
+    <get-trip-id-org>R-0461</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67589,6 +67902,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35588</get-trip-id>
+    <get-trip-id-org>R-7074</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67793,6 +68107,7 @@ Let op: voor sommige nationale parken, is het in de zomermaanden verplicht om vo
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35589</get-trip-id>
+    <get-trip-id-org>R-9226</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68029,6 +68344,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35591</get-trip-id>
+    <get-trip-id-org>R-1009</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68217,6 +68533,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35614</get-trip-id>
+    <get-trip-id-org>R-9210</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68490,6 +68807,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35629</get-trip-id>
+    <get-trip-id-org>R-0222</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68665,6 +68983,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35698</get-trip-id>
+    <get-trip-id-org>R-0117</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68902,6 +69221,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35699</get-trip-id>
+    <get-trip-id-org>R-0116</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69115,6 +69435,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35700</get-trip-id>
+    <get-trip-id-org>R-0118</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69339,6 +69660,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35701</get-trip-id>
+    <get-trip-id-org>R-0119</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69577,6 +69899,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35702</get-trip-id>
+    <get-trip-id-org>R-0121</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69760,6 +70083,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35703</get-trip-id>
+    <get-trip-id-org>R-0122</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70028,6 +70352,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35727</get-trip-id>
+    <get-trip-id-org>R-6009</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70345,6 +70670,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-35736</get-trip-id>
+    <get-trip-id-org>R-9357</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70545,6 +70871,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36098</get-trip-id>
+    <get-trip-id-org>R-8606</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70711,6 +71038,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36099</get-trip-id>
+    <get-trip-id-org>R-8612</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70877,6 +71205,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36100</get-trip-id>
+    <get-trip-id-org>R-8608</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71063,6 +71392,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36177</get-trip-id>
+    <get-trip-id-org>R-7808</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71325,6 +71655,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36178</get-trip-id>
+    <get-trip-id-org>R-7810</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71599,6 +71930,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36198</get-trip-id>
+    <get-trip-id-org>R-7807</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71775,6 +72107,7 @@ Windsor Martinique biedt geen 3-persoonskamers daar boeken we een single+double 
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36232</get-trip-id>
+    <get-trip-id-org>R-1200</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72025,6 +72358,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36233</get-trip-id>
+    <get-trip-id-org>R-1201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72301,6 +72635,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36234</get-trip-id>
+    <get-trip-id-org>R-1204</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72651,6 +72986,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36235</get-trip-id>
+    <get-trip-id-org>R-1203</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72884,6 +73220,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36236</get-trip-id>
+    <get-trip-id-org>R-1205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73205,6 +73542,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36241</get-trip-id>
+    <get-trip-id-org>R-6905</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73414,6 +73752,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36323</get-trip-id>
+    <get-trip-id-org>R-1100</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73572,6 +73911,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36324</get-trip-id>
+    <get-trip-id-org>R-1102</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73713,6 +74053,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36327</get-trip-id>
+    <get-trip-id-org>R-0124</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73913,6 +74254,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36328</get-trip-id>
+    <get-trip-id-org>R-8019</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74161,6 +74503,7 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36329</get-trip-id>
+    <get-trip-id-org>R-1104</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74293,6 +74636,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36330</get-trip-id>
+    <get-trip-id-org>R-6600</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74451,6 +74795,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36331</get-trip-id>
+    <get-trip-id-org>R-6602</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74650,6 +74995,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36332</get-trip-id>
+    <get-trip-id-org>R-6604</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74881,6 +75227,7 @@ Let op: dit zijn de vertrekdata van de cruise zelf, dus dag 3 van het dag tot da
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36335</get-trip-id>
+    <get-trip-id-org>R-6608</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75023,6 +75370,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-36888</get-trip-id>
+    <get-trip-id-org>R-0025</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75195,6 +75543,7 @@ P.p.p.n. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37293</get-trip-id>
+    <get-trip-id-org>R-1304</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75299,6 +75648,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37302</get-trip-id>
+    <get-trip-id-org>R-1300</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75438,6 +75788,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37303</get-trip-id>
+    <get-trip-id-org>R-1302</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75615,6 +75966,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37306</get-trip-id>
+    <get-trip-id-org>R-1308</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75842,6 +76194,7 @@ P.p. vanaf:
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37307</get-trip-id>
+    <get-trip-id-org>R-1309</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -76018,6 +76371,7 @@ Straatverlichting is beperkt of afwezig buiten de steden. Rijd bij voorkeur niet
   </trip>
   <trip>
     <get-trip-id>GT-333TRAVEL-37308</get-trip-id>
+    <get-trip-id-org>R-1310</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
