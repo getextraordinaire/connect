@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-03T20:27:03.666Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-03T21:08:57.432Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
+    <get-trip-id-org>ABF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -585,6 +586,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16082</get-trip-id>
+    <get-trip-id-org>ABP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1210,6 +1212,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16084</get-trip-id>
+    <get-trip-id-org>ALL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1646,6 +1649,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16087</get-trip-id>
+    <get-trip-id-org>AUS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2169,6 +2173,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16093</get-trip-id>
+    <get-trip-id-org>CAN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2635,6 +2640,7 @@ Er wordt onderscheid gemaakt tussen twee soorten fooi. Allereerst is er de zogen
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16094</get-trip-id>
+    <get-trip-id-org>CHH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3083,6 +3089,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16096</get-trip-id>
+    <get-trip-id-org>CHM</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3547,6 +3554,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16097</get-trip-id>
+    <get-trip-id-org>CKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4013,6 +4021,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16098</get-trip-id>
+    <get-trip-id-org>COL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4516,6 +4525,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16099</get-trip-id>
+    <get-trip-id-org>CON</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4974,6 +4984,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16100</get-trip-id>
+    <get-trip-id-org>CRF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5507,6 +5518,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16101</get-trip-id>
+    <get-trip-id-org>CRH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5977,6 +5989,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16102</get-trip-id>
+    <get-trip-id-org>CRS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6533,6 +6546,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16115</get-trip-id>
+    <get-trip-id-org>FIP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7057,6 +7071,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16137</get-trip-id>
+    <get-trip-id-org>GTB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7718,6 +7733,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16139</get-trip-id>
+    <get-trip-id-org>IFS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8296,6 +8312,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16140</get-trip-id>
+    <get-trip-id-org>IJH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8759,6 +8776,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16141</get-trip-id>
+    <get-trip-id-org>IKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9301,6 +9319,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16142</get-trip-id>
+    <get-trip-id-org>INC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9919,6 +9938,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16143</get-trip-id>
+    <get-trip-id-org>INF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10476,6 +10496,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16145</get-trip-id>
+    <get-trip-id-org>INK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11078,6 +11099,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16146</get-trip-id>
+    <get-trip-id-org>INN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11527,6 +11549,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16152</get-trip-id>
+    <get-trip-id-org>ISL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12039,6 +12062,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16154</get-trip-id>
+    <get-trip-id-org>ISU</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12635,6 +12659,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16155</get-trip-id>
+    <get-trip-id-org>JAH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13062,6 +13087,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16162</get-trip-id>
+    <get-trip-id-org>KET</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13729,6 +13755,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16164</get-trip-id>
+    <get-trip-id-org>KTF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14409,6 +14436,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16166</get-trip-id>
+    <get-trip-id-org>LAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14957,6 +14985,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16167</get-trip-id>
+    <get-trip-id-org>LAD</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15542,6 +15571,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16169</get-trip-id>
+    <get-trip-id-org>MAF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15882,6 +15912,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16175</get-trip-id>
+    <get-trip-id-org>MON</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16368,6 +16399,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16176</get-trip-id>
+    <get-trip-id-org>MRH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16770,6 +16802,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16177</get-trip-id>
+    <get-trip-id-org>MSB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17266,6 +17299,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16178</get-trip-id>
+    <get-trip-id-org>MXF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17747,6 +17781,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16180</get-trip-id>
+    <get-trip-id-org>NEE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18294,6 +18329,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16182</get-trip-id>
+    <get-trip-id-org>NEK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18761,6 +18797,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16184</get-trip-id>
+    <get-trip-id-org>NEP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19288,6 +19325,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16185</get-trip-id>
+    <get-trip-id-org>NZE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19886,6 +19924,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16188</get-trip-id>
+    <get-trip-id-org>PAT</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20546,6 +20585,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16189</get-trip-id>
+    <get-trip-id-org>PEF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21281,6 +21321,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16190</get-trip-id>
+    <get-trip-id-org>PEH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21759,6 +21800,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16191</get-trip-id>
+    <get-trip-id-org>PER</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22454,6 +22496,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16193</get-trip-id>
+    <get-trip-id-org>RUM</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22954,6 +22997,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16194</get-trip-id>
+    <get-trip-id-org>SIB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23559,6 +23603,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16195</get-trip-id>
+    <get-trip-id-org>SKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23992,6 +24037,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16196</get-trip-id>
+    <get-trip-id-org>SLA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24580,6 +24626,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16198</get-trip-id>
+    <get-trip-id-org>SLF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25090,6 +25137,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16199</get-trip-id>
+    <get-trip-id-org>SLH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25561,6 +25609,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16202</get-trip-id>
+    <get-trip-id-org>SUR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26022,6 +26071,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16203</get-trip-id>
+    <get-trip-id-org>TAA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26608,6 +26658,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16214</get-trip-id>
+    <get-trip-id-org>TIN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27071,6 +27122,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16215</get-trip-id>
+    <get-trip-id-org>TJF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27528,6 +27580,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16217</get-trip-id>
+    <get-trip-id-org>TMA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28128,6 +28181,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16220</get-trip-id>
+    <get-trip-id-org>TZF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28648,6 +28702,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16221</get-trip-id>
+    <get-trip-id-org>UGA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29191,6 +29246,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16225</get-trip-id>
+    <get-trip-id-org>VIE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29762,6 +29818,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16227</get-trip-id>
+    <get-trip-id-org>VIK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30302,6 +30359,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16229</get-trip-id>
+    <get-trip-id-org>ZAF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31057,6 +31115,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16235</get-trip-id>
+    <get-trip-id-org>ZKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31614,6 +31673,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16237</get-trip-id>
+    <get-trip-id-org>ZUA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32381,6 +32441,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16238</get-trip-id>
+    <get-trip-id-org>ZUH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33171,6 +33232,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16239</get-trip-id>
+    <get-trip-id-org>ZWF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33878,6 +33940,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-18377</get-trip-id>
+    <get-trip-id-org>PAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34425,6 +34488,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23198</get-trip-id>
+    <get-trip-id-org>ANZ</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35015,6 +35079,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23201</get-trip-id>
+    <get-trip-id-org>BOC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35522,6 +35587,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23203</get-trip-id>
+    <get-trip-id-org>CAF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35969,6 +36035,7 @@ Er wordt onderscheid gemaakt tussen twee soorten fooi. Allereerst is er de zogen
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23207</get-trip-id>
+    <get-trip-id-org>COF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36437,6 +36504,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23212</get-trip-id>
+    <get-trip-id-org>EGF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36781,6 +36849,7 @@ De richtlijn wat betreft fooi voor de Egyptische reisbegeleiders is USD 5 per da
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23228</get-trip-id>
+    <get-trip-id-org>IFH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37290,6 +37359,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23233</get-trip-id>
+    <get-trip-id-org>JAF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37705,6 +37775,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23237</get-trip-id>
+    <get-trip-id-org>KAL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38169,6 +38240,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23242</get-trip-id>
+    <get-trip-id-org>MBF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38636,6 +38708,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23245</get-trip-id>
+    <get-trip-id-org>MKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39030,6 +39103,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23261</get-trip-id>
+    <get-trip-id-org>SLM</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39532,6 +39606,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23262</get-trip-id>
+    <get-trip-id-org>SMF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40049,6 +40124,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23266</get-trip-id>
+    <get-trip-id-org>THH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40513,6 +40589,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23269</get-trip-id>
+    <get-trip-id-org>TQF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40965,6 +41042,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23280</get-trip-id>
+    <get-trip-id-org>VIH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41388,6 +41466,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23282</get-trip-id>
+    <get-trip-id-org>ZKR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41848,6 +41927,7 @@ Voor deze reis wordt aan het begin geld ingezameld voor een entreepot. Dit is pr
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-24675</get-trip-id>
+    <get-trip-id-org>NAH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42411,6 +42491,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-24677</get-trip-id>
+    <get-trip-id-org>THN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42895,6 +42976,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-24679</get-trip-id>
+    <get-trip-id-org>VKF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43322,6 +43404,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26563</get-trip-id>
+    <get-trip-id-org>BRB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43902,6 +43985,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26564</get-trip-id>
+    <get-trip-id-org>CAH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44378,6 +44462,7 @@ Er wordt onderscheid gemaakt tussen twee soorten fooi. Allereerst is er de zogen
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26579</get-trip-id>
+    <get-trip-id-org>EGH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44728,6 +44813,7 @@ De richtlijn voor fooien in Egypte is USD 5 per dag voor de Egyptische reisbegel
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26594</get-trip-id>
+    <get-trip-id-org>GUF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45145,6 +45231,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26595</get-trip-id>
+    <get-trip-id-org>IJB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45659,6 +45746,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26599</get-trip-id>
+    <get-trip-id-org>IRN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46243,6 +46331,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26605</get-trip-id>
+    <get-trip-id-org>JPN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46770,6 +46859,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26607</get-trip-id>
+    <get-trip-id-org>LCK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47263,6 +47353,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26612</get-trip-id>
+    <get-trip-id-org>PEN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47726,6 +47817,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-26624</get-trip-id>
+    <get-trip-id-org>ZAG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48324,6 +48416,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30385</get-trip-id>
+    <get-trip-id-org>INE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49021,6 +49114,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30386</get-trip-id>
+    <get-trip-id-org>IZH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49481,6 +49575,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30387</get-trip-id>
+    <get-trip-id-org>JRCOL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50040,6 +50135,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30388</get-trip-id>
+    <get-trip-id-org>JRCRS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50535,6 +50631,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30389</get-trip-id>
+    <get-trip-id-org>JRIBL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51059,6 +51156,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30390</get-trip-id>
+    <get-trip-id-org>JRMEX</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51539,6 +51637,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30391</get-trip-id>
+    <get-trip-id-org>JRMRH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51991,6 +52090,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30392</get-trip-id>
+    <get-trip-id-org>JRPER</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52705,6 +52805,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30393</get-trip-id>
+    <get-trip-id-org>JRSLA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53219,6 +53320,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30394</get-trip-id>
+    <get-trip-id-org>JRTHA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53754,6 +53856,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30395</get-trip-id>
+    <get-trip-id-org>JRVIE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54258,6 +54361,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30396</get-trip-id>
+    <get-trip-id-org>JRZAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54814,6 +54918,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30399</get-trip-id>
+    <get-trip-id-org>MRK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55186,6 +55291,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30402</get-trip-id>
+    <get-trip-id-org>SMT</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55709,6 +55815,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30410</get-trip-id>
+    <get-trip-id-org>ZAW</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56250,6 +56357,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-30411</get-trip-id>
+    <get-trip-id-org>ZGF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56809,6 +56917,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31209</get-trip-id>
+    <get-trip-id-org>EWTMM</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57137,6 +57246,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31211</get-trip-id>
+    <get-trip-id-org>EWTTG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57435,6 +57545,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31216</get-trip-id>
+    <get-trip-id-org>MEY</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57949,6 +58060,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31217</get-trip-id>
+    <get-trip-id-org>MWB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58380,6 +58492,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31988</get-trip-id>
+    <get-trip-id-org>PRMAR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58825,6 +58938,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-31991</get-trip-id>
+    <get-trip-id-org>PRZAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59425,6 +59539,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32239</get-trip-id>
+    <get-trip-id-org>EGK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59752,6 +59867,7 @@ De richtlijn wat betreft fooi voor de Egyptische reisbegeleiders USD 5 per dag e
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32240</get-trip-id>
+    <get-trip-id-org>JRKET</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60363,6 +60479,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32241</get-trip-id>
+    <get-trip-id-org>JRLAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60839,6 +60956,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32242</get-trip-id>
+    <get-trip-id-org>KTK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61344,6 +61462,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32246</get-trip-id>
+    <get-trip-id-org>JRBRA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61805,6 +61924,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32247</get-trip-id>
+    <get-trip-id-org>JRZUA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62570,6 +62690,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32597</get-trip-id>
+    <get-trip-id-org>NNWPU</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62840,6 +62961,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32757</get-trip-id>
+    <get-trip-id-org>ALF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63261,6 +63383,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32758</get-trip-id>
+    <get-trip-id-org>AND</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63623,6 +63746,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32760</get-trip-id>
+    <get-trip-id-org>AZO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63946,6 +64070,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32761</get-trip-id>
+    <get-trip-id-org>BAF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64362,6 +64487,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32762</get-trip-id>
+    <get-trip-id-org>BAK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64743,6 +64869,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32764</get-trip-id>
+    <get-trip-id-org>EWTDA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65070,6 +65197,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32765</get-trip-id>
+    <get-trip-id-org>EWTDS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65350,6 +65478,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32766</get-trip-id>
+    <get-trip-id-org>EWTEV</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65676,6 +65805,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32767</get-trip-id>
+    <get-trip-id-org>EWTSQ</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65960,6 +66090,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32770</get-trip-id>
+    <get-trip-id-org>EWTVE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66241,6 +66372,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32771</get-trip-id>
+    <get-trip-id-org>FFW</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66546,6 +66678,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32772</get-trip-id>
+    <get-trip-id-org>FWR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66862,6 +66995,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32773</get-trip-id>
+    <get-trip-id-org>GEF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67228,6 +67362,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32774</get-trip-id>
+    <get-trip-id-org>GEO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67608,6 +67743,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32776</get-trip-id>
+    <get-trip-id-org>ICK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67965,6 +68101,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32777</get-trip-id>
+    <get-trip-id-org>ICR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68367,6 +68504,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32778</get-trip-id>
+    <get-trip-id-org>ICW</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68697,6 +68835,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32781</get-trip-id>
+    <get-trip-id-org>JRFIN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68986,6 +69125,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32783</get-trip-id>
+    <get-trip-id-org>NGF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69347,6 +69487,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32784</get-trip-id>
+    <get-trip-id-org>TSD</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69693,6 +69834,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32785</get-trip-id>
+    <get-trip-id-org>XFS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70012,6 +70154,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32786</get-trip-id>
+    <get-trip-id-org>XNS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70334,6 +70477,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-32787</get-trip-id>
+    <get-trip-id-org>XSG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70651,6 +70795,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34076</get-trip-id>
+    <get-trip-id-org>GAS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70982,6 +71127,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34777</get-trip-id>
+    <get-trip-id-org>GUH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71431,6 +71577,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34778</get-trip-id>
+    <get-trip-id-org>ICN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -71777,6 +71924,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34780</get-trip-id>
+    <get-trip-id-org>JRAUS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72250,6 +72398,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34782</get-trip-id>
+    <get-trip-id-org>JRIJB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -72724,6 +72873,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34783</get-trip-id>
+    <get-trip-id-org>JRIND</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73233,6 +73383,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34784</get-trip-id>
+    <get-trip-id-org>JRNEP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -73696,6 +73847,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34785</get-trip-id>
+    <get-trip-id-org>JRSLO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74001,6 +74153,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-34787</get-trip-id>
+    <get-trip-id-org>TUH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74385,6 +74538,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35749</get-trip-id>
+    <get-trip-id-org>ALB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -74789,6 +74943,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35750</get-trip-id>
+    <get-trip-id-org>BAL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75137,6 +75292,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35751</get-trip-id>
+    <get-trip-id-org>BAW</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -75510,6 +75666,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35755</get-trip-id>
+    <get-trip-id-org>JRGEH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -76047,6 +76204,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35758</get-trip-id>
+    <get-trip-id-org>KTT</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -76607,6 +76765,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35759</get-trip-id>
+    <get-trip-id-org>KTZ</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -77235,6 +77394,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-35760</get-trip-id>
+    <get-trip-id-org>NOR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -77566,6 +77726,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36057</get-trip-id>
+    <get-trip-id-org>ZWW</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -77856,6 +78017,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36288</get-trip-id>
+    <get-trip-id-org>IER</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -78252,6 +78414,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36317</get-trip-id>
+    <get-trip-id-org>SCH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -78675,6 +78838,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36345</get-trip-id>
+    <get-trip-id-org>ECG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -79207,6 +79371,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36348</get-trip-id>
+    <get-trip-id-org>FRPRO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -79575,6 +79740,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36352</get-trip-id>
+    <get-trip-id-org>FRVIE</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -80073,6 +80239,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36569</get-trip-id>
+    <get-trip-id-org>XAC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -80435,6 +80602,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36570</get-trip-id>
+    <get-trip-id-org>XAG</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -80810,6 +80978,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36571</get-trip-id>
+    <get-trip-id-org>XAN</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -81196,6 +81365,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36572</get-trip-id>
+    <get-trip-id-org>XAP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -81559,6 +81729,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36573</get-trip-id>
+    <get-trip-id-org>XAS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -81946,6 +82117,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36574</get-trip-id>
+    <get-trip-id-org>XAV</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -82268,6 +82440,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36575</get-trip-id>
+    <get-trip-id-org>XCV</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -82591,6 +82764,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36800</get-trip-id>
+    <get-trip-id-org>XSH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -82934,6 +83108,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36801</get-trip-id>
+    <get-trip-id-org>OMA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -83316,6 +83491,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36803</get-trip-id>
+    <get-trip-id-org>JRAND</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -83687,6 +83863,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36804</get-trip-id>
+    <get-trip-id-org>SLO</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -84020,6 +84197,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36806</get-trip-id>
+    <get-trip-id-org>JRALB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -84359,6 +84537,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36807</get-trip-id>
+    <get-trip-id-org>EGL</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -84753,6 +84932,7 @@ De richtlijn wat betreft fooi voor de Egyptische reisbegeleiders USD 5 en voor d
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36808</get-trip-id>
+    <get-trip-id-org>JRJAP</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -85245,6 +85425,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36813</get-trip-id>
+    <get-trip-id-org>DMT</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -85537,6 +85718,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36926</get-trip-id>
+    <get-trip-id-org>ECD</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -86077,6 +86259,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-37074</get-trip-id>
+    <get-trip-id-org>JRCHI</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -86562,6 +86745,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-37174</get-trip-id>
+    <get-trip-id-org>MRC</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
