@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-03T20:27:03.666Z" count="23">
+<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-03T21:08:57.432Z" count="23">
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25023</get-trip-id>
+    <get-trip-id-org>JCOK14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -241,6 +242,7 @@ In verband met de muggen is het verstandig om een muggenwered middel mee te neme
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25025</get-trip-id>
+    <get-trip-id-org>JCUK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -519,6 +521,7 @@ Pinnen is in Cuba niet tot nauwelijks mogelijk. In Havana, Viñales, Trinidad en
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25028</get-trip-id>
+    <get-trip-id-org>JEGK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -740,6 +743,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Neem daarom voldoende bescherm
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25041</get-trip-id>
+    <get-trip-id-org>JMASH8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -968,6 +972,7 @@ Daarnaast is het aangeraden om in de kampeerovernachtingen gebruik te maken van 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25045</get-trip-id>
+    <get-trip-id-org>JNBZ22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1319,6 +1324,7 @@ In Namibië is het niet toegestaan om plastic tasjes mee te nemen naar de nation
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25052</get-trip-id>
+    <get-trip-id-org>JTAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1606,6 +1612,7 @@ Veel reizigers willen graag iets zien van de grote migratie, één van de meest 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25053</get-trip-id>
+    <get-trip-id-org>JTAL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1942,6 +1949,7 @@ Op een aantal kampeerplaatsen kun je, bij de receptie of in een nabijgelegen lod
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25054</get-trip-id>
+    <get-trip-id-org>JTHK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2300,6 +2308,7 @@ Voor het verblijf op de River Kwai is het aan te raden om een zaklamp mee te nem
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25060</get-trip-id>
+    <get-trip-id-org>JVIK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2599,6 +2608,7 @@ Zonnebrandcréme en een pet tegen de zon kunnen goed van pas komen. Tevens is he
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25061</get-trip-id>
+    <get-trip-id-org>JVIL23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2932,6 +2942,7 @@ Zonnebrandcréme en een pet tegen de zon kunnen goed van pas komen! Tevens is he
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25063</get-trip-id>
+    <get-trip-id-org>JZANK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3204,6 +3215,7 @@ Reken voor uitgaven zoals entreegelden, maaltijden en persoonlijke uitgaven op m
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25064</get-trip-id>
+    <get-trip-id-org>JZAL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3545,6 +3557,7 @@ Reken voor uitgaven zoals entreegelden, maaltijden en persoonlijke uitgaven op m
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25079</get-trip-id>
+    <get-trip-id-org>JZAKK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3915,6 +3928,7 @@ Reken voor uitgaven zoals entreegelden, maaltijden en persoonlijke uitgaven op m
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25876</get-trip-id>
+    <get-trip-id-org>JKTZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4213,6 +4227,7 @@ Daarnaast willen wij je erop attenderen dat het gebruik of het bezit van plastic
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-27912</get-trip-id>
+    <get-trip-id-org>JJOK8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4457,6 +4472,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-28354</get-trip-id>
+    <get-trip-id-org>JEGL15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4710,6 +4726,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-28356</get-trip-id>
+    <get-trip-id-org>JMRK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4993,6 +5010,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-32748</get-trip-id>
+    <get-trip-id-org>JGRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5221,6 +5239,7 @@ Vergeet niet om je rijbewijs mee te nemen, voor het geval je zelf een dagje een 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-34074</get-trip-id>
+    <get-trip-id-org>JLAP7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5408,6 +5427,7 @@ Neem voor deze reis warme kleding mee zoals fleecetruien, wintersportkleding, th
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-34848</get-trip-id>
+    <get-trip-id-org>JJAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5736,6 +5756,7 @@ Zodra je een reis hebt geboekt, ontvangt de hoofdboeker hiervan een bevestiging 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-35185</get-trip-id>
+    <get-trip-id-org>JKO15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6018,6 +6039,7 @@ Zodra je een reis hebt geboekt, ontvangt de hoofdboeker hiervan een bevestiging 
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-35331</get-trip-id>
+    <get-trip-id-org>JJBL22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6336,6 +6358,7 @@ Vind je het leuk om te gaan snorkelen? Dan is het aan te raden om een snorkel, d
   </trip>
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-35634</get-trip-id>
+    <get-trip-id-org>JCHL24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
