@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="activityinternational" partner="Activity International" generated="2026-09-03T20:27:03.666Z" count="43">
+<trips feed="activityinternational" partner="Activity International" generated="2026-09-03T21:08:57.432Z" count="43">
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35899</get-trip-id>
+    <get-trip-id-org>49916</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -110,6 +111,7 @@ De Nieuw-Zeeland groepsreis is geschikt voor iedereen die 3 fantastische weken w
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35900</get-trip-id>
+    <get-trip-id-org>49439</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -245,6 +247,7 @@ En natuurlijk is daar de lokale bevolking. Zonder hun gastvrijheid, enthousiasme
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35901</get-trip-id>
+    <get-trip-id-org>47907</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -422,6 +425,7 @@ Deze reis is perfect voor reizigers tussen de 17 en 25 jaar die Sri Lanka graag 
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35902</get-trip-id>
+    <get-trip-id-org>47419</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -520,6 +524,7 @@ Van maandag tot en met vrijdag doe je ongeveer vier uur per dag vrijwilligerswer
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35903</get-trip-id>
+    <get-trip-id-org>44663</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -616,6 +621,7 @@ Er is een gezellige gezamenlijke ruimte voor de maaltijden. Hier kan je ook same
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35904</get-trip-id>
+    <get-trip-id-org>43451</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -747,6 +753,7 @@ En natuurlijk is daar de lokale bevolking. Zonder hun gastvrijheid, enthousiasme
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35905</get-trip-id>
+    <get-trip-id-org>41026</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -842,6 +849,7 @@ Je reist samen met een internationale groep gelijkgestemde backpackers, waardoor
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35908</get-trip-id>
+    <get-trip-id-org>38790</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -984,6 +992,7 @@ Iguana Perdida hostel – Lago Atitlan; kom bij ons in het paradijs onder de vul
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35909</get-trip-id>
+    <get-trip-id-org>38764</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1092,6 +1101,7 @@ Kickstart Cuba is geschikt voor iedereen die 4 fantastische weken wil doorbrenge
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35910</get-trip-id>
+    <get-trip-id-org>38643</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1178,6 +1188,7 @@ Marokko is een moslimland. Op bepaalde plekken en in bepaalde situaties is het n
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35911</get-trip-id>
+    <get-trip-id-org>35173</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1286,6 +1297,7 @@ Deze reis is het meest geschikt voor 17 tot 25 jarigen.]]></get-trip-scraped-con
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35912</get-trip-id>
+    <get-trip-id-org>34788</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1581,6 +1593,7 @@ Data Adventure Tour 20279 januari t/m 15 januari
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35913</get-trip-id>
+    <get-trip-id-org>33136</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1660,6 +1673,7 @@ Tijdens de reis verblijf je in gedeelde accommodaties. Dat betekend dat je de sl
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35915</get-trip-id>
+    <get-trip-id-org>11582</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1820,6 +1834,7 @@ De laatste overnachting van de reis is in Cairns. Vanaf dat moment ben je vrij o
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35916</get-trip-id>
+    <get-trip-id-org>10619</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1959,6 +1974,7 @@ Veilig betalen in het buitenland]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35917</get-trip-id>
+    <get-trip-id-org>10211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2097,6 +2113,7 @@ Costa Rica Pura Vida is geschikt voor jongeren tussen de 17 en 28 jaar die net k
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35918</get-trip-id>
+    <get-trip-id-org>5552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2361,6 +2378,7 @@ December
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35919</get-trip-id>
+    <get-trip-id-org>5372</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2608,6 +2626,7 @@ December
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35920</get-trip-id>
+    <get-trip-id-org>2205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2736,6 +2755,7 @@ Deelnemers hebben het hier vrijwel altijd ontzettend naar hun zin. De afwisselen
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35922</get-trip-id>
+    <get-trip-id-org>1896</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2873,6 +2893,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35923</get-trip-id>
+    <get-trip-id-org>1462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3015,6 +3036,7 @@ Meer weten over een Tussenjaar? Op onze tussenjaar pagina staat meer informatie 
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35925</get-trip-id>
+    <get-trip-id-org>518</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3121,6 +3143,7 @@ Kickstart Costa Rica is geschikt voor iedereen die 4 fantastische weken wil door
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35926</get-trip-id>
+    <get-trip-id-org>517</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3384,6 +3407,7 @@ Veilig betalen in het buitenland]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35927</get-trip-id>
+    <get-trip-id-org>516</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3600,6 +3624,7 @@ De sportieve backpacker die graag snel nieuwe vrienden wil maken. De eerste 7 da
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35929</get-trip-id>
+    <get-trip-id-org>504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3755,6 +3780,7 @@ Uw zoon/dochter kan in aanmerking komen voor een studentenvisum indien hij/zij l
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35930</get-trip-id>
+    <get-trip-id-org>501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3897,6 +3923,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35931</get-trip-id>
+    <get-trip-id-org>498</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3987,6 +4014,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35933</get-trip-id>
+    <get-trip-id-org>494</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4083,6 +4111,7 @@ De werkzaamheden zoals genoemd zijn voorbeelden en altijd onder voorbehoud. Werk
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35935</get-trip-id>
+    <get-trip-id-org>492</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4184,6 +4213,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35936</get-trip-id>
+    <get-trip-id-org>478</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4294,6 +4324,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35938</get-trip-id>
+    <get-trip-id-org>465</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4438,6 +4469,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35939</get-trip-id>
+    <get-trip-id-org>462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4579,6 +4611,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35941</get-trip-id>
+    <get-trip-id-org>458</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4730,6 +4763,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35942</get-trip-id>
+    <get-trip-id-org>450</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4893,6 +4927,7 @@ Minimaal 2 maanden voor vertrek (bij voorkeur eerder). De procedure is vrij uitv
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35944</get-trip-id>
+    <get-trip-id-org>433</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5033,6 +5068,7 @@ Start op maandag]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36094</get-trip-id>
+    <get-trip-id-org>51031</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5168,6 +5204,7 @@ Je hoeft dus nog geen duikdiploma te hebben, die kan je ter plekke halen. Je moe
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36195</get-trip-id>
+    <get-trip-id-org>18443</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5321,6 +5358,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36836</get-trip-id>
+    <get-trip-id-org>57831</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5451,6 +5489,7 @@ Ben jij tussen de 18 en 30 jaar en lijkt het je geweldig om een tijdje in Japan 
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36857</get-trip-id>
+    <get-trip-id-org>58521</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5590,6 +5629,7 @@ Of je nu voor het eerst gaat backpacken of al wat reiservaring hebt: deze reis i
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36884</get-trip-id>
+    <get-trip-id-org>59307</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5706,6 +5746,7 @@ De accommodatie is zo geselecteerd dat je een unieke Thailand-ervaring hebt. Nie
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36941</get-trip-id>
+    <get-trip-id-org>59501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5802,6 +5843,7 @@ De backpacker die graag snel nieuwe vrienden wil maken. En het nieuwe jaar wil v
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36946</get-trip-id>
+    <get-trip-id-org>59463</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5930,6 +5972,7 @@ Je kiest voor dit programma omdat je het leuk vindt om meer te leren over de Bal
   </trip>
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-37270</get-trip-id>
+    <get-trip-id-org>60059</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
