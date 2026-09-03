@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-03T20:27:03.666Z" count="92">
+<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-03T21:08:57.432Z" count="92">
   <trip>
     <get-trip-id>GT-TICOREIZEN-30729</get-trip-id>
+    <get-trip-id-org>2</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -200,6 +201,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30734</get-trip-id>
+    <get-trip-id-org>7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -435,6 +437,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30735</get-trip-id>
+    <get-trip-id-org>14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -694,6 +697,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30737</get-trip-id>
+    <get-trip-id-org>16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -948,6 +952,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30740</get-trip-id>
+    <get-trip-id-org>22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1137,6 +1142,7 @@ Colombia is een dunbevolkt land met naar schatting 48 miljoen inwoners. De bevol
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30745</get-trip-id>
+    <get-trip-id-org>33</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1329,6 +1335,7 @@ Het overgrote gedeelte van Bolivia (ca. 95%) is katholiek.]]></get-trip-scraped-
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30752</get-trip-id>
+    <get-trip-id-org>49</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1541,6 +1548,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30768</get-trip-id>
+    <get-trip-id-org>88</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1751,6 +1759,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30769</get-trip-id>
+    <get-trip-id-org>90</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1957,6 +1966,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30788</get-trip-id>
+    <get-trip-id-org>133</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2301,6 +2311,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30789</get-trip-id>
+    <get-trip-id-org>134</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2585,6 +2596,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30802</get-trip-id>
+    <get-trip-id-org>153</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2860,6 +2872,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30806</get-trip-id>
+    <get-trip-id-org>158</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3139,6 +3152,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30829</get-trip-id>
+    <get-trip-id-org>196</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3289,6 +3303,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30830</get-trip-id>
+    <get-trip-id-org>197</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3431,6 +3446,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30832</get-trip-id>
+    <get-trip-id-org>199</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3573,6 +3589,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30838</get-trip-id>
+    <get-trip-id-org>209</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3835,6 +3852,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30845</get-trip-id>
+    <get-trip-id-org>227</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4048,6 +4066,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30856</get-trip-id>
+    <get-trip-id-org>240</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4216,6 +4235,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30857</get-trip-id>
+    <get-trip-id-org>241</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4378,6 +4398,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30858</get-trip-id>
+    <get-trip-id-org>242</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4559,6 +4580,7 @@ Fooi geven is gebruikelijk in Panama. In restaurants wordt meestal ca. 10% fooi 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30901</get-trip-id>
+    <get-trip-id-org>344</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4860,6 +4882,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30925</get-trip-id>
+    <get-trip-id-org>377</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5044,6 +5067,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30929</get-trip-id>
+    <get-trip-id-org>381</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5231,6 +5255,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30937</get-trip-id>
+    <get-trip-id-org>391</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5447,6 +5472,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30948</get-trip-id>
+    <get-trip-id-org>404</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5625,6 +5651,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30950</get-trip-id>
+    <get-trip-id-org>409</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5890,6 +5917,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30968</get-trip-id>
+    <get-trip-id-org>432</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6139,6 +6167,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30972</get-trip-id>
+    <get-trip-id-org>436</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6389,6 +6418,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30976</get-trip-id>
+    <get-trip-id-org>448</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6597,6 +6627,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-30988</get-trip-id>
+    <get-trip-id-org>469</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6794,6 +6825,7 @@ Colombia is een dunbevolkt land met naar schatting 48 miljoen inwoners. De bevol
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31123</get-trip-id>
+    <get-trip-id-org>17</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7084,6 +7116,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31128</get-trip-id>
+    <get-trip-id-org>64</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7355,6 +7388,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31133</get-trip-id>
+    <get-trip-id-org>114</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7578,6 +7612,7 @@ Religie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31134</get-trip-id>
+    <get-trip-id-org>115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7787,6 +7822,7 @@ Religie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31135</get-trip-id>
+    <get-trip-id-org>116</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8032,6 +8068,7 @@ Religie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31136</get-trip-id>
+    <get-trip-id-org>139</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8313,6 +8350,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31137</get-trip-id>
+    <get-trip-id-org>186</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8658,6 +8696,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31140</get-trip-id>
+    <get-trip-id-org>220</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8939,6 +8978,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31141</get-trip-id>
+    <get-trip-id-org>236</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9133,6 +9173,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31143</get-trip-id>
+    <get-trip-id-org>257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9307,6 +9348,7 @@ Religie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31159</get-trip-id>
+    <get-trip-id-org>438</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9517,6 +9559,7 @@ Religie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31162</get-trip-id>
+    <get-trip-id-org>482</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9809,6 +9852,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31164</get-trip-id>
+    <get-trip-id-org>10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10017,6 +10061,7 @@ De officiële religie op Borneo is de Islam. Het geloof staat op Borneo echter m
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31168</get-trip-id>
+    <get-trip-id-org>57</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10219,6 +10264,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31169</get-trip-id>
+    <get-trip-id-org>58</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10449,6 +10495,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31180</get-trip-id>
+    <get-trip-id-org>547</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10670,6 +10717,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31251</get-trip-id>
+    <get-trip-id-org>550</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10815,6 +10863,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31328</get-trip-id>
+    <get-trip-id-org>552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11018,6 +11067,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-31402</get-trip-id>
+    <get-trip-id-org>553</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11211,6 +11261,7 @@ Heeft u liever volledige vrijheid, dan kunnen we eveneens een auto met chauffeur
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32012</get-trip-id>
+    <get-trip-id-org>573</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11410,6 +11461,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32023</get-trip-id>
+    <get-trip-id-org>576</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11645,6 +11697,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32030</get-trip-id>
+    <get-trip-id-org>577</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11872,6 +11925,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32031</get-trip-id>
+    <get-trip-id-org>578</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12121,6 +12175,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32034</get-trip-id>
+    <get-trip-id-org>579</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12421,6 +12476,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32154</get-trip-id>
+    <get-trip-id-org>585</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12746,6 +12802,7 @@ Ruim 95% van de Thai is Theravada Boeddhist. Deze religie drukt een zware stempe
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32161</get-trip-id>
+    <get-trip-id-org>587</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13052,6 +13109,7 @@ Ruim 95% van de Thai is Theravada Boeddhist. Deze religie drukt een zware stempe
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32226</get-trip-id>
+    <get-trip-id-org>592</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13305,6 +13363,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32236</get-trip-id>
+    <get-trip-id-org>593</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13569,6 +13628,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32268</get-trip-id>
+    <get-trip-id-org>595</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13793,6 +13853,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32292</get-trip-id>
+    <get-trip-id-org>596</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14092,6 +14153,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32329</get-trip-id>
+    <get-trip-id-org>598</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14377,6 +14439,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32444</get-trip-id>
+    <get-trip-id-org>606</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14545,6 +14608,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32472</get-trip-id>
+    <get-trip-id-org>610</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14763,6 +14827,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32534</get-trip-id>
+    <get-trip-id-org>496</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15004,6 +15069,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32686</get-trip-id>
+    <get-trip-id-org>614</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15238,6 +15304,7 @@ Indien u helemaal afreist naar Bumthang dan is het te adviseren om per binnenlan
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32706</get-trip-id>
+    <get-trip-id-org>466</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15557,6 +15624,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32710</get-trip-id>
+    <get-trip-id-org>474</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15869,6 +15937,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32713</get-trip-id>
+    <get-trip-id-org>493</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16094,6 +16163,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32716</get-trip-id>
+    <get-trip-id-org>512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16407,6 +16477,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32720</get-trip-id>
+    <get-trip-id-org>523</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16729,6 +16800,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32721</get-trip-id>
+    <get-trip-id-org>527</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17006,6 +17078,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32722</get-trip-id>
+    <get-trip-id-org>528</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17332,6 +17405,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-32729</get-trip-id>
+    <get-trip-id-org>563</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17569,6 +17643,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34058</get-trip-id>
+    <get-trip-id-org>268</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17746,6 +17821,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34059</get-trip-id>
+    <get-trip-id-org>269</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17923,6 +17999,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34060</get-trip-id>
+    <get-trip-id-org>270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18102,6 +18179,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34062</get-trip-id>
+    <get-trip-id-org>506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18268,6 +18346,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34063</get-trip-id>
+    <get-trip-id-org>514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18454,6 +18533,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34064</get-trip-id>
+    <get-trip-id-org>515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18632,6 +18712,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34067</get-trip-id>
+    <get-trip-id-org>534</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18808,6 +18889,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34069</get-trip-id>
+    <get-trip-id-org>561</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18954,6 +19036,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34070</get-trip-id>
+    <get-trip-id-org>597</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19139,6 +19222,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34072</get-trip-id>
+    <get-trip-id-org>613</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19399,6 +19483,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34135</get-trip-id>
+    <get-trip-id-org>615</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19567,6 +19652,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-34326</get-trip-id>
+    <get-trip-id-org>617</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19868,6 +19954,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-35162</get-trip-id>
+    <get-trip-id-org>621</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20019,6 +20106,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-35170</get-trip-id>
+    <get-trip-id-org>622</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20165,6 +20253,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-36025</get-trip-id>
+    <get-trip-id-org>646</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20400,6 +20489,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-36271</get-trip-id>
+    <get-trip-id-org>648</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20718,6 +20808,7 @@ Ruim 95% van de Thai is Theravada Boeddhist. Deze religie drukt een zware stempe
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-37129</get-trip-id>
+    <get-trip-id-org>653</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20928,6 +21019,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
   </trip>
   <trip>
     <get-trip-id>GT-TICOREIZEN-37324</get-trip-id>
+    <get-trip-id-org>657</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
