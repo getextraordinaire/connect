@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="tiogatours" partner="Tioga Tours" generated="2026-09-03T02:00:01.255Z" count="19">
+<trips feed="tiogatours" partner="Tioga Tours" generated="2026-09-03T21:41:49.677Z" count="19">
   <trip>
     <get-trip-id>GT-TIOGATOURS-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -630,7 +630,6 @@ Boek vakantievilla's in Florida om het het hele gezin in een luxe villa te verbl
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-carolina/charleston-downtown-2-rainbow-row.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-carolina/charleston-boone-hall-plantation.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-carolina/charleston-boone-hall-plantation.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/georgia/savannah-forsyth-park-fountain.7550.089f.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00004</get-trip-id>
@@ -1521,12 +1520,13 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-old-faithfull.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7755.ce1a.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7752.e08d.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-jenny-lake-2.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-jenny-lake-2.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/sheridan-downtown.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/sheridan-downtown.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-dakota/mount-rushome-5.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7755.ce1a.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7752.e08d.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00009</get-trip-id>
@@ -1544,10 +1544,6 @@ Infodag met Cruise America/Canada. Alles over het reizen met een camper! Met gra
 Infodag zaterdag 5 september: regiopresentaties, camperbezichtiging & adviesgesprekken. Gratis aanmelden
 WIJ ZIJN 31 DECEMBER OM 16:00 UUR GESLOTEN I.V.M. OUDJAARSAVOND
 Routeoverzicht
-- Salt Lake City
-- Capitol Reef National Park
-- Arches National Park
-- Glenwood Springs
 - Denver
 - Rocky Mountain NP (Estes)
 - Cheyenne
@@ -1558,6 +1554,10 @@ Routeoverzicht
 - Grand Teton National Park
 - Bear Lake
 - Salt Lake City
+- Capitol Reef National Park
+- Arches National Park
+- Glenwood Springs
+- Denver
 #Kids Go Rockies
 Neem je kinderen mee op camperreis langs de hoogtepunten van de Amerikaanse Rocky Mountains. Je brengt een bezoek aan Yellowstone National Park, dat geprezen wordt om zijn warmwaterbronnen, geisers en bizons. Tijdens deze reis ontdek je het sfeervolle westernstadje Cody en de levendige stad Denver. Uiteraard mag een bezoek aan de indrukwekkende rotsformaties van Arches National Park niet ontbreken. Tijdens deze familievriendelijke Kids Go Rockies-camperreis staat de ruige natuur centraal en kun je tal van activiteiten ondernemen: van raften en museumbezoek tot wildlife-excursies en off road jeeptours.
 HULP OF ADVIES NODIG?
@@ -1568,57 +1568,10 @@ Bewerk in routeplanner
 Totale afstand: 3176 kilometer
 / 1974 mijl
 #Reis van dag tot dag
-##Dag 1. Salt Lake City
-Je reis begint in Salt Lake City.
-Salt Lake City is de hoofdstad van de staat Utah. Ook is Salt Lake City het centrum van de mormoonse kerk, met Temple Square als hoofdkwartier. Op een oppervlakte van 40.000 vierkante meter bevinden zich verschillende mormoonse gebouwen, waaronder de Salt Lake Temple (momenteel gesloten, opent mogelijk in 2027). Een andere bezienswaardigheid is het Salt Lake Tabernacle, dat een van de grootste orgels ter wereld herbergt. Met wat geluk kun je hier het enorme Tabernacle-koor horen zingen.
-##Dag 2. Salt Lake City
-Je haalt 's middags de camper op in Salt Lake City.
-Salt Lake City is vernoemd naar het nabij gelegen Great Salt Lake: een uitgestrekt zoutmeer. Het water is drie keer zo zout als zeewater, waardoor er maar weinig vissen in overleven. Durfallen weerstaan de geur en de vliegjes en gaan het meer in. Een leuke ervaring; omdat het meer twee à drie keer zo zout is als de zee, blijf je er drijven.
-##Kids-tip: Mormonen en zoutmeren
-- Bezoek Discovery Gateway Children's Museum en het Natural History Museum of Utah met interactieve tentoonstellingen en activiteiten
-- Great Salt Lake is een bijzonder zoutwatermeer met eilandjes en met zoutafzetting langs de kustlijn
-- Utah's Hogle Zoo bestaat al bijna 100 jaar. Er zijn verschillende ecosystemen met bijbehorend wildlife, een speeltuin en een 'splash zone'
-- Clark Planetarium leer je meer over het universum d.m.v. tentoonstellingen en een IMAX theater
-- Temple Square is het hart van Salt Lake met historische gebouwen, bijzondere architectuur, restaurants en de unieke Salt Lake Temple
-- Toe aan wat shopping? City Creek Center is een groot winkelcentrum
-- Voor mooie tuinen bezoek je Red Butte Garden & Arboretum
-- Utah State Capitol lijkt een beetje op het Witte Huis. Je kunt het bezoeken en een informatieve tour boeken!
-- Op 20 minuten rijden ligt Lagoon Amusement Park in Farmington. Er zijn 55 attracties waaronder achtbanen en diverse waterattracties
-##Dag 3. Salt Lake City - Capitol Reef National Park
-Afstand:
-360 km / 220 mijl || Reistijd:
-ongeveer 4 uur
-Torens, koepels en hoge kliffen in uiteenlopende kleuren: daarvoor moet je naar Capitol Reef. Dit veelkleurige nationale park dankt zijn naam deels aan het beroemde Capitoolgebouw in Washington DC. In het witte Navajo-zandsteen bevinden zich namelijk koepels die aan het gebouw doen denken. Een van de belangrijkste publiekstrekkers zijn de fruitboomgaarden en gerestaureerde historische gebouwen in Fruita, een voormalige mormoonse nederzetting.
-##Kids-tip: Taart!
-- Maak zeker een tussenstop bij de Gifford Homestead voor een stuk van de beroemde huisgemaakte taart – die wil je écht niet missen!
-##Dag 4. Capitol Reef National Park - Arches National Park
-Afstand:
-230 km / 140 mijl || Reistijd:
-ongeveer 21/2 uur
-Rode rotsen, prachtige bogen, grillige vormen: Arches National Park lijkt op een door architecten nauwkeurig uitgedachte droomplek. Nergens ter wereld liggen zoveel natuurlijk gevormde bogen zo dicht bij elkaar. In Arches vind je meer dan 2.000 exemplaren, in alle soorten en maten. De meest bezochte bezienswaardigheden van het nationale park zijn de Delicate Arch, de Balanced Rock en de Landscape Arch. In verband met drukte raden we je aan om vóór 09:00 in Arches te arriveren of juist later in de middag.
-##Dag 5. Arches National Park
-De beroemdste boog van het park is de Delicate Arch. De wandeling erheen is even een flinke klim, maar de aanblik van de vijftien meter hoge boog aan het eind is zeer de moeite waard. Kun of wil je niet zo ver lopen, of heb je weinig tijd, rijd dan naar het Delicate Arch Viewpoint. Het kan trouwens best zijn dat de boog je bekend voorkomt: het is het staatssymbool en is onder andere te zien op alle kentekenplaten in de staat Utah.
-##Kids-tip: Bogen & bruggen
-- Wandel met een parkranger door Fiery Furnace, een labyrint omsloten door rotswanden en kloven. Je struint door nauwe gangetjes en je kunt er klimmen en klauteren over rotsen
-- De Double Arch rotsformatie is een iconische rots die bekend is van de film 'Indiana Jones and the Last Crusade'
-- Voor een mooie wandeling met wat laddertjes en treden ga je naar Corona Arch, een van de mooiste rotsbogen van de regio
-- Maak een relaxte of avontuurlijke rafting-tocht op de Colorado rivier en vaar dwars door het rode rotslandschap
-- Boek vanaf Moab een outdooractiviteit zoals een offroad 4x4 tour of huur een mountainbike
-##Dag 6. Arches National Park - Glenwood Springs
-Afstand:
-310 km / 190 mijl || Reistijd:
-ongeveer 3 uur
-Glenwood Springs is een levendige plaats in de Amerikaanse staat Colorado. Naast de bekende warmwaterbronnen zijn vooral de Glenwood Caverns en het bijbehorende attractiepark een bezoek waard. Met een Funday Pass krijg je toegang tot twee wandeltours (van 40 minuten), een rit met de tram en bijna alle attracties in de attractiepark. Ook de wandeling naar het turkooizen Hanging Lake is een aanrader. Hoewel de trail slechts 2 kilometer lang is, moet je hier vanwege de steile klim en het rotsachtige terrein ongeveer twee tot drie uur uittrekken. Onderweg wandel je langs Dead Horse Creek en klim je via een steeds uitdagender pad naar boven, waar je bij Spouting Rock ijskoud water langs een kalkstenen rotswand ziet stromen.
-##Kids-tip: Spetterstad
-- Plons in het zwembad of zoef van de glijbaan bij de Glenwood Hot Springs Pool!
-- Ervaar de spanning van Glenwood Caverns Adventure Park. Verken ondergrondse grotten, waag je in spannende achtbanen en geniet van adembenemende uitzichten op de bergen
-- We Scream – for Ice Cream! Bezoek Chocolate Moose Ice Cream Parlor voor een heerlijk ijsje
-##Dag 7. Glenwood Springs - Denver
-Afstand:
-250 km / 160 mijl || Reistijd:
-ongeveer 3 uur
-Ben je uitgekeken in Denver, dan is er in de omgeving genoeg te beleven. Een prachtig vergezicht over de Rockies heb je vanaf Lookout Mountain. Leuk extraatje: Buffalo Bill ligt hier begraven. Of een half uur rijden van het centrum van Denver vind je Red Rocks Park. Hier ligt het Red Rocks Amfitheater, dat gebruikmaakt van de natuurlijke akoestiek van de rotsen. Het theater biedt plaats aan 9.000 mensen. Wanneer je de 250 treden naar de top van het theater beklimt, heb je een prachtig uitzicht over het park en Denver.
-##Dag 8. Denver
+##Dag 1. Denver
+Je reis begint in Denver.
+'Mile High City' Denver ligt precies op één mijl hoogte, in de schaduw van de Rocky Mountains. Denver, ooit een goudzoekersnederzetting, combineert de charme van een bedrijvige stad met het mysterie van het Wilde Westen. Opvallend is het Colorado State Capitol met zijn gouden koepel. In het gebouw is een museum gevestigd, doordeweeks zijn er gratis tours. Lower Downtown Denver, LoDo voor ingewijden, heeft gezellige straten met historische gebouwen. Larimer Square is dé ontmoetingsplaats.
+##Dag 2. Denver
 Breng in Denver een bezoek aan het History Museum, het Denver Art Museum, het Black American Museum of maak een dagtocht door de omgeving. Erg mooi is de Mount Blue Sky Scenic Byway, de hoogst gelegen verharde autoweg in Amerika. Op de 4.348 meter hoge top van Mount Blue Sky heb je een mooi uitzicht op de Front Range van de Rocky Mountains.
 ##Kids-tip: Zóveel te doen in Denver
 - Kun je niet kiezen tussen een pretpark of een zwemparadijs? Bezoek dan het Elitch Gardens Theme & Water Park, dan maak je iedereen blij
@@ -1629,12 +1582,13 @@ Breng in Denver een bezoek aan het History Museum, het Denver Art Museum, het Bl
 - Meow Wolf Denver is een uniek beleveniscentrum met creatieve kamers met licht en geluid en unieke kunstvoorwerpen
 - Geïnteresseerd in alles wat met de brandweer te maken heeft? Dan is het Denver Firefighters Museum the place to be
 - Thrillseekers bezoeken iFly Denver voor een indoor skydive
-##Dag 9. Denver - Rocky Mountain NP (Estes)
+##Dag 3. Denver - Rocky Mountain National Park
 Afstand:
 120 km / 70 mijl || Reistijd:
 ongeveer 2 uur
+Je haalt 's middags de camper op in Denver en vervolgt je weg naar Rocky Mountain NP (Estes).
 Rocky Mountain National Park in Colorado geeft je een goede indruk van de gelijknamige bergketen, die zich 4.800 kilometer uitstrekt van Alaska tot Nieuw-Mexico. De oostkant van Rocky Mountain National Park is relatief droog en wordt gekenmerkt door spitse bergtoppen en diepe dalen. Estes Park vormt de toegangspoort, hier vandaan bereik je gemakkelijk Bear Lake, waar diverse meren liggen en waar je goed kunt wandelen. De hoog gelegen Trail Ridge Road brengt je over de bergtoppen en dwars door uitgestrekte toendra naar de andere kant van het park.
-##Dag 10. Rocky Mountain National Park
+##Dag 4. Rocky Mountain National Park
 De 77 kilometer lange Trail Ridge Road is de hoofdweg van Rocky Mountain National Park. Tijdens je rit zie je valleien, toendra en de Colorado-rivier, die grote delen van het Amerikaanse landschap (waaronder de Grand Canyon!) bepaald heeft. Een letterlijk hoogtepunt is Longs Peak, de hoogste berg van het park. De vlakke top torent boven alle andere bergen uit en is vanuit bijna het gehele park te zien. Dieren die je onderweg tegen kunt komen zijn onder andere herten, elanden, dikhoornschapen en zwarte beren. Als je onderweg uitstapt kun je al goed voelen hoe ijl de lucht is.
 ##Kids-tip: Outdoor avonturen
 - Rocky Mountain National Park heeft een Junior Ranger Program (informeer bij het Visitor Center) voor kids tot 12 jaar
@@ -1645,7 +1599,7 @@ De 77 kilometer lange Trail Ridge Road is de hoofdweg van Rocky Mountain Nationa
 - Durfals brengen een bezoek aan het iconische Stanley hotel, beroemd uit de film The Shining van Stephen King
 - Ga raften met 'Rapid Transit Rafting' over de Colorado en Cache la Poudre rivier. (vanaf 7 jaar)
 - Open Air Adventure Park is een outdoor klim- en zipline park (vanaf 6 jaar)
-##Dag 11. Rocky Mountain National Park - Cheyenne
+##Dag 5. Rocky Mountain National Park - Cheyenne
 Afstand:
 150 km / 90 mijl || Reistijd:
 ongeveer 2 uur
@@ -1658,15 +1612,18 @@ Cheyenne is de hoofdstad van de staat Wyoming. Deze cowboystad heeft zijn authen
 - Geïnteresseerd in cowboys en - girls en rodeo: dan tippen we Cheyenne Frontier Days Old West Museum en Cowgirls of the West Museum
 - Een stadswandeling door Cheyenne wordt extra leuk als je op zoek gaat naar de 19 'Cheyenne Big Boots' (Visitor Center)
 - Altijd al een keer een ranch willen bezoeken? Bezoek Terry Bison Ranch op een kwartier ten zuiden van Cheyenne
-##Dag 12. Cheyenne - Keystone
+##Dag 6. Cheyenne - Keystone
 Afstand:
 430 km / 270 mijl || Reistijd:
 ongeveer 41/2 uur
 Keystone dient als een goede uitvalsbasis om de omgeving te verkennen. Keystone bevindt zich in de Black Hills, een kleine en geïsoleerde bergketen in de Great Plains en biedt toegang tot het bezoeken van onder andere Mount Rushmore National Monument, Crazy Horse Memorial, Custer State Park & Wind Cave National Park.
-##Kids-tip: Mount Rushmore
-- Op 10 minuten van Keystone, zijn de beroemde rotsen met de uit steen gehouwen presidenten: Mount Rushmore
+##Kids-tip: Mount Rushmore & Rapid City
+- Op een uurtje van Rapid City zijn de beroemde rotsen met de uit steen gehouwen presidenten: Mount Rushmore
 - Vlakbij Mount Rushmore ligt Crazy Horse Memorial, een uitgehouwen rotssculptuur. Bezoek het welkomstcentrum en museum om meer te leren over de Native American people
-##Dag 13. Keystone
+- Reptile Gardens in Rapid CIty is een dierentuin met veel reptielen, roofvogels en prairiehonden
+- Het gratis toegankelijke Dinosaur Park is leuk voor dino-liefhebbers
+- Het grootste indoor waterpark van de Dakota's is WaTiki Indoor Waterpark met waterattracties, zwembaden en glijbanen
+##Dag 7. Keystone
 In Custer State Park leeft een kudde van meer dan duizend bizons. Het is een van de grootste bizonkuddes in de Verenigde Staten. Vroeger leefden er miljoenen bizons in de VS, maar de aantallen liepen snel terug door de jacht in de negentiende en twintigste eeuw (lees Butcher's Crossing maar eens). De bizons zijn nu beschermd en maken hun comeback in dit gebied. Je kunt schilderachtige routes door het park rijden, zoals de Wildlife Loop Road, waar je grote kans hebt om de wilde dieren te zien. Bezoek ook het schilderachtige Sylvan Lake, een van de vijf meren in het staatspark. Het ligt vlak langs de weg.
 ##Kids-tip: Custer State Park
 - In Custer State Park is het heerlijk toeren, je kijkt je ogen uit naar al het wildlife (heel veel bizons!) en de prachtige natuur
@@ -1675,7 +1632,7 @@ In Custer State Park leeft een kudde van meer dan duizend bizons. Het is een van
 - Op 10 minuten van Keystone, zijn de beroemde rotsen met de uit steen gehouwen presidenten: Mount Rushmore
 - Sylvan Lake is een heerlijk meer waar je kunt zwemmen en kanoën
 - Maak je trip uniek en vaar met een heteluchtballon over het Custer State en de Black Hills
-##Dag 14. Keystone - Buffalo
+##Dag 8. Keystone - Buffalo
 Afstand:
 330 km / 210 mijl || Reistijd:
 ongeveer 31/2 uur
@@ -1683,7 +1640,7 @@ Aan de voet van het Bighorn-gebergte ligt het stadje Buffalo, Wyoming. Het verle
 ##Kids-tip: Cowboys
 - Een mooie bezienswaardigheid voor alle leeftijden is de Shell Falls waterval
 - In Bighorn National Forest kun je leuke family hikes maken naar b.v. Meadowlark Lake (2 km), Steamboat Point (2,7 km) of West Tensleep Falls (2,4 km)
-##Dag 15. Buffalo - Cody
+##Dag 9. Buffalo - Cody
 Afstand:
 270 km / 170 mijl || Reistijd:
 ongeveer 3 uur
@@ -1693,12 +1650,14 @@ Een cowboy op de prairie, zo voel je je in Cody. Het stadje dweept graag met het
 - Bezoek Dacken Park om te ravotten in de speeltuin
 - Bij Custom Cowboy Shop en Wayne's Boot Shop scoor je de allermooiste échte cowboylaarzen — trek ze aan en voel je meteen een echte cowboy!
 - Zin in iets unieks? Bezoek de Wild West Spectacular. Een live wildwest-show met acteurs, cowboys en klassieke spektakels
-##Dag 16. Cody - Yellowstone National Park
+##Dag 10. Cody
+Cody is niet alleen een knipoog naar het Wilde Westen, het is ook een toegangspoort tot de prachtige natuur van Wyoming. Net buiten de stad beginnen spectaculaire landschappen, van de uitgestrekte prairies tot de ruige Bighorn Mountains. In de zomer bruist Cody van de activiteiten, met rodeostevenementen, livemuziek en markten die de westerncultuur tot leven brengen. 's Avonds kun je genieten van een diner in westernstijl of ontspannen in een van de charmante lodges van het stadje.
+##Dag 11. Cody - Yellowstone
 Afstand:
 160 km / 100 mijl || Reistijd:
 ongeveer 2 uur
 Warmwaterbronnen in alle kleuren van de regenboog, pruttelende poelen, zwaveldampen en geisers; Yellowstone National Park bestaat uit een indrukwekkende verzameling geologische verschijnselen. Je kunt alle bezienswaardigheden bereiken via de 229 kilometer lange Grand Loop Road, deze loopt in een 8-vorm door het park. Een bezoek aan Yellowstone is extra bijzonder als je een zwarte beer, grizzly, bizon of wolf ziet. Een vaak geziene inwoner is de elk (wapitihert). In Yellowstone leven maar liefst 35.000 herten; het is de grootste populatie elks ter wereld.
-##Dag 17. Yellowstone National Park
+##Dag 12. Yellowstone National Park
 Yellowstone National Park bevat de helft van de geisers op aarde. De meeste geisers vind je in het parkdeel 'Geyser Country'. Hier liggen 150 stuks op anderhalve vierkante kilometer. Old Faithful is de beroemdste. Hij laat ongeveer elk anderhalf uur een krachtige stroom water en stoom de lucht in spuiten. Je kunt er letterlijk op wachten. Naast geisers en warmwaterbronnen heeft Geyser Country aardspleten waaruit gassen ontsnappen en modderpoelen.
 ##Kids-tip: Geothermische wonderen
 - Yellowstone is zo uniek. Deze geothermische wonderen zijn prachtige uitjes voor het hele gezin
@@ -1706,9 +1665,9 @@ Yellowstone National Park bevat de helft van de geisers op aarde. De meeste geis
 - Maak wandelingetjes over vlonderpaden, dit kan bij Biscuit Basin Trail, Grand Prismatic Springs en de Mud Volcano Boardwalk
 - Bij West Thumb Geyser Basin maak je een mooie wandeling (0,8 km) langs geisers, hot springs, poelen en stoomgaten. De Black Pool is een van de mooiste!
 - Wat oudere kinderen? Wandel dan naar de Morning Glory Pool (4,4 km v.v.). Dit is een van de kleurrijkste bronnen van Yellowstone
-##Dag 18. Yellowstone National Park
+##Dag 13. Yellowstone National Park
 Een bijzonder gezicht vormen de heetwaterbronnen die travertin naar boven brengen, een zachte witte substantie. De bronnen zorgen ervoor dat er dagelijks twee ton gesteente aan de tientallen meters hoge kalkstenen terrassen bij Mammoth Hot Springs wordt toegevoegd. Een andere opvallende verschijning in Yellowstone National Park is de felgekleurde Grand Prismatic Spring. Dit is de grootste warmwaterbron van het park, met een diameter van 113 meter en een diepte van 37 meter.
-##Dag 19. Yellowstone National Park - Grand Teton National Park
+##Dag 14. Yellowstone National Park - Grand Teton
 Afstand:
 100 km / 60 mijl || Reistijd:
 ongeveer 11/2 uur
@@ -1721,20 +1680,64 @@ Vlak onder Yellowstone ligt een ander natuurwonder: Grand Teton National Park. I
 - In de zomer zijn er gezellige festivals met muziek en kunst in de hoofdrol
 - Bezoek Triangle X Ranch voor paardrijden, kajakken, vissen, dansen en andere ranch activiteiten
 - Familiehike: Inspiration Point is een leuke wandeling van ruim 3 km (Inclusief Jenny Lake Shuttleboot) Onderweg passeer je watervallen en heb je mooie uitzichtpunten.
-##Dag 20. Grand Teton National Park - Bear Lake
+##Dag 15. Grand Teton - Bear Lake
 Afstand:
 260 km / 160 mijl || Reistijd:
 ongeveer 3 uur
 De Carribean of the Rockies, zo wordt Bear Lake wel genoemd vanwege het prachtige helderblauwe water. Bear Lake is een zoetwatermeer in een bijzonder mooi landschap, deels gelegen in Utah en deels in Idaho. Geniet van de indrukwekkende natuur van de Rocky Mountains en puf even uit op een strandje voor een relaxmomentje tijdens je rondreis. Delen van het meer en de oevers behoren tot het Bear Lake State Park. Je kunt er prima wandelen, paardrijden en mountainbiken.
-##Dag 21. Bear Lake - Salt Lake City
+##Dag 16. Bear Lake - Salt Lake City
 Afstand:
 200 km / 120 mijl || Reistijd:
 ongeveer 21/2 uur
-Heb je voldoende tijd in Salt Lake City, dan is het leuk om de Cottonwood Scenic Byway te rijden in Big Cottonwood Canyon. Je begint aan de oostzijde van de Salt Lake-vallei, waar de Rocky Mountains overgaan in het Great Basin. De Big Cottonwood Canyon werd uitgesleten door stromend water en is 24 kilometer lang en biedt veel recreatiemogelijkheden zoals wandelen, fietsen en picknicken. Durfallen kunnen een klim maken over een rotswand. Breng in de stad zelf nog een bezoek aan het Capitoolgebouw van de staat Utah.
-##Dag 22. Salt Lake City
+Salt Lake City is de hoofdstad van de staat Utah. Ook is Salt Lake City het centrum van de mormoonse kerk, met Temple Square als hoofdkwartier. Op een oppervlakte van 40.000 vierkante meter bevinden zich verschillende mormoonse gebouwen, waaronder de Salt Lake Temple. Een andere bezienswaardigheid is het Salt Lake Tabernacle, dat een van de grootste orgels ter wereld herbergt. Met wat geluk kun je hier het enorme Tabernacle-koor horen zingen.
+##Kids-tip: Mormonen en zoutmeren
+- Bezoek Discovery Gateway Children's Museum en het Natural History Museum of Utah met interactieve tentoonstellingen en activiteiten
+- Great Salt Lake is een bijzonder zoutwatermeer met eilandjes en met zoutafzetting langs de kustlijn
+- Utah's Hogle Zoo bestaat al bijna 100 jaar. Er zijn verschillende ecosystemen met bijbehorend wildlife, een speeltuin en een 'splash zone'
+- Clark Planetarium leer je meer over het universum d.m.v. tentoonstellingen en een IMAX theater
+- Temple Square is het hart van Salt Lake met historische gebouwen, bijzondere architectuur, restaurants en de unieke Salt Lake Temple
+- Toe aan wat shopping? City Creek Center is een groot winkelcentrum
+- Voor mooie tuinen bezoek je Red Butte Garden & Arboretum
+- Utah State Capitol lijkt een beetje op het Witte Huis. Je kunt het bezoeken en een informatieve tour boeken!
+- Op 20 minuten rijden ligt Lagoon Amusement Park in Farmington. Er zijn 55 attracties waaronder achtbanen en diverse waterattracties
+##Dag 17. Salt Lake City - Capitol Reef National Park
+Afstand:
+360 km / 220 mijl || Reistijd:
+ongeveer 4 uur
+Torens, koepels en hoge kliffen in uiteenlopende kleuren: daarvoor moet je naar Capitol Reef. Dit veelkleurige nationale park dankt zijn naam deels aan het beroemde Capitoolgebouw in Washington DC. In het witte Navajo-zandsteen bevinden zich namelijk koepels die aan het gebouw doen denken. Een van de belangrijkste publiekstrekkers zijn de fruitboomgaarden en gerestaureerde historische gebouwen in Fruita, een voormalige mormoonse nederzetting.
+##Kids-tip: Taart!
+- Maak zeker een tussenstop bij de Gifford Homestead voor een stuk van de beroemde huisgemaakte taart – die wil je écht niet missen!
+##Dag 18. Capitol Reef National Park - Arches National Park
+Afstand:
+230 km / 140 mijl || Reistijd:
+ongeveer 21/2 uur
+Rode rotsen, prachtige bogen, grillige vormen: Arches National Park lijkt op een door architecten nauwkeurig uitgedachte droomplek. Nergens ter wereld liggen zoveel natuurlijk gevormde bogen zo dicht bij elkaar. In Arches vind je meer dan 2.000 exemplaren, in alle soorten en maten. De meest bezochte bezienswaardigheden van het nationale park zijn de Delicate Arch, de Balanced Rock en de Landscape Arch. In verband met drukte raden we je aan om vóór 09:00 in Arches te arriveren of juist later in de middag.
+##Dag 19. Arches National Park
+De beroemdste boog van het park is de Delicate Arch. De wandeling erheen is even een flinke klim, maar de aanblik van de vijftien meter hoge boog aan het eind is zeer de moeite waard. Kun of wil je niet zo ver lopen, of heb je weinig tijd, rijd dan naar het Delicate Arch Viewpoint. Het kan trouwens best zijn dat de boog je bekend voorkomt: het is het staatssymbool en is onder andere te zien op alle kentekenplaten in de staat Utah.
+##Kids-tip: Bogen & bruggen
+- Wandel met een parkranger door Fiery Furnace, een labyrint omsloten door rotswanden en kloven. Je struint door nauwe gangetjes en je kunt er klimmen en klauteren over rotsen
+- De Double Arch rotsformatie is een iconische rots die bekend is van de film 'Indiana Jones and the Last Crusade'
+- Voor een mooie wandeling met wat laddertjes en treden ga je naar Corona Arch, een van de mooiste rotsbogen van de regio
+- Maak een relaxte of avontuurlijke rafting-tocht op de Colorado rivier en vaar dwars door het rode rotslandschap
+- Boek vanaf Moab een outdooractiviteit zoals een offroad 4x4 tour of huur een mountainbike
+##Dag 20. Arches National Park - Glenwood Springs
+Afstand:
+310 km / 190 mijl || Reistijd:
+ongeveer 3 uur
+Glenwood Springs is een levendige plaats in de Amerikaanse staat Colorado. Naast de bekende warmwaterbronnen zijn vooral de Glenwood Caverns en het bijbehorende attractiepark een bezoek waard. Met een Funday Pass krijg je toegang tot twee wandeltours (van 40 minuten), een rit met de tram en bijna alle attracties in de attractiepark. Ook de wandeling naar het turkooizen Hanging Lake is een aanrader. Hoewel de trail slechts 2 kilometer lang is, moet je hier vanwege de steile klim en het rotsachtige terrein ongeveer twee tot drie uur uittrekken. Onderweg wandel je langs Dead Horse Creek en klim je via een steeds uitdagender pad naar boven, waar je bij Spouting Rock ijskoud water langs een kalkstenen rotswand ziet stromen.
+##Kids-tip: Spetterstad
+- Plons in het zwembad of zoef van de glijbaan bij de Glenwood Hot Springs Pool!
+- Ervaar de spanning van Glenwood Caverns Adventure Park. Verken ondergrondse grotten, waag je in spannende achtbanen en geniet van adembenemende uitzichten op de bergen
+- We Scream – for Ice Cream! Bezoek Sundae in Glenwood Springs voor een heerlijk ijsje
+##Dag 21. Glenwood Springs - Denver
+Afstand:
+250 km / 160 mijl || Reistijd:
+ongeveer 3 uur
+Ben je uitgekeken in Denver, dan is er in de omgeving genoeg te beleven. Een prachtig vergezicht over de Rockies heb je vanaf Lookout Mountain. Leuk extraatje: Buffalo Bill ligt hier begraven. Of een half uur rijden van het centrum van Denver vind je Red Rocks Park. Hier ligt het Red Rocks Amfitheater, dat gebruikmaakt van de natuurlijke akoestiek van de rotsen. Het theater biedt plaats aan 9.000 mensen. Wanneer je de 250 treden naar de top van het theater beklimt, heb je een prachtig uitzicht over het park en Denver.
+##Dag 22. Denver
 Je levert 's ochtends de camper in.
-Aan de oostzijde wordt Salt Lake City omgeven door de Wasatch Mountains, een ideaal gebied voor wintersport en wandelen. Nabij Salt Lake City vind je ook de Bonneville Salt Flats, een uitgestrekte zoutvlakte. Op de Bonneville Speedway, een racetrack bestaande uit een harde laag zout, breken racers veelvuldig snelheidsrecords.
-##Dag 23. Salt Lake City
+Tijd over? Een leuk museum in Denver is het Denver Museum of Nature & Science. In dit breed georiënteerde museum ontdek je veel over de natuurlijke wereld om ons heen, van de ruimte tot vlinders en fossielen en mineralen. Dierenliefhebbers kunnen hun hart ophalen in de Denver Zoo en het Downtown Aquarium. Hou je van kunst, bezoek dan Denver Art Museum.
+##Dag 23. Denver
 Je reist terug naar huis.
 ##Dag 24. Thuiskomst
 Door het tijdsverschil kom je
@@ -1760,20 +1763,8 @@ Boek vakantievilla's in Florida om het het hele gezin in een luxe villa te verbl
 Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een Early Bird boeken, zodat je de camper (tegen betaling) 's ochtends al kunt ophalen.
 Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je vooraf (tegen betaling) een Late Return boeken, zodat je de camper later mag inleveren.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/37/0ed15e6226294193d6f83b33ddb04c4b7d4518d4.jpeg</get-trip-image-url-manual-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-skyline.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-skyline.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-natural-history-museum-of-utah.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-natural-history-museum-of-utah.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/capitol-reef-mens.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/capitol-reef-mens.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-north-window-mens.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-north-window-mens.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-delicate-arch-familie.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-delicate-arch-familie.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/colorado-river-raften-glenwood-canyon.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/colorado-river-raften-glenwood-canyon.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-red-rocks-amphitheater.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-red-rocks-amphitheater.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-confluence-park-kajak-credit-visit-denver.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-confluence-park-kajak-credit-visit-denver.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-washington-park-fietsers-credit-visit-denver.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-washington-park-fietsers-credit-visit-denver.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/rocky-mountain-np-bear-lake-3.7550.089f.jpg</get-trip-image-url-overview>
@@ -1789,6 +1780,18 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/buffalo-big-horn-mountains.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/buffalo-big-horn-mountains.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-old-town-trail.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-old-town-trail.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-mcculloughs-peak-wilde-paarden-2.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-mcculloughs-peak-wilde-paarden-2.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-familie.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-familie.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring-kind.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring-kind.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-castle-geyser-2.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-castle-geyser-2.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/bear-lake-watersporten.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7755.ce1a.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7752.e08d.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00010</get-trip-id>
@@ -1806,10 +1809,6 @@ Infodag met Cruise America/Canada. Alles over het reizen met een camper! Met gra
 Infodag zaterdag 5 september: regiopresentaties, camperbezichtiging & adviesgesprekken. Gratis aanmelden
 WIJ ZIJN 31 DECEMBER OM 16:00 UUR GESLOTEN I.V.M. OUDJAARSAVOND
 Routeoverzicht
-- Salt Lake City
-- Capitol Reef National Park
-- Arches National Park
-- Glenwood Springs
 - Denver
 - Rocky Mountain NP (Estes)
 - Cheyenne
@@ -1820,6 +1819,10 @@ Routeoverzicht
 - Grand Teton National Park
 - Bear Lake
 - Salt Lake City
+- Capitol Reef National Park
+- Arches National Park
+- Glenwood Springs
+- Denver
 #Kids Go Rockies
 Neem je kinderen mee op camperreis langs de hoogtepunten van de Amerikaanse Rocky Mountains. Je brengt een bezoek aan Yellowstone National Park, dat geprezen wordt om zijn warmwaterbronnen, geisers en bizons. Tijdens deze reis ontdek je het sfeervolle westernstadje Cody en de levendige stad Denver. Uiteraard mag een bezoek aan de indrukwekkende rotsformaties van Arches National Park niet ontbreken. Tijdens deze familievriendelijke Kids Go Rockies-camperreis staat de ruige natuur centraal en kun je tal van activiteiten ondernemen: van raften en museumbezoek tot wildlife-excursies en off road jeeptours.
 HULP OF ADVIES NODIG?
@@ -1830,57 +1833,10 @@ Bewerk in routeplanner
 Totale afstand: 3176 kilometer
 / 1974 mijl
 #Reis van dag tot dag
-##Dag 1. Salt Lake City
-Je reis begint in Salt Lake City.
-Salt Lake City is de hoofdstad van de staat Utah. Ook is Salt Lake City het centrum van de mormoonse kerk, met Temple Square als hoofdkwartier. Op een oppervlakte van 40.000 vierkante meter bevinden zich verschillende mormoonse gebouwen, waaronder de Salt Lake Temple (momenteel gesloten, opent mogelijk in 2027). Een andere bezienswaardigheid is het Salt Lake Tabernacle, dat een van de grootste orgels ter wereld herbergt. Met wat geluk kun je hier het enorme Tabernacle-koor horen zingen.
-##Dag 2. Salt Lake City
-Je haalt 's middags de camper op in Salt Lake City.
-Salt Lake City is vernoemd naar het nabij gelegen Great Salt Lake: een uitgestrekt zoutmeer. Het water is drie keer zo zout als zeewater, waardoor er maar weinig vissen in overleven. Durfallen weerstaan de geur en de vliegjes en gaan het meer in. Een leuke ervaring; omdat het meer twee à drie keer zo zout is als de zee, blijf je er drijven.
-##Kids-tip: Mormonen en zoutmeren
-- Bezoek Discovery Gateway Children's Museum en het Natural History Museum of Utah met interactieve tentoonstellingen en activiteiten
-- Great Salt Lake is een bijzonder zoutwatermeer met eilandjes en met zoutafzetting langs de kustlijn
-- Utah's Hogle Zoo bestaat al bijna 100 jaar. Er zijn verschillende ecosystemen met bijbehorend wildlife, een speeltuin en een 'splash zone'
-- Clark Planetarium leer je meer over het universum d.m.v. tentoonstellingen en een IMAX theater
-- Temple Square is het hart van Salt Lake met historische gebouwen, bijzondere architectuur, restaurants en de unieke Salt Lake Temple
-- Toe aan wat shopping? City Creek Center is een groot winkelcentrum
-- Voor mooie tuinen bezoek je Red Butte Garden & Arboretum
-- Utah State Capitol lijkt een beetje op het Witte Huis. Je kunt het bezoeken en een informatieve tour boeken!
-- Op 20 minuten rijden ligt Lagoon Amusement Park in Farmington. Er zijn 55 attracties waaronder achtbanen en diverse waterattracties
-##Dag 3. Salt Lake City - Capitol Reef National Park
-Afstand:
-360 km / 220 mijl || Reistijd:
-ongeveer 4 uur
-Torens, koepels en hoge kliffen in uiteenlopende kleuren: daarvoor moet je naar Capitol Reef. Dit veelkleurige nationale park dankt zijn naam deels aan het beroemde Capitoolgebouw in Washington DC. In het witte Navajo-zandsteen bevinden zich namelijk koepels die aan het gebouw doen denken. Een van de belangrijkste publiekstrekkers zijn de fruitboomgaarden en gerestaureerde historische gebouwen in Fruita, een voormalige mormoonse nederzetting.
-##Kids-tip: Taart!
-- Maak zeker een tussenstop bij de Gifford Homestead voor een stuk van de beroemde huisgemaakte taart – die wil je écht niet missen!
-##Dag 4. Capitol Reef National Park - Arches National Park
-Afstand:
-230 km / 140 mijl || Reistijd:
-ongeveer 21/2 uur
-Rode rotsen, prachtige bogen, grillige vormen: Arches National Park lijkt op een door architecten nauwkeurig uitgedachte droomplek. Nergens ter wereld liggen zoveel natuurlijk gevormde bogen zo dicht bij elkaar. In Arches vind je meer dan 2.000 exemplaren, in alle soorten en maten. De meest bezochte bezienswaardigheden van het nationale park zijn de Delicate Arch, de Balanced Rock en de Landscape Arch. In verband met drukte raden we je aan om vóór 09:00 in Arches te arriveren of juist later in de middag.
-##Dag 5. Arches National Park
-De beroemdste boog van het park is de Delicate Arch. De wandeling erheen is even een flinke klim, maar de aanblik van de vijftien meter hoge boog aan het eind is zeer de moeite waard. Kun of wil je niet zo ver lopen, of heb je weinig tijd, rijd dan naar het Delicate Arch Viewpoint. Het kan trouwens best zijn dat de boog je bekend voorkomt: het is het staatssymbool en is onder andere te zien op alle kentekenplaten in de staat Utah.
-##Kids-tip: Bogen & bruggen
-- Wandel met een parkranger door Fiery Furnace, een labyrint omsloten door rotswanden en kloven. Je struint door nauwe gangetjes en je kunt er klimmen en klauteren over rotsen
-- De Double Arch rotsformatie is een iconische rots die bekend is van de film 'Indiana Jones and the Last Crusade'
-- Voor een mooie wandeling met wat laddertjes en treden ga je naar Corona Arch, een van de mooiste rotsbogen van de regio
-- Maak een relaxte of avontuurlijke rafting-tocht op de Colorado rivier en vaar dwars door het rode rotslandschap
-- Boek vanaf Moab een outdooractiviteit zoals een offroad 4x4 tour of huur een mountainbike
-##Dag 6. Arches National Park - Glenwood Springs
-Afstand:
-310 km / 190 mijl || Reistijd:
-ongeveer 3 uur
-Glenwood Springs is een levendige plaats in de Amerikaanse staat Colorado. Naast de bekende warmwaterbronnen zijn vooral de Glenwood Caverns en het bijbehorende attractiepark een bezoek waard. Met een Funday Pass krijg je toegang tot twee wandeltours (van 40 minuten), een rit met de tram en bijna alle attracties in de attractiepark. Ook de wandeling naar het turkooizen Hanging Lake is een aanrader. Hoewel de trail slechts 2 kilometer lang is, moet je hier vanwege de steile klim en het rotsachtige terrein ongeveer twee tot drie uur uittrekken. Onderweg wandel je langs Dead Horse Creek en klim je via een steeds uitdagender pad naar boven, waar je bij Spouting Rock ijskoud water langs een kalkstenen rotswand ziet stromen.
-##Kids-tip: Spetterstad
-- Plons in het zwembad of zoef van de glijbaan bij de Glenwood Hot Springs Pool!
-- Ervaar de spanning van Glenwood Caverns Adventure Park. Verken ondergrondse grotten, waag je in spannende achtbanen en geniet van adembenemende uitzichten op de bergen
-- We Scream – for Ice Cream! Bezoek Chocolate Moose Ice Cream Parlor voor een heerlijk ijsje
-##Dag 7. Glenwood Springs - Denver
-Afstand:
-250 km / 160 mijl || Reistijd:
-ongeveer 3 uur
-Ben je uitgekeken in Denver, dan is er in de omgeving genoeg te beleven. Een prachtig vergezicht over de Rockies heb je vanaf Lookout Mountain. Leuk extraatje: Buffalo Bill ligt hier begraven. Of een half uur rijden van het centrum van Denver vind je Red Rocks Park. Hier ligt het Red Rocks Amfitheater, dat gebruikmaakt van de natuurlijke akoestiek van de rotsen. Het theater biedt plaats aan 9.000 mensen. Wanneer je de 250 treden naar de top van het theater beklimt, heb je een prachtig uitzicht over het park en Denver.
-##Dag 8. Denver
+##Dag 1. Denver
+Je reis begint in Denver.
+'Mile High City' Denver ligt precies op één mijl hoogte, in de schaduw van de Rocky Mountains. Denver, ooit een goudzoekersnederzetting, combineert de charme van een bedrijvige stad met het mysterie van het Wilde Westen. Opvallend is het Colorado State Capitol met zijn gouden koepel. In het gebouw is een museum gevestigd, doordeweeks zijn er gratis tours. Lower Downtown Denver, LoDo voor ingewijden, heeft gezellige straten met historische gebouwen. Larimer Square is dé ontmoetingsplaats.
+##Dag 2. Denver
 Breng in Denver een bezoek aan het History Museum, het Denver Art Museum, het Black American Museum of maak een dagtocht door de omgeving. Erg mooi is de Mount Blue Sky Scenic Byway, de hoogst gelegen verharde autoweg in Amerika. Op de 4.348 meter hoge top van Mount Blue Sky heb je een mooi uitzicht op de Front Range van de Rocky Mountains.
 ##Kids-tip: Zóveel te doen in Denver
 - Kun je niet kiezen tussen een pretpark of een zwemparadijs? Bezoek dan het Elitch Gardens Theme & Water Park, dan maak je iedereen blij
@@ -1891,12 +1847,13 @@ Breng in Denver een bezoek aan het History Museum, het Denver Art Museum, het Bl
 - Meow Wolf Denver is een uniek beleveniscentrum met creatieve kamers met licht en geluid en unieke kunstvoorwerpen
 - Geïnteresseerd in alles wat met de brandweer te maken heeft? Dan is het Denver Firefighters Museum the place to be
 - Thrillseekers bezoeken iFly Denver voor een indoor skydive
-##Dag 9. Denver - Rocky Mountain NP (Estes)
+##Dag 3. Denver - Rocky Mountain National Park
 Afstand:
 120 km / 70 mijl || Reistijd:
 ongeveer 2 uur
+Je haalt 's middags de camper op in Denver en vervolgt je weg naar Rocky Mountain NP (Estes).
 Rocky Mountain National Park in Colorado geeft je een goede indruk van de gelijknamige bergketen, die zich 4.800 kilometer uitstrekt van Alaska tot Nieuw-Mexico. De oostkant van Rocky Mountain National Park is relatief droog en wordt gekenmerkt door spitse bergtoppen en diepe dalen. Estes Park vormt de toegangspoort, hier vandaan bereik je gemakkelijk Bear Lake, waar diverse meren liggen en waar je goed kunt wandelen. De hoog gelegen Trail Ridge Road brengt je over de bergtoppen en dwars door uitgestrekte toendra naar de andere kant van het park.
-##Dag 10. Rocky Mountain National Park
+##Dag 4. Rocky Mountain National Park
 De 77 kilometer lange Trail Ridge Road is de hoofdweg van Rocky Mountain National Park. Tijdens je rit zie je valleien, toendra en de Colorado-rivier, die grote delen van het Amerikaanse landschap (waaronder de Grand Canyon!) bepaald heeft. Een letterlijk hoogtepunt is Longs Peak, de hoogste berg van het park. De vlakke top torent boven alle andere bergen uit en is vanuit bijna het gehele park te zien. Dieren die je onderweg tegen kunt komen zijn onder andere herten, elanden, dikhoornschapen en zwarte beren. Als je onderweg uitstapt kun je al goed voelen hoe ijl de lucht is.
 ##Kids-tip: Outdoor avonturen
 - Rocky Mountain National Park heeft een Junior Ranger Program (informeer bij het Visitor Center) voor kids tot 12 jaar
@@ -1907,7 +1864,7 @@ De 77 kilometer lange Trail Ridge Road is de hoofdweg van Rocky Mountain Nationa
 - Durfals brengen een bezoek aan het iconische Stanley hotel, beroemd uit de film The Shining van Stephen King
 - Ga raften met 'Rapid Transit Rafting' over de Colorado en Cache la Poudre rivier. (vanaf 7 jaar)
 - Open Air Adventure Park is een outdoor klim- en zipline park (vanaf 6 jaar)
-##Dag 11. Rocky Mountain National Park - Cheyenne
+##Dag 5. Rocky Mountain National Park - Cheyenne
 Afstand:
 150 km / 90 mijl || Reistijd:
 ongeveer 2 uur
@@ -1920,7 +1877,7 @@ Cheyenne is de hoofdstad van de staat Wyoming. Deze cowboystad heeft zijn authen
 - Geïnteresseerd in cowboys en - girls en rodeo: dan tippen we Cheyenne Frontier Days Old West Museum en Cowgirls of the West Museum
 - Een stadswandeling door Cheyenne wordt extra leuk als je op zoek gaat naar de 19 'Cheyenne Big Boots' (Visitor Center)
 - Altijd al een keer een ranch willen bezoeken? Bezoek Terry Bison Ranch op een kwartier ten zuiden van Cheyenne
-##Dag 12. Cheyenne - Keystone
+##Dag 6. Cheyenne - Keystone
 Afstand:
 430 km / 270 mijl || Reistijd:
 ongeveer 41/2 uur
@@ -1928,7 +1885,7 @@ Keystone dient als een goede uitvalsbasis om de omgeving te verkennen. Keystone 
 ##Kids-tip: Mount Rushmore
 - Op 10 minuten van Keystone, zijn de beroemde rotsen met de uit steen gehouwen presidenten: Mount Rushmore
 - Vlakbij Mount Rushmore ligt Crazy Horse Memorial, een uitgehouwen rotssculptuur. Bezoek het welkomstcentrum en museum om meer te leren over de Native American people
-##Dag 13. Keystone
+##Dag 7. Keystone
 In Custer State Park leeft een kudde van meer dan duizend bizons. Het is een van de grootste bizonkuddes in de Verenigde Staten. Vroeger leefden er miljoenen bizons in de VS, maar de aantallen liepen snel terug door de jacht in de negentiende en twintigste eeuw (lees Butcher's Crossing maar eens). De bizons zijn nu beschermd en maken hun comeback in dit gebied. Je kunt schilderachtige routes door het park rijden, zoals de Wildlife Loop Road, waar je grote kans hebt om de wilde dieren te zien. Bezoek ook het schilderachtige Sylvan Lake, een van de vijf meren in het staatspark. Het ligt vlak langs de weg.
 ##Kids-tip: Custer State Park
 - In Custer State Park is het heerlijk toeren, je kijkt je ogen uit naar al het wildlife (heel veel bizons!) en de prachtige natuur
@@ -1937,13 +1894,13 @@ In Custer State Park leeft een kudde van meer dan duizend bizons. Het is een van
 - Op 10 minuten van Keystone, zijn de beroemde rotsen met de uit steen gehouwen presidenten: Mount Rushmore
 - Sylvan Lake is een heerlijk meer waar je kunt zwemmen en kanoën
 - Maak je trip uniek en vaar met een heteluchtballon over het Custer State en de Black Hills
-##Dag 14. Keystone
+##Dag 8. Keystone
 Op een half uurtje van Keystone ligt Rapid City. Bezoek Main Street Square in het centrum van Rapid City. Dit gezellige plein is een populaire ontmoetingsplek met fonteinen en leuke cafés en restaurants. Verken boetiekjes en galerieën en vergeet niet de City of Presidents wandeltocht te maken waarbij je, verspreid over het centrum, bronzen beelden van Amerikaanse presidenten tegenkomt. Op een uur van Keystone kan je ook een echt western stadje bezoeken; Deadwood. Een authentiek stukje Amerika wat het wilde westen belichaamt met de rijke geschiedenis van goudkoorts en legendarische outlaws.
 ##Kids-tip: Rapid City
 - Reptile Gardens in Rapid CIty is een dierentuin met veel reptielen, roofvogels en prairiehonden
 - Het gratis toegankelijke Dinosaur Park is leuk voor dino-liefhebbers
 - Het grootste indoor waterpark van de Dakota's is WaTiki Indoor Waterpark met waterattracties, zwembaden en glijbanen
-##Dag 15. Keystone - Buffalo
+##Dag 9. Keystone - Buffalo
 Afstand:
 330 km / 210 mijl || Reistijd:
 ongeveer 31/2 uur
@@ -1951,7 +1908,7 @@ Aan de voet van het Bighorn-gebergte ligt het stadje Buffalo, Wyoming. Het verle
 ##Kids-tip: Cowboys
 - Een mooie bezienswaardigheid voor alle leeftijden is de Shell Falls waterval
 - In Bighorn National Forest kun je leuke family hikes maken naar b.v. Meadowlark Lake (2 km), Steamboat Point (2,7 km) of West Tensleep Falls (2,4 km)
-##Dag 16. Buffalo - Cody
+##Dag 10. Buffalo - Cody
 Afstand:
 270 km / 170 mijl || Reistijd:
 ongeveer 3 uur
@@ -1961,12 +1918,14 @@ Een cowboy op de prairie, zo voel je je in Cody. Het stadje dweept graag met het
 - Bezoek Dacken Park om te ravotten in de speeltuin
 - Bij Custom Cowboy Shop en Wayne's Boot Shop scoor je de allermooiste échte cowboylaarzen — trek ze aan en voel je meteen een echte cowboy!
 - Zin in iets unieks? Bezoek de Wild West Spectacular. Een live wildwest-show met acteurs, cowboys en klassieke spektakels
-##Dag 17. Cody - Yellowstone National Park
+##Dag 11. Cody
+Cody is niet alleen een knipoog naar het Wilde Westen, het is ook een toegangspoort tot de prachtige natuur van Wyoming. Net buiten de stad beginnen spectaculaire landschappen, van de uitgestrekte prairies tot de ruige Bighorn Mountains. In de zomer bruist Cody van de activiteiten, met rodeostevenementen, livemuziek en markten die de westerncultuur tot leven brengen. 's Avonds kun je genieten van een diner in westernstijl of ontspannen in een van de charmante lodges van het stadje.
+##Dag 12. Cody - Yellowstone
 Afstand:
 160 km / 100 mijl || Reistijd:
 ongeveer 2 uur
 Warmwaterbronnen in alle kleuren van de regenboog, pruttelende poelen, zwaveldampen en geisers; Yellowstone National Park bestaat uit een indrukwekkende verzameling geologische verschijnselen. Je kunt alle bezienswaardigheden bereiken via de 229 kilometer lange Grand Loop Road, deze loopt in een 8-vorm door het park. Een bezoek aan Yellowstone is extra bijzonder als je een zwarte beer, grizzly, bizon of wolf ziet. Een vaak geziene inwoner is de elk (wapitihert). In Yellowstone leven maar liefst 35.000 herten; het is de grootste populatie elks ter wereld.
-##Dag 18. Yellowstone National Park
+##Dag 13. Yellowstone National Park
 Yellowstone National Park bevat de helft van de geisers op aarde. De meeste geisers vind je in het parkdeel 'Geyser Country'. Hier liggen 150 stuks op anderhalve vierkante kilometer. Old Faithful is de beroemdste. Hij laat ongeveer elk anderhalf uur een krachtige stroom water en stoom de lucht in spuiten. Je kunt er letterlijk op wachten. Naast geisers en warmwaterbronnen heeft Geyser Country aardspleten waaruit gassen ontsnappen en modderpoelen.
 ##Kids-tip: Geothermische wonderen
 - Yellowstone is zo uniek. Deze geothermische wonderen zijn prachtige uitjes voor het hele gezin
@@ -1974,9 +1933,9 @@ Yellowstone National Park bevat de helft van de geisers op aarde. De meeste geis
 - Maak wandelingetjes over vlonderpaden, dit kan bij Biscuit Basin Trail, Grand Prismatic Springs en de Mud Volcano Boardwalk
 - Bij West Thumb Geyser Basin maak je een mooie wandeling (0,8 km) langs geisers, hot springs, poelen en stoomgaten. De Black Pool is een van de mooiste!
 - Wat oudere kinderen? Wandel dan naar de Morning Glory Pool (4,4 km v.v.). Dit is een van de kleurrijkste bronnen van Yellowstone
-##Dag 19. Yellowstone National Park
+##Dag 14. Yellowstone National Park
 Een bijzonder gezicht vormen de heetwaterbronnen die travertin naar boven brengen, een zachte witte substantie. De bronnen zorgen ervoor dat er dagelijks twee ton gesteente aan de tientallen meters hoge kalkstenen terrassen bij Mammoth Hot Springs wordt toegevoegd. Een andere opvallende verschijning in Yellowstone National Park is de felgekleurde Grand Prismatic Spring. Dit is de grootste warmwaterbron van het park, met een diameter van 113 meter en een diepte van 37 meter.
-##Dag 20. Yellowstone National Park - Grand Teton National Park
+##Dag 15. Yellowstone National Park - Grand Teton
 Afstand:
 100 km / 60 mijl || Reistijd:
 ongeveer 11/2 uur
@@ -1989,20 +1948,64 @@ Vlak onder Yellowstone ligt een ander natuurwonder: Grand Teton National Park. I
 - In de zomer zijn er gezellige festivals met muziek en kunst in de hoofdrol
 - Bezoek Triangle X Ranch voor paardrijden, kajakken, vissen, dansen en andere ranch activiteiten
 - Familiehike: Inspiration Point is een leuke wandeling van ruim 3 km (Inclusief Jenny Lake Shuttleboot) Onderweg passeer je watervallen en heb je mooie uitzichtpunten.
-##Dag 21. Grand Teton National Park - Bear Lake
+##Dag 16. Grand Teton - Bear Lake
 Afstand:
 260 km / 160 mijl || Reistijd:
 ongeveer 3 uur
 De Carribean of the Rockies, zo wordt Bear Lake wel genoemd vanwege het prachtige helderblauwe water. Bear Lake is een zoetwatermeer in een bijzonder mooi landschap, deels gelegen in Utah en deels in Idaho. Geniet van de indrukwekkende natuur van de Rocky Mountains en puf even uit op een strandje voor een relaxmomentje tijdens je rondreis. Delen van het meer en de oevers behoren tot het Bear Lake State Park. Je kunt er prima wandelen, paardrijden en mountainbiken.
-##Dag 22. Bear Lake - Salt Lake City
+##Dag 17. Bear Lake - Salt Lake City
 Afstand:
 200 km / 120 mijl || Reistijd:
 ongeveer 21/2 uur
-Heb je voldoende tijd in Salt Lake City, dan is het leuk om de Cottonwood Scenic Byway te rijden in Big Cottonwood Canyon. Je begint aan de oostzijde van de Salt Lake-vallei, waar de Rocky Mountains overgaan in het Great Basin. De Big Cottonwood Canyon werd uitgesleten door stromend water en is 24 kilometer lang en biedt veel recreatiemogelijkheden zoals wandelen, fietsen en picknicken. Durfallen kunnen een klim maken over een rotswand. Breng in de stad zelf nog een bezoek aan het Capitoolgebouw van de staat Utah.
-##Dag 23. Salt Lake City
+Salt Lake City is de hoofdstad van de staat Utah. Ook is Salt Lake City het centrum van de mormoonse kerk, met Temple Square als hoofdkwartier. Op een oppervlakte van 40.000 vierkante meter bevinden zich verschillende mormoonse gebouwen, waaronder de Salt Lake Temple. Een andere bezienswaardigheid is het Salt Lake Tabernacle, dat een van de grootste orgels ter wereld herbergt. Met wat geluk kun je hier het enorme Tabernacle-koor horen zingen.
+##Kids-tip: Mormonen en zoutmeren
+- Bezoek Discovery Gateway Children's Museum en het Natural History Museum of Utah met interactieve tentoonstellingen en activiteiten
+- Great Salt Lake is een bijzonder zoutwatermeer met eilandjes en met zoutafzetting langs de kustlijn
+- Utah's Hogle Zoo bestaat al bijna 100 jaar. Er zijn verschillende ecosystemen met bijbehorend wildlife, een speeltuin en een 'splash zone'
+- Clark Planetarium leer je meer over het universum d.m.v. tentoonstellingen en een IMAX theater
+- Temple Square is het hart van Salt Lake met historische gebouwen, bijzondere architectuur, restaurants en de unieke Salt Lake Temple
+- Toe aan wat shopping? City Creek Center is een groot winkelcentrum
+- Voor mooie tuinen bezoek je Red Butte Garden & Arboretum
+- Utah State Capitol lijkt een beetje op het Witte Huis. Je kunt het bezoeken en een informatieve tour boeken!
+- Op 20 minuten rijden ligt Lagoon Amusement Park in Farmington. Er zijn 55 attracties waaronder achtbanen en diverse waterattracties
+##Dag 18. Salt Lake City - Capitol Reef National Park
+Afstand:
+360 km / 220 mijl || Reistijd:
+ongeveer 4 uur
+Torens, koepels en hoge kliffen in uiteenlopende kleuren: daarvoor moet je naar Capitol Reef. Dit veelkleurige nationale park dankt zijn naam deels aan het beroemde Capitoolgebouw in Washington DC. In het witte Navajo-zandsteen bevinden zich namelijk koepels die aan het gebouw doen denken. Een van de belangrijkste publiekstrekkers zijn de fruitboomgaarden en gerestaureerde historische gebouwen in Fruita, een voormalige mormoonse nederzetting.
+##Kids-tip: Taart!
+- Maak zeker een tussenstop bij de Gifford Homestead voor een stuk van de beroemde huisgemaakte taart – die wil je écht niet missen!
+##Dag 19. Capitol Reef National Park - Arches National Park
+Afstand:
+230 km / 140 mijl || Reistijd:
+ongeveer 21/2 uur
+Rode rotsen, prachtige bogen, grillige vormen: Arches National Park lijkt op een door architecten nauwkeurig uitgedachte droomplek. Nergens ter wereld liggen zoveel natuurlijk gevormde bogen zo dicht bij elkaar. In Arches vind je meer dan 2.000 exemplaren, in alle soorten en maten. De meest bezochte bezienswaardigheden van het nationale park zijn de Delicate Arch, de Balanced Rock en de Landscape Arch. In verband met drukte raden we je aan om vóór 09:00 in Arches te arriveren of juist later in de middag.
+##Dag 20. Arches National Park
+De beroemdste boog van het park is de Delicate Arch. De wandeling erheen is even een flinke klim, maar de aanblik van de vijftien meter hoge boog aan het eind is zeer de moeite waard. Kun of wil je niet zo ver lopen, of heb je weinig tijd, rijd dan naar het Delicate Arch Viewpoint. Het kan trouwens best zijn dat de boog je bekend voorkomt: het is het staatssymbool en is onder andere te zien op alle kentekenplaten in de staat Utah.
+##Kids-tip: Bogen & bruggen
+- Wandel met een parkranger door Fiery Furnace, een labyrint omsloten door rotswanden en kloven. Je struint door nauwe gangetjes en je kunt er klimmen en klauteren over rotsen
+- De Double Arch rotsformatie is een iconische rots die bekend is van de film 'Indiana Jones and the Last Crusade'
+- Voor een mooie wandeling met wat laddertjes en treden ga je naar Corona Arch, een van de mooiste rotsbogen van de regio
+- Maak een relaxte of avontuurlijke rafting-tocht op de Colorado rivier en vaar dwars door het rode rotslandschap
+- Boek vanaf Moab een outdooractiviteit zoals een offroad 4x4 tour of huur een mountainbike
+##Dag 21. Arches National Park - Glenwood Springs
+Afstand:
+310 km / 190 mijl || Reistijd:
+ongeveer 3 uur
+Glenwood Springs is een levendige plaats in de Amerikaanse staat Colorado. Naast de bekende warmwaterbronnen zijn vooral de Glenwood Caverns en het bijbehorende attractiepark een bezoek waard. Met een Funday Pass krijg je toegang tot twee wandeltours (van 40 minuten), een rit met de tram en bijna alle attracties in de attractiepark. Ook de wandeling naar het turkooizen Hanging Lake is een aanrader. Hoewel de trail slechts 2 kilometer lang is, moet je hier vanwege de steile klim en het rotsachtige terrein ongeveer twee tot drie uur uittrekken. Onderweg wandel je langs Dead Horse Creek en klim je via een steeds uitdagender pad naar boven, waar je bij Spouting Rock ijskoud water langs een kalkstenen rotswand ziet stromen.
+##Kids-tip: Spetterstad
+- Plons in het zwembad of zoef van de glijbaan bij de Glenwood Hot Springs Pool!
+- Ervaar de spanning van Glenwood Caverns Adventure Park. Verken ondergrondse grotten, waag je in spannende achtbanen en geniet van adembenemende uitzichten op de bergen
+- We Scream – for Ice Cream! Bezoek Chocolate Moose Ice Cream Parlor voor een heerlijk ijsje
+##Dag 22. Glenwood Springs - Denver
+Afstand:
+250 km / 160 mijl || Reistijd:
+ongeveer 3 uur
+Ben je uitgekeken in Denver, dan is er in de omgeving genoeg te beleven. Een prachtig vergezicht over de Rockies heb je vanaf Lookout Mountain. Leuk extraatje: Buffalo Bill ligt hier begraven. Of een half uur rijden van het centrum van Denver vind je Red Rocks Park. Hier ligt het Red Rocks Amfitheater, dat gebruikmaakt van de natuurlijke akoestiek van de rotsen. Het theater biedt plaats aan 9.000 mensen. Wanneer je de 250 treden naar de top van het theater beklimt, heb je een prachtig uitzicht over het park en Denver.
+##Dag 23. Denver
 Je levert 's ochtends de camper in.
-Aan de oostzijde wordt Salt Lake City omgeven door de Wasatch Mountains, een ideaal gebied voor wintersport en wandelen. Nabij Salt Lake City vind je ook de Bonneville Salt Flats, een uitgestrekte zoutvlakte. Op de Bonneville Speedway, een racetrack bestaande uit een harde laag zout, breken racers veelvuldig snelheidsrecords.
-##Dag 24. Salt Lake City
+Tijd over? Een leuk museum in Denver is het Denver Museum of Nature & Science. In dit breed georiënteerde museum ontdek je veel over de natuurlijke wereld om ons heen, van de ruimte tot vlinders en fossielen en mineralen. Dierenliefhebbers kunnen hun hart ophalen in de Denver Zoo en het Downtown Aquarium. Hou je van kunst, bezoek dan Denver Art Museum.
+##Dag 24. Denver
 Je reist terug naar huis.
 ##Dag 25. Thuiskomst
 Door het tijdsverschil kom je
@@ -2028,20 +2031,8 @@ Boek vakantievilla's in Florida om het het hele gezin in een luxe villa te verbl
 Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een Early Bird boeken, zodat je de camper (tegen betaling) 's ochtends al kunt ophalen.
 Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je vooraf (tegen betaling) een Late Return boeken, zodat je de camper later mag inleveren.]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/37/ebf07285357995f2a4af80f590024b24ab57c5ee.jpeg</get-trip-image-url-manual-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-skyline.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-skyline.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-natural-history-museum-of-utah.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/salt-lake-city-natural-history-museum-of-utah.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/capitol-reef-mens.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/capitol-reef-mens.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-north-window-mens.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-north-window-mens.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-delicate-arch-familie.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/utah/arches-delicate-arch-familie.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/colorado-river-raften-glenwood-canyon.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/colorado-river-raften-glenwood-canyon.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-red-rocks-amphitheater.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-red-rocks-amphitheater.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-confluence-park-kajak-credit-visit-denver.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-confluence-park-kajak-credit-visit-denver.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-washington-park-fietsers-credit-visit-denver.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/denver-washington-park-fietsers-credit-visit-denver.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/colorado/rocky-mountain-np-bear-lake-3.7550.089f.jpg</get-trip-image-url-overview>
@@ -2057,6 +2048,18 @@ Je moet de camper meestal voor 11:00 inleveren. Bij sommige verhuurders kun je v
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-dakota/rapid-city-dinosaur-park-brand-usa.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/south-dakota/rapid-city-dinosaur-park-brand-usa.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/buffalo-big-horn-mountains.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/buffalo-big-horn-mountains.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-old-town-trail.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-old-town-trail.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-mcculloughs-peak-wilde-paarden-2.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/cody-mcculloughs-peak-wilde-paarden-2.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-familie.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-familie.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-old-faithfull.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-old-faithfull.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring-kind.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/yellowstone-grand-prismatic-spring-kind.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/amerika/wyoming/grand-teton-huisje.7755.ce1a.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00011</get-trip-id>
@@ -2128,7 +2131,7 @@ Afstand:
 260 km / 160 mijl || Reistijd:
 ongeveer 3 uur
 Zion National Park bestaat uit een grote kloof, uitgeslepen in een rotsplateau door de Virgin-rivier. Hoe verder je het nationale park in gaat, hoe smaller de kloof wordt. De rode rotswanden vormen een mooi contrast met de groene oase langs de rivier. De toeristische route door het park, Zion Canyon Scenic Drive, is een ongeveer tien kilometer lange, kronkelige weg. Aan weerszijden van de weg liggen uitzichtpunten en beginpunten van wandelroutes.
-De tunnel op de Zion-Mt. Carmel Highway is vanaf juni 2026 gesloten voor grotere voertuigen, waaronder C-klasse campers. Je kunt dan niet via de oostkant het park in of uit. Gebruik de toegang bij Springdale. De extra reistijd is circa veertig minuten tot een uur.
+De tunnel op de Zion-Mt. Carmel Highway niet toegankelijk voor grotere voertuigen, waaronder C-klasse campers. Je gebruikt de parktoegang bij Springdale. De extra reistijd is circa veertig minuten tot een uur.
 ##Dag 8. Zion National Park
 De hoofdweg in Zion National Park is de Zion Canyon Scenic Drive. Vanaf half maart tot eind oktober is deze weg alleen geopend voor shuttlebussen. De bussen rijden in deze periode ongeveer elke tien minuten vanaf het Visitor Center tot het eindpunt van de doodlopende weg en keren daar om. Onderweg kun je in- en uitstappen bij uitzichtpunten en beginpunten van trails. Eén keer heen en terug (zonder uitstappen) kost je ongeveer anderhalf uur.
 ##Dag 9. Zion National Park - Bryce Canyon National Park
@@ -2779,7 +2782,7 @@ Afstand:
 250 km / 150 mijl || Reistijd:
 ongeveer 3 uur
 Zion National Park bestaat uit een grote kloof, uitgeslepen in een rotsplateau door de Virgin-rivier. Hoe verder je het nationale park in gaat, hoe smaller de kloof wordt. De rode rotswanden vormen een mooi contrast met de groene oase langs de rivier. De toeristische route door het park, Zion Canyon Scenic Drive, is een ongeveer tien kilometer lange, kronkelige weg. Aan weerszijden van de weg liggen uitzichtpunten en beginpunten van wandelroutes.
-De tunnel op de Zion-Mt. Carmel Highway is vanaf juni 2026 gesloten voor grotere voertuigen, waaronder C-klasse campers. Je kunt dan niet via de oostkant het park in of uit. Gebruik de toegang bij Springdale. De extra reistijd is circa veertig minuten tot een uur.
+De tunnel op de Zion-Mt. Carmel Highway niet toegankelijk voor grotere voertuigen, waaronder C-klasse campers. Je gebruikt de parktoegang bij Springdale. De extra reistijd is circa veertig minuten tot een uur.
 ##Kids-tip: Tubes & Bikes
 - Scheuren op je mountainbike door kloven en langs rode rotsen in Zion
 - Scheuren met een safari-jeep met open dak
@@ -2848,8 +2851,8 @@ Je levert 's ochtends de camper in en reist terug naar huis.
 Door het tijdsverschil kom je
 vandaag weer thuis.
 #Excursie boeken?
-Heb je een interessante excursie gezien en wil je daar graag meer over weten? Mail dan gerust één van onze reisagenten via info@tiogatours.nl
-Wil je liever direct de prijs opvragen? Klik dan hier op en kies aan de linkerkant de excursie van je keuze. Gevonden? Onder de foto's vind je de knop 'Prijsopgave'. Vul hier je gegevens in en je ontvangt binnen één werkdag een reactie van ons.
+Heb je een interessante excursie gezien waar je graag meer over wilt weten? Mail dan gerust één van onze reisadviseurs via info@tiogatours.nl.
+Liever direct een prijs opvragen? Kijk dan bij excursies en gebruik het filter om de gewenste activiteit of excursie te vinden. Onder de foto's vind je de knop 'Prijsopgave'. Vul hier je gegevens in en je ontvangt binnen één werkdag een reactie van ons.
 #Reisschema
 In onderstaand reisschema kun je snel zien op welke dag je waar bent. De
 gekleurde balken geven acties aan. Kies eerst je vertrekdatum:
@@ -3084,35 +3087,35 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://tiogatours.nl/bestemmingen/canada/west-canada/canadian-experience/camperreis/21-dagen/edmonton</get-trip-url>
-    <get-trip-scraped-content><![CDATA[Camperreis: Canadian Experience, 21 daags rechtsom
+    <get-trip-scraped-content><![CDATA[Camperreis: Canadian Experience, 21 daags linksom
 Infodag met Cruise America/Canada. Alles over het reizen met een camper! Met gratis broodje hamburger & mooie prijzen. Gratis aanmelden
 Infodag zaterdag 5 september: regiopresentaties, camperbezichtiging & adviesgesprekken. Gratis aanmelden
 WIJ ZIJN 31 DECEMBER OM 16:00 UUR GESLOTEN I.V.M. OUDJAARSAVOND
 Routeoverzicht
 - Edmonton
 - Jasper
-- Banff
-- Revelstoke
-- Kelowna
-- Manning Park
-- Victoria
-- Tofino
-- Vancouver
-- Whistler
 - Wells Gray Provincial Park
+- Whistler
+- Vancouver
+- Tofino
+- Victoria
+- Manning Park
+- Kelowna
+- Revelstoke
+- Banff
 - Jasper
 - Fort Saskatchewan
 - Edmonton
 #Canadian Experience
-Begin je camperreis door West-Canada in het gezellige Edmonton! Je vliegt er rechtstreeks heen met KLM. Vanuit Edmonton sta je in een handomdraai midden in de Rocky Mountains en verken je de geliefde hoogtepunten van West-Canada. Op het programma van de langere verseis staat ook Vancouver Island met zijn ruige kusten en talloze plekken voor wildlife-excursies. Jasper en Banff zijn twee prachtige nationale parken die je tijdens deze camperreis bezoekt.
+Begin je camperreis door West-Canada in het gezellige Edmonton! Je vliegt er rechtstreeks heen met KLM. Vanuit Edmonton sta je in een handomdraai midden in de Rocky Mountains en verken je de geliefde hoogtepunten van West-Canada. Op het programma van de langere versies staat ook Vancouver Island met zijn ruige kusten en talloze plekken voor wildlife-excursies. Jasper en Banff zijn twee prachtige nationale parken die je tijdens deze camperreis bezoekt.
 HULP OF ADVIES NODIG?
 Snelle of korte vraag? Mail of bel onze reisadviseurs en we helpen je direct. Liever wat langer in gesprek? Plan dan een videoafspraak of persoonlijk adviesgesprek bij ons op kantoor in Zwolle.
 ##Pas deze reis aan
 - Camperreis vanuit Edmonton
 van
 Bewerk in routeplanner
-Totale afstand: 3634 kilometer
-/ 2258 mijl
+Totale afstand: 3636 kilometer
+/ 2259 mijl
 #Reis van dag tot dag
 ##Dag 1. Europa - Edmonton
 Je reis begint in Edmonton.
@@ -3125,68 +3128,69 @@ Afstand:
 370 km / 230 mijl || Reistijd:
 ongeveer 4 uur
 Je fotocamera draait overuren in Jasper National Park, het grootste park in de Canadese Rockies. Gletsjers, kristalheldere meren, watervallen, diepe kloven en dichte bossen vormen dit landschap. Het is een ideale leefomgeving voor herten, bevers, elanden, grizzlyberen en zwarte beren. Rijd dwars door de Rockies over de schilderachtige Icefields Parkway en bezoek met een bootexcursie het eilandje Spirit Lake in het blauwe gletsjerwater van Maligne Lake. In het toeristische plaatsje Jasper zijn hotels, musea, winkels en restaurants.
-##Dag 4. Jasper - Banff
-Afstand:
-290 km / 180 mijl || Reistijd:
-ongeveer 31/2 uur
-Banff is het beroemdste nationale park van Canada. Het gelijknamige dorpje ligt hier middenin. In Banff bevind je je in het hart van de Rocky Mountains, tussen schitterende turkooizen meren, ruige bergpieken en uitgestrekte bossen vol wildlife. Via de Icefields Parkway en Bow Valley Parkway verken je al het moois. Houd je ogen open voor wildlife langs de weg. Lake Louise, Peyto Lake en de Johnston Canyon zijn must-sees.
-##Dag 5. Banff
-Bezoek in Banff National Park zeker de Johnston Canyon. Je kunt via een pad de loop van de onstuimige rivier volgen, waardoor je als het ware over de kloofbodem wandelt. Ga hier als het kan 's morgens vroeg naartoe - de parkeergelegenheid is beperkt. Dit geldt ook voor Moraine Lake, een ander absoluut hoogtepunt. Bij dit felblauwe gletsjermeer kun je goed wandelen, kanoën en fotograferen. Volg bijvoorbeeld de Rockpile Trail (500 m) naar de 'Twenty Dollar View', dit uitzicht stond op het Canadese twintig-dollarbiljet. Ook een populaire bezienswaardigheid is Lake Louise, de 'Jewel of the Rockies'.
-##Dag 6. Banff - Revelstoke
-Afstand:
-280 km / 180 mijl || Reistijd:
-ongeveer 3 uur
-Mount Revelstoke National Park is een plek van contrasten. Tijdens een rit over de Meadows in the Sky Parkway zie je valleien, weiden, regenwouden en bergen met besneeuwde toppen. De weg is 26 kilometer lang en loopt tot de top van Mount Revelstoke, de 1.920 meter hoge berg in het hart van het park. Vlak bij de top ligt Balsam Lake. Aan de Parkway liggen verschillende uitzichtpunten voor fotogenieke kijkjes over het landschap.
-##Dag 7. Revelstoke - Kelowna
-Afstand:
-200 km / 120 mijl || Reistijd:
-ongeveer 3 uur
-Kelowna ligt aan de oever van het 135 kilometer lange Okanagan-meer. Het aangename klimaat en de uitgestrekte fruitboom- en wijngaarden op glooiende heuvels geven Kelowna een mediterraan karakter. Geniet op een van de strandjes of maak een fietstocht over de oude spoorbruggen van de Kettle Valley Railway.
-##Dag 8. Kelowna - Manning Park
-Afstand:
-230 km / 150 mijl || Reistijd:
-ongeveer 3 uur
-Manning Provincial Park ligt tussen de natte kustgebieden en het droge plateau van het Canadese binnenland. Manning telt veel wandelroutes langs historische plaatsen en bezienswaardigheden, waaronder sporen van de Similkameen-indianen. Bezoek in ieder geval de Lightning Lakes. De eerste vier meren van de reeks verken je het beste via Lightning Lake Loop, je komt dan langs de meren Lightning (voor liefhebbers van kanoën en kajakken), Flash, Thunder en Strike.
-##Dag 9. Manning Park Victoria
-Afstand:
-300 km / 190 mijl || Reistijd:
-ongeveer 5 uur
-Dit traject bevat een ferry van Tsawwassen naar Swartz Bay.
-Het charmante Victoria is de hoofdstad van de provincie British Columbia en heeft een Engelse uitstraling. Het claimt zelfs Engelser te zijn dan Engeland. Zo rijden er rode dubbeldekkers rond, zijn veel huizen in tudorstijl gebouwd en vind je er verzorgde tuinen die de stad de bijnaam 'City of Gardens' hebben bezorgd. De Butchart Gardens, met planten en dieren van over de hele wereld, is er een voorbeeld van net als Butterfly Gardens.
-##Dag 10. Victoria
-Old Town is het oude stadsdeel van Victoria. Veel van de gebouwen en pleinen die je hier ziet, stammen uit de negentiende eeuw. Naast Old Town is ook Inner Harbour een leuke bestemming. Opvallende gebouwen in dit havengebied zijn het Parlementsgebouw en het Empress Hotel, beide zijn zowel van de binnen- als buitenkant het bekijken waard. Een hoogtepunt op cultureel gebied is het Royal British Columbia Museum, waar de nadruk ligt op de geschiedenis van Victoria en British Columbia.
-##Dag 11. Victoria - Tofino
-Afstand:
-320 km / 200 mijl || Reistijd:
-ongeveer 4 uur
-Tofino ligt op Vancouver Island en staat in het teken van windsurfen en walvissen. Van half maart tot half april vindt de grote walvismigratie plaats. Duizenden grijze walvissen zwemmen dan naar de voedselrijke wateren van Alaska. Grijze walvissen voelen zich op hun gemak in ondiep water, waardoor ze goed te zien zijn als ze Tofino passeren. Ook buiten deze periode kun je deze bijzondere zeedieren spotten. Naast walvisexcursies kun je op Tofino ook beercruises boeken en tours naar Hot Springs Cove. In deze natuurlijke warmwaterbronnen (in een oud regenwoud) mag je een duik nemen!
-##Dag 12. Tofino
-Op een half uurtje rijden van Tofino ligt Ucluelet. Hier kan je een prachtige wandeling maken langs de kust; de Wild Pacific Trail. Dit netwerk van wandelpaden is vrij vlak en voert je langs de prachtige kust en door oerbossen. De Wild Pacific Trail bestaat uit meerdere korte routes die je met elkaar kunt verbinden. De totale wandeling is negen tot veertien kilometer. De mooie Lighthouse Loop & Terrace Beach Trail (2,6 km) start bij het Amphitrite Lighthouse uit 1905 en loopt door een mossig regenwoud naar de stormachtige kustlijn. De Ancient Cedars & Rocky Bluffs Trail (1,25 km) brengt je naar de grootste bomen van de regio en langs rotsachtige kliffen waar hoge golven aanspoelen.
-##Dag 13. Tofino Vancouver
-Afstand:
-280 km / 180 mijl || Reistijd:
-ongeveer 5 uur
-Dit traject bevat een ferry van Nanaimo naar West Vancouver.
-De stad Vancouver bestaat uit verschillende wijken. In het historische Gastown zijn overblijfselen uit de pionierstijd en hoogtijdagen van de Canadian Pacific Railway. Granville Island is een schiereiland midden in Vancouver. Aan het water liggen restaurantjes, theaters, galerijen, boetiekjes, cafés en Granville Public Market: een grote markt met verse etenswaren.
-##Dag 14. Vancouver
-Aan de rand van Vancouver ligt Stanley Park, dat omringd wordt door water. Het is een belangrijke recreatieplaats voor locals en toeristen dankzij zijn de fiets- en wandelpaden. Indrukwekkend is de Seawall, een zeedijk met aan de ene kant vergezichten over de zee en op de skyline en aan de andere kant het dichte regenwoud. Beroemd zijn de negen totempalen bij Brockton Point. Bezoek in North Vancouver de Capilano Suspension Bridge, een hoge en lange hangbrug over een kolkende rivier.
-##Dag 15. Vancouver - Whistler
-Afstand:
-120 km / 80 mijl || Reistijd:
-ongeveer 2 uur
-Het gezellige stadje Whistler heeft een van de grootste skigebieden van Noord-Amerika: Whistler-Blackcomb. Het hele jaar door brengt de gondel je naar de bergtop van Whistler Mountain. Het is een leuke ervaring om vervolgens met de Peak-2-Peak Gondola naar de top van de Blackcomb Mountain te gaan. Ook kun je met de Sea to Sky Gondola genieten van schitterende uitzichten en een wandeling maken over een suspension bridge. Je kunt in en om Whistler goed hiken en fietsen. Als je wil uitrusten van de zware inspanning, kan dat in een van de spa's. In de vele meertjes rondom Whistler kun je zwemmen en varen.
-##Dag 16. Whistler - Wells Gray Provincial Park
-Afstand:
-460 km / 290 mijl || Reistijd:
-ongeveer 6 uur
-Wells Gray Provincial Park wordt ook wel 'Waterfall Park' genoemd. Dit is niet voor niets: er zijn maar liefst 250 watervallen, in alle soorten en maten. De bekendste zijn de Spahats Creek Falls, Dawson Falls en Helmcken Falls, die je allemaal gemakkelijk kunt bereiken via de Clearwater Valley Road. Misschien past de Blue River Safari ook in je programma. Deze riviersafari vertrekt in Blue River, gelegen tussen Wells Gray en Jasper. Per boot ga je op zoek naar beren. Reserveren is aanbevolen en kan via ons.
-##Dag 17. Wells Gray Provincial Park
-Helmcken Falls in Wells Gray Provincial Park is met 141 meter de vierde hoogste waterval van Canada. Het water dendert de diepte in over een vulkanische rots. Een waterval die vaak overgeslagen wordt omdat hij niet vlak bij de weg ligt, is de 35 meter hoge Moul Falls. Het is de enige waterval in het park waar je achterlangs kunt lopen. Het pad is smal en komt uit in een grot. Trek stevige (wandel)schoenen aan: het pad kan glad zijn!
-##Dag 18. Wells Gray Provincial Park - Jasper
+##Dag 4. Jasper - Wells Gray Provincial Park
 Afstand:
 360 km / 220 mijl || Reistijd:
 ongeveer 4 uur
-De Jasper SkyTram, gelegen aan Highway 93, richting de top van Whistlers Mountain is een prachtig uitstapje. Bij helder weer zie je hoe het groene landschap bezaaid is met blauwe meertjes. Op de top zijn diverse wandelroutes. Doorkruis Jasper National Park via de schilderachtige Icefields Parkway en stap onderweg uit voor een rit met de Ice Explorer over de Athabasca-gletsjer, bezoek de Glacier Skywalk en bekijk de waterval Athabasca Falls. Om per Ice Explorer naar de Athabasca-gletsjer te gaan en om de Glacier Skywalk te bezoeken, is het mogelijk bij ons een combiticket te boeken.
+Wells Gray Provincial Park wordt ook wel 'Waterfall Park' genoemd. Dit is niet voor niets: er zijn maar liefst 250 watervallen, in alle soorten en maten. De bekendste zijn de Spahats Creek Falls, Dawson Falls en Helmcken Falls, die je allemaal gemakkelijk kunt bereiken via de Clearwater Valley Road. Misschien past de Blue River Safari ook in je programma. Deze riviersafari vertrekt in Blue River, gelegen tussen Wells Gray en Jasper. Per boot ga je op zoek naar beren. Reserveren is aanbevolen en kan via ons.
+##Dag 5. Wells Gray Provincial Park
+Helmcken Falls in Wells Gray Provincial Park is met 141 meter de vierde hoogste waterval van Canada. Het water dendert de diepte in over een vulkanische rots. Een waterval die vaak overgeslagen wordt omdat hij niet vlak bij de weg ligt, is de 35 meter hoge Moul Falls. Het is de enige waterval in het park waar je achterlangs kunt lopen. Het pad is smal en komt uit in een grot. Trek stevige (wandel)schoenen aan: het pad kan glad zijn!
+##Dag 6. Wells Gray Provincial Park - Whistler
+Afstand:
+460 km / 290 mijl || Reistijd:
+ongeveer 6 uur
+Het gezellige stadje Whistler heeft een van de grootste skigebieden van Noord-Amerika: Whistler-Blackcomb. Het hele jaar door brengt de gondel je naar de bergtop van Whistler Mountain. Het is een leuke ervaring om vervolgens met de Peak-2-Peak Gondola naar de top van de Blackcomb Mountain te gaan. Ook kun je met de Sea to Sky Gondola genieten van schitterende uitzichten en een wandeling maken over een suspension bridge. Je kunt in en om Whistler goed hiken en fietsen. Als je wil uitrusten van de zware inspanning, kan dat in een van de spa's. In de vele meertjes rondom Whistler kun je zwemmen en varen.
+##Dag 7. Whistler - Vancouver
+Afstand:
+120 km / 80 mijl || Reistijd:
+ongeveer 2 uur
+De stad Vancouver bestaat uit verschillende wijken. In het historische Gastown zijn overblijfselen uit de pionierstijd en hoogtijdagen van de Canadian Pacific Railway. Granville Island is een schiereiland midden in Vancouver. Aan het water liggen restaurantjes, theaters, galerijen, boetiekjes, cafés en Granville Public Market: een grote markt met verse etenswaren.
+##Dag 8. Vancouver
+Aan de rand van Vancouver ligt Stanley Park, dat omringd wordt door water. Het is een belangrijke recreatieplaats voor locals en toeristen dankzij zijn de fiets- en wandelpaden. Indrukwekkend is de Seawall, een zeedijk met aan de ene kant vergezichten over de zee en op de skyline en aan de andere kant het dichte regenwoud. Beroemd zijn de negen totempalen bij Brockton Point. Bezoek in North Vancouver de Capilano Suspension Bridge, een hoge en lange hangbrug over een kolkende rivier.
+##Dag 9. Vancouver Tofino
+Afstand:
+280 km / 180 mijl || Reistijd:
+ongeveer 51/2 uur
+Dit traject bevat een ferry van Horseshoe Bay naar Nanaimo.
+Tofino ligt op Vancouver Island en staat in het teken van windsurfen en walvissen. Van half maart tot half april vindt de grote walvismigratie plaats. Duizenden grijze walvissen zwemmen dan naar de voedselrijke wateren van Alaska. Grijze walvissen voelen zich op hun gemak in ondiep water, waardoor ze goed te zien zijn als ze Tofino passeren. Ook buiten deze periode kun je deze bijzondere zeedieren spotten. Naast walvisexcursies kun je op Tofino ook beercruises boeken en tours naar Hot Springs Cove. In deze natuurlijke warmwaterbronnen (in een oud regenwoud) mag je een duik nemen!
+##Dag 10. Tofino
+Op een half uurtje rijden van Tofino ligt Ucluelet. Hier kan je een prachtige wandeling maken langs de kust; de Wild Pacific Trail. Dit netwerk van wandelpaden is vrij vlak en voert je langs de prachtige kust en door oerbossen. De Wild Pacific Trail bestaat uit meerdere korte routes die je met elkaar kunt verbinden. De totale wandeling is negen tot veertien kilometer. De mooie Lighthouse Loop & Terrace Beach Trail (2,6 km) start bij het Amphitrite Lighthouse uit 1905 en loopt door een mossig regenwoud naar de stormachtige kustlijn. De Ancient Cedars & Rocky Bluffs Trail (1,25 km) brengt je naar de grootste bomen van de regio en langs rotsachtige kliffen waar hoge golven aanspoelen.
+##Dag 11. Tofino - Victoria
+Afstand:
+320 km / 200 mijl || Reistijd:
+ongeveer 4 uur
+Het charmante Victoria is de hoofdstad van de provincie British Columbia en heeft een Engelse uitstraling. Het claimt zelfs Engelser te zijn dan Engeland. Zo rijden er rode dubbeldekkers rond, zijn veel huizen in tudorstijl gebouwd en vind je er verzorgde tuinen die de stad de bijnaam 'City of Gardens' hebben bezorgd. De Butchart Gardens, met planten en dieren van over de hele wereld, is er een voorbeeld van net als Butterfly Gardens.
+##Dag 12. Victoria
+Old Town is het oude stadsdeel van Victoria. Veel van de gebouwen en pleinen die je hier ziet, stammen uit de negentiende eeuw. Naast Old Town is ook Inner Harbour een leuke bestemming. Opvallende gebouwen in dit havengebied zijn het Parlementsgebouw en het Empress Hotel, beide zijn zowel van de binnen- als buitenkant het bekijken waard. Een hoogtepunt op cultureel gebied is het Royal British Columbia Museum, waar de nadruk ligt op de geschiedenis van Victoria en British Columbia.
+##Dag 13. Victoria Manning Park
+Afstand:
+300 km / 190 mijl || Reistijd:
+ongeveer 5 uur
+Dit traject bevat een ferry van Swartz Bay naar Tsawwassen.
+Manning Provincial Park ligt tussen de natte kustgebieden en het droge plateau van het Canadese binnenland. Manning telt veel wandelroutes langs historische plaatsen en bezienswaardigheden, waaronder sporen van de Similkameen-indianen. Bezoek in ieder geval de Lightning Lakes. De eerste vier meren van de reeks verken je het beste via Lightning Lake Loop, je komt dan langs de meren Lightning (voor liefhebbers van kanoën en kajakken), Flash, Thunder en Strike.
+##Dag 14. Manning Park - Kelowna
+Afstand:
+230 km / 150 mijl || Reistijd:
+ongeveer 3 uur
+Kelowna ligt aan de oever van het 135 kilometer lange Okanagan-meer. Het aangename klimaat en de uitgestrekte fruitboom- en wijngaarden op glooiende heuvels geven Kelowna een mediterraan karakter. Geniet op een van de strandjes of maak een fietstocht over de oude spoorbruggen van de Kettle Valley Railway.
+##Dag 15. Kelowna - Revelstoke
+Afstand:
+200 km / 120 mijl || Reistijd:
+ongeveer 3 uur
+Mount Revelstoke National Park is een plek van contrasten. Tijdens een rit over de Meadows in the Sky Parkway zie je valleien, weiden, regenwouden en bergen met besneeuwde toppen. De weg is 26 kilometer lang en loopt tot de top van Mount Revelstoke, de 1.920 meter hoge berg in het hart van het park. Vlak bij de top ligt Balsam Lake. Aan de Parkway liggen verschillende uitzichtpunten voor fotogenieke kijkjes over het landschap.
+Let op: voertuigen langer dan 26 feet en voertuigen met dubbele assen zijn niet toegestaan op de Parkway, omdat de weg erg smal is en meerdere haarspeldbochten telt. Aan het begin van de weg en aan de oostzijde van het park liggen gelukkig nog andere mooie plekken en wandelingen!
+##Dag 16. Revelstoke - Banff
+Afstand:
+280 km / 180 mijl || Reistijd:
+ongeveer 3 uur
+Banff is het beroemdste nationale park van Canada. Het gelijknamige dorpje ligt hier middenin. In Banff bevind je je in het hart van de Rocky Mountains, tussen schitterende turkooizen meren, ruige bergpieken en uitgestrekte bossen vol wildlife. Via de Icefields Parkway en Bow Valley Parkway verken je al het moois. Houd je ogen open voor wildlife langs de weg. Lake Louise, Peyto Lake en de Johnston Canyon zijn must-sees.
+##Dag 17. Banff
+Bezoek in Banff National Park zeker de Johnston Canyon. Je kunt via een pad de loop van de onstuimige rivier volgen, waardoor je als het ware over de kloofbodem wandelt. Ga hier als het kan 's morgens vroeg naartoe - de parkeergelegenheid is beperkt. Dit geldt ook voor Moraine Lake, een ander absoluut hoogtepunt. Bij dit felblauwe gletsjermeer kun je goed wandelen, kanoën en fotograferen. Volg bijvoorbeeld de Rockpile Trail (500 m) naar de 'Twenty Dollar View', dit uitzicht stond op het Canadese twintig-dollarbiljet. Ook een populaire bezienswaardigheid is Lake Louise, de 'Jewel of the Rockies'.
+##Dag 18. Banff - Jasper
+Afstand:
+290 km / 180 mijl || Reistijd:
+ongeveer 31/2 uur
+Vandaag vervolg je je rondreis via de wereldberoemde Icefields Parkway! Je fotocamera draait overuren in Jasper National Park, het grootste park in de Canadese Rockies. Gletsjers, kristalheldere meren, watervallen, diepe kloven en dichte bossen vormen dit landschap. Het is een ideale leefomgeving voor herten, bevers, elanden, grizzlyberen en zwarte beren. Stap onderweg uit voor een rit met de Ice Explorer over de Athabasca-gletsjer en bezoek de waterval Athabasca Falls. Bezoek ook Maligne Canyon. Via een pad met zes bruggen heb je steeds een ander uitzicht op de kloof en de Maligne-rivier.
 ##Dag 19. Jasper - Fort Saskatchewan
 Afstand:
 390 km / 240 mijl || Reistijd:
@@ -3237,8 +3241,8 @@ Zet daarna een vinkje bij Campingpakket-planner.
 - Camperreis vanuit Edmonton
 van
 Bewerk in routeplanner
-Totale afstand: 3634 kilometer
-/ 2258 mijl
+Totale afstand: 3636 kilometer
+/ 2259 mijl
 De klassieke camperrondreis door West-Canada, waarbij je alle hoogtepunten ziet. Van Vancouver (Island) tot Jasper en Banff in de Rocky Mountains.
 Tioga Tours biedt nu ook reizen aan in Europa. Campervakanties in Duitsland, Frankrijk, Italië en nog veel meer!
 Kies één voor onze themareizen voor een wintersport of treinreis. Themareizen zijn ook goed te combineren met andere rondreizen
@@ -3252,29 +3256,29 @@ Meestal haal je de camper op na 13:00. Bij sommige verhuurders kun je vooraf een
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/edmonton-alberta-legislative-building-2.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/jasper-maligne-lake-spirit-island-2.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/jasper-maligne-lake-spirit-island-2.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/banff-johnston-canyon-trail-3.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/banff-johnston-canyon-trail-3.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/revelstoke-national-park-hike.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/revelstoke-national-park-hike.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/kelowna-kettlle-valley-myra-canyon.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/kelowna-kettlle-valley-myra-canyon.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/manning-park-lightening-lake-kano.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/manning-park-lightening-lake-kano.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-butchart-gardens-2.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-butchart-gardens-2.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-inner-harbor.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-inner-harbor.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/tofino-walvis.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/tofino-walvis.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/ucluelet-lighthouse-loop.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/ucluelet-lighthouse-loop.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/beer.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/beer.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/wells-gray-helmcken-falls-veraf.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/wells-gray-helmcken-falls-veraf.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/whistler-hike-credit-bc.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/whistler-hike-credit-bc.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/vancouver.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/vancouver.7547.8203.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/vancouver-stanley-park.7550.089f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/vancouver-stanley-park.7547.8203.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/whistler-hike-credit-bc.7550.089f.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/banff-lake-louise-hotel.7550.089f.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/alberta/banff-lake-louise-hotel.7547.8203.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/tofino-walvis.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/tofino-walvis.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/ucluelet-lighthouse-loop.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/ucluelet-lighthouse-loop.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-butchart-gardens-2.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-butchart-gardens-2.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-inner-harbor.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/victoria-inner-harbor.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/manning-park-lightening-lake-kano.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/manning-park-lightening-lake-kano.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/kelowna-kettlle-valley-myra-canyon.7550.089f.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/kelowna-kettlle-valley-myra-canyon.7547.8203.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://tiogatours.nl/dynamic/img/canada/british-columbia/revelstoke-2.7550.089f.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-TIOGATOURS-00017</get-trip-id>
