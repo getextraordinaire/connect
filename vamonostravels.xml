@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-03T20:27:03.666Z" count="230">
+<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-03T21:08:57.432Z" count="230">
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36357</get-trip-id>
+    <get-trip-id-org>6245</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -326,6 +327,7 @@ Osaka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36358</get-trip-id>
+    <get-trip-id-org>6234</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -600,6 +602,7 @@ naar Osaka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36359</get-trip-id>
+    <get-trip-id-org>6549</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -896,6 +899,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36360</get-trip-id>
+    <get-trip-id-org>6233</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1209,6 +1213,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36361</get-trip-id>
+    <get-trip-id-org>6232</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1486,6 +1491,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36362</get-trip-id>
+    <get-trip-id-org>6168</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1757,6 +1763,7 @@ Vlucht of auto naar volgende bestemming]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36363</get-trip-id>
+    <get-trip-id-org>6158</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2136,6 +2143,7 @@ Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36364</get-trip-id>
+    <get-trip-id-org>6018</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2461,6 +2469,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36365</get-trip-id>
+    <get-trip-id-org>6011</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2728,6 +2737,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36366</get-trip-id>
+    <get-trip-id-org>6075</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3093,6 +3103,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36367</get-trip-id>
+    <get-trip-id-org>4579</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3339,6 +3350,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36368</get-trip-id>
+    <get-trip-id-org>4542</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3764,6 +3776,7 @@ Vlucht vanuit Rio de Janeiro naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36369</get-trip-id>
+    <get-trip-id-org>4546</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4081,6 +4094,7 @@ Tokyo en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36370</get-trip-id>
+    <get-trip-id-org>4440</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4414,6 +4428,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36371</get-trip-id>
+    <get-trip-id-org>4429</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4729,6 +4744,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36372</get-trip-id>
+    <get-trip-id-org>4428</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5033,6 +5049,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36373</get-trip-id>
+    <get-trip-id-org>4363</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5378,6 +5395,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36374</get-trip-id>
+    <get-trip-id-org>4270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5606,6 +5624,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36375</get-trip-id>
+    <get-trip-id-org>4261</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5882,6 +5901,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36376</get-trip-id>
+    <get-trip-id-org>4163</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6254,6 +6274,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36377</get-trip-id>
+    <get-trip-id-org>3707</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6534,6 +6555,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36378</get-trip-id>
+    <get-trip-id-org>3404</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6837,6 +6859,7 @@ Vlucht Lima - Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36379</get-trip-id>
+    <get-trip-id-org>2556</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7383,6 +7406,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36380</get-trip-id>
+    <get-trip-id-org>2642</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7670,6 +7694,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36381</get-trip-id>
+    <get-trip-id-org>2370</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7889,6 +7914,7 @@ Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36382</get-trip-id>
+    <get-trip-id-org>2374</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8175,6 +8201,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36383</get-trip-id>
+    <get-trip-id-org>2210</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8446,6 +8473,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36384</get-trip-id>
+    <get-trip-id-org>786</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8634,6 +8662,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36385</get-trip-id>
+    <get-trip-id-org>781</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8879,6 +8908,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36386</get-trip-id>
+    <get-trip-id-org>741</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9242,6 +9272,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36387</get-trip-id>
+    <get-trip-id-org>735</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9389,6 +9420,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36388</get-trip-id>
+    <get-trip-id-org>732</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9564,6 +9596,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36389</get-trip-id>
+    <get-trip-id-org>730</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9817,6 +9850,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36390</get-trip-id>
+    <get-trip-id-org>724</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10013,6 +10047,7 @@ Vlucht via Rio naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36391</get-trip-id>
+    <get-trip-id-org>728</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10640,6 +10675,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36392</get-trip-id>
+    <get-trip-id-org>711</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10877,6 +10913,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36393</get-trip-id>
+    <get-trip-id-org>709</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11076,6 +11113,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36394</get-trip-id>
+    <get-trip-id-org>707</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11266,6 +11304,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36395</get-trip-id>
+    <get-trip-id-org>509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11629,6 +11668,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36396</get-trip-id>
+    <get-trip-id-org>584</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11939,6 +11979,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36397</get-trip-id>
+    <get-trip-id-org>580</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12222,6 +12263,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36398</get-trip-id>
+    <get-trip-id-org>451</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12476,6 +12518,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36399</get-trip-id>
+    <get-trip-id-org>453</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12920,6 +12963,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36400</get-trip-id>
+    <get-trip-id-org>344</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13165,6 +13209,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36401</get-trip-id>
+    <get-trip-id-org>331</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13591,6 +13636,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36402</get-trip-id>
+    <get-trip-id-org>322</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13841,6 +13887,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36403</get-trip-id>
+    <get-trip-id-org>317</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14103,6 +14150,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36404</get-trip-id>
+    <get-trip-id-org>419</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14603,6 +14651,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36405</get-trip-id>
+    <get-trip-id-org>401</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14878,6 +14927,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36406</get-trip-id>
+    <get-trip-id-org>383</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15115,6 +15165,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36407</get-trip-id>
+    <get-trip-id-org>381</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15529,6 +15580,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36408</get-trip-id>
+    <get-trip-id-org>374</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15863,6 +15915,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36409</get-trip-id>
+    <get-trip-id-org>363</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16134,6 +16187,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36410</get-trip-id>
+    <get-trip-id-org>361</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16407,6 +16461,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36411</get-trip-id>
+    <get-trip-id-org>700</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -16848,6 +16903,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36412</get-trip-id>
+    <get-trip-id-org>267</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17091,6 +17147,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36413</get-trip-id>
+    <get-trip-id-org>277</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17397,6 +17454,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36414</get-trip-id>
+    <get-trip-id-org>313</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -17733,6 +17791,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36415</get-trip-id>
+    <get-trip-id-org>263</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18035,6 +18094,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36416</get-trip-id>
+    <get-trip-id-org>316</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18288,6 +18348,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36417</get-trip-id>
+    <get-trip-id-org>477</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -18586,6 +18647,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36418</get-trip-id>
+    <get-trip-id-org>696</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19028,6 +19090,7 @@ Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36419</get-trip-id>
+    <get-trip-id-org>659</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19263,6 +19326,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36420</get-trip-id>
+    <get-trip-id-org>660</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19559,6 +19623,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36421</get-trip-id>
+    <get-trip-id-org>358</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -19772,6 +19837,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36423</get-trip-id>
+    <get-trip-id-org>343</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20088,6 +20154,7 @@ naar Johannesburg en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36424</get-trip-id>
+    <get-trip-id-org>348</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20546,6 +20613,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36425</get-trip-id>
+    <get-trip-id-org>386</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -20842,6 +20910,7 @@ Vlucht via Rio naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36426</get-trip-id>
+    <get-trip-id-org>655</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21453,6 +21522,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36427</get-trip-id>
+    <get-trip-id-org>446</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -21688,6 +21758,7 @@ Vlucht via Rio naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36428</get-trip-id>
+    <get-trip-id-org>450</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22011,6 +22082,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36429</get-trip-id>
+    <get-trip-id-org>462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22286,6 +22358,7 @@ Vlucht vanuit Rio naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36430</get-trip-id>
+    <get-trip-id-org>464</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22516,6 +22589,7 @@ Vlucht vanuit Fortaleza naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36431</get-trip-id>
+    <get-trip-id-org>515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -22765,6 +22839,7 @@ Vlucht vanuit Rio naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36432</get-trip-id>
+    <get-trip-id-org>282</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23047,6 +23122,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36433</get-trip-id>
+    <get-trip-id-org>536</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23347,6 +23423,7 @@ Vlucht vanuit Fortaleza naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36434</get-trip-id>
+    <get-trip-id-org>279</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23610,6 +23687,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36435</get-trip-id>
+    <get-trip-id-org>542</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -23837,6 +23915,7 @@ Vlucht vanuit Salvador naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36436</get-trip-id>
+    <get-trip-id-org>545</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24111,6 +24190,7 @@ Vlucht vanuit Salvador naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36437</get-trip-id>
+    <get-trip-id-org>196</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24447,6 +24527,7 @@ Vertrek uit La Paz]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36438</get-trip-id>
+    <get-trip-id-org>199</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -24838,6 +24919,7 @@ Vertrek uit La Paz]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36439</get-trip-id>
+    <get-trip-id-org>530</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25078,6 +25160,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36440</get-trip-id>
+    <get-trip-id-org>302</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25334,6 +25417,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36441</get-trip-id>
+    <get-trip-id-org>174</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -25711,6 +25795,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36442</get-trip-id>
+    <get-trip-id-org>634</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26065,6 +26150,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36443</get-trip-id>
+    <get-trip-id-org>290</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26351,6 +26437,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36444</get-trip-id>
+    <get-trip-id-org>265</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -26616,6 +26703,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36445</get-trip-id>
+    <get-trip-id-org>203</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27104,6 +27192,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36446</get-trip-id>
+    <get-trip-id-org>258</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27485,6 +27574,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36447</get-trip-id>
+    <get-trip-id-org>337</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -27993,6 +28083,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36448</get-trip-id>
+    <get-trip-id-org>325</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28472,6 +28563,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36450</get-trip-id>
+    <get-trip-id-org>259</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -28799,6 +28891,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36451</get-trip-id>
+    <get-trip-id-org>247</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29093,6 +29186,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36452</get-trip-id>
+    <get-trip-id-org>368</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29439,6 +29533,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36453</get-trip-id>
+    <get-trip-id-org>241</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29670,6 +29765,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36454</get-trip-id>
+    <get-trip-id-org>372</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -29994,6 +30090,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36455</get-trip-id>
+    <get-trip-id-org>522</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30243,6 +30340,7 @@ Nairobi en vetrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36456</get-trip-id>
+    <get-trip-id-org>272</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30494,6 +30592,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36457</get-trip-id>
+    <get-trip-id-org>243</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -30835,6 +30934,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36458</get-trip-id>
+    <get-trip-id-org>521</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31048,6 +31148,7 @@ Nairobi en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36459</get-trip-id>
+    <get-trip-id-org>443</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31276,6 +31377,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36460</get-trip-id>
+    <get-trip-id-org>379</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31585,6 +31687,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36461</get-trip-id>
+    <get-trip-id-org>393</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -31878,6 +31981,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36462</get-trip-id>
+    <get-trip-id-org>398</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32146,6 +32250,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36463</get-trip-id>
+    <get-trip-id-org>376</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32412,6 +32517,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36464</get-trip-id>
+    <get-trip-id-org>389</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -32681,6 +32787,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36465</get-trip-id>
+    <get-trip-id-org>390</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33001,6 +33108,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36466</get-trip-id>
+    <get-trip-id-org>639</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33277,6 +33385,7 @@ Okinawa en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36467</get-trip-id>
+    <get-trip-id-org>411</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33599,6 +33708,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36468</get-trip-id>
+    <get-trip-id-org>226</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -33874,6 +33984,7 @@ Bus naar Phnom Penh en vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36469</get-trip-id>
+    <get-trip-id-org>656</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34137,6 +34248,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36470</get-trip-id>
+    <get-trip-id-org>178</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34567,6 +34679,7 @@ Terugreis]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36471</get-trip-id>
+    <get-trip-id-org>167</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -34865,6 +34978,7 @@ Okinawa en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36472</get-trip-id>
+    <get-trip-id-org>155</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35140,6 +35254,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36473</get-trip-id>
+    <get-trip-id-org>512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35408,6 +35523,7 @@ Lombok en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36474</get-trip-id>
+    <get-trip-id-org>510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35613,6 +35729,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36475</get-trip-id>
+    <get-trip-id-org>485</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -35892,6 +36009,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36476</get-trip-id>
+    <get-trip-id-org>473</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36215,6 +36333,7 @@ naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36477</get-trip-id>
+    <get-trip-id-org>469</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36456,6 +36575,7 @@ Lombok en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36478</get-trip-id>
+    <get-trip-id-org>460</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -36691,6 +36811,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36479</get-trip-id>
+    <get-trip-id-org>609</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37117,6 +37238,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36480</get-trip-id>
+    <get-trip-id-org>622</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37395,6 +37517,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36481</get-trip-id>
+    <get-trip-id-org>624</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -37839,6 +37962,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36482</get-trip-id>
+    <get-trip-id-org>630</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38169,6 +38293,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36483</get-trip-id>
+    <get-trip-id-org>629</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38481,6 +38606,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36484</get-trip-id>
+    <get-trip-id-org>663</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -38748,6 +38874,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36485</get-trip-id>
+    <get-trip-id-org>573</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39043,6 +39170,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36486</get-trip-id>
+    <get-trip-id-org>539</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39305,6 +39433,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36487</get-trip-id>
+    <get-trip-id-org>550</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39530,6 +39659,7 @@ Hotel Perla]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36488</get-trip-id>
+    <get-trip-id-org>533</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -39753,6 +39883,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36489</get-trip-id>
+    <get-trip-id-org>479</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40104,6 +40235,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36490</get-trip-id>
+    <get-trip-id-org>505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40397,6 +40529,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36491</get-trip-id>
+    <get-trip-id-org>496</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40712,6 +40845,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36492</get-trip-id>
+    <get-trip-id-org>503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -40979,6 +41113,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36493</get-trip-id>
+    <get-trip-id-org>628</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41302,6 +41437,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36494</get-trip-id>
+    <get-trip-id-org>583</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41634,6 +41770,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36495</get-trip-id>
+    <get-trip-id-org>570</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -41964,6 +42101,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36496</get-trip-id>
+    <get-trip-id-org>484</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42247,6 +42385,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36497</get-trip-id>
+    <get-trip-id-org>481</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42535,6 +42674,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36498</get-trip-id>
+    <get-trip-id-org>674</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -42760,6 +42900,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36499</get-trip-id>
+    <get-trip-id-org>672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43002,6 +43143,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36500</get-trip-id>
+    <get-trip-id-org>643</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43243,6 +43385,7 @@ Naar Entebbe en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36501</get-trip-id>
+    <get-trip-id-org>649</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -43448,6 +43591,7 @@ Naar Entebbe en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36502</get-trip-id>
+    <get-trip-id-org>568</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44055,6 +44199,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36503</get-trip-id>
+    <get-trip-id-org>566</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44494,6 +44639,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36504</get-trip-id>
+    <get-trip-id-org>355</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -44795,6 +44941,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36505</get-trip-id>
+    <get-trip-id-org>341</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45026,6 +45173,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36506</get-trip-id>
+    <get-trip-id-org>564</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45480,6 +45628,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36507</get-trip-id>
+    <get-trip-id-org>340</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -45821,6 +45970,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36508</get-trip-id>
+    <get-trip-id-org>651</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46154,6 +46304,7 @@ Kilimanjaro en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36509</get-trip-id>
+    <get-trip-id-org>311</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -46629,6 +46780,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36510</get-trip-id>
+    <get-trip-id-org>632</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47099,6 +47251,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36511</get-trip-id>
+    <get-trip-id-org>667</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -47573,6 +47726,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36512</get-trip-id>
+    <get-trip-id-org>309</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48036,6 +48190,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36513</get-trip-id>
+    <get-trip-id-org>589</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48474,6 +48629,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36514</get-trip-id>
+    <get-trip-id-org>582</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -48923,6 +49079,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36515</get-trip-id>
+    <get-trip-id-org>590</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49231,6 +49388,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36516</get-trip-id>
+    <get-trip-id-org>578</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49535,6 +49693,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36517</get-trip-id>
+    <get-trip-id-org>576</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -49961,6 +50120,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36518</get-trip-id>
+    <get-trip-id-org>561</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50276,6 +50436,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36520</get-trip-id>
+    <get-trip-id-org>670</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50618,6 +50779,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36522</get-trip-id>
+    <get-trip-id-org>307</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -50992,6 +51154,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36524</get-trip-id>
+    <get-trip-id-org>305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51344,6 +51507,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36527</get-trip-id>
+    <get-trip-id-org>254</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51658,6 +51822,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36528</get-trip-id>
+    <get-trip-id-org>526</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -51900,6 +52065,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36529</get-trip-id>
+    <get-trip-id-org>474</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52121,6 +52287,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36530</get-trip-id>
+    <get-trip-id-org>467</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52336,6 +52503,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36531</get-trip-id>
+    <get-trip-id-org>465</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52567,6 +52735,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36532</get-trip-id>
+    <get-trip-id-org>441</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -52793,6 +52962,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36533</get-trip-id>
+    <get-trip-id-org>437</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53058,6 +53228,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36534</get-trip-id>
+    <get-trip-id-org>261</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53551,6 +53722,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36535</get-trip-id>
+    <get-trip-id-org>235</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -53812,6 +53984,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36536</get-trip-id>
+    <get-trip-id-org>230</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54295,6 +54468,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36537</get-trip-id>
+    <get-trip-id-org>189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54547,6 +54721,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36538</get-trip-id>
+    <get-trip-id-org>645</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -54979,6 +55154,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36539</get-trip-id>
+    <get-trip-id-org>641</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55303,6 +55479,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36540</get-trip-id>
+    <get-trip-id-org>636</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55565,6 +55742,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36541</get-trip-id>
+    <get-trip-id-org>274</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -55899,6 +56077,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36542</get-trip-id>
+    <get-trip-id-org>257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56225,6 +56404,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36543</get-trip-id>
+    <get-trip-id-org>244</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56511,6 +56691,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36544</get-trip-id>
+    <get-trip-id-org>237</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -56840,6 +57021,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36545</get-trip-id>
+    <get-trip-id-org>186</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57136,6 +57318,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36546</get-trip-id>
+    <get-trip-id-org>647</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57534,6 +57717,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36547</get-trip-id>
+    <get-trip-id-org>406</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -57720,6 +57904,7 @@ Vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36548</get-trip-id>
+    <get-trip-id-org>345</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58081,6 +58266,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36549</get-trip-id>
+    <get-trip-id-org>297</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58253,6 +58439,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36550</get-trip-id>
+    <get-trip-id-org>294</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58490,6 +58677,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36551</get-trip-id>
+    <get-trip-id-org>214</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -58786,6 +58974,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36552</get-trip-id>
+    <get-trip-id-org>212</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59076,6 +59265,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36553</get-trip-id>
+    <get-trip-id-org>210</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59396,6 +59586,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36554</get-trip-id>
+    <get-trip-id-org>206</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59681,6 +59872,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36555</get-trip-id>
+    <get-trip-id-org>458</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -59945,6 +60137,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36556</get-trip-id>
+    <get-trip-id-org>555</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60141,6 +60334,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36557</get-trip-id>
+    <get-trip-id-org>159</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -60466,6 +60660,7 @@ naar Fukuoka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36558</get-trip-id>
+    <get-trip-id-org>163</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61058,6 +61253,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36559</get-trip-id>
+    <get-trip-id-org>157</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61355,6 +61551,7 @@ Naar Fukuoka en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36560</get-trip-id>
+    <get-trip-id-org>208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61648,6 +61845,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36561</get-trip-id>
+    <get-trip-id-org>172</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -61893,6 +62091,7 @@ Naar Sapporo en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36562</get-trip-id>
+    <get-trip-id-org>127</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62244,6 +62443,7 @@ Vlucht Lima - Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36563</get-trip-id>
+    <get-trip-id-org>176</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62611,6 +62811,7 @@ Puerto Maldonado Corto Maltes dag 4]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36604</get-trip-id>
+    <get-trip-id-org>6497</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -62895,6 +63096,7 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36605</get-trip-id>
+    <get-trip-id-org>6265</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63038,6 +63240,7 @@ M/V Ocean Explorer van Quark Expeditions]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36606</get-trip-id>
+    <get-trip-id-org>6170</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63197,6 +63400,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36607</get-trip-id>
+    <get-trip-id-org>5977</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63347,6 +63551,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36608</get-trip-id>
+    <get-trip-id-org>5975</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63487,6 +63692,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36609</get-trip-id>
+    <get-trip-id-org>4683</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63693,6 +63899,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36610</get-trip-id>
+    <get-trip-id-org>4487</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -63967,6 +64174,7 @@ Vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36611</get-trip-id>
+    <get-trip-id-org>2632</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64248,6 +64456,7 @@ Kota Bharu en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36612</get-trip-id>
+    <get-trip-id-org>2155</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64508,6 +64717,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36613</get-trip-id>
+    <get-trip-id-org>952</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -64768,6 +64978,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36614</get-trip-id>
+    <get-trip-id-org>409</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65047,6 +65258,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36615</get-trip-id>
+    <get-trip-id-org>400</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65339,6 +65551,7 @@ Kota Kinabalu en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36616</get-trip-id>
+    <get-trip-id-org>396</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65608,6 +65821,7 @@ Kota Kinabalu en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36617</get-trip-id>
+    <get-trip-id-org>352</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -65857,6 +66071,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36618</get-trip-id>
+    <get-trip-id-org>694</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66204,6 +66419,7 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36619</get-trip-id>
+    <get-trip-id-org>690</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66566,6 +66782,7 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36620</get-trip-id>
+    <get-trip-id-org>193</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -66842,6 +67059,7 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36621</get-trip-id>
+    <get-trip-id-org>692</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67185,6 +67403,7 @@ Victoria Falls en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36622</get-trip-id>
+    <get-trip-id-org>201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67506,6 +67725,7 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36623</get-trip-id>
+    <get-trip-id-org>326</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67730,6 +67950,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36624</get-trip-id>
+    <get-trip-id-org>324</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -67975,6 +68196,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36625</get-trip-id>
+    <get-trip-id-org>323</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68195,6 +68417,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36626</get-trip-id>
+    <get-trip-id-org>133</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68505,6 +68728,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36629</get-trip-id>
+    <get-trip-id-org>115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -68865,6 +69089,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36631</get-trip-id>
+    <get-trip-id-org>140</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69162,6 +69387,7 @@ Terugvlucht]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36833</get-trip-id>
+    <get-trip-id-org>7673</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69356,6 +69582,7 @@ Naar Kigali en vertrek]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36834</get-trip-id>
+    <get-trip-id-org>7672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -69579,6 +69806,7 @@ Kigali en terugvlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36880</get-trip-id>
+    <get-trip-id-org>7748</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70002,6 +70230,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36938</get-trip-id>
+    <get-trip-id-org>7975</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -70255,6 +70484,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36940</get-trip-id>
+    <get-trip-id-org>8136</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
