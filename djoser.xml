@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoser" partner="Djoser" generated="2026-09-03T21:08:57.432Z" count="193">
+<trips feed="djoser" partner="Djoser" generated="2026-09-03T21:47:34.379Z" count="193">
   <trip>
     <get-trip-id>GT-DJOSER-184</get-trip-id>
     <get-trip-id-org>ZBNH24</get-trip-id-org>
@@ -21251,7 +21251,7 @@ Een enthousiaste, lokale, Nederlands sprekende reisbegeleider begeleidt de reis 
     <get-trip-id>GT-DJOSER-21606</get-trip-id>
     <get-trip-id-org>PEK14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru (14 dagen)</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -27704,7 +27704,7 @@ De groepen naar Cuba bestaan uit gemiddeld 16 personen, de maximale groepsgroott
     <get-trip-id>GT-DJOSER-28327</get-trip-id>
     <get-trip-id-org>ZIJC28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zijderoute</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -37123,7 +37123,7 @@ Tijdens de reis door Albanië en Macedonië bezoeken we ook het meer van Ohrid. 
     <get-trip-id>GT-DJOSER-32799</get-trip-id>
     <get-trip-id-org>GEAR15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Armenië &amp; Georgië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -38411,7 +38411,7 @@ Het reisgezelschap bestaat uit gemiddeld 16 personen, het maximum is 22.]]></get
     <get-trip-id>GT-DJOSER-32812</get-trip-id>
     <get-trip-id-org>XFIB6</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Finland</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -49863,7 +49863,7 @@ Het visum voor India kun je online aanvragen voor 365 dagen. Je ontvangt na aanv
     <get-trip-id>GT-DJOSER-34853</get-trip-id>
     <get-trip-id-org>XSUBA40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Indonesië</get-trip-name>
     <get-trip-duration>40</get-trip-duration>
@@ -51597,7 +51597,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
     <get-trip-id>GT-DJOSER-34866</get-trip-id>
     <get-trip-id-org>FIZA15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Zuid-Afrika</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -54019,7 +54019,7 @@ De genoemde prijzen zijn zonder wijzigingskosten van de vlucht en de transfer va
     <get-trip-id>GT-DJOSER-35620</get-trip-id>
     <get-trip-id-org>BRAM15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Brazilië Amazone</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -55311,7 +55311,7 @@ Bekijk ook onze 30-daagse reis naar Australië en Nieuw-Zeeland.]]></get-trip-sc
     <get-trip-id>GT-DJOSER-36049</get-trip-id>
     <get-trip-id-org>STP16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Sao Tomé en Principe</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -56798,7 +56798,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
     <get-trip-id>GT-DJOSER-36231</get-trip-id>
     <get-trip-id-org>PEEC28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru, Ecuador &amp; Galapagos</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
