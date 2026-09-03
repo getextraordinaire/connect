@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-03T20:27:03.666Z" count="10">
+<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-03T21:08:57.432Z" count="10">
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-35490</get-trip-id>
+    <get-trip-id-org>10141</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -255,6 +256,7 @@ Mongolie is een paradijs voor wandelaars. De ongerepte en uitgestrekte natuur no
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-35508</get-trip-id>
+    <get-trip-id-org>10202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -526,6 +528,7 @@ Het is niet noodzakelijk, aangezien de route vlak en verhard is, maar desgewenst
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-35615</get-trip-id>
+    <get-trip-id-org>11231</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -764,6 +767,7 @@ In Japan zijn een aantal fine-dining opties mogelijk. Vraag uw reisspecialist na
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-36593</get-trip-id>
+    <get-trip-id-org>10642</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -955,6 +959,7 @@ In Japan zijn een aantal fine-dining opties mogelijk. Vraag uw reisspecialist na
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-36595</get-trip-id>
+    <get-trip-id-org>1</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1184,6 +1189,7 @@ Een mooie dagtocht vanuit Kathmandu, waarbij u de drie koningssteden van de Kath
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-36597</get-trip-id>
+    <get-trip-id-org>10002</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1477,6 +1483,7 @@ Inclusief: privétransfer, gids, toegang tot de bronnen.]]></get-trip-scraped-co
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-36666</get-trip-id>
+    <get-trip-id-org>11313</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1898,6 +1905,7 @@ Dit is een privé excursie en snacks zijn inclusief]]></get-trip-scraped-content
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-36894</get-trip-id>
+    <get-trip-id-org>11343</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1969,6 +1977,7 @@ toeslag (optionele) comfortabele hotels (zie hotels per reis/bouwsteen)]]></get-
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-37291</get-trip-id>
+    <get-trip-id-org>10085</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2251,6 +2260,7 @@ Bezoek een pottenbakkersfamilie en zie hoe zij in hun eigen achtertuin prachtige
   </trip>
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-37292</get-trip-id>
+    <get-trip-id-org>10501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
