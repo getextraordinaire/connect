@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-03T20:27:03.666Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-03T21:08:57.432Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
+    <get-trip-id-org>140730</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -174,6 +175,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35808</get-trip-id>
+    <get-trip-id-org>140756</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -313,6 +315,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35809</get-trip-id>
+    <get-trip-id-org>140311</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -480,6 +483,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35810</get-trip-id>
+    <get-trip-id-org>140771</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -642,6 +646,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35812</get-trip-id>
+    <get-trip-id-org>133346</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -837,6 +842,7 @@ Santiago de Chile	11-12	Novapark	Plaza San Francisco	Rugendas]]></get-trip-scrap
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35813</get-trip-id>
+    <get-trip-id-org>74588</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -957,6 +963,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35814</get-trip-id>
+    <get-trip-id-org>72795</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1121,6 +1128,7 @@ Update 04.06.26.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35815</get-trip-id>
+    <get-trip-id-org>70866</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1277,6 +1285,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35816</get-trip-id>
+    <get-trip-id-org>57159</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1409,6 +1418,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35817</get-trip-id>
+    <get-trip-id-org>54602</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1510,6 +1520,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35819</get-trip-id>
+    <get-trip-id-org>53529</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1632,6 +1643,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35823</get-trip-id>
+    <get-trip-id-org>43428</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1778,6 +1790,7 @@ Paramaribo	9	Eco Torarica	Torarica Resort]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35824</get-trip-id>
+    <get-trip-id-org>40056</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -1998,6 +2011,7 @@ Borg USD 550 via creditcard (Visa, Mastercard, Diners Club of American Express)]
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35825</get-trip-id>
+    <get-trip-id-org>33091</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2141,6 +2155,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35826</get-trip-id>
+    <get-trip-id-org>31415</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2345,6 +2360,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35828</get-trip-id>
+    <get-trip-id-org>26503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2539,6 +2555,7 @@ Cartagena	13-14	Santa Catalina	OSH Hotel]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35830</get-trip-id>
+    <get-trip-id-org>26504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2701,6 +2718,7 @@ Cartagena	10-12	Santa Catalina	OSH Hotel]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35831</get-trip-id>
+    <get-trip-id-org>26384</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -2930,6 +2948,7 @@ Victoria Falls	21-22	Batonka Guest Lodge (standaard)]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35832</get-trip-id>
+    <get-trip-id-org>22814</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3094,6 +3113,7 @@ Het is niet toegestaan met een huurauto over bauxiet wegen te rijden. Indien gew
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35833</get-trip-id>
+    <get-trip-id-org>22812</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3284,6 +3304,7 @@ Pantanal	12-14	Araras Eco Lodge	Pousada do Rio Mutum]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35834</get-trip-id>
+    <get-trip-id-org>22006</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3474,6 +3495,7 @@ Windhoek	18	The Elegant Guesthouse (standaard)]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35835</get-trip-id>
+    <get-trip-id-org>22373</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3668,6 +3690,7 @@ Lima	13	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35836</get-trip-id>
+    <get-trip-id-org>16943</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3792,6 +3815,7 @@ Christchurch	19	The Grange Boutique Bed & Breakfast (queen)]]></get-trip-scraped
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35837</get-trip-id>
+    <get-trip-id-org>16919</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -3933,6 +3957,7 @@ Auckland	24	Copthorne Hotel Auckland City (superior)]]></get-trip-scraped-conten
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35838</get-trip-id>
+    <get-trip-id-org>15890</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4087,6 +4112,7 @@ White River	13	Stille Woning (standaard)]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35841</get-trip-id>
+    <get-trip-id-org>Unknown</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4261,6 +4287,7 @@ Toeslag All Inclusive		01.11.25-31.03.26	64	64	64]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35846</get-trip-id>
+    <get-trip-id-org>9960</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4416,6 +4443,7 @@ Voor de 22 en-18-daagse rondreis New Zealand Adventure Off Road klik hier.
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35847</get-trip-id>
+    <get-trip-id-org>9648</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4538,6 +4566,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35848</get-trip-id>
+    <get-trip-id-org>8932</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4664,6 +4693,7 @@ Tekapo	16	-	Peppers Bluewater Resort (hotel deluxe, 3 pk is tweekamervilla lakev
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35849</get-trip-id>
+    <get-trip-id-org>8877</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4770,6 +4800,7 @@ Adelaide	16	Holiday Inn Express Adelaide City Centre (standaard)]]></get-trip-sc
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35851</get-trip-id>
+    <get-trip-id-org>8204</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -4949,6 +4980,7 @@ Rio de Janeiro	10-11	Copa Sul	Arena Copacabana
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35853</get-trip-id>
+    <get-trip-id-org>7365</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5137,6 +5169,7 @@ Update 06.02.26]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35855</get-trip-id>
+    <get-trip-id-org>5616</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5274,6 +5307,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35856</get-trip-id>
+    <get-trip-id-org>5135</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5413,6 +5447,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35857</get-trip-id>
+    <get-trip-id-org>5127</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5524,6 +5559,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35858</get-trip-id>
+    <get-trip-id-org>5124</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5644,6 +5680,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35860</get-trip-id>
+    <get-trip-id-org>5119</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5782,6 +5819,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35861</get-trip-id>
+    <get-trip-id-org>5118</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -5940,6 +5978,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35862</get-trip-id>
+    <get-trip-id-org>5096</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6098,6 +6137,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35863</get-trip-id>
+    <get-trip-id-org>4311</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6303,6 +6343,7 @@ Buenos Aires	14-15	Ker San Telmo	Huinid Obelisco	Loi Suites Recoleta]]></get-tri
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35864</get-trip-id>
+    <get-trip-id-org>4299</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6517,6 +6558,7 @@ Buenos Aires	15	Ker San Telmo	Huinid Obelisco	Sofitel Buenos Aires]]></get-trip-
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35865</get-trip-id>
+    <get-trip-id-org>4297</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -6732,6 +6774,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35866</get-trip-id>
+    <get-trip-id-org>4270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7037,6 +7080,7 @@ Rio de Janeiro	21-22	Copa Sul	Arena Copacabana]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35867</get-trip-id>
+    <get-trip-id-org>3913</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7248,6 +7292,7 @@ Lima	16	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35868</get-trip-id>
+    <get-trip-id-org>4269</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7477,6 +7522,7 @@ Lima	18	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35869</get-trip-id>
+    <get-trip-id-org>4252</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7632,6 +7678,7 @@ Praia do Forte	13-14	Porto Zarpa	Tivoli Eco Resort]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35870</get-trip-id>
+    <get-trip-id-org>4248</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7829,6 +7876,7 @@ Paramaribo	14	Eco Torarica	Torarica Resort]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35872</get-trip-id>
+    <get-trip-id-org>4037</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -7986,6 +8034,7 @@ Bovenstaande hotellijst geldt als richtlijn in de genoemde categorie. Wenst u me
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35873</get-trip-id>
+    <get-trip-id-org>3885</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8212,6 +8261,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35880</get-trip-id>
+    <get-trip-id-org>5222</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8387,6 +8437,7 @@ N.B. In sommige plaatsen kan het voorkomen dat er geen accommodatie in de gekoze
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35881</get-trip-id>
+    <get-trip-id-org>5211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8466,6 +8517,7 @@ Hamilton	9	Curringa Farm (romantic studio Echidna cottage, 3 pk is driekamer del
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35882</get-trip-id>
+    <get-trip-id-org>5209</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8592,6 +8644,7 @@ Adelaide	17	Holiday Inn Express Adelaide (standaard, 3 pers. in 2 kamers)	Hotel 
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35883</get-trip-id>
+    <get-trip-id-org>5189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8721,6 +8774,7 @@ Darwin	20	Argus Hotel Darwin (superior king, 3 pk is deluxe driekamer)
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35884</get-trip-id>
+    <get-trip-id-org>5168</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -8848,6 +8902,7 @@ Cairns	17	Cairns Queenslander Apartments (mimosa familie driekamer appartement)]
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35947</get-trip-id>
+    <get-trip-id-org>41665</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9044,6 +9099,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36134</get-trip-id>
+    <get-trip-id-org>140271</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9205,6 +9261,7 @@ Update 11.02.26.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36135</get-trip-id>
+    <get-trip-id-org>140255</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9369,6 +9426,7 @@ Update 26.11.25.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36136</get-trip-id>
+    <get-trip-id-org>140808</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9574,6 +9632,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36137</get-trip-id>
+    <get-trip-id-org>72724</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9767,6 +9826,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36138</get-trip-id>
+    <get-trip-id-org>33457</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -9914,6 +9974,7 @@ Update 15.12.25.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36139</get-trip-id>
+    <get-trip-id-org>5158</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10115,6 +10176,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36141</get-trip-id>
+    <get-trip-id-org>5139</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10313,6 +10375,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36145</get-trip-id>
+    <get-trip-id-org>81411</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10550,6 +10613,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36146</get-trip-id>
+    <get-trip-id-org>66482</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10725,6 +10789,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36147</get-trip-id>
+    <get-trip-id-org>32552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -10871,6 +10936,7 @@ Update 15.12.25.]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36148</get-trip-id>
+    <get-trip-id-org>22811</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11063,6 +11129,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36149</get-trip-id>
+    <get-trip-id-org>9506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11238,6 +11305,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36150</get-trip-id>
+    <get-trip-id-org>9425</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11433,6 +11501,7 @@ Léon	15-16	Flor de Sarta	La Recoleccion]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36151</get-trip-id>
+    <get-trip-id-org>9391</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11601,6 +11670,7 @@ Arenal	13-14	Casa Luna]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36152</get-trip-id>
+    <get-trip-id-org>6129</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11791,6 +11861,7 @@ Manuel Antonio	15-16	Villas Lirio]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36153</get-trip-id>
+    <get-trip-id-org>4239</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -11967,6 +12038,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36154</get-trip-id>
+    <get-trip-id-org>4237</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12141,6 +12213,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36172</get-trip-id>
+    <get-trip-id-org>5142</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12303,6 +12376,7 @@ Bovenstaande hotellijst geldt als richtlijn in de genoemde categorie. Wenst u me
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36220</get-trip-id>
+    <get-trip-id-org>5137</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12471,6 +12545,7 @@ Opmerkingen
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36641</get-trip-id>
+    <get-trip-id-org>4049</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12591,6 +12666,7 @@ Kasane	14-16	Chobe Safari Lodge (luxury)]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36818</get-trip-id>
+    <get-trip-id-org>131552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12759,6 +12835,7 @@ De betalings- en annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden e
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36819</get-trip-id>
+    <get-trip-id-org>98974</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -12961,6 +13038,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36820</get-trip-id>
+    <get-trip-id-org>91177</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13172,6 +13250,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36821</get-trip-id>
+    <get-trip-id-org>91185</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13344,6 +13423,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36822</get-trip-id>
+    <get-trip-id-org>90906</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13537,6 +13617,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36823</get-trip-id>
+    <get-trip-id-org>68986</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13733,6 +13814,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36824</get-trip-id>
+    <get-trip-id-org>54258</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -13875,6 +13957,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36825</get-trip-id>
+    <get-trip-id-org>52564</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14048,6 +14131,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36826</get-trip-id>
+    <get-trip-id-org>38992</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14261,6 +14345,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36827</get-trip-id>
+    <get-trip-id-org>38713</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14469,6 +14554,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36828</get-trip-id>
+    <get-trip-id-org>31232</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14655,6 +14741,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36829</get-trip-id>
+    <get-trip-id-org>16099</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -14874,6 +14961,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36830</get-trip-id>
+    <get-trip-id-org>3891</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15130,6 +15218,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36831</get-trip-id>
+    <get-trip-id-org>4091</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
@@ -15336,6 +15425,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-36832</get-trip-id>
+    <get-trip-id-org>4077</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
