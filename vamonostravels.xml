@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-03T21:08:57.432Z" count="230">
+<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-03T21:47:34.379Z" count="230">
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36357</get-trip-id>
     <get-trip-id-org>6245</get-trip-id-org>
@@ -1215,7 +1215,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36361</get-trip-id>
     <get-trip-id-org>6232</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het Hart van Japan</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -5397,7 +5397,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36374</get-trip-id>
     <get-trip-id-org>4270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali&apos;s paradijselijke schatten</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -9274,7 +9274,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36387</get-trip-id>
     <get-trip-id-org>735</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Shortbreak Jordanie</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -12965,7 +12965,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36400</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Maya&apos;s en kleurrijke dorpjes</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -17149,7 +17149,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36413</get-trip-id>
     <get-trip-id-org>277</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Colombia per huurauto</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -20912,7 +20912,7 @@ Vlucht via Rio naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36426</get-trip-id>
     <get-trip-id-org>655</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Buenos Aires naar Cuzco</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -24921,7 +24921,7 @@ Vertrek uit La Paz]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36439</get-trip-id>
     <get-trip-id-org>530</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De maki&apos;s van Madagaskar</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -29188,7 +29188,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36452</get-trip-id>
     <get-trip-id-org>368</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of the West</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -32789,7 +32789,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36465</get-trip-id>
     <get-trip-id-org>390</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>West Canada Compleet</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -36577,7 +36577,7 @@ Lombok en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36478</get-trip-id>
     <get-trip-id-org>460</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boeiend Bali</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -40531,7 +40531,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36491</get-trip-id>
     <get-trip-id-org>496</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Meren en Vulkanen</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -44641,7 +44641,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36504</get-trip-id>
     <get-trip-id-org>355</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Marhaba Marokko</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -49695,7 +49695,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36517</get-trip-id>
     <get-trip-id-org>576</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly-drive door het betoverende zuiden</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -52289,7 +52289,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36530</get-trip-id>
     <get-trip-id-org>467</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Veelzijdig Sicilië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
