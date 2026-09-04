@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T11:25:17.709Z" count="58">
+<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T11:47:35.292Z" count="58">
   <trip>
     <get-trip-id>GT-PANGEATRAVEL-531</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
@@ -2274,7 +2274,7 @@ In het Secret Garden Boutique Hotel verblijft u in een prachtig gerestaureerd la
     <get-trip-id>GT-PANGEATRAVEL-20591</get-trip-id>
     <get-trip-id-org>242</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-India reis: van Chennai naar Kerala</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -3198,7 +3198,7 @@ Een heerlijke accommodatie aan het strand van Jumeirah Beach is het Le Royal MÃ
     <get-trip-id>GT-PANGEATRAVEL-34422</get-trip-id>
     <get-trip-id-org>122</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Bhutan</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -4487,7 +4487,7 @@ Relaxen kan bij de rivier of in het zwembad. Als u zin heeft om te eten, kunt u 
     <get-trip-id>GT-PANGEATRAVEL-34448</get-trip-id>
     <get-trip-id-org>4961</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Muur tot Terracotta</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -6659,7 +6659,7 @@ Het 3-sterren Shiba Park Hotel is gelegen in de wijkMinato, op korte afstand van
     <get-trip-id>GT-PANGEATRAVEL-34500</get-trip-id>
     <get-trip-id-org>1360</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Combinatiereis Laos, Vietnam &amp; Cambodja</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
