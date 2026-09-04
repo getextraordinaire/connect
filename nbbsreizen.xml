@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-04T11:25:17.709Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-04T11:47:35.292Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
     <get-trip-id-org>140730</get-trip-id-org>
@@ -845,7 +845,7 @@ Santiago de Chile	11-12	Novapark	Plaza San Francisco	Rugendas]]></get-trip-scrap
     <get-trip-id>GT-NBBSREIZEN-35813</get-trip-id>
     <get-trip-id-org>74588</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Utah&apos;s Mighty Five</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -2159,7 +2159,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35826</get-trip-id>
     <get-trip-id-org>31415</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Explore Ecuador and Galapagos</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -6583,7 +6583,7 @@ Buenos Aires	15	Ker San Telmo	Huinid Obelisco	Sofitel Buenos Aires]]></get-trip-
     <get-trip-id>GT-NBBSREIZEN-35865</get-trip-id>
     <get-trip-id-org>4297</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of Argentina</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -9857,7 +9857,7 @@ Opmerkingen
     <get-trip-id>GT-NBBSREIZEN-36138</get-trip-id>
     <get-trip-id-org>33457</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Land without Limits</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -11549,7 +11549,7 @@ Léon	15-16	Flor de Sarta	La Recoleccion]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-36151</get-trip-id>
     <get-trip-id-org>9391</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Exploring Panama and Costa Rica</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -14403,7 +14403,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36827</get-trip-id>
     <get-trip-id-org>38713</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Island Hopping around Bali</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
