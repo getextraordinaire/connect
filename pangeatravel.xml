@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T03:00:35.719Z" count="58">
+<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T11:20:29.393Z" count="58">
   <trip>
     <get-trip-id>GT-PANGEATRAVEL-531</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
@@ -448,7 +448,7 @@ Het Mercure Resort is gelegen aan de hoofdstraat van Sanur, met veel winkels en 
     <get-trip-id>GT-PANGEATRAVEL-20441</get-trip-id>
     <get-trip-id-org>231</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Heritage Rajasthan &amp; Noord-India</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -638,7 +638,7 @@ Pride Plaza Hotel Aerocity is een grootschalig, strak hotel nabij de internation
     <get-trip-id>GT-PANGEATRAVEL-20454</get-trip-id>
     <get-trip-id-org>175</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rootsreis China (Sichuan)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -820,7 +820,7 @@ De ruime en stijlvolle kamers zijn uitgerust met gratis wifi en een comfortabele
     <get-trip-id>GT-PANGEATRAVEL-20469</get-trip-id>
     <get-trip-id-org>253</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sikkim &amp; Bhutan</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -1004,7 +1004,7 @@ Een mooie accommodatie, gelegen beneden aan de rivier met zicht op de landingsba
     <get-trip-id>GT-PANGEATRAVEL-20497</get-trip-id>
     <get-trip-id-org>293</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Combinatiereis Kenia en Seychellen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1468,7 +1468,7 @@ Hotel Sumorum is gelegen aan de zuidkust van Jeju eiland, pal aan de rotskust. E
     <get-trip-id>GT-PANGEATRAVEL-20511</get-trip-id>
     <get-trip-id-org>320</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Laos &amp; Cambodja Highlights</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1668,7 +1668,7 @@ The Secret Garden (4-sterren) ligt aan het ongerepte, witte zandstrand van Pagod
     <get-trip-id>GT-PANGEATRAVEL-20535</get-trip-id>
     <get-trip-id-org>205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Java &amp; Bali</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -1875,7 +1875,7 @@ Het Mercure Resort is gelegen aan de hoofdstraat van Sanur, met veel winkels en 
     <get-trip-id>GT-PANGEATRAVEL-20548</get-trip-id>
     <get-trip-id-org>269</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roadtrip Hokkaido</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -2006,7 +2006,7 @@ Het Shiretoko Daiichi Hotel (3 à 4-sterren) is een goede uitvalsbasis om het Sh
     <get-trip-id>GT-PANGEATRAVEL-20585</get-trip-id>
     <get-trip-id-org>184</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Combinatiereis Japan &amp; China</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -2456,7 +2456,7 @@ Amritara A Beach Symphony is een kleinschalige, sfeervolle, boutique accommodati
     <get-trip-id>GT-PANGEATRAVEL-20613</get-trip-id>
     <get-trip-id-org>440</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Huwelijksreis Romantisch Maleisië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2775,7 +2775,7 @@ Het resort beschikt over vijf eetgelegenheden en drie bars. Het Dayang Café is 
     <get-trip-id>GT-PANGEATRAVEL-20680</get-trip-id>
     <get-trip-id-org>221</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Flores &amp; Komodo</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -3668,7 +3668,7 @@ Een mooie accommodatie, gelegen beneden aan de rivier met zicht op de landingsba
     <get-trip-id>GT-PANGEATRAVEL-34433</get-trip-id>
     <get-trip-id-org>2396</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam &amp; Cambodja Compleet</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -3881,7 +3881,7 @@ In het hart van BKK1 (de meest trendy wijk van Phnom Penh) ligt het ‘urban’ 
     <get-trip-id>GT-PANGEATRAVEL-34443</get-trip-id>
     <get-trip-id-org>1211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Thailand &amp; Cambodja</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4095,7 +4095,7 @@ In het hart van BKK1 (de meest trendy wijk van Phnom Penh) ligt het ‘urban’ 
     <get-trip-id>GT-PANGEATRAVEL-34445</get-trip-id>
     <get-trip-id-org>112</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights China</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4268,7 +4268,7 @@ Eaton HK is een stijlvol viersterrenhotel in de levendige wijk Kowloon, direct a
     <get-trip-id>GT-PANGEATRAVEL-34446</get-trip-id>
     <get-trip-id-org>2433</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis China (tieners)</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5315,7 +5315,7 @@ Huni Lio (4-sterren) is een kleinschalig, boutique hotel gelegen in het Lio Tour
     <get-trip-id>GT-PANGEATRAVEL-34469</get-trip-id>
     <get-trip-id-org>255</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Noord- en Zuid-India</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5876,7 +5876,7 @@ Bent u op zoek naar absolute rust en is duiken uw grote hobby? Dan is het Prince
     <get-trip-id>GT-PANGEATRAVEL-34484</get-trip-id>
     <get-trip-id-org>206</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Sumatra, Java &amp; Bali</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -6492,7 +6492,7 @@ Beleef het boeddhistische kloosterleven met een verblijf in Shojoshin-in, een va
     <get-trip-id>GT-PANGEATRAVEL-34495</get-trip-id>
     <get-trip-id-org>316</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Zuid-Korea &amp; Japan</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -6907,7 +6907,7 @@ In het hart van BKK1 (de meest trendy wijk van Phnom Penh) ligt het ‘urban’ 
     <get-trip-id>GT-PANGEATRAVEL-34507</get-trip-id>
     <get-trip-id-org>425</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Maleisisch Borneo: Sarawak &amp; Sabah</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -7254,7 +7254,7 @@ Het Swiss Garden Resort is ideaal gelegen aan het strand, op ongeveer 15 km van 
     <get-trip-id>GT-PANGEATRAVEL-34547</get-trip-id>
     <get-trip-id-org>332</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Sri Lanka (winter)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -7408,7 +7408,7 @@ Lake Lodge Colombo by Nyne Hotels is een kleinschalig, modern hotel met slechts 
     <get-trip-id>GT-PANGEATRAVEL-34548</get-trip-id>
     <get-trip-id-org>343</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Sri Lanka (zomer)</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -7572,7 +7572,7 @@ Trinco Blu by Cinnamon ligt nabij de plaats Trincomalee aan de oostkust van Sri 
     <get-trip-id>GT-PANGEATRAVEL-34549</get-trip-id>
     <get-trip-id-org>2401</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uniek Sri Lanka</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -7894,7 +7894,7 @@ Met slechts 9 bijzondere suites staat het Aathma Colombo House gelijk aan een bi
     <get-trip-id>GT-PANGEATRAVEL-34562</get-trip-id>
     <get-trip-id-org>4510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Taiwan</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -7975,7 +7975,7 @@ Liever een andere route? Kies Highway 9 door de groene East Rift Valley. Deze we
     <get-trip-id>GT-PANGEATRAVEL-34563</get-trip-id>
     <get-trip-id-org>3189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Taiwan &amp; Zuid-Korea</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -8164,7 +8164,7 @@ Asti Hotel Busan ligt direct naast het bruisende Busan Station en biedt een uitz
     <get-trip-id>GT-PANGEATRAVEL-34564</get-trip-id>
     <get-trip-id-org>4530</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Taiwan Natuurreis</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8242,7 +8242,7 @@ Liever een andere route? Kies Highway 9 door de groene East Rift Valley. Deze we
     <get-trip-id>GT-PANGEATRAVEL-34586</get-trip-id>
     <get-trip-id-org>2383</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Korea Compleet</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -8470,7 +8470,7 @@ Het Sea Cruise Hotel in Sokcho is een goed middenklasse hotel op een toplocatie 
     <get-trip-id>GT-PANGEATRAVEL-34587</get-trip-id>
     <get-trip-id-org>315</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Traditioneel Zuid-Korea</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -8784,7 +8784,7 @@ Bent u op zoek naar een kleinschalige accommodatie in het noorden van Zanzibar? 
     <get-trip-id>GT-PANGEATRAVEL-34611</get-trip-id>
     <get-trip-id-org>274</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Kenia Safari</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -8895,7 +8895,7 @@ Gelegen in het Ol Pejeta Conservancy. Op dit prive reservaat heeft de Serena gro
     <get-trip-id>GT-PANGEATRAVEL-34612</get-trip-id>
     <get-trip-id-org>283</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Kenia: Safari &amp; Strand</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -9028,7 +9028,7 @@ Een leuk kleinschalig hotel ten zuiden van Mombasa. Het voordeel van Pinewood Be
     <get-trip-id>GT-PANGEATRAVEL-34613</get-trip-id>
     <get-trip-id-org>302</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Kenia en Tanzania</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -9145,7 +9145,7 @@ Verblijven in een kleinschalig accommodatie en tegelijkertijd iets betekenen voo
     <get-trip-id>GT-PANGEATRAVEL-34706</get-trip-id>
     <get-trip-id-org>5065</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Combinatiereis Colombia &amp; Panama</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -9354,7 +9354,7 @@ Casa Magnolia Inn is een charmant boutique hotel gelegen in Panama City. Het is 
     <get-trip-id>GT-PANGEATRAVEL-36600</get-trip-id>
     <get-trip-id-org>5938</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Antarctica - de klassieke route</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -9467,7 +9467,7 @@ De m/v Hondius gebruiken we veel voor onze expeditiecruises naar Antarctica. Het
     <get-trip-id>GT-PANGEATRAVEL-36603</get-trip-id>
     <get-trip-id-org>6348</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Combinatiereis Argentinië &amp; Antarctica</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
