@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="activityinternational" partner="Activity International" generated="2026-09-03T21:57:19.428Z" count="43">
+<trips feed="activityinternational" partner="Activity International" generated="2026-09-04T03:00:35.719Z" count="43">
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35899</get-trip-id>
     <get-trip-id-org>49916</get-trip-id-org>
@@ -851,7 +851,7 @@ Je reist samen met een internationale groep gelijkgestemde backpackers, waardoor
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35908</get-trip-id>
     <get-trip-id-org>38790</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Travelling Classroom Costa Rica &amp; Guatemala</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -994,7 +994,7 @@ Iguana Perdida hostel – Lago Atitlan; kom bij ons in het paradijs onder de vul
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35909</get-trip-id>
     <get-trip-id-org>38764</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Cuba</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -1103,7 +1103,7 @@ Kickstart Cuba is geschikt voor iedereen die 4 fantastische weken wil doorbrenge
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35910</get-trip-id>
     <get-trip-id-org>38643</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Marokko</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -2628,7 +2628,7 @@ December
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35920</get-trip-id>
     <get-trip-id-org>2205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vrijwilligerswerk op Bali</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -2757,7 +2757,7 @@ Deelnemers hebben het hier vrijwel altijd ontzettend naar hun zin. De afwisselen
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35922</get-trip-id>
     <get-trip-id-org>1896</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en Vrijwilligerswerk Hua Hin</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2895,7 +2895,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35923</get-trip-id>
     <get-trip-id-org>1462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highschool USA Exchange Program</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -4016,7 +4016,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35933</get-trip-id>
     <get-trip-id-org>494</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kwazulu Big 5 project</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4113,7 +4113,7 @@ De werkzaamheden zoals genoemd zijn voorbeelden en altijd onder voorbehoud. Werk
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35935</get-trip-id>
     <get-trip-id-org>492</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kruger Research and Conservation</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4215,7 +4215,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35936</get-trip-id>
     <get-trip-id-org>478</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vrijwilligerswerk in Zambia</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -5206,7 +5206,7 @@ Je hoeft dus nog geen duikdiploma te hebben, die kan je ter plekke halen. Je moe
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36195</get-trip-id>
     <get-trip-id-org>18443</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Afrika: Cape Surf Adventure</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -5491,7 +5491,7 @@ Ben jij tussen de 18 en 30 jaar en lijkt het je geweldig om een tijdje in Japan 
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36857</get-trip-id>
     <get-trip-id-org>58521</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuidoost-Azië Highlights</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -5631,7 +5631,7 @@ Of je nu voor het eerst gaat backpacken of al wat reiservaring hebt: deze reis i
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36884</get-trip-id>
     <get-trip-id-org>59307</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultimate Thailand Island Hopper</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -5845,7 +5845,7 @@ De backpacker die graag snel nieuwe vrienden wil maken. En het nieuwe jaar wil v
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36946</get-trip-id>
     <get-trip-id-org>59463</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Bali</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
