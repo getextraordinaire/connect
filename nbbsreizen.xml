@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-03T21:57:19.428Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-04T03:00:35.719Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
     <get-trip-id-org>140730</get-trip-id-org>
@@ -1287,7 +1287,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35816</get-trip-id>
     <get-trip-id-org>57159</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Amazing Alaska</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -1420,7 +1420,7 @@ Opmerkingen
     <get-trip-id>GT-NBBSREIZEN-35817</get-trip-id>
     <get-trip-id-org>54602</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Galapagos cruise per Fragata</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -1522,7 +1522,7 @@ Opmerkingen
     <get-trip-id>GT-NBBSREIZEN-35819</get-trip-id>
     <get-trip-id-org>53529</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Galapagos cruise per Isabela III</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -2557,7 +2557,7 @@ Cartagena	13-14	Santa Catalina	OSH Hotel]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35830</get-trip-id>
     <get-trip-id-org>26504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of Colombia</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2720,7 +2720,7 @@ Cartagena	10-12	Santa Catalina	OSH Hotel]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35831</get-trip-id>
     <get-trip-id-org>26384</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cape to the Falls</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -2950,7 +2950,7 @@ Victoria Falls	21-22	Batonka Guest Lodge (standaard)]]></get-trip-scraped-conten
     <get-trip-id>GT-NBBSREIZEN-35832</get-trip-id>
     <get-trip-id-org>22814</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Suriname Discovery</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -5171,7 +5171,7 @@ Update 06.02.26]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35855</get-trip-id>
     <get-trip-id-org>5616</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Galapagos eilandhoppen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -5309,7 +5309,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35856</get-trip-id>
     <get-trip-id-org>5135</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Route 66</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -5449,7 +5449,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35857</get-trip-id>
     <get-trip-id-org>5127</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Capital Region</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -5561,7 +5561,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35858</get-trip-id>
     <get-trip-id-org>5124</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Classic New England</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -7294,7 +7294,7 @@ Lima	16	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35868</get-trip-id>
     <get-trip-id-org>4269</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best of Peru</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -7524,7 +7524,7 @@ Lima	18	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35869</get-trip-id>
     <get-trip-id-org>4252</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of Brazil</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -7680,7 +7680,7 @@ Praia do Forte	13-14	Porto Zarpa	Tivoli Eco Resort]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35870</get-trip-id>
     <get-trip-id-org>4248</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Suriname Experience</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -8439,7 +8439,7 @@ N.B. In sommige plaatsen kan het voorkomen dat er geen accommodatie in de gekoze
     <get-trip-id>GT-NBBSREIZEN-35881</get-trip-id>
     <get-trip-id-org>5211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Terrific Tasmania</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -8519,7 +8519,7 @@ Hamilton	9	Curringa Farm (romantic studio Echidna cottage, 3 pk is driekamer del
     <get-trip-id>GT-NBBSREIZEN-35882</get-trip-id>
     <get-trip-id-org>5209</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Southern Scenic Australia</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8646,7 +8646,7 @@ Adelaide	17	Holiday Inn Express Adelaide (standaard, 3 pers. in 2 kamers)	Hotel 
     <get-trip-id>GT-NBBSREIZEN-35883</get-trip-id>
     <get-trip-id-org>5189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wonders of Western Australia</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -8776,7 +8776,7 @@ Darwin	20	Argus Hotel Darwin (superior king, 3 pk is deluxe driekamer)
     <get-trip-id>GT-NBBSREIZEN-35884</get-trip-id>
     <get-trip-id-org>5168</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>G&apos;Day Sunshine</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -8904,7 +8904,7 @@ Cairns	17	Cairns Queenslander Apartments (mimosa familie driekamer appartement)]
     <get-trip-id>GT-NBBSREIZEN-35947</get-trip-id>
     <get-trip-id-org>41665</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fabulous Florida</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -10178,7 +10178,7 @@ Opmerkingen
     <get-trip-id>GT-NBBSREIZEN-36141</get-trip-id>
     <get-trip-id-org>5139</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Atlantic to Eastern Canada</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -12040,7 +12040,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-36154</get-trip-id>
     <get-trip-id-org>4237</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica Adventure</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -12378,7 +12378,7 @@ Bovenstaande hotellijst geldt als richtlijn in de genoemde categorie. Wenst u me
     <get-trip-id>GT-NBBSREIZEN-36220</get-trip-id>
     <get-trip-id-org>5137</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Canada&apos;s Maritime Wonders</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -12668,7 +12668,7 @@ Kasane	14-16	Chobe Safari Lodge (luxury)]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-36818</get-trip-id>
     <get-trip-id-org>131552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sabah Selfdrive Adventure</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -12837,7 +12837,7 @@ De betalings- en annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden e
     <get-trip-id>GT-NBBSREIZEN-36819</get-trip-id>
     <get-trip-id-org>98974</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of Thailand</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -13040,7 +13040,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36820</get-trip-id>
     <get-trip-id-org>91177</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Family Adventure</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -14743,7 +14743,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36829</get-trip-id>
     <get-trip-id-org>16099</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Treasures of Bali</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -14963,7 +14963,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36830</get-trip-id>
     <get-trip-id-org>3891</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Java Bali Overland</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -15220,7 +15220,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36831</get-trip-id>
     <get-trip-id-org>4091</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature &amp; Culture of Malaysia Selfdrive</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -15427,7 +15427,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36832</get-trip-id>
     <get-trip-id-org>4077</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stel uw eigen reis door Thailand samen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
