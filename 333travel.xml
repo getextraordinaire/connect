@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-04T11:25:17.709Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-04T11:47:35.292Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -10,7 +10,7 @@
     <get-trip-duration>8</get-trip-duration>
     <get-trip-lowest-price-2p>2.590</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.590</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.333travel.nl/china/tour/tibet-gebedsvlaggen-in-de-wind</get-trip-url>
@@ -133,13 +133,13 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-21839</get-trip-id>
     <get-trip-id-org>T-CN-4305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Zijderoute van Marco Polo</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>3.078</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>3.078</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.333travel.nl/china/tour/de-zijderoute-van-marco-polo</get-trip-url>
@@ -324,7 +324,7 @@ Omdat het van november t/m maart erg koud is in deze regio, bieden wij deze tour
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>1.851</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.851</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://www.333travel.nl/vietnam/tour/verborgen-plekjes-van-noord-vietnam</get-trip-url>
@@ -476,7 +476,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-duration>6</get-trip-duration>
     <get-trip-lowest-price-2p>746</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>746</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/australie/tour/autorondreis-sydney-brisbane-nationale-parken-en-stranden</get-trip-url>
@@ -587,7 +587,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.616</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.616</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/australie/tour/autorondreis-brisbane-cairns-oostkust-experience</get-trip-url>
@@ -760,7 +760,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
     <get-trip-duration>7</get-trip-duration>
     <get-trip-lowest-price-2p>968</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>968</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/australie/tour/autorondreis-sydney-melbourne-via-de-kustroute</get-trip-url>
@@ -882,13 +882,13 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
     <get-trip-id>GT-333TRAVEL-21995</get-trip-id>
     <get-trip-id-org>T-AU-6659</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Melbourne - Adelaide via de Great Ocean Road</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>978</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>978</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/australie/tour/autorondreis-melbourne-adelaide-via-de-great-ocean-road</get-trip-url>
@@ -1023,7 +1023,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
     <get-trip-duration>6</get-trip-duration>
     <get-trip-lowest-price-2p>1.856</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.856</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
     <get-trip-url>https://www.333travel.nl/maleisie/tour/jungle-avontuur-in-tabin-kinabatangan</get-trip-url>
@@ -3255,7 +3255,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22099</get-trip-id>
     <get-trip-id-org>R-0061</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordelijke charme en historische schatten</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -5528,7 +5528,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22112</get-trip-id>
     <get-trip-id-org>R-0201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sri Lanka Highlights</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -7212,7 +7212,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22125</get-trip-id>
     <get-trip-id-org>R-0217</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal - De Wonderen van Sri Lanka</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -8995,7 +8995,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22138</get-trip-id>
     <get-trip-id-org>R-0323</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hemels Himalaya van Tibet en Nepal</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -10561,7 +10561,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22151</get-trip-id>
     <get-trip-id-org>R-0464</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Paradijselijk West-Maleisië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -12598,7 +12598,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22164</get-trip-id>
     <get-trip-id-org>R-0482</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights West-Maleisië</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -15167,7 +15167,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22177</get-trip-id>
     <get-trip-id-org>R-0506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali en Lombok Deluxe</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -20822,7 +20822,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22216</get-trip-id>
     <get-trip-id-org>R-0674</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Vietnam</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -23182,7 +23182,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22229</get-trip-id>
     <get-trip-id-org>R-0757</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nepal Highlights</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -26201,7 +26201,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22255</get-trip-id>
     <get-trip-id-org>R-4502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali en Flores</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -31137,7 +31137,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22307</get-trip-id>
     <get-trip-id-org>R-7006</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of the Wild West</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -32968,7 +32968,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22320</get-trip-id>
     <get-trip-id-org>R-7023</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Magisch Florida</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -35345,7 +35345,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22346</get-trip-id>
     <get-trip-id-org>R-7061</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordoost Amerika by Rail</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -40149,7 +40149,7 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
     <get-trip-id>GT-333TRAVEL-22372</get-trip-id>
     <get-trip-id-org>R-8013</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Oost-Canada</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -41037,7 +41037,7 @@ Visum kosten Canada en Amerika]]></get-trip-scraped-content>
     <get-trip-duration>4</get-trip-duration>
     <get-trip-lowest-price-2p>867</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>867</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>China</get-trip-country>
     <get-trip-url>https://www.333travel.nl/china/tour/de-wonderbaarlijke-wereld-van-zhangjiajie-national-park</get-trip-url>
@@ -41122,7 +41122,7 @@ Deze tour is te boeken vanuit Beijing, Shanghai, Xian of Chongqing, waarbij je d
     <get-trip-duration>8</get-trip-duration>
     <get-trip-lowest-price-2p>1.058</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.058</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://www.333travel.nl/vietnam/tour/ongerept-noord-vietnam</get-trip-url>
@@ -41246,13 +41246,13 @@ Vanwege omstandigheden zoals het weer kan het voorkomen dat er ter plaatse van h
     <get-trip-id>GT-333TRAVEL-22840</get-trip-id>
     <get-trip-id-org>T-IN-0703</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>India&apos;s Gouden Driehoek</get-trip-name>
     <get-trip-duration>5</get-trip-duration>
     <get-trip-lowest-price-2p>907</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>907</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>India</get-trip-country>
     <get-trip-url>https://www.333travel.nl/india/tour/indias-gouden-driehoek</get-trip-url>
@@ -41355,7 +41355,7 @@ Het vervoer is afhankelijk van de grootte van je reisgezelschap:
     <get-trip-duration>4</get-trip-duration>
     <get-trip-lowest-price-2p>1.087</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.087</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nepal</get-trip-country>
     <get-trip-url>https://www.333travel.nl/nepal/tour/trekking-in-nepal</get-trip-url>
@@ -41442,7 +41442,7 @@ De beste tijd om een trekking in Nepal te maken is van midden september - april.
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>1.116</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.116</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-url>https://www.333travel.nl/zuid-afrika/tour/van-kaapstad-tot-kalahari-woestijn</get-trip-url>
@@ -45825,7 +45825,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-25947</get-trip-id>
     <get-trip-id-org>R-0086</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en Jungle van Thailand</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -47120,7 +47120,7 @@ Houd er rekening mee dat sommige hotels bij aankomst een borg via de creditcard 
     <get-trip-id>GT-333TRAVEL-29054</get-trip-id>
     <get-trip-id-org>R-0494</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Familiereis Maleisië 2 weken</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -48094,7 +48094,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29366</get-trip-id>
     <get-trip-id-org>R-8513</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Safari &amp; Strand</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -48392,7 +48392,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-29431</get-trip-id>
     <get-trip-id-org>R-0915</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Dubai, moderne stad en oneindige woestijn</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -64496,7 +64496,7 @@ P.p. vanaf:
     <get-trip-duration>4</get-trip-duration>
     <get-trip-lowest-price-2p>4.430</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>4.430</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>Unknown</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>Excluded</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Groenland</get-trip-country>
     <get-trip-country>Noordpool</get-trip-country>
@@ -65766,7 +65766,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-34838</get-trip-id>
     <get-trip-id-org>R-7902</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Cebu en Bohol</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -71040,7 +71040,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-36099</get-trip-id>
     <get-trip-id-org>R-8612</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour van Krater tot Eindeloze Savannes</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -71394,7 +71394,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-36177</get-trip-id>
     <get-trip-id-org>R-7808</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Chili en Argentinië, Van de Andes tot de Watervallen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -76373,7 +76373,7 @@ Straatverlichting is beperkt of afwezig buiten de steden. Rijd bij voorkeur niet
     <get-trip-id>GT-333TRAVEL-37308</get-trip-id>
     <get-trip-id-org>R-1310</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Kaapverdië: São Vicente &amp; Santo Antão (10 dagen)</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
