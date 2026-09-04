@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-03T21:57:19.428Z" count="21">
+<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-04T03:00:35.719Z" count="21">
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31439</get-trip-id>
     <get-trip-id-org>6443</get-trip-id-org>
@@ -1906,7 +1906,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31448</get-trip-id>
     <get-trip-id-org>6733</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika, Mozambique Beach en Bush comfort groepssafari</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2184,7 +2184,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31450</get-trip-id>
     <get-trip-id-org>6738</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best of Namibia kampeer groepssafari</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -2462,7 +2462,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31451</get-trip-id>
     <get-trip-id-org>6740</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wild Namibia Adventure comfort groepssafari reis</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -2961,7 +2961,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31462</get-trip-id>
     <get-trip-id-org>6758</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zambia en Namibië comfort groepssafari</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3250,7 +3250,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31463</get-trip-id>
     <get-trip-id-org>6759</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zambia en Namibia kampeer groepsafari</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3544,7 +3544,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31464</get-trip-id>
     <get-trip-id-org>6769</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Walking South Africa Comfort groepssafari</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4911,7 +4911,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31477</get-trip-id>
     <get-trip-id-org>9257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Botswana Wildlife camping groepssafari</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
