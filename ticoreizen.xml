@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-04T03:00:35.719Z" count="92">
+<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-04T11:20:29.393Z" count="92">
   <trip>
     <get-trip-id>GT-TICOREIZEN-30729</get-trip-id>
     <get-trip-id-org>2</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe rondreis | Wings over Namibië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -318,9 +318,9 @@ Bij deze prijsindicatie zijn alle vluchten (Economy Class), het genoemde transpo
 Bovengenoemde reissommen zijn gebaseerd op laagseizoentarieven. De exclusieve Argentinië reis is uiteraard naar wens aan te passen en uit te breiden.
 Charissa Martens • Reisexpert Argentinië
 Heeft u vragen?
-Alexander Paalman • Reisexpert Argentinië
-Heeft u vragen?
 Gemma Hanrath • Reisexpert Argentinië
+Heeft u vragen?
+Alexander Paalman • Reisexpert Argentinië
 Heeft u vragen?
 
 #Land
@@ -699,7 +699,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-30737</get-trip-id>
     <get-trip-id-org>16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis door een ongerept deel van Chili | Carretera Austral</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -792,9 +792,9 @@ Bij de reissom zijn de intercontinentale en binnenlandse vluchten in Economy Cla
 Bovengenoemde reissom is gebaseerd op schouderseizoentarieven. Deze Carretera Austral rondreis is volledig naar wens aan te passen en uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
 Gemma Hanrath • Reisexpert Argentinië
 Heeft u vragen?
-Charissa Martens • Reisexpert Argentinië
-Heeft u vragen?
 Alexander Paalman • Reisexpert Argentinië
+Heeft u vragen?
+Charissa Martens • Reisexpert Argentinië
 Heeft u vragen?
 
 #Land
@@ -954,7 +954,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-30740</get-trip-id>
     <get-trip-id-org>22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Colombia</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1337,7 +1337,7 @@ Het overgrote gedeelte van Bolivia (ca. 95%) is katholiek.]]></get-trip-scraped-
     <get-trip-id>GT-TICOREIZEN-30752</get-trip-id>
     <get-trip-id-org>49</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Sri Lanka Deluxe</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1550,7 +1550,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
     <get-trip-id>GT-TICOREIZEN-30768</get-trip-id>
     <get-trip-id-org>88</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Cambodja Delight</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -1639,9 +1639,9 @@ Prijsindicatie voor deze rondreis Cambodja Delight
 Voor deze 18-daagse rondreis Cambodja Delight geldt een indicatie reissom van € 7.500 per persoon (bij deelname van 2 personen) en op basis van verblijf in de vermelde accommodaties.
 Deze prijsindicaties is inclusief de vermelde vluchten (in economy class) en is gebaseerd op laagseizoentarieven. Deze rondreis Cambodja is uiteraard volledig naar wens aan te passen en uit te breiden.
 Wilt u meer weten? Neem dan contact met ons op! Wij assisteren u graag met het samenstellen van uw ideale reis door Cambodja!
-Charissa Martens • Reisexpert Cambodja
-Heeft u vragen?
 Melanie Brouwer • Reisexpert Cambodja
+Heeft u vragen?
+Charissa Martens • Reisexpert Cambodja
 Heeft u vragen?
 
 #Land
@@ -1761,7 +1761,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
     <get-trip-id>GT-TICOREIZEN-30769</get-trip-id>
     <get-trip-id-org>90</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Cambodja Deluxe</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -2119,9 +2119,9 @@ Voor deze 21-daagse autorondreis Brazilië dient u rekening te houden met een re
 Inbegrepen:
 In deze reissom zijn alle vliegreizen (in Economy Class), benodigde transfers, genoemde excursies, autohuur en hotelovernachtingen inbegrepen. Mocht u graag Business Class willen reizen, dan horen wij dit graag zodat we deze optie voor u kunnen meenemen in de offerte.
 Bovengenoemde reissom is gebaseerd op laagseizoentarieven. Reist u in het hoogseizoen, dan dient u rekening te houden met een toeslag. Uiteraard is deze reis geheel naar wens aan te passen.
-Charissa Martens • Reisexpert Brazilië
-Heeft u vragen?
 Alexander Paalman • Reisexpert Brazilië
+Heeft u vragen?
+Charissa Martens • Reisexpert Brazilië
 Heeft u vragen?
 
 #Land
@@ -2313,7 +2313,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
     <get-trip-id>GT-TICOREIZEN-30789</get-trip-id>
     <get-trip-id-org>134</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Brazilië Deluxe</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -2598,7 +2598,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
     <get-trip-id>GT-TICOREIZEN-30802</get-trip-id>
     <get-trip-id-org>153</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de hoogtepunten | Vietnam Delight</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -2874,7 +2874,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
     <get-trip-id>GT-TICOREIZEN-30806</get-trip-id>
     <get-trip-id-org>158</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Vietnam Deluxe</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -2990,9 +2990,9 @@ Bent u geïnteresseerd geraakt in deze of een andere Vietnam reis? Neem dan cont
 Prijsindicatie voor deze luxe rondreis Vietnam
 Voor deze 20-daagse luxe rondreis Vietnam geldt een indicatie reissom van € 12.375 per persoon (bij deelname van 2 personen) en op basis van verblijf in de vermelde accommodaties.
 Deze prijsindicatie is inclusief alle vluchten (in Economy Class) en is gebaseerd op laagseizoentarieven. Deze luxe rondreis Vietnam is uiteraard volledig naar wens aan te passen. Zo kunt u de reis uitbreiden of juist inkorten. Ook kunt u er voor kiezen om tegen een toeslag Business Class te vliegen. Laat u ons al uw wensen weten?
-Daantje van Schagen • Reisexpert Vietnam
-Heeft u vragen?
 Charissa Martens • Reisexpert Vietnam
+Heeft u vragen?
+Daantje van Schagen • Reisexpert Vietnam
 Heeft u vragen?
 
 #Land
@@ -3154,7 +3154,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
     <get-trip-id>GT-TICOREIZEN-30829</get-trip-id>
     <get-trip-id-org>196</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs prachtige natuur | Natuur &amp; Strand Mauritius</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -3305,7 +3305,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
     <get-trip-id>GT-TICOREIZEN-30830</get-trip-id>
     <get-trip-id-org>197</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Mauritius</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -3448,7 +3448,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
     <get-trip-id>GT-TICOREIZEN-30832</get-trip-id>
     <get-trip-id-org>199</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Mauritius Deluxe</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -3854,7 +3854,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
     <get-trip-id>GT-TICOREIZEN-30845</get-trip-id>
     <get-trip-id-org>227</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe self-drive reis op privébasis | Namibië Delight</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -4068,7 +4068,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
     <get-trip-id>GT-TICOREIZEN-30856</get-trip-id>
     <get-trip-id-org>240</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs schitterende natuur | Botswana Deluxe</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -4237,7 +4237,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
     <get-trip-id>GT-TICOREIZEN-30857</get-trip-id>
     <get-trip-id-org>241</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Botswana Deluxe</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -4400,7 +4400,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
     <get-trip-id>GT-TICOREIZEN-30858</get-trip-id>
     <get-trip-id-org>242</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Panama Deluxe</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4884,7 +4884,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
     <get-trip-id>GT-TICOREIZEN-30925</get-trip-id>
     <get-trip-id-org>377</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe Seychellen reis langs oogverblindende eilanden | Seychellen Delight</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5257,7 +5257,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
     <get-trip-id>GT-TICOREIZEN-30937</get-trip-id>
     <get-trip-id-org>391</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Sri Lanka</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5474,7 +5474,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
     <get-trip-id>GT-TICOREIZEN-30948</get-trip-id>
     <get-trip-id-org>404</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Seychellen Deluxe</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -5653,7 +5653,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
     <get-trip-id>GT-TICOREIZEN-30950</get-trip-id>
     <get-trip-id-org>409</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Chili Deluxe</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5753,9 +5753,9 @@ Bij deze prijsindicatie zijn alle vluchten (Economy Class), het genoemde transpo
 Bovengenoemde reissommen zijn gebaseerd op laagseizoentarieven. Deze Chili reis is uiteraard naar wens aan te passen en uit te breiden.
 Alexander Paalman • Reisexpert Chili
 Heeft u vragen?
-Gemma Hanrath • Reisexpert Chili
-Heeft u vragen?
 Charissa Martens • Reisexpert Chili
+Heeft u vragen?
+Gemma Hanrath • Reisexpert Chili
 Heeft u vragen?
 
 #Land
@@ -6169,7 +6169,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
     <get-trip-id>GT-TICOREIZEN-30972</get-trip-id>
     <get-trip-id-org>436</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Een verblijf in de Aman Hotels in Japan</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -6420,7 +6420,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
     <get-trip-id>GT-TICOREIZEN-30976</get-trip-id>
     <get-trip-id-org>448</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de mooiste natuur | Remote Argentinië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -6629,7 +6629,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
     <get-trip-id>GT-TICOREIZEN-30988</get-trip-id>
     <get-trip-id-org>469</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Colombia Deluxe</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -6731,9 +6731,9 @@ Prijsindicatie voor deze luxe rondreis Colombia
 Voor deze 19-daagse luxe rondreis Colombia, waarbij u kennis maakt met het prachtige Colombia en verblijft in zijn mooiste en meest exclusieve accommodaties, dient u rekening te houden met een reissom vanaf € 16.650 per persoon (bij deelname van 2 personen).
 Inbegrepen:
 Deze prijsindicatie is gebaseerd op schouderseizoentarieven en inclusief alle vermelde vliegreizen in Economy Class, transport, excursies en overnachtingen. Uiteraard is deze reis geheel naar wens aan te passen of uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
-Gemma Hanrath • Reisexpert Colombia
-Heeft u vragen?
 Alexander Paalman • Reisexpert Colombia
+Heeft u vragen?
+Gemma Hanrath • Reisexpert Colombia
 Heeft u vragen?
 
 #Land
@@ -6954,11 +6954,11 @@ Voor deze 25-daagse Patagonië reis door het diepe zuiden van Chili en Argentini
 Inbegrepen:
 Bij deze prijsindicatie zijn alle vluchten (Economy Class), de benodigde transfers, autohuur, hotelovernachtingen en de in het programma vermelde excursies inbegrepen.
 Bovengenoemde reissom is gebaseerd op schouderseizoentarieven. Deze Patagonië rondreis is volledig naar wens aan te passen en uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
-Gemma Hanrath • Reisexpert Argentinië
-Heeft u vragen?
 Alexander Paalman • Reisexpert Argentinië
 Heeft u vragen?
 Charissa Martens • Reisexpert Argentinië
+Heeft u vragen?
+Gemma Hanrath • Reisexpert Argentinië
 Heeft u vragen?
 
 #Land
@@ -7118,7 +7118,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-31128</get-trip-id>
     <get-trip-id-org>64</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Het noorden van Argentinië en Chili</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -7226,11 +7226,11 @@ Voor deze 22-daagse reis door het ongerepte noorden van Argentinië en Chili die
 Inbegrepen:
 Bij deze prijsindicatie zijn alle vluchten (Economy Class), de benodigde transfers, autohuur, hotelovernachtingen en de in het programma vermelde excursies inbegrepen.
 Bovengenoemde reissommen zijn gebaseerd op laagseizoentarieven. Deze rondreis is uiteraard naar wens aan te passen en uit te breiden.
-Alexander Paalman • Reisexpert Argentinië
-Heeft u vragen?
 Gemma Hanrath • Reisexpert Argentinië
 Heeft u vragen?
 Charissa Martens • Reisexpert Argentinië
+Heeft u vragen?
+Alexander Paalman • Reisexpert Argentinië
 Heeft u vragen?
 
 #Land
@@ -7390,7 +7390,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-31133</get-trip-id>
     <get-trip-id-org>114</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis in de mooiste accommodaties | Ecuador Deluxe</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -7952,9 +7952,9 @@ Voor deze 24-daagse combinatiereis Peru & Ecuador geldt een indicatie reissom va
 Inbegrepen:
 In deze reissom zijn alle vliegreizen (in Economy Class), benodigde transfers, genoemde excursies en hotelovernachtingen inbegrepen. Mocht u graag Business Class willen reizen, dan horen wij dit graag zodat we deze optie voor u kunnen meenemen in de offerte.
 Bovengenoemde reissom is gebaseerd op laagseizoentarieven. Reist u in het hoogseizoen, dan dient u rekening te houden met een toeslag. Uiteraard is deze combinatiereis Peru en Ecuador geheel naar wens aan te passen.
-Alexander Paalman • Reisexpert Ecuador
-Heeft u vragen?
 Charissa Martens • Reisexpert Peru
+Heeft u vragen?
+Alexander Paalman • Reisexpert Ecuador
 Heeft u vragen?
 
 #Land
@@ -8479,9 +8479,9 @@ Prijsindicatie voor deze luxe Indochina rondreis
 Voor deze 23-daagse luxe Indochina rondreis geldt een indicatie reissom van € 12.560 per persoon (bij deelname van 2 personen) en is op basis van verblijf in de vermelde accommodaties.
 Deze prijsindicatie is inclusief alle vluchten (in economy class) en is gebaseerd op laagseizoentarieven. De reis is uiteraard volledig naar wens aan te passen en uit te breiden.
 Wilt u meer weten? Neem dan contact met ons op! Wij assisteren u graag met het samenstellen van uw ideale luxe Indochina rondreis!
-Charissa Martens • Reisexpert Cambodja
-Heeft u vragen?
 Melanie Brouwer • Reisexpert Cambodja
+Heeft u vragen?
+Charissa Martens • Reisexpert Cambodja
 Heeft u vragen?
 Daantje van Schagen • Reisexpert Vietnam
 Heeft u vragen?
@@ -8698,7 +8698,7 @@ Het boeddhisme, confucianisme, taoïsme en het katholicisme vormen de belangrijk
     <get-trip-id>GT-TICOREIZEN-31140</get-trip-id>
     <get-trip-id-org>220</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Peru &amp; Bolivia</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -8980,7 +8980,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
     <get-trip-id>GT-TICOREIZEN-31141</get-trip-id>
     <get-trip-id-org>236</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Namibië &amp; Botswana</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -9175,7 +9175,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
     <get-trip-id>GT-TICOREIZEN-31143</get-trip-id>
     <get-trip-id-org>257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe islandhopping op de Galápagoseilanden</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -9350,7 +9350,7 @@ Religie
     <get-trip-id>GT-TICOREIZEN-31159</get-trip-id>
     <get-trip-id-org>438</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Ecuador</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -9690,9 +9690,9 @@ Voor deze 24-daagse Remote Bolivia, Chili & Peru rondreis geldt een indicatie re
 Inbegrepen:
 In deze reissom zijn alle vliegreizen (in Economy Class), benodigde transfers, genoemde excursies, hotelovernachtingen en autohuur inbegrepen. Mocht u graag Business Class willen reizen, dan horen wij dit graag zodat we deze optie voor u kunnen meenemen in de offerte.
 Bovengenoemde reissom is gebaseerd op laagseizoentarieven. Reist u dan ook in het hoogseizoen, dan dient u rekening te houden met een toeslag. Uiteraard is deze reis geheel naar wens aan te passen.
-Alexander Paalman • Reisexpert Chili
-Heeft u vragen?
 Gemma Hanrath • Reisexpert Chili
+Heeft u vragen?
+Alexander Paalman • Reisexpert Chili
 Heeft u vragen?
 Charissa Martens • Reisexpert Chili
 Heeft u vragen?
@@ -10063,7 +10063,7 @@ De officiële religie op Borneo is de Islam. Het geloof staat op Borneo echter m
     <get-trip-id>GT-TICOREIZEN-31168</get-trip-id>
     <get-trip-id-org>57</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Maleisië Deluxe</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10266,7 +10266,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
     <get-trip-id>GT-TICOREIZEN-31169</get-trip-id>
     <get-trip-id-org>58</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis West-Maleisië &amp; Borneo</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -10359,7 +10359,7 @@ Na de lunch kunt u wederom een interessante presentatie bijwonen over de orang-o
 14: Kinabatanganreservaat – Danum Valley Reserve
 ’s Ochtends wordt u opgehaald bij uw accommodatie voor de transfer naar Lahad Datu. Het eerste traject naar Lahad Datu voert over een uitstekende weg. Helaas wordt u hier geconfronteerd met de massale houtkap op Borneo van de afgelopen 20 jaar. Het regenwoud heeft hier plaats moeten maken voor uitgestrekte palmplantages. Het laatste traject vanaf Lahad Datu naar Danum Valley voert naar de afgelegen Borneo Rainforest Lodge, gelegen te midden van het onontgonnen primaire tropische regenwoud van het Danum Valley Conservation Area. Eén van de mooiste en meest ongerepte natuurgebieden van Azië.
 U verblijft de komende dagen van uw familiereis Maleisië en Borneo op basis van volpension, inclusief alle excursies op privébasis.
-★★★★ Borneo Rainforest Lodge (3 nachten)
+★★★★+ Borneo Rainforest Lodge (3 nachten)
 15 & 16: Danum Valley
 Deze dagen maakt u prachtige wandelingen onder begeleiding van een professionele natuurgids door dit onontgonnen primaire regenwoud. De Borneo Rainforest Lodge heeft een aantal prachtige wandelroutes uitgezet in de omgeving van de lodge. Zo bezoekt u o.a. een oude begraafplaats van de Kadazandusun, de traditionele bevolking van dit gedeelte van Sabah. Ook kunt u naar een spectaculair uitzichtpunt klimmen en eventueel zwemmen in de nabij de lodge gelegen waterpoel, een natuurlijke jacuzzi. U kunt ’s avonds deelnemen aan een avondwandeling waarbij u met uw gids en zaklantaarns speurt naar nachtdieren als insecten, hagedissen, kikkers, slangen en met een beetje geluk wellicht een vliegende eekhoorn, spookdier of een nevelpanter.
 17: Danum Valley – Dalit Beach
@@ -10497,7 +10497,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
     <get-trip-id>GT-TICOREIZEN-31180</get-trip-id>
     <get-trip-id-org>547</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe Reis Namibië | Namibië Deluxe</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -10865,7 +10865,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
     <get-trip-id>GT-TICOREIZEN-31328</get-trip-id>
     <get-trip-id-org>552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de mooiste accommodaties | Sri Lanka Exclusief</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -11069,7 +11069,7 @@ Reizen in sommige landen of streken kan risico’s met zich meebrengen. Voor de 
     <get-trip-id>GT-TICOREIZEN-31402</get-trip-id>
     <get-trip-id-org>553</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Zuid-Korea Deluxe</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -11263,7 +11263,7 @@ Heeft u liever volledige vrijheid, dan kunnen we eveneens een auto met chauffeur
     <get-trip-id>GT-TICOREIZEN-32012</get-trip-id>
     <get-trip-id-org>573</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Zuidelijk Afrika Exclusief</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -11699,7 +11699,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-32030</get-trip-id>
     <get-trip-id-org>577</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Tanzania Deluxe</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -12478,7 +12478,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
     <get-trip-id>GT-TICOREIZEN-32154</get-trip-id>
     <get-trip-id-org>585</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de hoogtepunten | Thailand Deluxe</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -13211,9 +13211,9 @@ Bovengenoemde reissom is gebaseerd op laagseizoentarieven. Reist u in de hoogsei
 Inbegrepen
 Bij de reissom zijn de vluchten (in Economy Class) inbegrepen, evenals uw overnachtingen op basis van verblijf in twee kamers, al het benodigde transport en de in het programma vermelde unieke ervaringen.
 Wenst u Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in uw familiereis Peru.
-Alexander Paalman • Reisexpert Peru
-Heeft u vragen?
 Charissa Martens • Reisexpert Peru
+Heeft u vragen?
+Alexander Paalman • Reisexpert Peru
 Heeft u vragen?
 
 #Land
@@ -13365,7 +13365,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
     <get-trip-id>GT-TICOREIZEN-32236</get-trip-id>
     <get-trip-id-org>593</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs prachtige natuur | Natuurreis Peru</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -13476,9 +13476,9 @@ Prijsindicatie natuurreis Peru
 Voor deze 21-daagse natuurreis Peru geldt een indicatie reissom van € 15.250 per persoon (bij deelname van 2 personen) en op basis van verblijf in de genoemde accommodaties.
 Deze prijsindicatie is gebaseerd op schouderseizoentarieven voor de accommodaties en gunstige (laagseizoen) vluchtprijzen (zowel intercontinentaal als binnenlands). Reist u dan ook last-minute, of in het hoogseizoen, dan zal de reissom hoger uitvallen.
 Inbegrepen in de reissom zijn alle vluchten in Economy Class, al het transport, de beschreven excursies, en hotelovernachtingen. De reis is uiteraard naar wens aan te passen en uit te breiden.
-Charissa Martens • Reisexpert Peru
-Heeft u vragen?
 Alexander Paalman • Reisexpert Peru
+Heeft u vragen?
+Charissa Martens • Reisexpert Peru
 Heeft u vragen?
 
 #Land
@@ -14155,7 +14155,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
     <get-trip-id>GT-TICOREIZEN-32329</get-trip-id>
     <get-trip-id-org>598</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Zuidoost-Azië Exclusief reis</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -14277,11 +14277,11 @@ Prijsindicatie voor deze Zuidoost-Azië Exclusief reis
 Voor deze 21-daagse exclusieve reis geldt een indicatie reissom van € 25.010 per persoon (bij deelname van 2 personen) en op basis van verblijf in de vermelde accommodaties.
 Deze prijsindicatie is inclusief alle vluchten (in economy class) en gebaseerd op laagseizoentarieven.
 Deze Zuidoost-Azië Exclusief reis is uiteraard volledig naar wens aan te passen en uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
+Melanie Brouwer • Reisexpert Cambodja
+Heeft u vragen?
 Charissa Martens • Reisexpert Cambodja
 Heeft u vragen?
 Daantje van Schagen • Reisexpert Thailand
-Heeft u vragen?
-Melanie Brouwer • Reisexpert Cambodja
 Heeft u vragen?
 
 #Land
@@ -14441,7 +14441,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
     <get-trip-id>GT-TICOREIZEN-32444</get-trip-id>
     <get-trip-id-org>606</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Botswana &amp; Mozambique</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -14610,7 +14610,7 @@ De helft van de Botswana noemt zich christen, de andere helft hangt een traditio
     <get-trip-id>GT-TICOREIZEN-32472</get-trip-id>
     <get-trip-id-org>610</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Patagonië Exclusief</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -14706,9 +14706,9 @@ Bij de reissom zijn de intercontinentale en binnenlandse vluchten in Economy Cla
 Bovengenoemde reissom is gebaseerd op schouderseizoentarieven. Deze Patagonië rondreis is volledig naar wens aan te passen en uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
 Gemma Hanrath • Reisexpert Argentinië
 Heeft u vragen?
-Charissa Martens • Reisexpert Argentinië
-Heeft u vragen?
 Alexander Paalman • Reisexpert Argentinië
+Heeft u vragen?
+Charissa Martens • Reisexpert Argentinië
 Heeft u vragen?
 
 #Land
@@ -14829,7 +14829,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
     <get-trip-id>GT-TICOREIZEN-32534</get-trip-id>
     <get-trip-id-org>496</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Avontuur &amp; welness in Zweeds Lapland</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -15306,7 +15306,7 @@ Indien u helemaal afreist naar Bumthang dan is het te adviseren om per binnenlan
     <get-trip-id>GT-TICOREIZEN-32706</get-trip-id>
     <get-trip-id-org>466</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Portugal Deluxe</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -15939,7 +15939,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
     <get-trip-id>GT-TICOREIZEN-32713</get-trip-id>
     <get-trip-id-org>493</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe rondreis Fins Lapland</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -16165,7 +16165,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
     <get-trip-id>GT-TICOREIZEN-32716</get-trip-id>
     <get-trip-id-org>512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis IJsland | IJsland Deluxe</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -17407,7 +17407,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
     <get-trip-id>GT-TICOREIZEN-32729</get-trip-id>
     <get-trip-id-org>563</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe familiereis Lapland</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -18714,7 +18714,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
     <get-trip-id>GT-TICOREIZEN-34067</get-trip-id>
     <get-trip-id-org>534</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Ierland Delight</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -18891,7 +18891,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
     <get-trip-id>GT-TICOREIZEN-34069</get-trip-id>
     <get-trip-id-org>561</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe cruise | Spitsbergen Arctic Saga</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -19038,7 +19038,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
     <get-trip-id>GT-TICOREIZEN-34070</get-trip-id>
     <get-trip-id-org>597</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe Arctic reis op privébasis | Oslo &amp; Spitsbergen (noorderlicht)</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -19317,11 +19317,11 @@ Voor deze 18-daagse Chili Delight rondreis geldt een indicatie reissom vanaf €
 Inbegrepen
 Bij de reissom zijn de intercontinentale en binnenlandse vluchten in Economy Class, de vermelde transfers, autohuur, de overnachtingen en de beschreven excursies inbegrepen.
 Bovengenoemde reissom is gebaseerd op schouderseizoentarieven. Deze Chili rondreis is volledig naar wens aan te passen en uit te breiden. Wenst u bijvoorbeeld Premium Comfort Class of Business Class te vliegen, dan kan dit uiteraard. Laat het ons weten en wij nemen deze optie graag voor u mee in het reisplan.
-Gemma Hanrath • Reisexpert Chili
-Heeft u vragen?
 Charissa Martens • Reisexpert Chili
 Heeft u vragen?
 Alexander Paalman • Reisexpert Chili
+Heeft u vragen?
+Gemma Hanrath • Reisexpert Chili
 Heeft u vragen?
 
 #Land
@@ -19485,7 +19485,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-34135</get-trip-id>
     <get-trip-id-org>615</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultiem luxe reis | Seychellen Exclusief</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -19654,7 +19654,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
     <get-trip-id>GT-TICOREIZEN-34326</get-trip-id>
     <get-trip-id-org>617</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe rondreis door Japan</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -19956,7 +19956,7 @@ Ook zullen wij de mogelijkheden bekijken tot het maken van een mooie selfdrive d
     <get-trip-id>GT-TICOREIZEN-35162</get-trip-id>
     <get-trip-id-org>621</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe romantisch verblijf op Milaidhoo Island</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -20108,7 +20108,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
     <get-trip-id>GT-TICOREIZEN-35170</get-trip-id>
     <get-trip-id-org>622</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Duurzame Luxe bij Six Senses Laamu</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
