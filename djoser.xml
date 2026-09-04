@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoser" partner="Djoser" generated="2026-09-04T11:25:17.709Z" count="193">
+<trips feed="djoser" partner="Djoser" generated="2026-09-04T11:47:35.292Z" count="193">
   <trip>
     <get-trip-id>GT-DJOSER-184</get-trip-id>
     <get-trip-id-org>ZBNH24</get-trip-id-org>
@@ -20962,7 +20962,7 @@ Overige excursies kun je ter plaatse boeken en betalen.]]></get-trip-scraped-con
     <get-trip-id>GT-DJOSER-21592</get-trip-id>
     <get-trip-id-org>TUR16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Turkije</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -25116,7 +25116,7 @@ Tijdens de overnachting op Isla del Sol zijn er geen eenpersoonskamer beschikbaa
     <get-trip-id>GT-DJOSER-27975</get-trip-id>
     <get-trip-id-org>JA21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Japan (21 dagen)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -49134,7 +49134,7 @@ Neem voor deze reis warme kleding mee zoals fleecetruien, wintersportkleding, th
     <get-trip-id>GT-DJOSER-34851</get-trip-id>
     <get-trip-id-org>INGU21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis India, Gujarat</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -51023,7 +51023,7 @@ Ja, voor Engeland heb je een visum nodig. Dit visum kun je online aanvragen. Op 
     <get-trip-id>GT-DJOSER-34864</get-trip-id>
     <get-trip-id-org>FIAL8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Albanië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -52199,7 +52199,7 @@ Jazeker, alleen de Masjid al-Nabawi en de Quba moskee zijn niet toegankelijk voo
     <get-trip-id>GT-DJOSER-35163</get-trip-id>
     <get-trip-id-org>GUBE19</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Guatemala &amp; Belize</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
