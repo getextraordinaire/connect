@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-04T11:25:17.709Z" count="80">
+<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-04T11:47:35.292Z" count="80">
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37175</get-trip-id>
     <get-trip-id-org>32392</get-trip-id-org>
@@ -636,7 +636,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37178</get-trip-id>
     <get-trip-id-org>32391</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam met je gezin (2 weken)</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -2996,7 +2996,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37191</get-trip-id>
     <get-trip-id-org>16994</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Java &amp; Bali met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -6997,7 +6997,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37217</get-trip-id>
     <get-trip-id-org>17935</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actie en avontuur in Maleisië &amp; Sumatra</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -9237,7 +9237,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37230</get-trip-id>
     <get-trip-id-org>21149</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia in 9 dagen met kinderen</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -11735,7 +11735,7 @@ Overige entreegelden (nationale parken)]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37243</get-trip-id>
     <get-trip-id-org>17917</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Pura Vida in Costa Rica met het gezin</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -15083,7 +15083,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37347</get-trip-id>
     <get-trip-id-org>32748</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Theeplantages, tempels en stranden</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
