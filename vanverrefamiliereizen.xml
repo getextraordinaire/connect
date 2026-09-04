@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-03T21:57:19.428Z" count="80">
+<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-04T03:00:35.719Z" count="80">
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37175</get-trip-id>
     <get-trip-id-org>32392</get-trip-id-org>
@@ -977,7 +977,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37180</get-trip-id>
     <get-trip-id-org>17364</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari, Kaapstad en de Tuinroute</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1203,7 +1203,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37181</get-trip-id>
     <get-trip-id-org>16997</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultiem Zuid-Afrika in 3 weken</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -1492,7 +1492,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37182</get-trip-id>
     <get-trip-id-org>17075</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Zuid-Afrika met je gezin</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1739,7 +1739,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37183</get-trip-id>
     <get-trip-id-org>17078</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van de Kaap</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1950,7 +1950,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37184</get-trip-id>
     <get-trip-id-org>17081</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Orang-oetans en lokale stammen op Sumatra</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -3479,7 +3479,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37193</get-trip-id>
     <get-trip-id-org>13049</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis West-Canada met kinderen</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -3729,7 +3729,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37194</get-trip-id>
     <get-trip-id-org>17938</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Veelzijdig Borneo en West-Maleisië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3900,7 +3900,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37196</get-trip-id>
     <get-trip-id-org>12970</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Florida met je gezin</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4085,7 +4085,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37197</get-trip-id>
     <get-trip-id-org>12962</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met het gezin langs de westkust</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4916,7 +4916,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37207</get-trip-id>
     <get-trip-id-org>17918</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief in Costa Rica met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -5119,7 +5119,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37208</get-trip-id>
     <get-trip-id-org>12935</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuur in West-Canada met je gezin</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5348,7 +5348,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37209</get-trip-id>
     <get-trip-id-org>12955</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Niagara Falls, meren en wildlife in Oost-Canada</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -5542,7 +5542,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37210</get-trip-id>
     <get-trip-id-org>12939</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vancouver Island met kinderen</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -7470,7 +7470,7 @@ Overige entreegelden (nationale parken)]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37220</get-trip-id>
     <get-trip-id-org>12969</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ruige Rockies in 3 weken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -7757,7 +7757,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37222</get-trip-id>
     <get-trip-id-org>20326</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali rond met je gezin (3 weken)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -7961,7 +7961,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37223</get-trip-id>
     <get-trip-id-org>20388</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Eilandhoppen bij Bali</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -9588,7 +9588,7 @@ Bij aankomst op de luchthaven heet onze lokale vertegenwoordiger je welkom en on
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37232</get-trip-id>
     <get-trip-id-org>25874</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Door het hart van Honshu</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -9812,7 +9812,7 @@ Bij aankomst op de luchthaven heet onze lokale vertegenwoordiger je welkom en on
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37233</get-trip-id>
     <get-trip-id-org>27570</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van de medina tot de woestijn</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -9958,7 +9958,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37234</get-trip-id>
     <get-trip-id-org>27549</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Indrukwekkende bergen in Noord-Marokko</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -10116,7 +10116,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37235</get-trip-id>
     <get-trip-id-org>27550</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Door het hart van Marokko</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10310,7 +10310,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37236</get-trip-id>
     <get-trip-id-org>31865</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Steden en tradities in Japan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -12119,7 +12119,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37245</get-trip-id>
     <get-trip-id-org>20431</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief en natuur op Bali</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -12305,7 +12305,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37246</get-trip-id>
     <get-trip-id-org>21128</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tanzania met kinderen</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -12444,7 +12444,7 @@ Visum]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37247</get-trip-id>
     <get-trip-id-org>21127</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari en Masai Mara</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -12567,7 +12567,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37248</get-trip-id>
     <get-trip-id-org>25899</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan in 2 weken per trein</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -12744,7 +12744,7 @@ Bij aankomst op de luchthaven heet onze lokale vertegenwoordiger je welkom en on
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37249</get-trip-id>
     <get-trip-id-org>25853</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stedentrip combinatie Japan: Tokyo en Kyoto</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -13779,7 +13779,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37310</get-trip-id>
     <get-trip-id-org>32446</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Naar de eilanden van Thailand met kinderen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -13928,7 +13928,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37311</get-trip-id>
     <get-trip-id-org>32428</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand met kinderen (2 weken)</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -14099,7 +14099,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37312</get-trip-id>
     <get-trip-id-org>32444</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Thailand met je gezin</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -14312,7 +14312,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37313</get-trip-id>
     <get-trip-id-org>32442</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tempels &amp; bountystranden in Zuid-Thailand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -15489,7 +15489,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37349</get-trip-id>
     <get-trip-id-org>32749</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kennismaking Sri Lanka met kinderen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -15724,7 +15724,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37350</get-trip-id>
     <get-trip-id-org>32745</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Olifanten, cultuur &amp; natuur met je gezin</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
