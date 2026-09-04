@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-03T21:57:19.428Z" count="92">
+<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-04T03:00:35.719Z" count="92">
   <trip>
     <get-trip-id>GT-TICOREIZEN-30729</get-trip-id>
     <get-trip-id-org>2</get-trip-id-org>
@@ -203,7 +203,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
     <get-trip-id>GT-TICOREIZEN-30734</get-trip-id>
     <get-trip-id-org>7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs exclusieve accommodaties | Argentinië Deluxe</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -439,7 +439,7 @@ Ruim 90% van de Argentijnse bevolking is rooms-katholiek. In sommige gebieden he
     <get-trip-id>GT-TICOREIZEN-30735</get-trip-id>
     <get-trip-id-org>14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Merengebied &amp; wijnstreek Chili</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1968,7 +1968,7 @@ De officiële godsdienst is het Boeddhisme. Ruim 95% van de Cambodjaanse bevolki
     <get-trip-id>GT-TICOREIZEN-30788</get-trip-id>
     <get-trip-id-org>133</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de Costa Verde &amp; Royal Route | Autorondreis Brazilië</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -3591,7 +3591,7 @@ De netspanning in Mauritius is 220 volt. U heeft een verloopstekker nodig, echte
     <get-trip-id>GT-TICOREIZEN-30838</get-trip-id>
     <get-trip-id-org>209</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Peru Deluxe</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5069,7 +5069,7 @@ Het door de Fransen en Engelsen meegebrachte katholicisme is de grootste godsdie
     <get-trip-id>GT-TICOREIZEN-30929</get-trip-id>
     <get-trip-id-org>381</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe familiereis Seychellen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -5919,7 +5919,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-30968</get-trip-id>
     <get-trip-id-org>432</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis in de sneeuw | Wintersport op Hokkaido, Japan</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6827,7 +6827,7 @@ Colombia is een dunbevolkt land met naar schatting 48 miljoen inwoners. De bevol
     <get-trip-id>GT-TICOREIZEN-31123</get-trip-id>
     <get-trip-id-org>17</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs schitterende natuur | Patagonië Deluxe</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -8070,7 +8070,7 @@ Religie
     <get-trip-id>GT-TICOREIZEN-31136</get-trip-id>
     <get-trip-id-org>139</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Brazilië &amp; Peru Deluxe</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8352,7 +8352,7 @@ De meerderheid van de Braziliaanse bevolking is Rooms Katholiek. Daarnaast komen
     <get-trip-id>GT-TICOREIZEN-31137</get-trip-id>
     <get-trip-id-org>186</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Indochina Deluxe</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -9561,7 +9561,7 @@ Religie
     <get-trip-id>GT-TICOREIZEN-31162</get-trip-id>
     <get-trip-id-org>482</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Remote Bolivia, Chili &amp; Peru</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -9854,7 +9854,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-31164</get-trip-id>
     <get-trip-id-org>10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Borneo Deluxe</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -11463,7 +11463,7 @@ Ongeveer 80-90% van de bevolking heeft de christelijke godsdienst, de rest van d
     <get-trip-id>GT-TICOREIZEN-32023</get-trip-id>
     <get-trip-id-org>576</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis langs de mooiste accommodaties | Tanzania Exclusief</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -12177,7 +12177,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-32034</get-trip-id>
     <get-trip-id-org>579</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Brazilië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -13630,7 +13630,7 @@ Het overgrote deel van de bevolking in Peru is Rooms-Katholiek. Van origine hebb
     <get-trip-id>GT-TICOREIZEN-32268</get-trip-id>
     <get-trip-id-org>595</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe combinatiereis op privébasis | Sri Lanka &amp; de Malediven</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -15071,7 +15071,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
     <get-trip-id>GT-TICOREIZEN-32686</get-trip-id>
     <get-trip-id-org>614</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe familiereis Bhutan &amp; Thailand</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -15626,7 +15626,7 @@ Een aantal snelwegen in Portugal hebben een tolsysteem en vaak gaat dit alleen e
     <get-trip-id>GT-TICOREIZEN-32710</get-trip-id>
     <get-trip-id-org>474</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Culinaire reis Portugal</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -17080,7 +17080,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
     <get-trip-id>GT-TICOREIZEN-32722</get-trip-id>
     <get-trip-id-org>528</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe gezinsvakantie op privébasis | Familiereis Portugal</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -18181,7 +18181,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
     <get-trip-id>GT-TICOREIZEN-34062</get-trip-id>
     <get-trip-id-org>506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privéreis | Ierland Deluxe</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -18348,7 +18348,7 @@ Voor de meest up-to-date informatie m.b.t. de veiligheidsrisico's verwijzen wij 
     <get-trip-id>GT-TICOREIZEN-34063</get-trip-id>
     <get-trip-id-org>514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe cruise | Spitsbergen Highlights</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -18535,7 +18535,7 @@ In de reissom voor de Arctic cruises zijn geen fooien inbegrepen. In principe on
     <get-trip-id>GT-TICOREIZEN-34064</get-trip-id>
     <get-trip-id-org>515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe cruise | Greenland Explorer incl. (helikopter) excursies</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -20255,7 +20255,7 @@ Topless zonnen is verboden. Wel is het geen enkel probleem om op het strand en i
     <get-trip-id>GT-TICOREIZEN-36025</get-trip-id>
     <get-trip-id-org>646</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe privé-safari Tanzania Delight</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -20491,7 +20491,7 @@ Zorgt u ervoor dat u goed verzekerd op reis gaat? Medische kosten in het buitenl
     <get-trip-id>GT-TICOREIZEN-36271</get-trip-id>
     <get-trip-id-org>648</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe rondreis door Thailand</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -20810,7 +20810,7 @@ Ruim 95% van de Thai is Theravada Boeddhist. Deze religie drukt een zware stempe
     <get-trip-id>GT-TICOREIZEN-37129</get-trip-id>
     <get-trip-id-org>653</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Privé rondreis door Maleisië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -21021,7 +21021,7 @@ De officiële religie van Maleisië is de Islam. Echter heerst er een grote reli
     <get-trip-id>GT-TICOREIZEN-37324</get-trip-id>
     <get-trip-id-org>657</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe familiereis Vietnam in de zomervakantie</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
