@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-03T21:57:19.428Z" count="58">
+<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T03:00:35.719Z" count="58">
   <trip>
     <get-trip-id>GT-PANGEATRAVEL-531</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
@@ -1300,7 +1300,7 @@ Het Pravasa Gili Resort (by KajaNe) is een heerlijk plekje op Gili Meno. Het lig
     <get-trip-id>GT-PANGEATRAVEL-20503</get-trip-id>
     <get-trip-id-org>314</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Zuid-Korea</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -2623,7 +2623,7 @@ Een stijlvol hotel in het boeiende centrum van Malacca is het Majestic Hotel. Di
     <get-trip-id>GT-PANGEATRAVEL-20622</get-trip-id>
     <get-trip-id-org>430</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights West-Maleisië &amp; Langkawi</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -2928,7 +2928,7 @@ Noot: het getoonde beeldmateriaal is een sfeerimpressie van een mogelijke Komodo
     <get-trip-id>GT-PANGEATRAVEL-21324</get-trip-id>
     <get-trip-id-org>208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sumatra, Maleisië &amp; Singapore</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -3120,7 +3120,7 @@ Op korte afstand van het Nationaal Museum van Singapore ligt het moderne 4-sterr
     <get-trip-id>GT-PANGEATRAVEL-34415</get-trip-id>
     <get-trip-id-org>111</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Citytrip Dubai &amp; Beach</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -3489,7 +3489,7 @@ Een mooie accommodatie, gelegen beneden aan de rivier met zicht op de landingsba
     <get-trip-id>GT-PANGEATRAVEL-34425</get-trip-id>
     <get-trip-id-org>121</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bhutan Compleet</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -4801,7 +4801,7 @@ Dit sfeervolle, boutique hotel is gelegen in El Nido Town, op loopafstand van he
     <get-trip-id>GT-PANGEATRAVEL-34464</get-trip-id>
     <get-trip-id-org>2189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Viva Visayas! (island hopping)</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -4943,7 +4943,7 @@ Het Bluewater Sumilon Island Resort (4-sterren) is gelegen op het privé eiland 
     <get-trip-id>GT-PANGEATRAVEL-34465</get-trip-id>
     <get-trip-id-org>1502</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luzon &amp; Palawan</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -5144,7 +5144,7 @@ Discovery Coron (voorheen: Club Paradise Palawan) is gelegen op het privé eilan
     <get-trip-id>GT-PANGEATRAVEL-34467</get-trip-id>
     <get-trip-id-org>2456</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Filipijnen</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5726,7 +5726,7 @@ Lalit Heritage Home is één van onze aanraders in Patan. Bijzonder aan deze acc
     <get-trip-id>GT-PANGEATRAVEL-34480</get-trip-id>
     <get-trip-id-org>225</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid- &amp; Centraal-Sulawesi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6277,7 +6277,7 @@ Dit 5-sterren boutique resort ligt in het rustige oosten van Bali, bij Sidemen. 
     <get-trip-id>GT-PANGEATRAVEL-34491</get-trip-id>
     <get-trip-id-org>2442</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tienerreis Japan</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -6295,7 +6295,7 @@ Tijdens deze afwisselende rondreis over Honshu ontdekt u samen met uw kinderen z
     <get-trip-id>GT-PANGEATRAVEL-34492</get-trip-id>
     <get-trip-id-org>263</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan Compleet</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -8639,7 +8639,7 @@ Het Aventree Jongno Hotel is zeer centraal gelegen in Seoul, aan een zijweg van 
     <get-trip-id>GT-PANGEATRAVEL-34610</get-trip-id>
     <get-trip-id-org>273</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia, Tanzania &amp; Zanzibar</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
