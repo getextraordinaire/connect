@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-04T11:25:17.709Z" count="92">
+<trips feed="ticoreizen" partner="Tico Reizen" generated="2026-09-04T11:47:35.292Z" count="92">
   <trip>
     <get-trip-id>GT-TICOREIZEN-30729</get-trip-id>
     <get-trip-id-org>2</get-trip-id-org>
@@ -17645,7 +17645,7 @@ Het is wellicht niet het eerste waar u aan denkt bij Lapland, maar de zon heeft 
     <get-trip-id>GT-TICOREIZEN-34058</get-trip-id>
     <get-trip-id-org>268</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luxe cruise | Spitsbergen Explorer Wildlife</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
