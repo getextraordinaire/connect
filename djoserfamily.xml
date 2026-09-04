@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-03T21:57:19.428Z" count="23">
+<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-04T03:00:35.719Z" count="23">
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25023</get-trip-id>
     <get-trip-id-org>JCOK14</get-trip-id-org>
@@ -523,7 +523,7 @@ Pinnen is in Cuba niet tot nauwelijks mogelijk. In Havana, Viñales, Trinidad en
     <get-trip-id>GT-DJOSERFAMILY-25028</get-trip-id>
     <get-trip-id-org>JEGK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Egypte (9 dagen)</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -745,7 +745,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Neem daarom voldoende bescherm
     <get-trip-id>GT-DJOSERFAMILY-25041</get-trip-id>
     <get-trip-id-org>JMASH8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Marokko (woestijn en Marrakech)</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -1326,7 +1326,7 @@ In Namibië is het niet toegestaan om plastic tasjes mee te nemen naar de nation
     <get-trip-id>GT-DJOSERFAMILY-25052</get-trip-id>
     <get-trip-id-org>JTAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tanzania &amp; Zanzibar (15 dagen)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1614,7 +1614,7 @@ Veel reizigers willen graag iets zien van de grote migratie, één van de meest 
     <get-trip-id>GT-DJOSERFAMILY-25053</get-trip-id>
     <get-trip-id-org>JTAL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tanzania &amp; Zanzibar (21 dagen)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1951,7 +1951,7 @@ Op een aantal kampeerplaatsen kun je, bij de receptie of in een nabijgelegen lod
     <get-trip-id>GT-DJOSERFAMILY-25054</get-trip-id>
     <get-trip-id-org>JTHK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Thailand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3559,7 +3559,7 @@ Reken voor uitgaven zoals entreegelden, maaltijden en persoonlijke uitgaven op m
     <get-trip-id>GT-DJOSERFAMILY-25079</get-trip-id>
     <get-trip-id-org>JZAKK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika Tuinroute en Kruger nationaal park</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4229,7 +4229,7 @@ Daarnaast willen wij je erop attenderen dat het gebruik of het bezit van plastic
     <get-trip-id>GT-DJOSERFAMILY-27912</get-trip-id>
     <get-trip-id-org>JJOK8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Jordanië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -4474,7 +4474,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
     <get-trip-id>GT-DJOSERFAMILY-28354</get-trip-id>
     <get-trip-id-org>JEGL15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Egypte (15 dagen)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -4728,7 +4728,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
     <get-trip-id>GT-DJOSERFAMILY-28356</get-trip-id>
     <get-trip-id-org>JMRK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Marokko</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -5012,7 +5012,7 @@ Houd er rekening mee dat de zon erg fel kan zijn. Het is daarom van belang om vo
     <get-trip-id>GT-DJOSERFAMILY-32748</get-trip-id>
     <get-trip-id-org>JGRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Griekenland</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -5241,7 +5241,7 @@ Vergeet niet om je rijbewijs mee te nemen, voor het geval je zelf een dagje een 
     <get-trip-id>GT-DJOSERFAMILY-34074</get-trip-id>
     <get-trip-id-org>JLAP7</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Lapland</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -6360,7 +6360,7 @@ Vind je het leuk om te gaan snorkelen? Dan is het aan te raden om een snorkel, d
     <get-trip-id>GT-DJOSERFAMILY-35634</get-trip-id>
     <get-trip-id-org>JCHL24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis China</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
