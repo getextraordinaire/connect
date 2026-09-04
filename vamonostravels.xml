@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-04T03:00:35.719Z" count="230">
+<trips feed="vamonostravels" partner="Vamonos Travels" generated="2026-09-04T11:20:29.393Z" count="230">
   <trip>
     <get-trip-id>GT-VAMONOSTRAVELS-36357</get-trip-id>
     <get-trip-id-org>6245</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hiken en biken in Japan</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -329,7 +329,7 @@ Osaka en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36358</get-trip-id>
     <get-trip-id-org>6234</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Self-drive Japan: langs tempels, toppen en tradities</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -1498,7 +1498,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
     <get-trip-name>Air-cruise Antarctica en de Zuidelijke Shetlandeilanden met Antarctica21</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>14.875</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Chili</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/air-cruise-antarctica-en-de-zuidelijke-shetlandeilanden-met-antarctica21/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Punta Arenas
@@ -1770,7 +1770,7 @@ Vlucht of auto naar volgende bestemming]]></get-trip-scraped-content>
     <get-trip-name>Vlieg naar het zuiden, vaar naar het noorden met Quark Expeditions</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>11.575</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-country>Chili</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/antarctica-en-de-zuidelijke-shetlandeilanden-met-quark-expeditions/</get-trip-url>
@@ -2150,7 +2150,7 @@ Ushuaia]]></get-trip-scraped-content>
     <get-trip-name>Antarctica, Zuid-Georgia en de Falklandeilanden met Oceanwide</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>9.975</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/antarctica-zuid-georgia-en-de-falklandeilanden-met-oceanwide/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Vertrek Ushuaia
@@ -2476,7 +2476,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
     <get-trip-name>Classic Antarctica met Oceanwide</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>6.975</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/classic-antarctica-met-oceanwide/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Vertrek Ushuaia
@@ -2739,7 +2739,7 @@ Aankomst Ushuaia]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36366</get-trip-id>
     <get-trip-id-org>6075</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica Avontuurlijk</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -3105,7 +3105,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36367</get-trip-id>
     <get-trip-id-org>4579</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Korea per openbaar vervoer</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3352,7 +3352,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36368</get-trip-id>
     <get-trip-id-org>4542</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Buenos Aires naar Rio de Janeiro (NIEUW)</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -3778,7 +3778,7 @@ Vlucht vanuit Rio de Janeiro naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36369</get-trip-id>
     <get-trip-id-org>4546</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ongerept Japan</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -4096,7 +4096,7 @@ Tokyo en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36370</get-trip-id>
     <get-trip-id-org>4440</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Natuur en cultuur in Sri Lanka (NIEUW)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4430,7 +4430,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36371</get-trip-id>
     <get-trip-id-org>4429</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijk Vietnam</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -6861,7 +6861,7 @@ Vlucht Lima - Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36379</get-trip-id>
     <get-trip-id-org>2556</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijke steden en diverse culturen</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -7408,7 +7408,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36380</get-trip-id>
     <get-trip-id-org>2642</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wereldstad, klooster en indrukwekkende natuur</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -7696,7 +7696,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36381</get-trip-id>
     <get-trip-id-org>2370</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Komodovaraan en mantaroggen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -7916,7 +7916,7 @@ Denpasar en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36382</get-trip-id>
     <get-trip-id-org>2374</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Self drive door Sri Lanka</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -8203,7 +8203,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36383</get-trip-id>
     <get-trip-id-org>2210</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rijstvelden, drijvende markt en palmbomen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -8475,7 +8475,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36384</get-trip-id>
     <get-trip-id-org>786</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ethiopië: Langs de historische route</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10677,7 +10677,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36392</get-trip-id>
     <get-trip-id-org>711</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Een reis vol prachtige contrasten</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10915,7 +10915,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36393</get-trip-id>
     <get-trip-id-org>709</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Prachtig Puglia</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -11115,7 +11115,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36394</get-trip-id>
     <get-trip-id-org>707</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Glinsterende meren, glooiende heuvels en pittoreske dorpjes</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -11306,7 +11306,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36395</get-trip-id>
     <get-trip-id-org>509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijke bergvolkeren en mysterieuze tempels</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -11670,7 +11670,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36396</get-trip-id>
     <get-trip-id-org>584</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De mysteries van Taiwan</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -11981,7 +11981,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36397</get-trip-id>
     <get-trip-id-org>580</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Een onontdekt paradijs</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -14653,7 +14653,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36405</get-trip-id>
     <get-trip-id-org>401</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Riviera Maya, kleurrijke stadjes en cenotes</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -14929,7 +14929,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36406</get-trip-id>
     <get-trip-id-org>383</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Go Yucatan</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -15167,7 +15167,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36407</get-trip-id>
     <get-trip-id-org>381</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In het voetspoor van de Maya&apos;s</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -15582,7 +15582,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36408</get-trip-id>
     <get-trip-id-org>374</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Copper Canyon</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -15917,7 +15917,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36409</get-trip-id>
     <get-trip-id-org>363</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Azteken naar Maya&apos;s</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -16189,7 +16189,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36410</get-trip-id>
     <get-trip-id-org>361</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mayatempels, koloniale steden en strand</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -18649,7 +18649,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36418</get-trip-id>
     <get-trip-id-org>696</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wild Namibië en Zuid-Afrika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -19092,7 +19092,7 @@ Windhoek en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36419</get-trip-id>
     <get-trip-id-org>659</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Een Kennismaking met Suriname</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -19328,7 +19328,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36420</get-trip-id>
     <get-trip-id-org>660</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roti in de Jungle</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -19625,7 +19625,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36421</get-trip-id>
     <get-trip-id-org>358</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Shortbreak Marokko</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -19839,7 +19839,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36423</get-trip-id>
     <get-trip-id-org>343</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wild Zuid-Afrika</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -22591,7 +22591,7 @@ Vlucht vanuit Fortaleza naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36431</get-trip-id>
     <get-trip-id-org>515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en historie</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -22841,7 +22841,7 @@ Vlucht vanuit Rio naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36432</get-trip-id>
     <get-trip-id-org>282</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cuba Cool</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -23124,7 +23124,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36433</get-trip-id>
     <get-trip-id-org>536</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Route van de emoties</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -23425,7 +23425,7 @@ Vlucht vanuit Fortaleza naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36434</get-trip-id>
     <get-trip-id-org>279</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cuba Chiquita</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -23689,7 +23689,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36435</get-trip-id>
     <get-trip-id-org>542</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Spetterende watervallen en zandkastelen</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -23917,7 +23917,7 @@ Vlucht vanuit Salvador naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36436</get-trip-id>
     <get-trip-id-org>545</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Een reis vol cultuur en natuur in dit swingende land</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -26439,7 +26439,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36444</get-trip-id>
     <get-trip-id-org>265</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De kusten van de Kaap</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -26705,7 +26705,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36445</get-trip-id>
     <get-trip-id-org>203</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In het spoor van de Inca&apos;s</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -27194,7 +27194,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36446</get-trip-id>
     <get-trip-id-org>258</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bijzondere condors en wollige alpaca&apos;s</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -27576,7 +27576,7 @@ Vlucht via Lima naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36447</get-trip-id>
     <get-trip-id-org>337</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De wereld van Inca&apos;s en Darwin</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -28085,7 +28085,7 @@ Terugvlucht]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36448</get-trip-id>
     <get-trip-id-org>325</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Inca&apos;s, koffie en Caribe</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -30594,7 +30594,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36457</get-trip-id>
     <get-trip-id-org>243</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cuba Compleet</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -30936,7 +30936,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36458</get-trip-id>
     <get-trip-id-org>521</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari en strand</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -31150,7 +31150,7 @@ Nairobi en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36459</get-trip-id>
     <get-trip-id-org>443</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Eilandhoppen in de Golf van Thailand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -31379,7 +31379,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36460</get-trip-id>
     <get-trip-id-org>379</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>USA on the road</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -31689,7 +31689,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36461</get-trip-id>
     <get-trip-id-org>393</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>North West Road Tripping</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -31983,7 +31983,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36462</get-trip-id>
     <get-trip-id-org>398</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Family Fun West USA</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -34250,7 +34250,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36470</get-trip-id>
     <get-trip-id-org>178</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De vele gezichten van Azië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -34681,7 +34681,7 @@ Terugreis]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36471</get-trip-id>
     <get-trip-id-org>167</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan van de gebaande paden</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -34980,7 +34980,7 @@ Okinawa en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36472</get-trip-id>
     <get-trip-id-org>155</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Tokyo naar Kyoto</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -35256,7 +35256,7 @@ Naar Osaka en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36473</get-trip-id>
     <get-trip-id-org>512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roots, riksja&apos;s en rijstvelden</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -35525,7 +35525,7 @@ Lombok en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36474</get-trip-id>
     <get-trip-id-org>510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Brutale aapjes en vrolijke dolfijnen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -35731,7 +35731,7 @@ Naar Denpasar en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36475</get-trip-id>
     <get-trip-id-org>485</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tempels en Toraja&apos;s</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -38295,7 +38295,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36483</get-trip-id>
     <get-trip-id-org>629</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hooggebergte, wijnen &amp; charmante plaatsjes (NIEUW)</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -38608,7 +38608,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36484</get-trip-id>
     <get-trip-id-org>663</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Alles van Patagonië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -38876,7 +38876,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36485</get-trip-id>
     <get-trip-id-org>573</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Luieren met Luiaards</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -39172,7 +39172,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36486</get-trip-id>
     <get-trip-id-org>539</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noord-Spanje off the beaten track</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -39435,7 +39435,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36487</get-trip-id>
     <get-trip-id-org>550</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sprookjesachtig Kroatië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -39661,7 +39661,7 @@ Hotel Perla]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36488</get-trip-id>
     <get-trip-id-org>533</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Spanje: Andalusië in Paradores</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -42103,7 +42103,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36496</get-trip-id>
     <get-trip-id-org>484</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Panama Buiten de Gebaande Paden</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -42387,7 +42387,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36497</get-trip-id>
     <get-trip-id-org>481</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Panama in B&amp;B</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -42676,7 +42676,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36498</get-trip-id>
     <get-trip-id-org>674</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kust &amp; Kasbah&apos;s</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -42902,7 +42902,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36499</get-trip-id>
     <get-trip-id-org>672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Duizend en één nacht</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -43145,7 +43145,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36500</get-trip-id>
     <get-trip-id-org>643</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De parel van Afrika</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -43387,7 +43387,7 @@ Naar Entebbe en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36501</get-trip-id>
     <get-trip-id-org>649</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Uganda</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -46306,7 +46306,7 @@ Kilimanjaro en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36509</get-trip-id>
     <get-trip-id-org>311</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica &amp; Panama Pura Vida</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -46782,7 +46782,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36510</get-trip-id>
     <get-trip-id-org>632</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Varen langs de fjorden van Patagonië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -47253,7 +47253,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36511</get-trip-id>
     <get-trip-id-org>667</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De mysteries van Paaseiland en Patagonië</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -47728,7 +47728,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36512</get-trip-id>
     <get-trip-id-org>309</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vurige vulkanen en vrolijke dolfijnen</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -48192,7 +48192,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36513</get-trip-id>
     <get-trip-id-org>589</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Trekkings door Patagonië</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -48631,7 +48631,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36514</get-trip-id>
     <get-trip-id-org>582</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de Carretera Austral</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -50781,7 +50781,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36522</get-trip-id>
     <get-trip-id-org>307</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica off the beaten track</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -51156,7 +51156,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36524</get-trip-id>
     <get-trip-id-org>305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica Highlights</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -51509,7 +51509,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36527</get-trip-id>
     <get-trip-id-org>254</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica Classic</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -53724,7 +53724,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36535</get-trip-id>
     <get-trip-id-org>235</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In het spoor van de draak</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -53986,7 +53986,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36536</get-trip-id>
     <get-trip-id-org>230</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Baguettes en croissants in Azie</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -54470,7 +54470,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36537</get-trip-id>
     <get-trip-id-org>189</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam in een notendop</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -54723,7 +54723,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36538</get-trip-id>
     <get-trip-id-org>645</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tempels en vulkanen in Japan en Zuid-Korea</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -55156,7 +55156,7 @@ Terugvlucht]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36539</get-trip-id>
     <get-trip-id-org>641</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Authentiek Zuid-Korea</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -55481,7 +55481,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36540</get-trip-id>
     <get-trip-id-org>636</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De hoogtepunten van Zuid-Korea</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -57906,7 +57906,7 @@ Vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36548</get-trip-id>
     <get-trip-id-org>345</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de zijderoute van Shiraz naar Tashkent</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -58268,7 +58268,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36549</get-trip-id>
     <get-trip-id-org>297</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Betoverend Iran</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -58441,7 +58441,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36550</get-trip-id>
     <get-trip-id-org>294</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Perzische Percepties</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -58679,7 +58679,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36551</get-trip-id>
     <get-trip-id-org>214</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari, watervallen en tropische stranden</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -58976,7 +58976,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36552</get-trip-id>
     <get-trip-id-org>212</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Strand, boeddhistische tempels en heel veel dieren</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -59267,7 +59267,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36553</get-trip-id>
     <get-trip-id-org>210</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari in Sri Lanka, snorkelen op de Malediven</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -61847,7 +61847,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36561</get-trip-id>
     <get-trip-id-org>172</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wild Japan</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -62093,7 +62093,7 @@ Naar Sapporo en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36562</get-trip-id>
     <get-trip-id-org>127</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het land van Pachamama</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -62445,7 +62445,7 @@ Vlucht Lima - Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36563</get-trip-id>
     <get-trip-id-org>176</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Peru Compleet</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -62813,7 +62813,7 @@ Puerto Maldonado Corto Maltes dag 4]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36604</get-trip-id>
     <get-trip-id-org>6497</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Namibië highlights in een daktent</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -63098,12 +63098,12 @@ Naar Windhoek en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36605</get-trip-id>
     <get-trip-id-org>6265</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vliegen naar Antarctica en de Zuidelijke Shetlandeilanden met Quark Expeditions</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>14.625</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Antarctica</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/antarctica-en-de-zuidelijke-shetlandeilanden-met-quark-expeditions-3/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Punta Arenas
@@ -63247,7 +63247,7 @@ M/V Ocean Explorer van Quark Expeditions]]></get-trip-scraped-content>
     <get-trip-name>Antarctica en de Zuidelijke Shetlandeilanden met Quark Expeditions</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>10.450</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Antarctica</get-trip-country>
     <get-trip-url>https://www.vamonos.nl/rondreizen/antarctica/antarctica-en-de-zuidelijke-shetlandeilanden-met-quark-expeditions-2/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Ushuaia
@@ -64719,7 +64719,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36613</get-trip-id>
     <get-trip-id-org>952</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Island hopping Galápagos</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -64980,7 +64980,7 @@ Terugvlucht]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36614</get-trip-id>
     <get-trip-id-org>409</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tradities, regenwoud en strand</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -65260,7 +65260,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36615</get-trip-id>
     <get-trip-id-org>400</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Borneo</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -65553,7 +65553,7 @@ Kota Kinabalu en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36616</get-trip-id>
     <get-trip-id-org>396</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het ongerepte regenwoud</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -65823,7 +65823,7 @@ Kota Kinabalu en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36617</get-trip-id>
     <get-trip-id-org>352</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tropische kusten en kleurrijke culturen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -66073,7 +66073,7 @@ Langkawi en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36618</get-trip-id>
     <get-trip-id-org>694</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avonturen in een daktent</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -68419,7 +68419,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36626</get-trip-id>
     <get-trip-id-org>133</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vulkanen en Zeeleguanen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -68730,7 +68730,7 @@ Terugvlucht]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36629</get-trip-id>
     <get-trip-id-org>115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zeeleguanen, jungle en nevelwoud</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -69091,7 +69091,7 @@ Terugvlucht]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36631</get-trip-id>
     <get-trip-id-org>140</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Lower Amazone en 8-daagse cruise langs de Galápagos</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -69584,7 +69584,7 @@ Naar Kigali en vertrek]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36834</get-trip-id>
     <get-trip-id-org>7672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rwanda Hoogtepunten – Land van de Duizend Heuvels</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -70232,7 +70232,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36938</get-trip-id>
     <get-trip-id-org>7975</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Suriname Avontuurlijk</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -70486,7 +70486,7 @@ Vlucht naar Amsterdam]]></get-trip-scraped-content>
     <get-trip-id>GT-VAMONOSTRAVELS-36940</get-trip-id>
     <get-trip-id-org>8136</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Marrons, regenwoud en Caribische sferen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
