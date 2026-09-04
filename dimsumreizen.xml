@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-04T03:00:35.719Z" count="10">
+<trips feed="dimsumreizen" partner="Dimsum Reizen" generated="2026-09-04T11:20:29.393Z" count="10">
   <trip>
     <get-trip-id>GT-DIMSUMREIZEN-35490</get-trip-id>
     <get-trip-id-org>10141</get-trip-id-org>
@@ -258,7 +258,7 @@ Mongolie is een paradijs voor wandelaars. De ongerepte en uitgestrekte natuur no
     <get-trip-id>GT-DIMSUMREIZEN-35508</get-trip-id>
     <get-trip-id-org>10202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-China Bergvolkeren en Festivalreis</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -530,7 +530,7 @@ Het is niet noodzakelijk, aangezien de route vlak en verhard is, maar desgewenst
     <get-trip-id>GT-DIMSUMREIZEN-35615</get-trip-id>
     <get-trip-id-org>11231</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid Japan Selfdrive Kyushu rondreis met Mount Aso</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -1485,7 +1485,7 @@ Inclusief: privétransfer, gids, toegang tot de bronnen.]]></get-trip-scraped-co
     <get-trip-id>GT-DIMSUMREIZEN-36666</get-trip-id>
     <get-trip-id-org>11313</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sumatra en Maleisie</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1979,7 +1979,7 @@ toeslag (optionele) comfortabele hotels (zie hotels per reis/bouwsteen)]]></get-
     <get-trip-id>GT-DIMSUMREIZEN-37291</get-trip-id>
     <get-trip-id-org>10085</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-India Compleet Reis</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -2262,7 +2262,7 @@ Bezoek een pottenbakkersfamilie en zie hoe zij in hun eigen achtertuin prachtige
     <get-trip-id>GT-DIMSUMREIZEN-37292</get-trip-id>
     <get-trip-id-org>10501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Korea Rondreis Traditioneel en Modern</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
