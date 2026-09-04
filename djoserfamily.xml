@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-04T11:25:17.709Z" count="23">
+<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-04T11:47:35.292Z" count="23">
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25023</get-trip-id>
     <get-trip-id-org>JCOK14</get-trip-id-org>
@@ -2944,7 +2944,7 @@ Zonnebrandcréme en een pet tegen de zon kunnen goed van pas komen! Tevens is he
     <get-trip-id>GT-DJOSERFAMILY-25063</get-trip-id>
     <get-trip-id-org>JZANK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuid-Afrika Noord &amp; Eswatini</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
