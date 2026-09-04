@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoser" partner="Djoser" generated="2026-09-03T21:57:19.428Z" count="193">
+<trips feed="djoser" partner="Djoser" generated="2026-09-04T03:00:35.719Z" count="193">
   <trip>
     <get-trip-id>GT-DJOSER-184</get-trip-id>
     <get-trip-id-org>ZBNH24</get-trip-id-org>
@@ -17418,7 +17418,7 @@ Ja, alle entreegelden voor de nationale parken zijn bij de reissom inbegrepen.]]
     <get-trip-id>GT-DJOSER-14850</get-trip-id>
     <get-trip-id-org>ARCH23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Argentinië &amp; Chili</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -18783,7 +18783,7 @@ Via Djoser kun je de datum voor de terugvlucht verplaatsen. Deze verlenging dien
     <get-trip-id>GT-DJOSER-19764</get-trip-id>
     <get-trip-id-org>MAR21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Marokko (21 dagen)</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -19102,7 +19102,7 @@ De groepen bestaan uit maximaal 20 personen.]]></get-trip-scraped-content>
     <get-trip-id>GT-DJOSER-19907</get-trip-id>
     <get-trip-id-org>PEJU24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Peru met Amazone</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -19507,7 +19507,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
     <get-trip-id>GT-DJOSER-21296</get-trip-id>
     <get-trip-id-org>ZATO29</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Afrika &amp; Eswatini</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -21555,7 +21555,7 @@ De bagageregels voor de binnenlandse vlucht zijn gelijk aan die van de internati
     <get-trip-id>GT-DJOSER-22675</get-trip-id>
     <get-trip-id-org>JAHO22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Japan met Hokkaido</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -22232,7 +22232,7 @@ We raden aan te reizen met een zachte reistas/koffer en het gewicht te beperken 
     <get-trip-id>GT-DJOSER-24520</get-trip-id>
     <get-trip-id-org>JAWI15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Winterreis Japan</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -22541,7 +22541,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
     <get-trip-id>GT-DJOSER-24818</get-trip-id>
     <get-trip-id-org>JAZK10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Japan (10 dagen)</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -23158,7 +23158,7 @@ Voor de culinaire liefhebber is een reis door China en haar keuken één groot a
     <get-trip-id>GT-DJOSER-25509</get-trip-id>
     <get-trip-id-org>SJB21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Sumatra, Java &amp; Bali</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -25825,7 +25825,7 @@ Zanzibar is een eiland met prachtige stranden en mooie koraalriffen. Wij verblij
     <get-trip-id>GT-DJOSER-28018</get-trip-id>
     <get-trip-id-org>KTZH20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Kenia, Tanzania &amp; Zanzibar (20 dagen)</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -26165,7 +26165,7 @@ Telefoneren via het vaste net is mogelijk in grotere plaatsen en in de meeste ho
     <get-trip-id>GT-DJOSER-28276</get-trip-id>
     <get-trip-id-org>AL21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Alaska</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -26447,7 +26447,7 @@ Ja, de entreegelden voor de nationale parken zijn bij de reissom inbegrepen. Moc
     <get-trip-id>GT-DJOSER-28278</get-trip-id>
     <get-trip-id-org>ARBR21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Argentinië &amp; Brazilië</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -29076,7 +29076,7 @@ Veel Canadese steden zijn gebouwd rondom de spoorlijnen, omdat treinen in de 19e
     <get-trip-id>GT-DJOSER-29865</get-trip-id>
     <get-trip-id-org>NBZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Namibië, Botswana &amp; Victoriawatervallen</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -29491,7 +29491,7 @@ Ja dit is mogelijk. Per deelnemer kan binnen de boekingmodule worden gekozen voo
     <get-trip-id>GT-DJOSER-31243</get-trip-id>
     <get-trip-id-org>WJO9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Jordanië</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -31587,7 +31587,7 @@ In de meeste hotels kun je van wifi gebruik maken, dan wel tegen betaling. Ook i
     <get-trip-id>GT-DJOSER-31852</get-trip-id>
     <get-trip-id-org>MADA24</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Madagaskar</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -37399,7 +37399,7 @@ In Armenië en Georgië is het voltage 220 Volt, de Nederlandse stekkers passen 
     <get-trip-id>GT-DJOSER-32800</get-trip-id>
     <get-trip-id-org>AZAG21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Azerbeidzjan, Armenië en Georgië</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -37724,7 +37724,7 @@ Het is belangrijk dat je bagage niet te groot is, vanwege de beperkte opslagruim
     <get-trip-id>GT-DJOSER-32802</get-trip-id>
     <get-trip-id-org>AZ10</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Azoren</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -38622,7 +38622,7 @@ In het Oulanka Basecamp is wifi aanwezig bij de receptie en in de eetzaal.]]></g
     <get-trip-id>GT-DJOSER-32813</get-trip-id>
     <get-trip-id-org>GRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Griekenland (9 dagen)</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -38898,7 +38898,7 @@ Tijdens je rondreis Griekenland is de netspanning 220, stopcontacten zijn gelijk
     <get-trip-id>GT-DJOSER-32814</get-trip-id>
     <get-trip-id-org>GREI14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Griekse eilanden: Cycladen &amp; Kreta</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -41007,7 +41007,7 @@ Het is mogelijk om tot uiterlijk 8 weken voor vertrek de reis te verlengen in Th
     <get-trip-id>GT-DJOSER-32852</get-trip-id>
     <get-trip-id-org>POL14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Polen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -41270,7 +41270,7 @@ Je kunt vrijwel overal gemakkelijk telefoneren. De bereikbaarheid van mobiele te
     <get-trip-id>GT-DJOSER-32853</get-trip-id>
     <get-trip-id-org>ITSA12</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Sardinië</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -41513,7 +41513,7 @@ In het voor- en najaar is het de beste tijd voor een reis Sardinië, de natuur i
     <get-trip-id>GT-DJOSER-32855</get-trip-id>
     <get-trip-id-org>SEMK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Servië, Bosnië en Herzegovina, Kroatië, Montenegro &amp; Kosovo</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -42287,7 +42287,7 @@ Deze reis is voor iedereen met een goede conditie goed te doen. Het is een actie
     <get-trip-id>GT-DJOSER-32881</get-trip-id>
     <get-trip-id-org>JGRK9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Griekenland</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -42516,7 +42516,7 @@ Vergeet niet om je rijbewijs mee te nemen, voor het geval je zelf een dagje een 
     <get-trip-id>GT-DJOSER-32907</get-trip-id>
     <get-trip-id-org>WALB8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Albanië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -43575,7 +43575,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, met een aangename wa
     <get-trip-id>GT-DJOSER-32917</get-trip-id>
     <get-trip-id-org>WIT8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Cinque Terre - Italië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -43842,7 +43842,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
     <get-trip-id>GT-DJOSER-32920</get-trip-id>
     <get-trip-id-org>WITA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Amalfikust - Italië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -44387,7 +44387,7 @@ Het klimaat in Kroatië varieert van Mediterraans langs de Adriatische kust tot 
     <get-trip-id>GT-DJOSER-32930</get-trip-id>
     <get-trip-id-org>WLP8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis La Palma - Spanje</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -45863,7 +45863,7 @@ De beste reistijd voor deze reis is van mei tot en met augustus. Het kan het hel
     <get-trip-id>GT-DJOSER-32945</get-trip-id>
     <get-trip-id-org>WSPN8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Noord-Spanje</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -47215,7 +47215,7 @@ Ja, voor Engeland heb je een visum nodig. Dit visum kun je online aanvragen. Op 
     <get-trip-id>GT-DJOSER-32957</get-trip-id>
     <get-trip-id-org>WWA8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Wales</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -48380,7 +48380,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. In juli en augustus 
     <get-trip-id>GT-DJOSER-32969</get-trip-id>
     <get-trip-id-org>FIKR9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Kroatië, 8/</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -48672,7 +48672,7 @@ In het voor- en najaar is het de beste tijd voor deze fietsreis. De temperatuur 
     <get-trip-id>GT-DJOSER-32971</get-trip-id>
     <get-trip-id-org>FIPL8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Porto naar Lissabon - Portugal</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -50247,7 +50247,7 @@ Boek je met drie (of vijf) personen, dan deelt één van de reizigers een kamer 
     <get-trip-id>GT-DJOSER-34854</get-trip-id>
     <get-trip-id-org>KAVE13</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Kaapverdië</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -50538,7 +50538,7 @@ Tevens bieden wij verlengingen in Mindelo aan in combinatie met een hotel. Meer 
     <get-trip-id>GT-DJOSER-34857</get-trip-id>
     <get-trip-id-org>OMAN9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -52464,7 +52464,7 @@ De meeste hotels tijdens deze reis beschikken over Wifi. Vaak zal de Wifi echter
     <get-trip-id>GT-DJOSER-35166</get-trip-id>
     <get-trip-id-org>WIPU8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Puglia</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -53402,7 +53402,7 @@ Deze 42-daagse overlandreis is gemaakt voor avontuurlijke reizigers die Afrika i
     <get-trip-id>GT-DJOSER-35220</get-trip-id>
     <get-trip-id-org>JAKO22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Japan &amp; Zuid-Korea</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -54278,7 +54278,7 @@ De reis wordt begeleid door een Nederlandse reisbegeleider. Op onze eigen Djoser
     <get-trip-id>GT-DJOSER-35622</get-trip-id>
     <get-trip-id-org>IT15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Italië &amp; Sicilië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -54897,7 +54897,7 @@ Je leest er hier meer over.]]></get-trip-scraped-content>
     <get-trip-id>GT-DJOSER-36037</get-trip-id>
     <get-trip-id-org>AUKA28</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Australië met Kangaroo Island</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -57469,7 +57469,7 @@ Gedurende deze reis is er in verschillende hotels WiFi aanwezig.]]></get-trip-sc
     <get-trip-id>GT-DJOSER-36272</get-trip-id>
     <get-trip-id-org>WMAR14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Marokko</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -58041,7 +58041,7 @@ In China kun je overal gemakkelijk bellen en internetten. De internetverbinding 
     <get-trip-id>GT-DJOSER-36287</get-trip-id>
     <get-trip-id-org>NO11</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Noorwegen</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -58926,7 +58926,7 @@ In Nepal is er WiFi beschikbaar, welke minder stabiel is dan wij gewend zijn. In
     <get-trip-id>GT-DJOSER-36714</get-trip-id>
     <get-trip-id-org>JSRK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sri Lanka</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
