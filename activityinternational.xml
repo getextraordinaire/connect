@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="activityinternational" partner="Activity International" generated="2026-09-04T03:00:35.719Z" count="43">
+<trips feed="activityinternational" partner="Activity International" generated="2026-09-04T11:20:29.393Z" count="43">
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35899</get-trip-id>
     <get-trip-id-org>49916</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultimate Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -113,7 +113,7 @@ De Nieuw-Zeeland groepsreis is geschikt voor iedereen die 3 fantastische weken w
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35900</get-trip-id>
     <get-trip-id-org>49439</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en Vrijwilligerswerk Koh Samui</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -249,7 +249,7 @@ En natuurlijk is daar de lokale bevolking. Zonder hun gastvrijheid, enthousiasme
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35901</get-trip-id>
     <get-trip-id-org>47907</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Sri Lanka</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -427,7 +427,7 @@ Deze reis is perfect voor reizigers tussen de 17 en 25 jaar die Sri Lanka graag 
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35902</get-trip-id>
     <get-trip-id-org>47419</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vrijwilligerswerk Lombok</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -526,7 +526,7 @@ Van maandag tot en met vrijdag doe je ongeveer vier uur per dag vrijwilligerswer
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35903</get-trip-id>
     <get-trip-id-org>44663</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Buffelsdrift Eco-Ambassador</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1190,7 +1190,7 @@ Marokko is een moslimland. Op bepaalde plekken en in bepaalde situaties is het n
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35911</get-trip-id>
     <get-trip-id-org>35173</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Guatemala</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -1299,7 +1299,7 @@ Deze reis is het meest geschikt voor 17 tot 25 jarigen.]]></get-trip-scraped-con
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35912</get-trip-id>
     <get-trip-id-org>34788</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vrijwilligerswerk in Galle</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -1595,7 +1595,7 @@ Data Adventure Tour 20279 januari t/m 15 januari
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35913</get-trip-id>
     <get-trip-id-org>33136</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Amazon Experience</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -1675,7 +1675,7 @@ Tijdens de reis verblijf je in gedeelde accommodaties. Dat betekend dat je de sl
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35915</get-trip-id>
     <get-trip-id-org>11582</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsreis Australië</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -1836,7 +1836,7 @@ De laatste overnachting van de reis is in Cairns. Vanaf dat moment ben je vrij o
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35916</get-trip-id>
     <get-trip-id-org>10619</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Melbourne</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -3038,7 +3038,7 @@ Meer weten over een Tussenjaar? Op onze tussenjaar pagina staat meer informatie 
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35925</get-trip-id>
     <get-trip-id-org>518</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Costa Rica</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -3145,7 +3145,7 @@ Kickstart Costa Rica is geschikt voor iedereen die 4 fantastische weken wil door
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35926</get-trip-id>
     <get-trip-id-org>517</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Ultimate Oz</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -3409,7 +3409,7 @@ Veilig betalen in het buitenland]]></get-trip-scraped-content>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35927</get-trip-id>
     <get-trip-id-org>516</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Ultimate Oz Surf</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -3626,7 +3626,7 @@ De sportieve backpacker die graag snel nieuwe vrienden wil maken. De eerste 7 da
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35929</get-trip-id>
     <get-trip-id-org>504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avondale Highschool</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -4326,7 +4326,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35938</get-trip-id>
     <get-trip-id-org>465</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kruger to Cape: Swaziland, Zuid-Afrika, Mozambique</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -4471,7 +4471,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35939</get-trip-id>
     <get-trip-id-org>462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kruger to Coast: Swaziland, Zuid-Afrika, Mozambique</get-trip-name>
     <get-trip-duration>28</get-trip-duration>
@@ -4613,7 +4613,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35941</get-trip-id>
     <get-trip-id-org>458</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nepal Kickstart Expeditie</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4765,7 +4765,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35942</get-trip-id>
     <get-trip-id-org>450</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Au Pair in Australië</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -5070,7 +5070,7 @@ Start op maandag]]></get-trip-scraped-content>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36094</get-trip-id>
     <get-trip-id-org>51031</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kruger to Reef</get-trip-name>
     <get-trip-duration>49</get-trip-duration>
@@ -5360,7 +5360,7 @@ Lees hier meer over het doen van vrijwilligerswerk via Activity International]]>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36836</get-trip-id>
     <get-trip-id-org>57831</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Werken en Reizen in Japan</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -5748,7 +5748,7 @@ De accommodatie is zo geselecteerd dat je een unieke Thailand-ervaring hebt. Nie
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-36941</get-trip-id>
     <get-trip-id-org>59501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oud en Nieuw in Sydney</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
