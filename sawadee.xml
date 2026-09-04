@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-04T11:25:17.709Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-04T11:47:35.292Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
     <get-trip-id-org>ABF</get-trip-id-org>
@@ -40591,7 +40591,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-23269</get-trip-id>
     <get-trip-id-org>TQF</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Thailand Hoogtepunten</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -41468,7 +41468,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-23282</get-trip-id>
     <get-trip-id-org>ZKR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Zuid-Korea</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -83125,7 +83125,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-36801</get-trip-id>
     <get-trip-id-org>OMA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Oman en Dubai</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -86276,7 +86276,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-37074</get-trip-id>
     <get-trip-id-org>JRCHI</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>22–35ers reis China</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
