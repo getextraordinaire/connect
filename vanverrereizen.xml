@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-04T03:00:35.719Z" count="318">
+<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-04T11:20:29.393Z" count="318">
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34880</get-trip-id>
     <get-trip-id-org>21651</get-trip-id-org>
@@ -507,7 +507,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34884</get-trip-id>
     <get-trip-id-org>21533</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Java, Bali en Komodo</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -710,7 +710,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34885</get-trip-id>
     <get-trip-id-org>21544</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De grote Oost: Sulawesi en de Molukken</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -921,7 +921,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34886</get-trip-id>
     <get-trip-id-org>21536</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali, Flores en Gili</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1141,7 +1141,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34887</get-trip-id>
     <get-trip-id-org>21541</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondje Sulawesi en Bali</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -1345,7 +1345,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34888</get-trip-id>
     <get-trip-id-org>21492</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sumatra, Bali en Nusa Lembongan</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -1562,7 +1562,7 @@ Entreegelden optionele bezienswaardigheden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34889</get-trip-id>
     <get-trip-id-org>21429</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuur op Sumatra en Sulawesi</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -3132,7 +3132,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34897</get-trip-id>
     <get-trip-id-org>21468</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ambon, Saparua en Seram, uitgebreid</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -3288,7 +3288,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34899</get-trip-id>
     <get-trip-id-org>21508</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Complete reis door Birma</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -3511,7 +3511,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34900</get-trip-id>
     <get-trip-id-org>21506</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Heel Myanmar overland</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -3771,7 +3771,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34901</get-trip-id>
     <get-trip-id-org>21576</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Panama met San Blas</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3994,7 +3994,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34902</get-trip-id>
     <get-trip-id-org>21568</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis naar Colombia</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -5848,7 +5848,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34910</get-trip-id>
     <get-trip-id-org>21503</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Colombia</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6030,7 +6030,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34911</get-trip-id>
     <get-trip-id-org>21520</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met het gezin naar Colombia</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -6220,7 +6220,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34912</get-trip-id>
     <get-trip-id-org>21519</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend Colombia</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -6426,7 +6426,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34913</get-trip-id>
     <get-trip-id-org>21435</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Caribisch Colombia</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6573,7 +6573,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34914</get-trip-id>
     <get-trip-id-org>21441</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Colombia</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -6822,7 +6822,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34915</get-trip-id>
     <get-trip-id-org>21405</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief en avontuurlijk Colombia</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8105,7 +8105,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34923</get-trip-id>
     <get-trip-id-org>21193</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kalimantan totaal</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -8258,7 +8258,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34924</get-trip-id>
     <get-trip-id-org>21194</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Transkalimantan met orang-oetans</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -8417,7 +8417,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34925</get-trip-id>
     <get-trip-id-org>21325</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Java en Bali</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -8644,7 +8644,7 @@ Vanaf havenplaats Ketapang op Java vaar je met een ferry in ongeveer 3 kwartier 
     <get-trip-id>GT-VANVERREREIZEN-34926</get-trip-id>
     <get-trip-id-org>21253</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actieve reis over Flores</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -8809,7 +8809,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34927</get-trip-id>
     <get-trip-id-org>21252</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Authentieke dorpen op Sumba en Flores</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -8983,7 +8983,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34928</get-trip-id>
     <get-trip-id-org>21039</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid Flores</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -10382,7 +10382,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34936</get-trip-id>
     <get-trip-id-org>21278</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis Ecuador in stijl</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -10589,7 +10589,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34937</get-trip-id>
     <get-trip-id-org>21281</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijk Ecuador</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -10828,7 +10828,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34938</get-trip-id>
     <get-trip-id-org>21300</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Ecuador</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -10988,7 +10988,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34939</get-trip-id>
     <get-trip-id-org>21306</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ecuador Compleet</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -11300,7 +11300,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34940</get-trip-id>
     <get-trip-id-org>21226</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avenue der vulkanen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -11478,7 +11478,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34941</get-trip-id>
     <get-trip-id-org>21002</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondje Lombok</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -13102,7 +13102,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34949</get-trip-id>
     <get-trip-id-org>21208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Nicaragua</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -13282,7 +13282,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34950</get-trip-id>
     <get-trip-id-org>20897</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Drie weken door Maritiem Canada</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -13479,7 +13479,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34951</get-trip-id>
     <get-trip-id-org>21205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nova Scotia en Newfoundland</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -13714,7 +13714,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34952</get-trip-id>
     <get-trip-id-org>20908</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de kust van Atlantic Canada</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -13973,7 +13973,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34953</get-trip-id>
     <get-trip-id-org>20899</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Atlantic Canada in het kort</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -14156,7 +14156,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34954</get-trip-id>
     <get-trip-id-org>20466</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Franse sferen in Québec</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -15744,7 +15744,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34962</get-trip-id>
     <get-trip-id-org>20911</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vancouver &amp; the Sunshine Coast</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -15932,7 +15932,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34963</get-trip-id>
     <get-trip-id-org>21022</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Buiten de gebaande paden van West-Canada</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -16170,7 +16170,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34964</get-trip-id>
     <get-trip-id-org>20912</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek de Canadese Rockies</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -16399,7 +16399,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34965</get-trip-id>
     <get-trip-id-org>20467</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Oost-Canada</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -16605,7 +16605,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34966</get-trip-id>
     <get-trip-id-org>21165</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bergen van de Andes en jungle</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -16797,7 +16797,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34967</get-trip-id>
     <get-trip-id-org>21164</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bolivia compleet</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -18702,7 +18702,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34975</get-trip-id>
     <get-trip-id-org>21019</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Water en vuur</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -18906,7 +18906,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34976</get-trip-id>
     <get-trip-id-org>21053</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief Chili</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -19121,7 +19121,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34977</get-trip-id>
     <get-trip-id-org>21051</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Chili</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -19395,7 +19395,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34978</get-trip-id>
     <get-trip-id-org>21025</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend Noord-Chili</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -19596,7 +19596,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34979</get-trip-id>
     <get-trip-id-org>21013</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Carretera Austral</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -19860,7 +19860,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34980</get-trip-id>
     <get-trip-id-org>21007</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Chili</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -21928,7 +21928,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34988</get-trip-id>
     <get-trip-id-org>20904</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijk Peru</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -22165,7 +22165,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34989</get-trip-id>
     <get-trip-id-org>21028</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Costa Rica en Panama met de auto</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -22408,7 +22408,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34990</get-trip-id>
     <get-trip-id-org>21037</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met je gezin naar Panama</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -22578,7 +22578,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34991</get-trip-id>
     <get-trip-id-org>21047</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Selfdrive door Panama</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -22778,7 +22778,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34993</get-trip-id>
     <get-trip-id-org>21034</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Panama</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -23974,7 +23974,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35001</get-trip-id>
     <get-trip-id-org>20145</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief en avontuurlijk Sarawak</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -24135,7 +24135,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35002</get-trip-id>
     <get-trip-id-org>20146</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend Borneo</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -24297,7 +24297,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35003</get-trip-id>
     <get-trip-id-org>19800</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sabah op zijn mooist</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -24438,7 +24438,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35004</get-trip-id>
     <get-trip-id-org>19798</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Natuurpracht van Borneo</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -24600,7 +24600,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35006</get-trip-id>
     <get-trip-id-org>19760</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bounty-eilanden voor de oostkust</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -25991,7 +25991,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35014</get-trip-id>
     <get-trip-id-org>20959</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Meren en gletsjers van Patagonië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -26209,7 +26209,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35015</get-trip-id>
     <get-trip-id-org>20953</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>In onze zomer naar Argentinië</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -26462,7 +26462,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35016</get-trip-id>
     <get-trip-id-org>20944</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Argentinië</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -26701,7 +26701,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35017</get-trip-id>
     <get-trip-id-org>20905</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Transsulawesi</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -26897,7 +26897,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35018</get-trip-id>
     <get-trip-id-org>20902</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief Sulawesi</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -27125,7 +27125,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35019</get-trip-id>
     <get-trip-id-org>20896</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Sulawesi</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -28474,7 +28474,7 @@ Entreegelden Pac Ou]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35027</get-trip-id>
     <get-trip-id-org>20797</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cambodja Actief</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -28709,7 +28709,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35028</get-trip-id>
     <get-trip-id-org>20842</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het lokale leven in Cambodja</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -28885,7 +28885,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35029</get-trip-id>
     <get-trip-id-org>20795</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cambodja compleet</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -29122,7 +29122,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35030</get-trip-id>
     <get-trip-id-org>20791</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Cambodja</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -29289,7 +29289,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35031</get-trip-id>
     <get-trip-id-org>20442</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Amerika en Canada</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -29525,7 +29525,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35032</get-trip-id>
     <get-trip-id-org>20734</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>West-Canada en de Rockies</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -31141,7 +31141,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35040</get-trip-id>
     <get-trip-id-org>20824</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Java</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -31308,7 +31308,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35042</get-trip-id>
     <get-trip-id-org>20568</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief Bali</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -31498,7 +31498,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35043</get-trip-id>
     <get-trip-id-org>20547</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Bali</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -31694,7 +31694,7 @@ Entreegelden optionele bezienswaardigheden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35044</get-trip-id>
     <get-trip-id-org>20544</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Geheime plekjes van Bali</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -31848,7 +31848,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35045</get-trip-id>
     <get-trip-id-org>20542</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Romantisch Bali en Gili</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -33307,7 +33307,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35053</get-trip-id>
     <get-trip-id-org>20741</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Australië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -33519,7 +33519,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35054</get-trip-id>
     <get-trip-id-org>20528</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van Sydney naar Melbourne</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -33754,7 +33754,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35055</get-trip-id>
     <get-trip-id-org>20594</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oostkust Australië Uitgebreid</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -34074,7 +34074,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35056</get-trip-id>
     <get-trip-id-org>20649</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oostkust &amp; Red Center in 4 weken</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -34398,7 +34398,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35057</get-trip-id>
     <get-trip-id-org>20653</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oostkust Australië in 3 weken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -34652,7 +34652,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35058</get-trip-id>
     <get-trip-id-org>20580</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Red Centre &amp; Top End</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -36146,7 +36146,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35066</get-trip-id>
     <get-trip-id-org>20321</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Florida</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -36340,7 +36340,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35067</get-trip-id>
     <get-trip-id-org>20093</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid New England</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -36543,7 +36543,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35068</get-trip-id>
     <get-trip-id-org>20086</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kennismaking New England</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -36722,7 +36722,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35069</get-trip-id>
     <get-trip-id-org>20054</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Capitol District</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -36902,7 +36902,7 @@ Nationale Parkenpas]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35070</get-trip-id>
     <get-trip-id-org>20056</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Oost-Amerika</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -37115,7 +37115,7 @@ Nationale Parkenpas]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35071</get-trip-id>
     <get-trip-id-org>20087</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordoost-Amerika per trein</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -38692,7 +38692,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35079</get-trip-id>
     <get-trip-id-org>20730</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sri Lanka en de Malediven</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -38909,7 +38909,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35080</get-trip-id>
     <get-trip-id-org>20721</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Culturele schatten van Ceylon</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -39094,7 +39094,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35081</get-trip-id>
     <get-trip-id-org>20717</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Gastvrij Sri Lanka</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -39285,7 +39285,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35082</get-trip-id>
     <get-trip-id-org>20702</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Sri Lanka</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -39470,7 +39470,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35083</get-trip-id>
     <get-trip-id-org>20695</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sri Lanka in 2 weken</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -40885,7 +40885,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35092</get-trip-id>
     <get-trip-id-org>20162</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nationale Parken en Karoo</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -41059,7 +41059,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35093</get-trip-id>
     <get-trip-id-org>20159</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis door Zuid-Afrika</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -41232,7 +41232,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35094</get-trip-id>
     <get-trip-id-org>20291</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Westkust en Lesotho</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -41436,7 +41436,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35095</get-trip-id>
     <get-trip-id-org>20147</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kaapse wijnlanden</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -41576,7 +41576,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35096</get-trip-id>
     <get-trip-id-org>20288</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ongerept Limpopo</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -41764,7 +41764,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35097</get-trip-id>
     <get-trip-id-org>20143</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Complete safarireis Zuid-Afrika</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -43789,7 +43789,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35105</get-trip-id>
     <get-trip-id-org>20187</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid Zuidereiland</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
@@ -44086,7 +44086,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35106</get-trip-id>
     <get-trip-id-org>20313</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordereiland in 3 weken</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -44353,7 +44353,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35107</get-trip-id>
     <get-trip-id-org>20207</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland in 5 weken</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -44739,7 +44739,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35108</get-trip-id>
     <get-trip-id-org>20318</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature &amp; Wildlife Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -45096,7 +45096,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35109</get-trip-id>
     <get-trip-id-org>20365</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -46679,7 +46679,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35118</get-trip-id>
     <get-trip-id-org>20492</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het beste van Thailand en Laos</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -46957,7 +46957,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35120</get-trip-id>
     <get-trip-id-org>20470</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van jungle naar strand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -47149,7 +47149,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35121</get-trip-id>
     <get-trip-id-org>20456</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Eilandhoppen in Zuidoost Thailand</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -47301,7 +47301,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35122</get-trip-id>
     <get-trip-id-org>20247</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Thailand</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -47503,7 +47503,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35123</get-trip-id>
     <get-trip-id-org>20372</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>3-weekse camperreis vanaf San Francisco</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -49444,7 +49444,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35131</get-trip-id>
     <get-trip-id-org>20351</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best of the West</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -49720,7 +49720,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35132</get-trip-id>
     <get-trip-id-org>20422</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kennismaking Zuidwest-Amerika</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -49939,7 +49939,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35133</get-trip-id>
     <get-trip-id-org>19328</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van de gebaande paden</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -50147,7 +50147,7 @@ Entreegelden Pac Ou en Wat Phou]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35134</get-trip-id>
     <get-trip-id-org>19322</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Laos Compleet</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -50383,7 +50383,7 @@ Entreegelden Pac Ou]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35135</get-trip-id>
     <get-trip-id-org>19325</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Juwelen van Laos</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -50556,7 +50556,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35136</get-trip-id>
     <get-trip-id-org>19869</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Aziatische Parels</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -52399,7 +52399,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35144</get-trip-id>
     <get-trip-id-org>19779</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Het authentieke Noorden van Vietnam</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -52635,7 +52635,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35145</get-trip-id>
     <get-trip-id-org>19772</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van zuid naar noord of andersom</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -52883,7 +52883,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35146</get-trip-id>
     <get-trip-id-org>19677</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Vietnam</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -53077,7 +53077,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35147</get-trip-id>
     <get-trip-id-org>20303</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Natuurwonderen van Namibië</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -53309,7 +53309,7 @@ Park entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35148</get-trip-id>
     <get-trip-id-org>20305</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Woestijn en wildparken</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -53505,7 +53505,7 @@ Park entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35149</get-trip-id>
     <get-trip-id-org>20310</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijk Namibië</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -55395,7 +55395,7 @@ Visumkosten]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35235</get-trip-id>
     <get-trip-id-org>21432</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kampeertour Kenia &amp; Tanzania</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -55525,7 +55525,7 @@ Visumkosten]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35718</get-trip-id>
     <get-trip-id-org>25652</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Tasmanië en de oostkust</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -55804,7 +55804,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35719</get-trip-id>
     <get-trip-id-org>25635</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuidkust en Tasmanië compleet</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
@@ -56120,7 +56120,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35720</get-trip-id>
     <get-trip-id-org>25418</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid Texas</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -56334,7 +56334,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35721</get-trip-id>
     <get-trip-id-org>25441</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Texas</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -58032,7 +58032,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36158</get-trip-id>
     <get-trip-id-org>27058</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis Kenia</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -58198,7 +58198,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36159</get-trip-id>
     <get-trip-id-org>27087</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia strand en safari-avontuur per trein</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -58339,7 +58339,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36160</get-trip-id>
     <get-trip-id-org>27061</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Huwelijksreis Kenia &amp; Mombasa</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -58657,7 +58657,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36184</get-trip-id>
     <get-trip-id-org>27509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Yukon</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -58856,7 +58856,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36185</get-trip-id>
     <get-trip-id-org>27417</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Alaska in de winter</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -58949,7 +58949,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36186</get-trip-id>
     <get-trip-id-org>27413</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid Alaska met je huurauto</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -59178,7 +59178,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36187</get-trip-id>
     <get-trip-id-org>27415</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met de trein door Alaska</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -59347,7 +59347,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36188</get-trip-id>
     <get-trip-id-org>27689</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beren en gletsjers in Alaska en Yukon</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -59579,7 +59579,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36189</get-trip-id>
     <get-trip-id-org>27416</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cruise langs de Aleoeten</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -60702,7 +60702,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36197</get-trip-id>
     <get-trip-id-org>27580</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Route 66 roadtrip</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -61141,7 +61141,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36682</get-trip-id>
     <get-trip-id-org>29257</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis Argentinië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -61836,7 +61836,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37146</get-trip-id>
     <get-trip-id-org>32206</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend binnenland van Oregon</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -62028,7 +62028,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37147</get-trip-id>
     <get-trip-id-org>32208</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highway 101 van Seattle naar San Francisco</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -62264,7 +62264,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37148</get-trip-id>
     <get-trip-id-org>32209</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wijn, vulkanen en meren; van San Francisco naar Seattle</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -62519,7 +62519,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37149</get-trip-id>
     <get-trip-id-org>32114</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Oregon en Washington State</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -62733,7 +62733,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37150</get-trip-id>
     <get-trip-id-org>32115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Roadtrip Oregon</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -62945,7 +62945,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37151</get-trip-id>
     <get-trip-id-org>32211</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van kust tot geisers; Oregon en Yellowstone</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -64096,7 +64096,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37447</get-trip-id>
     <get-trip-id-org>32996</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutiquereis Costa Rica</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -64307,7 +64307,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37489</get-trip-id>
     <get-trip-id-org>32309</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met chauffeur Zuid-Afrika ontdekken</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -64710,7 +64710,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37497</get-trip-id>
     <get-trip-id-org>32995</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Woestijn en strand</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -64839,7 +64839,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37498</get-trip-id>
     <get-trip-id-org>32994</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutiquereis Sahara in Marokko</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -64966,7 +64966,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37499</get-trip-id>
     <get-trip-id-org>32992</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Koningssteden en de Atlantische kust</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -65106,7 +65106,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37500</get-trip-id>
     <get-trip-id-org>32993</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Per trein tussen de steden</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -65233,7 +65233,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37501</get-trip-id>
     <get-trip-id-org>32990</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Marrakech, Agafay-woestijn &amp; koningssteden</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -65395,7 +65395,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37502</get-trip-id>
     <get-trip-id-org>32989</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten met de huurauto</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
