@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-04T03:00:35.719Z" count="23">
+<trips feed="djoserfamily" partner="Djoser Family" generated="2026-09-04T11:20:29.393Z" count="23">
   <trip>
     <get-trip-id>GT-DJOSERFAMILY-25023</get-trip-id>
     <get-trip-id-org>JCOK14</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Costa Rica</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -974,7 +974,7 @@ Daarnaast is het aangeraden om in de kampeerovernachtingen gebruik te maken van 
     <get-trip-id>GT-DJOSERFAMILY-25045</get-trip-id>
     <get-trip-id-org>JNBZ22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Namibië, Botswana &amp; Victoriawatervallen</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -2310,7 +2310,7 @@ Voor het verblijf op de River Kwai is het aan te raden om een zaklamp mee te nem
     <get-trip-id>GT-DJOSERFAMILY-25060</get-trip-id>
     <get-trip-id-org>JVIK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Vietnam (15 dagen)</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -2610,7 +2610,7 @@ Zonnebrandcréme en een pet tegen de zon kunnen goed van pas komen. Tevens is he
     <get-trip-id>GT-DJOSERFAMILY-25061</get-trip-id>
     <get-trip-id-org>JVIL23</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Vietnam (23 dagen)</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -3930,7 +3930,7 @@ Reken voor uitgaven zoals entreegelden, maaltijden en persoonlijke uitgaven op m
     <get-trip-id>GT-DJOSERFAMILY-25876</get-trip-id>
     <get-trip-id-org>JKTZ21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kenia, Tanzania &amp; Zanzibar</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4766,8 +4766,8 @@ Verblijf een resort direct aan het strand in Essaouira
 11 Marrakech, optionele excursie naar het atlas gebergte
 12 Marrakech - Essaouira
 13 Essaouira
-14 Essaouira - Marrakech
-15 Marrakech - Casablanca - Amsterdam
+14 Essaouira - Casablanca
+15 Casablanca - Amsterdam
 
 #Dag tot dag
 Reisbeschrijving
@@ -4776,12 +4776,12 @@ Het moderne Casablanca
 Dag 1 Amsterdam - Casablanca
 Met een gerenommeerde luchtvaartmaatschappij vliegen we naar Casablanca toe. Casablanca, of 'Casa', zoals de Marokkanen Casablanca noemen, is niet echt een oude stad en het straatbeeld wordt bepaald door grote gebouwen, moderne winkelstraten en heel veel restaurants.
 Koningssteden Meknès en Fès
-Dag 2 Casablanca - Volubilis - Meknès - Fès
-Dag 3 Fès
+Dag 2 Casablanca - Meknès
+Dag 3 Meknès - Volubilis - Fès
 In Casablanca, brengen we een bezoek aan de enorme Hassan II moskee, één van de grootste moskeeën ter wereld. Het is de enige moskee in Marokko die je als niet-moslim mag bezoeken. Binnen zijn aparte gebedsruimtes voor mannen en vrouwen. Trek voordat je naar binnen gaat wel eerst je schoenen uit.
 De minaret van de moskee is 200 meter hoog en is daarmee de hoogste minaret ter wereld! Rond de moskee komen families samen om te picknicken.
-Op weg naar Fès bezoeken we de Romeinse ruïnestad Volubilis dat ooit in het centrum van een vruchtbaar landbouwgebied lag. Vroeger werden hier koren en olijven maar ook wilde dieren verhandeld. In een aantal Romeinse villa’s kun je prachtige mozaïeken bewonderen. We stoppen ook in Meknès, de volgende koningsstad en lopen even door de medina met kleurrijke souks, ofwel smalle marktstraatjes met kleine winkeltjes waar van alles te koop is. De kans is groot dat je tijdens je zoektocht naar het perfecte souvenir een lekker kopje muntthee aangeboden krijgt.
-Later die dag arriveren we in Fès, de oudste koningsstad van Marokko en het religieuze centrum van het land. Het oude centrum is een kleurrijk doolhof waarin het een drukte van belang is, overal wringen volgeladen ezels, karren en sjouwende mannen zich tussen de drukte door. De wolververs geven hun wijk letterlijk een kleurrijk aanzien. Nadat ze de wol in enorme aardewerken kruiken geverfd hebben, hangen ze de strengen te drogen in de straten. Je ziet ook houtdraaiers, koperslagers en leerlooiers aan het werk. Ze bedrijven hun ambacht op traditionele wijze, zonder moderne machines. De dierenhuiden die door de leerlooiers zijn bewerkt, liggen te drogen op de daken van huizen. Het stinkt ontzettend, maar een muntblaadje voor je neus, moet de geur verhullen! In de medina kun je naast stoffen en kruiden ook amuletten tegen het boze oog kopen.
+We reizen door naar onze volgende stop: Meknès, de volgende koningsstad. Hier kunnen we lopen door de medina met kleurrijke souks, ofwel smalle marktstraatjes met kleine winkeltjes waar van alles te koop is. De kans is groot dat je tijdens je zoektocht naar het perfecte souvenir een lekker kopje muntthee aangeboden krijgt.
+De volgende dag reizen we via Volubilis naar Fès. Volubilis is een Romeinse ruïnestad dat ooit in het centrum van vruchtbaar landbouwgebied lag. In een aantal Romeinse villa’s kun je prachtige mozaïeken bewonderen. Later die dag arriveren we in Fès, de oudste koningsstad van Marokko en het religieuze centrum van het land. Het oude centrum is een kleurrijk doolhof waarin het een drukte van belang is, overal wringen volgeladen ezels, karren en sjouwende mannen zich tussen de drukte door. De wolververs geven hun wijk letterlijk een kleurrijk aanzien. Nadat ze de wol in enorme aardewerken kruiken geverfd hebben, hangen ze de strengen te drogen in de straten. Je ziet ook houtdraaiers, koperslagers en leerlooiers aan het werk. Ze bedrijven hun ambacht op traditionele wijze, zonder moderne machines. De dierenhuiden die door de leerlooiers zijn bewerkt, liggen te drogen op de daken van huizen. Het stinkt ontzettend, maar een muntblaadje voor je neus, moet de geur verhullen! In de medina kun je naast stoffen en kruiden ook amuletten tegen het boze oog kopen.
 Arabisch sprookje in de woestijn
 Dag 4 Fès - Ifrane - Midelt
 Dag 5 Midelt - Zouala
@@ -4801,10 +4801,10 @@ We verlaten het relaxte Aït-Ben-Haddou en rijden door het Atlasgebergte over de
 Vissersplaatsje Essaouira
 Dag 12 Essaouira
 Dag 13 Essaouira
-Dag 14 Essaouira - Marrakech
-Dag 15 Marrakech - Amsterdam
+Dag 14 Essaouira - Casablanca
+Dag 15 Casablanca - Amsterdam
 Na de drukte van de steden en de ritjes door de warmte, brengt het verblijf in het vissersplaatsje Essaouira aan de kust een welkome afwisseling. Het stadje ligt aan zee en de bijna permanente wind zorgt voor aangename verkoeling. Essaouira doet meer Portugees aan dan Marrokaans. Dat komt vooral door de verweerde, witte huisjes in de vesting, de talloze koffiehuizen en de gezellige terrasjes. Vroeger was Essaouira een bloeiende handelsplaats door speciale belastingregels. Later kreeg deze stad ook faam als badplaats. De nauwe straatjes komen tot leven door de leuke souvenirwinkeltjes. In de haven kun je zien hoe de vissers de vangst van die ochtend in rieten mandjes aan wal gooien. Gegadigde kopers drommen eromheen; verser kun je het niet krijgen. Hou je van vis? Je kunt dus heerlijk vis eten. In Essaouira verblijven we in een resort, direct aan het strand van Essaouira gelegen om de reis relax te kunnen afsluiten.
-Vanuit Essaouira rijden we terug naar Marrakech, zodat we de middag kunnen doorbrengen in de stad. Je hebt alle tijd om de highlights te bewonderen en de laatste souvenirs te shoppen. De volgende dag vliegen we vanuit Marrakech weer naar Amsterdam.
+Vanuit Essaouira rijden we terug naar Casablanca. Je hebt alle tijd om de highlights te bewonderen en de laatste souvenirs te shoppen. De volgende dag vliegen we vanuit Casablanca weer naar Amsterdam.
 Op reis met Djoser
 Bij onze reizen is geen sprake van een strak gepland reisschema. Uiteraard zijn de hotels en het vervoer van tevoren gereserveerd, maar ter plaatse kan het mogelijk zijn dat het programma aangepast dient te worden. Dit zal vanzelfsprekend in overleg met de groep plaatsvinden. De reisbegeleider biedt de meeste dagen een programma aan, maar men is zeker niet verplicht hier aan deel te nemen. Wie er liever zelf op uitgaat heeft daartoe alle vrijheid. Zo leer je een land tenslotte het beste kennen! De Family-groepen bestaan uit gemiddeld 16 personen, de maximale groepsgrootte is 26 personen.
 
@@ -4813,20 +4813,20 @@ Vluchten
 Alle vluchttoeslagen
 Nederlandssprekende reisbegeleiding
 Vervoer per eigen bus met airconditioning
-Spectaculaire tocht door de woestijn met terreinwagens
+Rit door de woestijn met terreinwagens
 Overnachtingen in hotel met eigen douche/toilet
 Inclusief 14 x ontbijt
 Verblijf in de palmenoase Zouala
 Jeepsafari door de woestijn
 Kampeerovernachting in de woestijn van Erg Chebbi in een bedoeïenentent
-Kamelen tocht in de Sahrara
+Kamelen tocht in de Sahara
 Diner in de woestijn
 Rondleiding door de Atlas filmstudios
 Bezoek aan de Hassan II Moskee
 Rondleiding in Volubilis
-Stadswandeling in Meknés
+Verblijf en stadswandeling in Meknés
 Bezoek aan Aït Benhaddou
-Bezoek aan de souk in Marrakech
+Bezoek aan de souks in Marrakech
 Verblijf in een comfortabel resort direct aan het strand van Essaouira
 
 #Exclusief
@@ -4867,7 +4867,6 @@ Zouala	Maison d'Hote Zouala
 Merzouga	Erg Chebbi Sahara Garden
 Aït Benhaddou	Riad Maktoub
 Marrakech	Hotel Gomassine
-Marrakech	Hotel Amalou
 Essaouira	Atlas Essaouira & Spa resort
 Deze selectie geeft een goed beeld van de hotels waar we op deze reis verblijven.
 Reis je met een familie van 3 personen dan verblijf je met je gezin op één kamer. Voor meer comfort is het mogelijk om, tegen betaling van een toeslag, een éénpersoonskamer bij te boeken. Kies je hiervoor, of bestaat het gezin uit vier, vijf of meer personen, reserveren we, indien mogelijk, aan elkaar grenzende kamers.
@@ -4895,20 +4894,20 @@ Vluchten
 Alle vluchttoeslagen
 Nederlandssprekende reisbegeleiding
 Vervoer per eigen bus met airconditioning
-Spectaculaire tocht door de woestijn met terreinwagens
+Rit door de woestijn met terreinwagens
 Overnachtingen in hotel met eigen douche/toilet
 Inclusief 14 x ontbijt
 Verblijf in de palmenoase Zouala
 Jeepsafari door de woestijn
 Kampeerovernachting in de woestijn van Erg Chebbi in een bedoeïenentent
-Kamelen tocht in de Sahrara
+Kamelen tocht in de Sahara
 Diner in de woestijn
 Rondleiding door de Atlas filmstudios
 Bezoek aan de Hassan II Moskee
 Rondleiding in Volubilis
-Stadswandeling in Meknés
+Verblijf en stadswandeling in Meknés
 Bezoek aan Aït Benhaddou
-Bezoek aan de souk in Marrakech
+Bezoek aan de souks in Marrakech
 Verblijf in een comfortabel resort direct aan het strand van Essaouira
 
 ##Excursies
@@ -4919,7 +4918,6 @@ Bezoek aan de Hassan II Moskee in Casablanca; Dit is de op twee na grootste mosk
 Rondleiding in Volubilis, Deze Romeinse ruïnestad werd in de 3de eeuw voor Chr. gesticht. Het archeologische Volubilis behoort tot de Unesco-werelderfgoedlijst
 Stadswandeling door Meknès. Je bezoekt in deze koningstad verschillende hoogtepunten zoals de Medina en de religieuze school Medersa Bu Inaiya.
 Stadswandeling door Fez, na Casablanca de grootste stad van Marokko. Je bezoekt in deze stad onder andere het uitzichtpunt, de Mozaïek-werkplaats, de Mellah (de historische Joodse wijk), de Medersa Bou Inania (religieuze school), de Kairouan-Moskee en uiteraard de traditionele leerlooierijen.
-Tocht per luxe terreinwagens door de woestijn inclusief stop bij fossielen vindplaats.
 Kamelensafari door de zandduinen in het woestijngebied van Erg Chebbi, sommige zandduinen kunnen hier tot wel 150 hoog worden.
 Bezoek aan de roestrode Todra kloof. Deze 15 kilometer lange kloof is het meest spectaculaire kloof op de Atlas.
 Rondleiding in Atlas filmstudios van Ouarzazate het Holywood van Marokko, waar beroemde films producties, zoals: The mummy (1999), Gladiator (2000), Astrix & Obelix: Missie Cleopatra (2002), Alexander (2004) en Sex and the City 2 (2010) zijn opgenomen.
@@ -5429,7 +5427,7 @@ Neem voor deze reis warme kleding mee zoals fleecetruien, wintersportkleding, th
     <get-trip-id>GT-DJOSERFAMILY-34848</get-trip-id>
     <get-trip-id-org>JJAK15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Japan</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -5592,7 +5590,7 @@ De gemiddelde groepsgrootte om de reis door te laten gaan is 10.
 De hotels waarin we tijdens de reis overnachten zijn comfortabele middenklasse hotels die centraal gelegen zijn. Ze beschikken over alle moderne voorzieningen en hebben een eigen badkamer. Het personeel is naar Japanse traditie uiterst servicebewust. Zwembaden zijn in de Japanse cultuur geen standaard gegeven en dus beperkt beschikbaar. Sommige hotels bieden Onsen. Dit zijn warmwaterbronnen specifiek voor ontspanning.
 In Takayama wordt er verbleven in een ryokan of in accommodatie met traditionele Japanse kamers. Hier slaap slaap je op een ‘futon’ (dun matras) op de ‘tatami’ (dikke, fraaie vloermatten van geweven rijststro). De Japanners zijn erg gesteld op hygiëne, dus vergeet niet de 'wcslippers' aan te doen op het toilet. Je krijgt hier een inbegrepen traditioneel Japans diner en ontbijt.
 Bekijk hotelreviews op
-Tokyo	Hotel Sunshine City Prince
+Tokyo	Le port Kojimachi
 Matsumoto	Alpico Plaza Hotel
 Takayama	Hoshokaku
 Kyoto	Daiwa Roynet Hotel Kyoto Shijo Karasuma
@@ -5758,7 +5756,7 @@ Zodra je een reis hebt geboekt, ontvangt de hoofdboeker hiervan een bevestiging 
     <get-trip-id>GT-DJOSERFAMILY-35185</get-trip-id>
     <get-trip-id-org>JKO15</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Zuid-Korea</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -6041,7 +6039,7 @@ Zodra je een reis hebt geboekt, ontvangt de hoofdboeker hiervan een bevestiging 
     <get-trip-id>GT-DJOSERFAMILY-35331</get-trip-id>
     <get-trip-id-org>JJBL22</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familierondreis Java &amp; Bali</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -6127,7 +6125,7 @@ Dag 15 Munduk - Pura Ulun Danu Batan tempel - Ubud
 Dag 16 Ubud, optionele excursie Monkey Forest
 Dag 17 Ubud, optionele excursie fietstocht
 Van Lovina rijden we naar Munduk. Dit kleine rustige bergdorpje ligt in een adembenemende omgeving. Begin 20ste eeuw was dit een vakantielocatie voor Nederlanders. De huizen die zij destijds gebouwd hebben, zijn nog steeds te bewonderen. Trek hier de groene vallei in en neem een duik in de 35 meter hoge waterval. Deze waterval staat vooral bekend om zijn geneeskrachtige werking. Zo zou het water je huid verjongen en huidproblemen verhelpen. In de omgeving zie je rijstvelden, maar ook koffie -en kruidnagelplantages.
-Na de verfrissende omgeving van Munduk reizen we door naar het gezellige dorp Ubud. Onderweg stoppen we bij de Pura Ulun Danu Batan-tempel die op een klein eilandje in het meer ligt. In Ubud kun je veel verschillende uitstapjes maken. Je kunt hier de fiets pakken, een motor of auto huren en een mooie wandelingen maken. Je kunt alle kanten op.
+Na de verfrissende omgeving van Munduk reizen we door naar Ubud. Onderweg stoppen we bij de Pura Ulun Danu Batan-tempel die op een klein eilandje in het meer ligt. We verblijven buiten Ubud in een zeer groene en rustige omgeving. In Ubud kun je veel verschillende uitstapjes maken. Je kunt hier de fiets pakken, een motor of auto huren en een mooie wandelingen maken. Je kunt alle kanten op.
 De omgeving van Ubud is echt prachtig en voldoet vast en zeker helemaal aan de verwachtingen die je van Indonesië hebt. Met groene rijstvelden en tropische regenwouden. Aan de rand van Ubud ligt Monkey Forest. Daar kun je een mooie wandeling maken. Let wel goed op je spullen want de apen zijn erg brutaal. Een aanrader is ook een prachtige wandel- of fietstocht door de groene sawa’s rondom Ubud. Bezoek de oude tempel Goa Gajah, enkele kilometers verderop, of één van de omliggende dorpen met eigen handwerkspecialiteiten: batik, houtsnijwerk, schilderijen en zilversmeedwerk. Souvenirs kun je in en rond Ubud in overvloed vinden.
 Vanuit Ubud kun je gemakkelijk, lopend of per taxi, enkele culturele hoogtepunten op Bali bereiken: het stadje Klungkung, het Besakih-tempelcomplex, de Gunung Batur-vulkaan en de rotstempel Gunung Kawi. In en rond Ubud worden iedere avond traditionele dansvoorstellingen gegeven. Het hindoeïsme drukt een kleurig stempel op het Balinese leven. In elke tuin staat wel een klein altaar en overal zie je vrouwen bezig met het maken van tempeldecoraties of het brengen van offers. Op Bali worden zoveel ceremonies en processies gehouden. De kans is dan ook heel groot dat je er zeker één gaat meemaken.
 Ontspannen in badplaats Sanur
@@ -6185,7 +6183,8 @@ De gemiddelde groepsgrootte om de reis door te laten gaan is 10.
 ##Accommodatie
 We overnachten in goede middenklasse hotels, die meestal centraal gelegen zijn. Zo verblijven we in Jakarta op een steenworp afstand van het oude Batavia. Het hotel in Yogyakarta ligt op loopafstand van Malioboro Street: de grootste en bekendste winkelstraat in Yogyakarta. Vrijwel alle hotels beschikken over een zwembad waar je een verfrissende duik kunt nemen. De hotels hebben een eigen, sfeervol karakter. De kamers beschikken over eigen douche en toilet. De meeste hotels hebben bovendien airconditioning.
 Het hotel bij de Bromo vulkaan is eenvoudig, maar de locatie maakt alles goed: gelegen op de kraterrand van de Bromo vulkaan heb je een schitterend uitzicht over het betoverende maanlandschap. In Lovina op Bali ligt ons hotel pal aan het strand, of heel vlakbij; je loopt zo van het hotel het strand op. Ook is er een zwembad aanwezig voor wie liever daar een frisse duik neemt.
-In Sanur verblijven we in een hotel met een prachtig groot zwembad. In de omgeving van het hotel vind je ook heerlijke koffie tentjes, verschillende restaurants en kun je op de boulevard je laatste souvenirs scoren.
+We verblijven buiten Ubud in een prachtige accommodatie in hele groene omgeving. Deze accommodatie biedt veel rust na drukke programma op Java.
+In Sanur verblijven we in een hotel met een groot zwembad. In de omgeving van het hotel vind je ook heerlijke koffie tentjes, verschillende restaurants en kun je op de boulevard je laatste souvenirs scoren.
 Let op: accommodatie in Munduk is onder voorbehoud. Indien gewijzigd word je hierover geïnformeerd.
 Bekijk hotelreviews op
 Jakarta	Santika Premiere Hayam Wuruk
@@ -6202,8 +6201,7 @@ Brits Resort
 New Sunari
 Munduk	Puri Lumbung
 Meme Surung Homestay
-Ubud	Ubud Wana
-Pertiwi Resort
+Ubud	Swan Paradise
 Sanur	Prime Plaza Hotel
 Deze selectie geeft een goed beeld van de hotels waar we op deze reis verblijven.
 Reis je met een familie van drie personen dan verblijf je met je gezin op één kamer. Wij raden aan voor meer comfort voor oudere kinderen, tegen betaling van een toeslag, een éénpersoonskamer bij te boeken. De meeste accommodaties in Indonesië hebben namelijk geen triple kamers, waardoor er vaak een 'snoozer' bijzetbedje of alleen een matras op de kamer geplaatst wordt. Kies je hiervoor, of bestaat het gezin uit vier, vijf of meer personen, reserveren we, indien beschikbaar, aan elkaar grenzende kamers.
@@ -6270,9 +6268,9 @@ Entreeticket Borobudur inclusief beklimming, Upanat (speciale sandalen), gids
 Prijs
 Prijs € 38,- p.p.
 Fietstocht door Ubud en omgeving
-Stap op de fiets en ontdek het authentieke Bali tijdens deze afwisselende tocht rondom Ubud!
-Je fietst over rustige, verborgen weggetjes door dorpjes, langs rijstvelden en tempels, en krijgt een uniek inkijkje in het dagelijks leven op Bali. De route is grotendeels licht bergafwaarts en daardoor goed te doen voor jong en oud.
-Onderweg maken we verschillende stops, onder andere bij een traditioneel Balinees familiehuis en in de rijstvelden. Na het fietsen eindigt de tocht bij een lokale familie, waar een heerlijke huisgemaakte lunch voor je klaarstaat.
+Stap op de fiets en ontdek het authentieke Bali tijdens deze ontspannen tocht door het prachtige platteland rondom Ubud. Na een bezoek aan een koffie- en cacaoplantage start een circa 18 kilometer lange fietsroute over rustige weggetjes, langs rijstvelden, tempels en traditionele dorpjes.
+Onderweg bezoek je een Balinees familiehuis, maak je een korte stop bij de rijstvelden en leer je meer over de lokale cultuur en het dagelijks leven op Bali. Er zijn volop mogelijkheden om foto's te maken en in contact te komen met de vriendelijke lokale bevolking.
+De route loopt grotendeels licht bergafwaarts en is daardoor geschikt voor jong en oud. Na afloop geniet je van een heerlijke huisgemaakte lunch bij een lokale familie.
 Een actieve en sfeervolle manier om Bali écht te beleven!
 Inbegrepen
 Vervoer heen- en weer naar het start- en eindpunt per comfortabel busje, moderne mountainbikes met helm, een Engelssprekende gids, mineraalwater en een lunch
