@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-03T21:57:19.428Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-04T03:00:35.719Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -318,7 +318,7 @@ Omdat het van november t/m maart erg koud is in deze regio, bieden wij deze tour
     <get-trip-id>GT-333TRAVEL-21883</get-trip-id>
     <get-trip-id-org>T-VN-0330</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen Plekjes van Noord-Vietnam</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -470,7 +470,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-21986</get-trip-id>
     <get-trip-id-org>T-AU-6652</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sydney-Brisbane: Nationale Parken en Stranden</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -1017,7 +1017,7 @@ Houd er rekening mee dat je gemiddeld langer over de genoemde afstand in kilomet
     <get-trip-id>GT-333TRAVEL-22023</get-trip-id>
     <get-trip-id-org>T-MY-4408</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Jungle avontuur in Tabin &amp; Kinabatangan</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -2000,7 +2000,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22090</get-trip-id>
     <get-trip-id-org>R-0046</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Highlights</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -2254,7 +2254,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22091</get-trip-id>
     <get-trip-id-org>R-0047</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand Highlights Deluxe</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -3552,7 +3552,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22102</get-trip-id>
     <get-trip-id-org>R-0072</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Thailand in 2 weken</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -3756,7 +3756,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22103</get-trip-id>
     <get-trip-id-org>R-0073</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Thailand 3 weken</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -3949,7 +3949,7 @@ Let op: plastic tasjes en piepschuim verpakkingen zijn verboden op Koh Samet. Zo
     <get-trip-id>GT-333TRAVEL-22104</get-trip-id>
     <get-trip-id-org>R-0078</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Thailand, Laos en Cambodja</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -4220,7 +4220,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.048</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.048</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.748</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.757</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/best-deal-zuid-thailand</get-trip-url>
@@ -6036,7 +6036,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22116</get-trip-id>
     <get-trip-id-org>R-0205</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Sri Lanka</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -6238,7 +6238,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>2.281</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.281</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.603</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.624</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malediven</get-trip-country>
     <get-trip-country>Sri Lanka</get-trip-country>
@@ -7597,7 +7597,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22127</get-trip-id>
     <get-trip-id-org>R-0219</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen Plekjes van Sri Lanka</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -7817,7 +7817,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22128</get-trip-id>
     <get-trip-id-org>R-0306</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover China by Rail</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -7991,7 +7991,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22130</get-trip-id>
     <get-trip-id-org>R-0308</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>China Highlights</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -9484,7 +9484,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22141</get-trip-id>
     <get-trip-id-org>R-0328</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Authentiek China &amp; Bali</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -9712,7 +9712,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22142</get-trip-id>
     <get-trip-id-org>R-0329</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mystieke natuurwonderen van China</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -9949,7 +9949,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22143</get-trip-id>
     <get-trip-id-org>R-0330</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal China Bamboe en Keizerlijk Verleden</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -10567,7 +10567,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.247</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.247</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.948</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.956</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
     <get-trip-url>https://www.333travel.nl/maleisie/rondreis/paradijselijk-west-maleisie</get-trip-url>
@@ -10947,7 +10947,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22155</get-trip-id>
     <get-trip-id-org>R-0471</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kuala Lumpur en Langkawi Deluxe</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -11134,7 +11134,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22156</get-trip-id>
     <get-trip-id-org>R-0474</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Maleisië</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -12864,7 +12864,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22166</get-trip-id>
     <get-trip-id-org>R-0484</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Maleisie</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -13089,7 +13089,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22167</get-trip-id>
     <get-trip-id-org>R-0485</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Maleisië Deluxe</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -13302,7 +13302,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22169</get-trip-id>
     <get-trip-id-org>R-0490</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sabah: Highlights &amp; jungle van Borneo</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -15643,7 +15643,7 @@ Bij verschillende luchtvaartmaatschappijen geldt er een extra toeslag als je hee
     <get-trip-id>GT-333TRAVEL-22179</get-trip-id>
     <get-trip-id-org>R-0511</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Bali</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -15787,7 +15787,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22180</get-trip-id>
     <get-trip-id-org>R-0514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali - Gili Explorer</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -15989,7 +15989,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22181</get-trip-id>
     <get-trip-id-org>R-0515</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali en Komodo National Park</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -16191,7 +16191,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22182</get-trip-id>
     <get-trip-id-org>R-0520</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Java en Bali</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -17901,7 +17901,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22192</get-trip-id>
     <get-trip-id-org>R-0537</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Sumatra&apos;s orang-oetans en magisch Bali</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -18089,7 +18089,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22193</get-trip-id>
     <get-trip-id-org>R-0538</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Islandhopping: Pareltjes rondom Bali</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -18317,7 +18317,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22194</get-trip-id>
     <get-trip-id-org>R-0539</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Java</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -18588,7 +18588,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22195</get-trip-id>
     <get-trip-id-org>R-0601</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Cambodja</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -18765,7 +18765,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22207</get-trip-id>
     <get-trip-id-org>R-0664</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam Highlights</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -18999,7 +18999,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22208</get-trip-id>
     <get-trip-id-org>R-0665</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam Highlights Deluxe</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -21215,7 +21215,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22218</get-trip-id>
     <get-trip-id-org>R-0676</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Vietnam</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -21415,7 +21415,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22219</get-trip-id>
     <get-trip-id-org>R-0677</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Vietnam met strandvakantie</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -21629,7 +21629,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22220</get-trip-id>
     <get-trip-id-org>R-0678</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Verkenningstocht Vietnam</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -21832,7 +21832,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22221</get-trip-id>
     <get-trip-id-org>R-0679</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen Plekjes van Vietnam</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -23406,7 +23406,7 @@ Indien u in de periode 20 december en 5 januari in India en/of Nepal verblijft d
     <get-trip-id>GT-333TRAVEL-22234</get-trip-id>
     <get-trip-id-org>R-0760</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour India en Nepal Superior</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -24193,7 +24193,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22244</get-trip-id>
     <get-trip-id-org>R-0950</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -24353,7 +24353,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22245</get-trip-id>
     <get-trip-id-org>R-0951</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -24511,7 +24511,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22246</get-trip-id>
     <get-trip-id-org>R-0952</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -24725,7 +24725,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22247</get-trip-id>
     <get-trip-id-org>R-0953</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -26718,7 +26718,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22257</get-trip-id>
     <get-trip-id-org>R-4505</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Natuur van Bali</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -26970,7 +26970,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22258</get-trip-id>
     <get-trip-id-org>R-4507</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Javaans verleden, orang-oetans en Bali</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -27178,7 +27178,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22259</get-trip-id>
     <get-trip-id-org>R-4508</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Sumatra</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -27628,7 +27628,7 @@ Bij een bezoek aan het Royal Palace en de Silver Pagoda in Phnom Penh gelden er 
     <get-trip-id>GT-333TRAVEL-22271</get-trip-id>
     <get-trip-id-org>R-5504</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Singapore en Bali</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -31437,7 +31437,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22309</get-trip-id>
     <get-trip-id-org>R-7008</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Natuurwonderen West Amerika</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -31720,7 +31720,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22311</get-trip-id>
     <get-trip-id-org>R-7010</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuidelijke Charme van Mississippi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -33212,7 +33212,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22322</get-trip-id>
     <get-trip-id-org>R-7025</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stedenreis: New York en Miami</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -33805,7 +33805,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22336</get-trip-id>
     <get-trip-id-org>R-7050</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Californische Riviera &amp; Rode Canyons</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -34072,7 +34072,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22337</get-trip-id>
     <get-trip-id-org>R-7051</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Californische Riviera &amp; Rode Canyons</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -35670,7 +35670,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22348</get-trip-id>
     <get-trip-id-org>R-7063</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Zuidwest Amerika en Yellowstone</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -35955,7 +35955,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22349</get-trip-id>
     <get-trip-id-org>R-7064</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Explore the East Coast</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -36251,7 +36251,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22350</get-trip-id>
     <get-trip-id-org>R-7500</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Zuid-Afrikaanse Pracht</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -36465,7 +36465,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22351</get-trip-id>
     <get-trip-id-org>R-7501</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Zuid-Afrika: Big Five &amp; walvissen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -38017,7 +38017,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22361</get-trip-id>
     <get-trip-id-org>R-7512</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Diamanten van Namibië en Zuid-Afrika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -38265,7 +38265,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22362</get-trip-id>
     <get-trip-id-org>R-7513</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Zuid-Afrikaanse Pracht en Mauritius</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -38496,7 +38496,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22363</get-trip-id>
     <get-trip-id-org>R-7514</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen Plekjes van Zuid-Afrika</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -38754,7 +38754,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-22364</get-trip-id>
     <get-trip-id-org>R-8000</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Vancouver</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -40563,7 +40563,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-22647</get-trip-id>
     <get-trip-id-org>R-0333</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen Plekjes van China</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -41031,7 +41031,7 @@ Visum kosten Canada en Amerika]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-22712</get-trip-id>
     <get-trip-id-org>T-CN-0454</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De wonderbaarlijke wereld van Zhangjiajie National Park</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
@@ -41116,7 +41116,7 @@ Deze tour is te boeken vanuit Beijing, Shanghai, Xian of Chongqing, waarbij je d
     <get-trip-id>GT-333TRAVEL-22831</get-trip-id>
     <get-trip-id-org>T-VN-4664</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ongerept Noord-Vietnam</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -41349,7 +41349,7 @@ Het vervoer is afhankelijk van de grootte van je reisgezelschap:
     <get-trip-id>GT-333TRAVEL-22843</get-trip-id>
     <get-trip-id-org>T-NP-0705</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Trekking in Nepal</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
@@ -42350,7 +42350,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-24961</get-trip-id>
     <get-trip-id-org>R-0608</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Cambodja</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -42501,7 +42501,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-24964</get-trip-id>
     <get-trip-id-org>R-0611</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Op Avontuur in Cambodja</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -44138,7 +44138,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-25327</get-trip-id>
     <get-trip-id-org>R-9202</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Japan Highlights Winter Deluxe</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -44382,7 +44382,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-25393</get-trip-id>
     <get-trip-id-org>R-0612</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Angkor en Eco-paradijsjes</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -45359,7 +45359,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-25938</get-trip-id>
     <get-trip-id-org>R-8021</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familie fly drive Ontdek West-Canada</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -46072,7 +46072,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-25965</get-trip-id>
     <get-trip-id-org>R-0087</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en Jungle van Thailand Deluxe</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -47547,7 +47547,7 @@ Er gelden afwijkende wijzigings- en annuleringsvoorwaarden voor Kenia.]]></get-t
     <get-trip-id>GT-333TRAVEL-29056</get-trip-id>
     <get-trip-id-org>R-0509</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Lombok</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -47735,7 +47735,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-29317</get-trip-id>
     <get-trip-id-org>R-0510</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wegdromen in Balinese luxe</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -48504,7 +48504,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29850</get-trip-id>
     <get-trip-id-org>R-0100</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Mexico</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -48717,7 +48717,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29851</get-trip-id>
     <get-trip-id-org>R-0104</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Yucatán</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -48965,7 +48965,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29852</get-trip-id>
     <get-trip-id-org>R-0106</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Yucatán &amp; Chiapas</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -50645,7 +50645,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-29862</get-trip-id>
     <get-trip-id-org>R-0110</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Islandhopping met een Caribisch tintje</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -50816,7 +50816,7 @@ Tussen april en augustus kunnen er grote hoeveelheden zeewier aanspoelen op de s
     <get-trip-id>GT-333TRAVEL-29889</get-trip-id>
     <get-trip-id-org>R-0976</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van het Oude Egypte</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -51032,7 +51032,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29891</get-trip-id>
     <get-trip-id-org>R-0980</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Piramides en strandplezier</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -51324,7 +51324,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29954</get-trip-id>
     <get-trip-id-org>R-0955</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman &amp; Dubai</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -51493,7 +51493,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-29955</get-trip-id>
     <get-trip-id-org>R-8700</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Jordanië Highlights</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -52394,7 +52394,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-29966</get-trip-id>
     <get-trip-id-org>R-8711</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Grotten, Woestijnen en Zandkastelen Deluxe</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -52545,7 +52545,7 @@ Reis-annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-29995</get-trip-id>
     <get-trip-id-org>R-7069</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van de Rocky Mountains tot aan de Pacific</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -54161,7 +54161,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31006</get-trip-id>
     <get-trip-id-org>R-7072</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van Oost Amerika</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -54372,7 +54372,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31007</get-trip-id>
     <get-trip-id-org>R-7073</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Pacific Coast &amp; Red Rocks</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -55329,7 +55329,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-31033</get-trip-id>
     <get-trip-id-org>R-0982</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Egypte</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -57163,7 +57163,7 @@ Op de trein naar en van Aguas Calientes is slechts 1 rugtas per persoon van maxi
     <get-trip-id>GT-333TRAVEL-31227</get-trip-id>
     <get-trip-id-org>R-6206</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Zuidelijk Peru</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -57431,7 +57431,7 @@ Ook voor je verblijf in de Amazone is maar een beperkte hoeveelheid handbagage t
     <get-trip-id>GT-333TRAVEL-31228</get-trip-id>
     <get-trip-id-org>R-7804</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Vuurland en Gletsjers van Patagonië</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -57652,7 +57652,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31230</get-trip-id>
     <get-trip-id-org>R-7803</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Veelzijdig Argentinië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -58618,7 +58618,7 @@ Op de trein naar en van Aguas Calientes is slechts 1 rugtas per persoon van maxi
     <get-trip-id>GT-333TRAVEL-31711</get-trip-id>
     <get-trip-id-org>R-0975</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Egypte’s tempels en piramides</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -59891,7 +59891,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-31880</get-trip-id>
     <get-trip-id-org>R-6902</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stranden en eilanden van Mahé, Praslin en La Digue</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -60629,7 +60629,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31968</get-trip-id>
     <get-trip-id-org>R-6803</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Wild Uganda Deluxe</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -60844,7 +60844,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31969</get-trip-id>
     <get-trip-id-org>R-6808</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Uganda</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -61205,7 +61205,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-32139</get-trip-id>
     <get-trip-id-org>R-1957</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Oman</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -61403,7 +61403,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-333TRAVEL-32140</get-trip-id>
     <get-trip-id-org>R-0115</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mexicaanse Magie</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -61587,7 +61587,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-32335</get-trip-id>
     <get-trip-id-org>R-6904</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Spectaculair Dubai en de Seychellen</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -62491,7 +62491,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-32397</get-trip-id>
     <get-trip-id-org>R-7144</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Zuidwest Amerika (vertrek Las Vegas)</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -62741,7 +62741,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-32398</get-trip-id>
     <get-trip-id-org>R-7145</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis Zuidwest Amerika (vertrek Los Angeles)</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -63467,7 +63467,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-32736</get-trip-id>
     <get-trip-id-org>R-9350</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De vulkanen, watervallen en kliffen van Zuid-IJsland</get-trip-name>
     <get-trip-duration>6</get-trip-duration>
@@ -63611,7 +63611,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-32737</get-trip-id>
     <get-trip-id-org>R-9351</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Land van IJs en Vuur</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -63774,7 +63774,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-32738</get-trip-id>
     <get-trip-id-org>R-9352</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cirkel rondom IJsland</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
@@ -64877,7 +64877,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-34750</get-trip-id>
     <get-trip-id-org>R-1005</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Marrakech &amp; Kasbahs in de woestijn Deluxe</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -65075,7 +65075,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-34751</get-trip-id>
     <get-trip-id-org>R-1007</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Mystiek Marokko</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -65306,7 +65306,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-34752</get-trip-id>
     <get-trip-id-org>R-1008</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour kleurrijk Marokko</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -66162,7 +66162,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-34842</get-trip-id>
     <get-trip-id-org>R-7905</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Manila en de drie gezichten van Bohol</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -66339,7 +66339,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-34843</get-trip-id>
     <get-trip-id-org>R-7908</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fascinerend Hong Kong en de Filipijnen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -66519,7 +66519,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-34844</get-trip-id>
     <get-trip-id-org>R-7906</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Pracht van Palawan, El Nido en Coron</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -69223,7 +69223,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-35699</get-trip-id>
     <get-trip-id-org>R-0116</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Verborgen Yucatán</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -69437,7 +69437,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-35700</get-trip-id>
     <get-trip-id-org>R-0118</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijk Yucatan Ontzorgd</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -69662,7 +69662,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-35701</get-trip-id>
     <get-trip-id-org>R-0119</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Yucatan &amp; Chiapas Ontzorgd</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -69901,7 +69901,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-35702</get-trip-id>
     <get-trip-id-org>R-0121</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mexicaanse Magie Superior</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -70354,7 +70354,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-35727</get-trip-id>
     <get-trip-id-org>R-6009</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Natuurpracht van Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>29</get-trip-duration>
@@ -72109,7 +72109,7 @@ Windsor Martinique biedt geen 3-persoonskamers daar boeken we een single+double 
     <get-trip-id>GT-333TRAVEL-36232</get-trip-id>
     <get-trip-id-org>R-1200</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Viva Colombia</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -72360,7 +72360,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-36233</get-trip-id>
     <get-trip-id-org>R-1201</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Colombia – Van de Andes tot de Caribbean</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -72637,7 +72637,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-36234</get-trip-id>
     <get-trip-id-org>R-1204</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand tour Colombia</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -72988,7 +72988,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-36235</get-trip-id>
     <get-trip-id-org>R-1203</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Avontuurlijk Colombia</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -73754,7 +73754,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-36323</get-trip-id>
     <get-trip-id-org>R-1100</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Belize: Maya-cultuur en natuurpracht</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -73913,7 +73913,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-36324</get-trip-id>
     <get-trip-id-org>R-1102</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Kleurrijk Belize</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
