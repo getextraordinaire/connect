@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-04T11:47:35.292Z" count="58">
+<trips feed="pangeatravel" partner="PANGEA Travel" generated="2026-09-05T03:00:34.457Z" count="58">
   <trip>
     <get-trip-id>GT-PANGEATRAVEL-531</get-trip-id>
     <get-trip-id-org>344</get-trip-id-org>
@@ -6095,7 +6095,7 @@ Als u op zoek bent naar een kleinschalig hotel in Sanur, dan is het Parigata Res
     <get-trip-id>GT-PANGEATRAVEL-34488</get-trip-id>
     <get-trip-id-org>2437</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zeilcruise Flores, Komodo, Sumbawa &amp; Lombok</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
