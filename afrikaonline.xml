@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-04T11:47:35.292Z" count="21">
+<trips feed="afrikaonline" partner="Afrika Online" generated="2026-09-05T03:00:34.457Z" count="21">
   <trip>
     <get-trip-id>GT-AFRIKAONLINE-31439</get-trip-id>
     <get-trip-id-org>6443</get-trip-id-org>
@@ -1593,7 +1593,7 @@ Prijs onder voorbehoud van tussentijdse aanpassingen]]></get-trip-scraped-conten
     <get-trip-id>GT-AFRIKAONLINE-31446</get-trip-id>
     <get-trip-id-org>6730</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zambia en Malawi Livingstone Trail comfort groepssafari</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
