@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-04T11:47:35.292Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-05T03:00:34.457Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
     <get-trip-id-org>140730</get-trip-id-org>
@@ -966,7 +966,7 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-id>GT-NBBSREIZEN-35814</get-trip-id>
     <get-trip-id-org>72795</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The Grand East USA</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -4129,9 +4129,9 @@ White River	13	Stille Woning (standaard)]]></get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35841</get-trip-id>
-    <get-trip-id-org>Unknown</get-trip-id-org>
+    <get-trip-id-org>14215</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bush Discovery and Mauritius</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -5003,7 +5003,7 @@ Rio de Janeiro	10-11	Copa Sul	Arena Copacabana
     <get-trip-id>GT-NBBSREIZEN-35853</get-trip-id>
     <get-trip-id-org>7365</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Coast to coast</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -6799,7 +6799,7 @@ Opmerkingen
     <get-trip-id>GT-NBBSREIZEN-35866</get-trip-id>
     <get-trip-id-org>4270</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>South American Highlights</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -10005,7 +10005,7 @@ Update 15.12.25.]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-36139</get-trip-id>
     <get-trip-id-org>5158</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best of the West</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -11718,7 +11718,7 @@ Arenal	13-14	Casa Luna]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-36152</get-trip-id>
     <get-trip-id-org>6129</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Panama and Costa Rica Discovery</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -14612,7 +14612,7 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-id>GT-NBBSREIZEN-36828</get-trip-id>
     <get-trip-id-org>31232</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights of Malaysia (Selfdrive)</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
