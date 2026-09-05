@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-04T11:47:35.292Z" count="318">
+<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-05T03:00:34.457Z" count="318">
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34880</get-trip-id>
     <get-trip-id-org>21651</get-trip-id-org>
@@ -2025,7 +2025,7 @@ Entreegelden optionele bezienswaardigheden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34891</get-trip-id>
     <get-trip-id-org>21538</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali en Lombok</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -4397,7 +4397,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34904</get-trip-id>
     <get-trip-id-org>21481</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Actief &amp; Cultureel Myanmar</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -6779,6 +6779,7 @@ Nacht 11 t/m 12: Popayán, Hotel La Plazuela
 Wat een fotogenieke architectuur. Ben je in een museum of een oud klooster beland? Een wit gebouw met bogen en een binnenplaats, twee torentjes die daarachter oprijzen: een waar monument waarin de kamers van hotel La Plazuela zijn gevestigd. Geniet van een hapje en een drankje op de binnenplaats met oude keitjes en een fontein.
 Nacht 13 t/m 15: Armenia, Hacienda Combia
 Sfeervolle historische haciënda waar koffie wordt verbouwd. Er is een infinityzwembad met uitzicht over de koffiestruiken en bananenplanten.
+Het hotel biedt veel leuke tours aan, zoals een koffietour, vogels spotten, potenbakken en kooklessen.
 Nacht 16: Medellín, El Cielo Hotel
 Overnacht in één van de luxe suites die dit hotel te bieden heeft. Neem op het dak een duik in het zwembad en kijk vanuit je ligstoel uit over de stad. Ga ’s avonds de wijk in en bezoek één van de vele restaurants.
 Nacht 17 t/m 18: Tayrona National Park, Casa Bambú Tayrona (voorheen Ecohabs Los Naranjos)
@@ -6980,6 +6981,7 @@ Nacht 3 t/m 5: San Gil, Wassiki
 Na enerverende outdoor activiteiten kom je helemaal tot rust in de tuin met zwembad van het Wassiki Hotel. Een knus hotel in de stijl van de regio.
 Nacht 6 t/m 8: Armenia, Hacienda Combia
 Sfeervolle historische haciënda waar koffie wordt verbouwd. Er is een infinityzwembad met uitzicht over de koffiestruiken en bananenplanten.
+Het hotel biedt veel leuke tours aan, zoals een koffietour, vogels spotten, potenbakken en kooklessen.
 Nacht 9: Santa Marta, La Calzada del Santo
 Kleinschalig hotel waar oud en nieuw een goede mix in de architectuur en inrichting vormen. Gunstige locatie. En als kers op de taart een dakterras met zwembad waar het goed toeven is.
 Nacht 12: Camp Adan, Hostel tijdens Ciudad Perdida trekking
@@ -7123,7 +7125,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34917</get-trip-id>
     <get-trip-id-org>21421</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Ecuador &amp; Galapagos</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -8829,14 +8831,14 @@ Authentiek Indonesië
 Weinig bezocht Sumba
 
 #Reisschema
-Waingupa, Waikabubak, Tambulaka, Moni, Riung, Bajawa, Ruteng, Labuan Bajo, Komodo-archipel, Labuan Bajo
+Waingapu, Waikabubak, Tambulaka, Moni, Riung, Bajawa, Ruteng, Labuan Bajo, Komodo-archipel, Labuan Bajo
 
 #Reisduur
 15 dagen / 14 nachten
 
 #Reisprogramma
-1 Waingupa
-2 Waingupa
+1 Waingapu
+2 Waingapu
 3 Waikabubak
 4 Waikabubak
 5 Tambulaka
@@ -8853,17 +8855,17 @@ Waingupa, Waikabubak, Tambulaka, Moni, Riung, Bajawa, Ruteng, Labuan Bajo, Komod
 
 #Dag tot dag
 Deze reis is een voorbeeld van wat er mogelijk is. Onze ervaren reisexperts hebben deze reis met uiterste zorg samengesteld. Het reisprogramma kan volledig worden afgestemd op jouw persoonlijke voorkeuren. Of je nu een paar dagen langer of korter wilt blijven, extra excursies wilt toevoegen, of een wijziging in de route wenst – geen enkel probleem, we staan klaar om het naar jouw wensen aan te passen!
-Dag 1: Waingupa
+Dag 1: Waingapu
 Je wordt opgehaald door je chauffeur. Het reizen met een auto/minibus met chauffeur is een uitstekende manier om kennis te maken met het ongerepte eiland Flores. Je bent flexibel, je bepaalt je eigen tempo en route. Je kunt stoppen waar en wanneer je maar wilt.
 Je maakt kennis met je gids. De gids spreekt Engels en vertelt je tijdens de reis allerlei wetenswaardigheden. Het verrijkt je rondreis, je komt veel meer te weten over het land.
 Je wordt vanaf de luchthaven naar Waingapu gebracht. Je komt in een totaal andere wereld terecht. Sumba is een dunbevolkt eiland en heeft een eigen cultuur die je nergens anders in Indonesië aantreft en die nog goed bewaard is gebleven. De bevolking hangt het Marapu-geloof aan, waarin geesten van voorouders, goden en stenen graven een belangrijke rol spelen. Bijzonder zijn de grafdorpen met stenen graftafels midden in de dorpen. Je ziet de kinderen spelen op en onder de megalieten en vrouwen leggen er hun was op te drogen. De voorouders zijn op deze manier nog steeds onderdeel van het dagelijks leven. Als de tijd het toelaat, bezoek je vanmiddag de dorpen Prai Liu en Prai Liang.
 De wijde omgeving van de kustplaats Waingapu. Kenmerkend: De grafstenen in en rond de traditionele dorpen zijn vrij hoog, karakteristiek voor dit gebied. Interessant: de typische Ikat Tenun. Deze geweven doeken zijn anders dan op andere plaatsen in Nusa Tenggara (de kleine Sunda-eilanden). Je bezoekt vast en zeker het brede witte zandstrand van Walakiri.
 Overnachting in Waingapu.
-Dag 2: Waingupa
+Dag 2: Waingapu
 Vroeg op! Start, als je daar zin in hebt, de dag actief met kanoën over de rivier naast je hotel. Geniet van de zonsopgang. Je ziet de lokale bevolking al volop aan het werk. Na het ontbijt ga je op pad. In dit savanne-gebied lopen paarden en koeien vrij rond. De Tanggedu-waterval is de mooiste waterval van Sumba. Je bereikt deze waterval met een wandeling vanaf de parkeerplaats waarbij je de eerste 20 minuten over een vlak pad loopt, gevolgd door een kwartier lopen via trappen. Een mooie tocht, zo langs de rivier. Ter afsluiting van deze dag word je naar de mooie kust Pura Kambera gebracht.
 Inclusief: ontbijt en lunch, Engelssprekende gids, busje met chauffeur en genoemde bezoeken/ entreegelden
 Overnachting in Waingapu.
-Dag 3: Waingupa - Waikabubak
+Dag 3: Waingapu - Waikabubak
 Een afwisselende tocht van ruim een halve dag naar de Lamboya-streek in het westen van Sumba. Je rijdt deels door de bergen en gedeeltelijk door dichte bossen. Je passeert huizen in de typische Sumba-stijl, zoals in het dorp Pasunga, waar de grootste stenen graven staan.
 De uitvalsbasis voor het bezichtigen van de grafdorpen in de omgeving. Vanwege de hoge ligging is Waikabubak een aangename plek om te verblijven. Waikabubak mag dan de hoofdstad van West-Sumba zijn, het is eigenlijk niet meer dan een groot dorp. Breng vanmiddag een bezoek aan de lokale markt.
 Overnachting in Waikabubak.
@@ -8886,8 +8888,8 @@ Een mooie rit van ongeveer 2 uur door het groene landschap naar Moni.
 Dit kleine dorp is je uitgangspunt voor het bezoek aan de vulkaan Kelimutu. Moni wordt omgeven door rijstvelden, groene heuvels en watervallen. De ideale omgeving voor het maken van wandelingen.
 Overnachting in Moni.
 Dag 7: Moni
-Sta voor dag en dauw op voor het bezoek aan de Kelimutu-vulkaan, dan is de kans groter dat het helder is. En het uitzicht is onvergetelijk als je de zon ziet opkomen boven de kratermeren. Je wordt door je chauffeur naar de vulkaan gebracht, het laatste stukje naar het uitkijkpunt moet je lopen, zo’n 30 minuten. Het bijzondere van de Kelimutu zijn de 3 kratermeren die allemaal een andere kleur hebben. De meren danken hun kleur aan opgeloste mineralen in het water, maar de locals hebben daar veel leukere verklaringen voor! De kleuren steken als edelstenen af bij de diepgrijze, lavakleurige omgeving.
-Bezoek vervolgens de warmwaterbronnen bij Moni. Deze natuurlijke baden hebben een aangename temperatuur. In de middag heb je tijd om een wandeling te maken door de sawa’s.
+Sta voor dag en dauw op voor het bezoek aan de Kelimutu-vulkaan, het uitzicht is onvergetelijk als je de zon ziet opkomen boven de 3 kratermeren, die elk een andere kleur hebben. Je wordt door je chauffeur naar de vulkaan gebracht, het leg je wandelend af in ongeveer 30 minuten.
+Na het ontbijt start de trekking naar Pemo Village, bergafwaarts door de jungle, langs plantages, rijstvelden en bossen naar het dorp. De gids vertelt je over flora, fauna en lokale In het dorp maak je kennis met het dagelijkse leven in het dorp van de Lio-stam. De vrouwen leven hier van het weven van Ikat-doeken. De chauffeur haalt je bij het dorp op. Wil je er s’middags nog op uit, bezoek dan de warmwaterbronnen bij Moni. Deze natuurlijke baden liggen tussen de sawa’s en hebben een aangename temperatuur.
 Overnachting in Moni.
 Dag 8: Moni - Riung
 Een mooie rit door het groene landschap richting Ende. Onderweg stop je bij Ndua Ria Fruit Market. Loop langs de diverse groenten- en fruitsoorten. Door naar een lokale Lio-stam, het dorp Wologai. De traditionele huizen zijn in goede staat en hebben bijzondere houtsnijwerken met symbolen van de Lio-stam.
@@ -8902,10 +8904,10 @@ Overnachting in Riung.
 Dag 10: Riung - Bajawa
 Wederom een mooie rit door de binnenlanden van Flores. Je rijdt in ongeveer 2,5 uur naar Bajawa. Onderweg bezoek je de heetwaterbronnen bij het dorp Soa. Aan de voet van de vulkaan Inielika heeft water diverse natuurlijk baden in de rotsen uitgeslepen. Voordat je naar Bajawa rijdt, bezoek je het traditionele dorp Wogo.
 Bajawa ligt hoog, aan de voet van de vulkaan Enerie. Het is een uitstekende uitvalsbasis voor een bezoek aan de traditionele dorpen in de omgeving. Ondanks dat de meeste bewoners officieel katholiek zijn, nemen de traditionele gebruiken en voorouderverering nog een belangrijke plaats in.
-Bajawa ligt hoog, aan de voet van de vulkaan Enerie. Het is een uitstekende uitvalsbasis voor een bezoek aan de traditionele dorpen in de omgeving. Ondanks dat de meeste bewoners officieel katholiek zijn, nemen de traditionele gebruiken en voorouderverering nog een belangrijke plaats in.
+Bajawa ligt hoog, aan de voet van de vulkaan Inerie. Het is een uitstekende uitvalsbasis voor een bezoek aan de traditionele dorpen in de omgeving. Ondanks dat de meeste bewoners officieel katholiek zijn, nemen de traditionele gebruiken en voorouderverering nog een belangrijke plaats in.
 Overnachting in Bajawa.
 Dag 11: Bajawa - Ruteng
-Vandaag bezoekt je de bekendste dorpen in dit gebied: Bena en Luba. In het midden van beide dorpen staan megalieten tussen de oude huizen in. Hier worden nog regelmatig rituelen gehouden. Je stapt weer in de auto en je rijdt verder door een weids landschap met spectaculaire uitzichten op zee, de vulkaantoppen en grillige lavastromen. Bij Aimere stopt je bij één van de distilleerderijen van arak. Door het dichtbegroeide bergland vervolg je de rit naar het Rana Mese-meer. Even de benen strekken voordat je verder rijdt naar Ruteng. De volgende stop is het uitzichtpunt Golo Curu nabij Ruteng. Vanaf hier heb je een schitterend uitzicht over Ruteng en de omgeving. De rijtijd is ongeveer 4 uur, maar als je regelmatig stopt ben je de hele dag onderweg.
+Vandaag bezoekt je de bekendste dorpen in dit gebied: Bena en Luba. In het midden van beide dorpen staan megalieten tussen de oude huizen in. Hier worden nog regelmatig rituelen gehouden. Je stapt weer in de auto en je rijdt verder door een weids landschap met spectaculaire uitzichten op zee, de vulkaantoppen en grillige lavastromen. Bij Aimere stop je bij één van de distilleerderijen van arak. Door het dichtbegroeide bergland vervolg je de rit naar het Rana Mese-meer. Even de benen strekken voordat je verder rijdt naar Ruteng. De volgende stop is het uitzichtpunt Golo Curu nabij Ruteng. Vanaf hier heb je een schitterend uitzicht over Ruteng en de omgeving. De rijtijd is ongeveer 4 uur, maar als je regelmatig stopt ben je de hele dag onderweg.
 Het bergplaatsje Ruteng wordt omgeven door meerdere vulkanen. Het bergland bij Ruteng is dichtbegroeid en in de diepte zie je mooie sawa’s. Ruteng is het centrum van de Manggarai-stam. De geweven doeken van deze stam zijn bijzonder vanwege het kleurgebruik. Maak een wandeling langs de authentieke huizen, een grote banyanboom en bezoek de markt in Ruteng Pu’u.
 Overnachting in Ruteng.
 Dag 12: Ruteng - Labuan Bajo
@@ -9251,7 +9253,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34930</get-trip-id>
     <get-trip-id-org>21212</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten West-Maleisië en Bali</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -11763,7 +11765,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34943</get-trip-id>
     <get-trip-id-org>20868</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Thailand &amp; Cambodja</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -14587,7 +14589,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34956</get-trip-id>
     <get-trip-id-org>20694</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Veelzijdig Ontario &amp; Québec</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -17240,7 +17242,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34969</get-trip-id>
     <get-trip-id-org>21162</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Bolivia</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -20392,7 +20394,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34982</get-trip-id>
     <get-trip-id-org>21032</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met het gezin naar Peru</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -23080,7 +23082,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-34995</get-trip-id>
     <get-trip-id-org>20997</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Buitengewoon Botswana</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
@@ -24913,7 +24915,7 @@ Toeristenbelasting]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35008</get-trip-id>
     <get-trip-id-org>19757</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis door West-Maleisië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -27510,7 +27512,7 @@ Entreegelden optionele bezienswaardigheden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35021</get-trip-id>
     <get-trip-id-org>20436</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sumatra met cultuur, jungle en strand</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -30007,7 +30009,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35034</get-trip-id>
     <get-trip-id-org>20892</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Traditioneel Sulawesi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -32224,7 +32226,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35047</get-trip-id>
     <get-trip-id-org>20538</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali&apos;s bergen en kusten</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -35124,7 +35126,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35060</get-trip-id>
     <get-trip-id-org>20328</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>New York &amp; het zwoele zuiden</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -37535,7 +37537,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35073</get-trip-id>
     <get-trip-id-org>20225</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Beste parken van het westen</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -39831,7 +39833,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35086</get-trip-id>
     <get-trip-id-org>20668</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend en duurzaam Costa Rica</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -42187,7 +42189,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35099</get-trip-id>
     <get-trip-id-org>20098</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Zuid-Afrika</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -42696,8 +42698,8 @@ Nee, tot 90 dagen is er geen visum nodig voor jouw rondreis Zuid-Afrika.
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-35101</get-trip-id>
     <get-trip-id-org>20085</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Country House en Safari Lodge</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -43793,7 +43795,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Uitgebreid Zuidereiland</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
-    <get-trip-lowest-price-2p>4.050</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>4.950</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/nieuw-zeeland/rondreizen/zuidereiland.htm</get-trip-url>
@@ -44060,8 +44062,8 @@ Nacht 24: Hanmer Springs, Cheltenham House
 Het Cheltenham House is een charmante bed & breakfast in Hanmer Springs op slechts 200 meter van de thermale baden waar Hanmer Springs bekend om staat. Je wordt hartelijk ontvangen, er heerst een huiselijke sfeer, de kamers zijn ruim en comfortabel en het centrum met restaurants ligt op een steenworp afstand.
 
 #Prijsindicatie
-Vanaf € 4.050,- p.p. bij 2 personen
-Vanaf € 3.600,- p.p. bij 4 personen
+Vanaf € 4.950,- p.p. bij 2 personen
+Vanaf € 4.700,- p.p. bij 4 personen
 Intercontinentale vlucht optioneel bij te boeken
 
 #Toelichting op de prijzen
@@ -44090,7 +44092,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordereiland in 3 weken</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest-price-2p>3.450</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.800</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/nieuw-zeeland/rondreizen/3-weken-noordereiland.htm</get-trip-url>
@@ -44330,8 +44332,8 @@ Takatu Lodge & Vineyard
 Takatu Lodge & Vineyard biedt de mogelijkheid om te verblijven op een bekroonde wijngaard in he...
 
 #Prijsindicatie
-Vanaf € 3.450,- p.p. bij 2 personen
-Prijs op aanvraag
+Vanaf € 3.800,- p.p. bij 2 personen
+Vanaf € 3.450,- p.p. bij 4 personen
 Intercontinentale vlucht optioneel bij te boeken
 
 #Toelichting op de prijzen
@@ -44357,7 +44359,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland in 5 weken</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
-    <get-trip-lowest-price-2p>5.500</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>6.000</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/nieuw-zeeland/rondreizen/5-weekse-rondreis.htm</get-trip-url>
@@ -44714,8 +44716,8 @@ Chateau on the Park
 Hotel dat onderdeel uitmaakt van de DoubleTree by Hilton keten, maar in resort-stijl is opgezet. Omg...
 
 #Prijsindicatie
-Vanaf € 5.500,- p.p. bij 2 personen
-Vanaf € 4.850,- p.p. bij 4 personen
+Vanaf € 6.000,- p.p. bij 2 personen
+Vanaf € 5.650,- p.p. bij 4 personen
 Intercontinentale vlucht optioneel bij te boeken
 
 #Toelichting op de prijzen
@@ -44743,7 +44745,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature &amp; Wildlife Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
-    <get-trip-lowest-price-2p>4.900</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>5.900</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/nieuw-zeeland/rondreizen/natuur-wildlife.htm</get-trip-url>
@@ -45067,8 +45069,8 @@ Adina Apartment Hotel Auckland Britomart
 Verblijf in een studio of appartement bij de havens van Auckland. Voel jezelf een inwoner en beleef ...
 
 #Prijsindicatie
-Vanaf € 4.900,- p.p. bij 2 personen
-Prijs op aanvraag
+Vanaf € 5.900,- p.p. bij 2 personen
+Vanaf € 5.600,- p.p. bij 4 personen
 Intercontinentale vlucht optioneel bij te boeken
 
 #Toelichting op de prijzen
@@ -45100,7 +45102,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>3.500</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.850</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/nieuw-zeeland/rondreizen/hoogtepunten.htm</get-trip-url>
@@ -45380,8 +45382,8 @@ Distinction Christchurch Hotel
 Groot, luxe hotel in het hartje van Christchurch. Het gebouw steelt niet de show, maar de kamers zij...
 
 #Prijsindicatie
-Vanaf € 3.500,- p.p. bij 2 personen
-Vanaf € 2.950,- p.p. bij 4 personen
+Vanaf € 3.850,- p.p. bij 2 personen
+Vanaf € 3.400,- p.p. bij 4 personen
 Intercontinentale vlucht optioneel bij te boeken
 
 #Toelichting op de prijzen
@@ -45546,7 +45548,7 @@ Bij aankomst op de luchthaven heet onze lokale vertegenwoordiger je welkom en on
     <get-trip-id>GT-VANVERREREIZEN-35112</get-trip-id>
     <get-trip-id-org>19462</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Landelijk Kyushu en Shikoku</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -51089,7 +51091,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35138</get-trip-id>
     <get-trip-id-org>19864</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boeiend Vietnam en Laos</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -53904,7 +53906,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35151</get-trip-id>
     <get-trip-id-org>19366</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildparken van Kenia</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -56751,7 +56753,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35723</get-trip-id>
     <get-trip-id-org>25445</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights New Mexico</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -57224,7 +57226,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-35892</get-trip-id>
     <get-trip-id-org>26132</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mauritius met het gezin</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
@@ -59869,7 +59871,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36191</get-trip-id>
     <get-trip-id-org>27672</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wildlife en goudzoekers in Yukon en Alaska</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
@@ -60978,7 +60980,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36230</get-trip-id>
     <get-trip-id-org>28129</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Boutique reis Sri Lanka</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -61376,7 +61378,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-36711</get-trip-id>
     <get-trip-id-org>26569</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Treinreis Canada: van Montréal naar Toronto</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -63440,7 +63442,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREREIZEN-37153</get-trip-id>
     <get-trip-id-org>32117</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend Pacific Northwest</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
