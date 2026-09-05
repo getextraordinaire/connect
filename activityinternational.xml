@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="activityinternational" partner="Activity International" generated="2026-09-04T11:47:35.292Z" count="43">
+<trips feed="activityinternational" partner="Activity International" generated="2026-09-05T03:00:34.457Z" count="43">
   <trip>
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35899</get-trip-id>
     <get-trip-id-org>49916</get-trip-id-org>
@@ -755,7 +755,7 @@ En natuurlijk is daar de lokale bevolking. Zonder hun gastvrijheid, enthousiasme
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35905</get-trip-id>
     <get-trip-id-org>41026</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kickstart Ultimate NZ</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -2115,7 +2115,7 @@ Costa Rica Pura Vida is geschikt voor jongeren tussen de 17 en 28 jaar die net k
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35918</get-trip-id>
     <get-trip-id-org>5552</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>City to Reef</get-trip-name>
     <get-trip-duration>Unknown</get-trip-duration>
@@ -3925,7 +3925,7 @@ Verder heb je een goede gezondheid, interesse in de natuur, flexibele houding en
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35931</get-trip-id>
     <get-trip-id-org>498</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Monkey Rehabilitation Centre</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -4929,7 +4929,7 @@ Minimaal 2 maanden voor vertrek (bij voorkeur eerder). De procedure is vrij uitv
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-35944</get-trip-id>
     <get-trip-id-org>433</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Surfen + Sports Adventureclub Kaapstad</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -5974,7 +5974,7 @@ Je kiest voor dit programma omdat je het leuk vindt om meer te leren over de Bal
     <get-trip-id>GT-ACTIVITYINTERNATIONAL-37270</get-trip-id>
     <get-trip-id-org>60059</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur en Vrijwilligerswerk Zanzibar</get-trip-name>
     <get-trip-duration>7</get-trip-duration>
