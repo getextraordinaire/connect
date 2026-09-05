@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-04T11:47:35.292Z" count="80">
+<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-05T03:00:34.457Z" count="80">
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37175</get-trip-id>
     <get-trip-id-org>32392</get-trip-id-org>
@@ -803,7 +803,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37179</get-trip-id>
     <get-trip-id-org>17001</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek Bali &amp; relax op de Gili&apos;s</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -3225,7 +3225,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37192</get-trip-id>
     <get-trip-id-org>16996</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Cultuur, rijstvelden en stranden op Java &amp; Bali</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -7200,7 +7200,7 @@ Overige entreegelden]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37218</get-trip-id>
     <get-trip-id-org>13566</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Stranden, regenwoud en aboriginals oostkust Australië</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -9365,7 +9365,7 @@ Zanzibar overheidstax]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37231</get-trip-id>
     <get-trip-id-org>25855</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Japan &amp; de Japanse Alpen</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -11919,7 +11919,7 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37244</get-trip-id>
     <get-trip-id-org>12972</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Levendig New York en relaxt Florida</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -15300,7 +15300,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37348</get-trip-id>
     <get-trip-id-org>32747</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kerstvakantie Sri Lanka in 2 weken</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
