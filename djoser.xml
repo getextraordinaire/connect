@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="djoser" partner="Djoser" generated="2026-09-04T11:47:35.292Z" count="193">
+<trips feed="djoser" partner="Djoser" generated="2026-09-05T03:00:34.457Z" count="193">
   <trip>
     <get-trip-id>GT-DJOSER-184</get-trip-id>
     <get-trip-id-org>ZBNH24</get-trip-id-org>
@@ -32281,7 +32281,7 @@ Telefoneren via het vaste net is uitsluitend mogelijk in de grotere plaatsen. Oo
     <get-trip-id>GT-DJOSER-31953</get-trip-id>
     <get-trip-id-org>TURO20</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Turkije-Oost</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -34793,7 +34793,7 @@ Turkije is uiteraard een islamitisch land en zeker op het platteland wordt gepas
     <get-trip-id>GT-DJOSER-32265</get-trip-id>
     <get-trip-id-org>FIBL18</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Bali &amp; Lombok</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -35647,7 +35647,7 @@ Het is verstandig enigszins te letten op wat je eet. Tevens raden we je aan een 
     <get-trip-id>GT-DJOSER-32278</get-trip-id>
     <get-trip-id-org>KOJE21</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Korea met Jeju</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -43315,7 +43315,7 @@ De beste reistijd voor deze reis is van mei tot en met september. Het kan het he
     <get-trip-id>GT-DJOSER-32915</get-trip-id>
     <get-trip-id-org>WIAB8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Abruzzen - Italië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -44118,7 +44118,7 @@ In het voor- en najaar is het de beste tijd voor deze reis, de natuur is dan op 
     <get-trip-id>GT-DJOSER-32928</get-trip-id>
     <get-trip-id-org>WKR8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelreis Kroatië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -49442,7 +49442,7 @@ Vanwege het 'vrijheid blijheid'-principe kun je de reis zo zwaar maken als je ze
     <get-trip-id>GT-DJOSER-34852</get-trip-id>
     <get-trip-id-org>XDECH40</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis India (40 dagen)</get-trip-name>
     <get-trip-duration>40</get-trip-duration>
@@ -51312,7 +51312,7 @@ In het voor- en najaar is het de beste tijd voor deze reis. Na oktober wordt het
     <get-trip-id>GT-DJOSER-34865</get-trip-id>
     <get-trip-id-org>FISE8</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Servië</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -56526,7 +56526,7 @@ Het schildpadden seizoen start ongeveer vanaf februari t/m augustus.]]></get-tri
     <get-trip-id>GT-DJOSER-36217</get-trip-id>
     <get-trip-id-org>FISP9</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Spanje</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -58573,7 +58573,7 @@ De beste periode om Angola te bezoeken is van mei tot oktober, tijdens het droge
     <get-trip-id>GT-DJOSER-36672</get-trip-id>
     <get-trip-id-org>FINE16</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fietsreis Nepal</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
