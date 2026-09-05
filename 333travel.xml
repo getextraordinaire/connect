@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-04T11:47:35.292Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-05T03:00:34.457Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -2006,7 +2006,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.870</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.870</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.604</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.641</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/thailand-highlights</get-trip-url>
@@ -6238,7 +6238,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>2.302</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.302</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.624</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.636</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malediven</get-trip-country>
     <get-trip-country>Sri Lanka</get-trip-country>
@@ -32707,7 +32707,7 @@ P.p. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.509</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.509</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.259</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.283</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.333travel.nl/amerika/rondreis/highlights-florida</get-trip-url>
@@ -50035,7 +50035,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-29860</get-trip-id>
     <get-trip-id-org>R-9303</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Costa Rica</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -52783,7 +52783,7 @@ Let op: voor sommige nationale parken, is het in de zomermaanden verplicht om vo
     <get-trip-id>GT-333TRAVEL-30354</get-trip-id>
     <get-trip-id-org>R-7071</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wild Alaska</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -53647,7 +53647,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31004</get-trip-id>
     <get-trip-id-org>R-7703</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand tour woestijnen en wildlife Namibië Deluxe</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -55978,7 +55978,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-31121</get-trip-id>
     <get-trip-id-org>R-9319</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Puur Costa Rica en Panama</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -59727,7 +59727,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31875</get-trip-id>
     <get-trip-id-org>R-6901</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Islandhopping in de Seychellen Deluxe</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -60232,7 +60232,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-31966</get-trip-id>
     <get-trip-id-org>R-6801</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Uganda, het land van de berg gorilla’s Deluxe</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -62371,7 +62371,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-32395</get-trip-id>
     <get-trip-id-org>R-0917</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Dubai Stad &amp; Strand</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -65945,7 +65945,7 @@ P.p.p.n. vanaf:
     <get-trip-id>GT-333TRAVEL-34839</get-trip-id>
     <get-trip-id-org>R-7904</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van de Visaya&apos;s</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -68991,7 +68991,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.542</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.542</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.703</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.710</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Mexico</get-trip-country>
     <get-trip-url>https://www.333travel.nl/mexico/rondreis/mexico-in-2-weken</get-trip-url>
@@ -70672,7 +70672,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-35736</get-trip-id>
     <get-trip-id-org>R-9357</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Walvissen &amp; Natuur Wonderen van IJsland</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -71207,7 +71207,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-36100</get-trip-id>
     <get-trip-id-org>R-8608</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De Highlights van Noordelijk Tanzania</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -71657,7 +71657,7 @@ P.p. vanaf:
     <get-trip-id>GT-333TRAVEL-36178</get-trip-id>
     <get-trip-id-org>R-7810</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de Natuurwonderen van Chili en Argentinië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
