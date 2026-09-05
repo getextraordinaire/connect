@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-04T11:47:35.292Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-05T03:00:34.457Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
     <get-trip-id-org>ABF</get-trip-id-org>
@@ -52806,7 +52806,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-30393</get-trip-id>
     <get-trip-id-org>JRSLA</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>22-35ers reis Sri Lanka</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -59550,7 +59550,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32239</get-trip-id>
     <get-trip-id-org>EGK</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Egypte Kort</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
@@ -66691,7 +66691,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32772</get-trip-id>
     <get-trip-id-org>FWR</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Lapland Winter - Kylmäluoma</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
@@ -69849,7 +69849,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-32785</get-trip-id>
     <get-trip-id-org>XFS</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Fair Isle, Faeröer en Spitsbergen: Vogels en IJsberen</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
@@ -74168,7 +74168,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-34787</get-trip-id>
     <get-trip-id-org>TUH</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Turkije Hoogtepunten</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
@@ -74553,7 +74553,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-id>GT-SAWADEE-35749</get-trip-id>
     <get-trip-id-org>ALB</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Albanië, Kosovo &amp; Noord-Macedonië</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
