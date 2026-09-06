@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-05T03:00:34.457Z" count="90">
+<trips feed="nbbsreizen" partner="NBBS Reizen" generated="2026-09-06T03:00:38.704Z" count="90">
   <trip>
     <get-trip-id>GT-NBBSREIZEN-35807</get-trip-id>
     <get-trip-id-org>140730</get-trip-id-org>
@@ -656,7 +656,6 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-country>Chili</get-trip-country>
-    <get-trip-country>Paaseiland</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/treasures-of-north-argentina-chile/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Maak een fietstour door de verschillende wijken van Buenos Aires
@@ -1800,7 +1799,6 @@ Paramaribo	9	Eco Torarica	Torarica Resort]]></get-trip-scraped-content>
     <get-trip-lowest-price-2p>4.349</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Chili</get-trip-country>
-    <get-trip-country>Paaseiland</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/north-south-chile/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Vanwege de weersomstandigheden is deze rondreis te boeken voor vertrek van september t/m april
@@ -3516,7 +3514,6 @@ Windhoek	18	The Elegant Guesthouse (standaard)]]></get-trip-scraped-content>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>3.649</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Bolivia</get-trip-country>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/highlights-of-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
@@ -4131,7 +4128,7 @@ White River	13	Stille Woning (standaard)]]></get-trip-scraped-content>
     <get-trip-id>GT-NBBSREIZEN-35841</get-trip-id>
     <get-trip-id-org>14215</get-trip-id-org>
     <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bush Discovery and Mauritius</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
@@ -4139,7 +4136,6 @@ White River	13	Stille Woning (standaard)]]></get-trip-scraped-content>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>Mauritius</get-trip-country>
-    <get-trip-country>Réunion</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/bush-discovery-mauritius/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Rondreis per huurauto door Zuid-Afrika inclusief een strandverblijf op Mauritius
@@ -6168,7 +6164,6 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-country>Chili</get-trip-country>
-    <get-trip-country>Paaseiland</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/the-best-of-patagonia/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Deze rondreis is te boeken van september t/m april
@@ -6375,7 +6370,6 @@ Buenos Aires	14-15	Ker San Telmo	Huinid Obelisco	Loi Suites Recoleta]]></get-tri
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
     <get-trip-country>Chili</get-trip-country>
-    <get-trip-country>Paaseiland</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/patagonia-connection/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Vanwege de weersomstandigheden is deze rondreis te boeken voor vertrek van september t/m maart
@@ -6810,7 +6804,6 @@ Opmerkingen
     <get-trip-country>Brazilië</get-trip-country>
     <get-trip-country>Chili</get-trip-country>
     <get-trip-country>Peru</get-trip-country>
-    <get-trip-country>Paaseiland</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/south-american-highlights/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Unieke reis door Peru, Bolivia, Chili, Argentinië en Brazilië
@@ -7112,7 +7105,6 @@ Rio de Janeiro	21-22	Copa Sul	Arena Copacabana]]></get-trip-scraped-content>
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>3.829</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Bolivia</get-trip-country>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/classics-of-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
@@ -7325,7 +7317,6 @@ Lima	16	Habitat	Pullman Lima Miraflores]]></get-trip-scraped-content>
     <get-trip-duration>20</get-trip-duration>
     <get-trip-lowest-price-2p>4.229</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Bolivia</get-trip-country>
     <get-trip-country>Peru</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/the-best-of-peru/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
@@ -10980,7 +10971,6 @@ Update 15.12.25.]]></get-trip-scraped-content>
     <get-trip-lowest-price-2p>3.059</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
-    <get-trip-country>Nicaragua</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/costa-rica-back-to-nature/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Verblijf in unieke kleinschalige en sfeervolle hotels
@@ -11177,7 +11167,6 @@ Bovenstaande hotellijst geldt als richtlijn. Bij uw bevestiging ontvangt u een o
     <get-trip-lowest-price-2p>2.229</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
-    <get-trip-country>Nicaragua</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/costa-rican-highlights-2/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Verblijf in unieke kleinschalige en sfeervolle hotels
@@ -11725,7 +11714,6 @@ Arenal	13-14	Casa Luna]]></get-trip-scraped-content>
     <get-trip-lowest-price-2p>3.039</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Costa Rica</get-trip-country>
-    <get-trip-country>Nicaragua</get-trip-country>
     <get-trip-country>Panama</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/panama-costa-rica-discovery/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
@@ -12728,7 +12716,6 @@ Kasane	14-16	Chobe Safari Lodge (luxury)]]></get-trip-scraped-content>
     <get-trip-lowest-price-2p>3.376</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
-    <get-trip-country>Singapore</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/sabah-selfdrive-adventure/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Privé-rondreis, deels per huurauto
@@ -12998,6 +12985,7 @@ Wat is inbegrepen?
 • Vliegreis Amsterdam-Bangkok en Koh Samui-Bangkok-Amsterdam per KLM, economy klasse
 • Luchthavenbelasting en brandstofheffing € 379,-
 • Rondreis per privé-auto of minibus volgens programma, inclusief transfers, excursies en entreegelden
+• Voor boekingen vanaf 15 september: privé-transfer met gids van luchthaven Bangkok naar hotel inclusief meet & greet
 • Tweede klasse sleeper/nachttrein Ayutthaya-Chiang Mai
 • Binnenlandse vlucht Chiang Mai - Phuket inclusief € 20 luchthavenbelasting en 20kg bagagevrijdom
 • Verblijf in de onderstaande middenklasse en eerste klasse hotels
@@ -13010,7 +12998,6 @@ Wat is niet inbegrepen?
 • Facultatieve excursies
 • Vroege check-ins/late check-outs
 • Persoonlijke uitgaven en fooien
-• Bijdrage Calamiteitenfonds
 Hoteloverzicht
 Plaats	Dag	Hotels	Kamertype
 Bangkok	2-3	Travelodge Sukhumvit	Deluxe (1-2 pers.)/ Friends & Family triple (3 pers.)
@@ -13022,6 +13009,7 @@ Khao Sok	10-11	Riverside Cottages	Superior (1-2 pers.)/ Deluxe triple (3 pers.)
 Koh Samui - Lamai	12-15	Chaba Cabana Beach Resort	Deluxe Building
 Belangrijk!
 De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanvraag verkrijgbaar.
+Update: 04.09.26
 
 #Bekijk prijzen (vanaf 1 november 2026)
 Dagelijks vertrek vanaf Schiphol.
@@ -13032,6 +13020,7 @@ Wat is inbegrepen?
 • Luchthavenbelasting en brandstofheffing tot 31.12.26 € 489,-
 • Luchthavenbelasting en brandstofheffing vanaf 01.01.27 € 539,-
 • Rondreis per privé-auto of minibus volgens programma, inclusief transfers, excursies en entreegelden
+• Voor boekingen vanaf 15 september: privé-transfer met gids van luchthaven Bangkok naar hotel inclusief meet & greet
 • Tweede klasse sleeper/nachttrein Ayutthaya-Chiang Mai
 • Binnenlandse vlucht Chiang Mai - Phuket inclusief € 40 luchthavenbelasting en 20kg bagagevrijdom
 • Verblijf in de onderstaande middenklasse en eerste klasse hotels
@@ -13044,7 +13033,6 @@ Wat is niet inbegrepen?
 • Optionele excursies
 • Vroege check-ins/late check-outs
 • Persoonlijke uitgaven en fooien
-• Bijdrage Calamiteitenfonds
 Hoteloverzicht
 Plaats	Dag	Hotels	Kamertype
 Bangkok	2-3	Travelodge Sukhumvit 11	Deluxe / Friends & Family Triple
@@ -13056,6 +13044,7 @@ Khao Sok	10-11	Riverside Cottages	Cottage
 Phuket	12-15	Diamond Resort Phuket	Deluxe Suite
 Belangrijk!
 De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanvraag verkrijgbaar.
+Update: 04.09.26
 
 #Bekijk prijzen (vanaf 1 april 2027)
 Dagelijks vertrek vanaf Schiphol.
@@ -13065,6 +13054,7 @@ Wat is inbegrepen?
 • Vliegreis Amsterdam-Bangkok en Koh Samui-Bangkok-Amsterdam per KLM, economy klasse
 • Luchthavenbelasting en brandstofheffing € 539,-
 • Rondreis per privé-auto of minibus volgens programma, inclusief transfers, excursies en entreegelden
+• Privé-transfer met gids van luchthaven Bangkok naar hotel inclusief meet & greet
 • Tweede klasse sleeper/nachttrein Ayutthaya-Chiang Mai
 • Binnenlandse vlucht Chiang Mai - Phuket inclusief € 40 luchthavenbelasting en 20kg bagagevrijdom
 • Verblijf in de onderstaande middenklasse en eerste klasse hotels
@@ -13680,7 +13670,6 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-lowest-price-2p>4.068</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
-    <get-trip-country>Singapore</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/sabah-west-malaysia-highlights/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Rondreis met deels privé-chauffeur, lokale gidsen en huurauto
@@ -14194,7 +14183,6 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>3.419</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Cambodja</get-trip-country>
     <get-trip-country>Laos</get-trip-country>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/thailand-laos-rondreis/</get-trip-url>
@@ -14360,7 +14348,7 @@ Op dagen ter vrije besteding heeft u niet de beschikking over de auto met chauff
 De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanvraag verkrijgbaar.
 
 #Bekijk prijzen (vanaf 1 april 2027)
-Vertrek is mogelijk op woensdag, donderdag, zaterdag en zondag.
+Vertrek is mogelijk op donderdag en zondag
 De prijzen zijn zoveel mogelijk gebaseerd op actuele vliegtarieven. Deze tarieven zijn sterk aan wijzigingen onderhevig. Indien een wijziging is opgetreden wordt u hierover bij boeking geïnformeerd.
 In Thailand kan het derde bed op de kamer een echt bed, een dagbed, een rollaway bed of een matras zijn
 Wat is inbegrepen?
@@ -14619,7 +14607,6 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-lowest-price-2p>2.568</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
-    <get-trip-country>Singapore</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/highlights-of-malaysia-selfdrive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Een prachtige autorondreis langs de hoogtepunten van Maleisië
@@ -15284,7 +15271,6 @@ De annuleringsvoorwaarden wijken af van onze boekingsvoorwaarden en zijn op aanv
     <get-trip-lowest-price-2p>2.905</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
-    <get-trip-country>Singapore</get-trip-country>
     <get-trip-url>https://www.nbbs.nl/reisaanbod/nature-culture-of-malaysia-selfdrive/</get-trip-url>
     <get-trip-scraped-content><![CDATA[#In het kort
 Ontdek populair en minder bekend Maleisië in uw eigen tempo
