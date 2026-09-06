@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-05T03:00:34.457Z" count="318">
+<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-06T03:00:38.704Z" count="318">
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34880</get-trip-id>
     <get-trip-id-org>21651</get-trip-id-org>
@@ -42698,8 +42698,8 @@ Nee, tot 90 dagen is er geen visum nodig voor jouw rondreis Zuid-Afrika.
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-35101</get-trip-id>
     <get-trip-id-org>20085</get-trip-id-org>
-    <get-trip-status>Down</get-trip-status>
-    <get-trip-status-code>NA</get-trip-status-code>
+    <get-trip-status>Up</get-trip-status>
+    <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Country House en Safari Lodge</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
