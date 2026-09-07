@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-06T03:00:38.704Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-07T03:00:36.749Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -2791,7 +2791,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>1.761</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.761</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.462</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.527</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/rondreis-zuid-thailand-grand-tour</get-trip-url>
@@ -4907,7 +4907,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.341</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.341</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.041</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.048</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/best-deal-thailand-highlights</get-trip-url>
@@ -6236,8 +6236,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sri Lanka Highlights en Malediven</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>2.323</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.323</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.335</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.335</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.636</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malediven</get-trip-country>
@@ -6461,7 +6461,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>1.916</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.916</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.238</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.259</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malediven</get-trip-country>
     <get-trip-country>Sri Lanka</get-trip-country>
@@ -19779,8 +19779,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Vietnam en Cambodja</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.234</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.234</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.239</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.239</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.233</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cambodja</get-trip-country>
@@ -23994,7 +23994,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>1.311</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.311</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.062</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.185</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>India</get-trip-country>
     <get-trip-url>https://www.333travel.nl/india/rondreis/best-deal-discover-noord-india</get-trip-url>
@@ -24199,7 +24199,7 @@ P.p. vanaf:
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.640</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.640</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.147</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.154</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/discover-oman</get-trip-url>
@@ -24359,7 +24359,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.096</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.096</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.603</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.610</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/fly-drive-discover-oman</get-trip-url>
@@ -24517,7 +24517,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>2.408</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.408</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.915</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.921</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/oman-highlights</get-trip-url>
@@ -24731,7 +24731,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>11</get-trip-duration>
     <get-trip-lowest-price-2p>1.474</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.474</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.981</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.987</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/fly-drive-oman-highlights</get-trip-url>
@@ -27771,7 +27771,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>3.543</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>3.543</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>4.608</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>4.614</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
     <get-trip-url>https://www.333travel.nl/vietnam/rondreis/vietnam-in-stijl</get-trip-url>
@@ -32705,8 +32705,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Florida</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>1.509</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.509</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.532</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.532</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.306</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
@@ -61211,7 +61211,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>2.688</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.688</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.188</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.199</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/grand-tour-oman</get-trip-url>
@@ -68989,8 +68989,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mexico in 2 weken</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>1.542</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.542</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.550</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.550</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.717</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Mexico</get-trip-country>
