@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-06T03:00:38.704Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-07T03:00:36.749Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
     <get-trip-id-org>ABF</get-trip-id-org>
@@ -1654,7 +1654,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Australië</get-trip-name>
-    <get-trip-duration>30</get-trip-duration>
+    <get-trip-duration>29</get-trip-duration>
     <get-trip-lowest-price-2p>7.299</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
@@ -6548,527 +6548,16 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   <trip>
     <get-trip-id>GT-SAWADEE-16115</get-trip-id>
     <get-trip-id-org>FIP</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
+    <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Filipijnen</get-trip-name>
-    <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>5.339</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Filipijnen</get-trip-country>
+    <get-trip-duration>Unknown</get-trip-duration>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
+    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-country>Unknown</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/groepsrondreizen/azie/filipijnen/fip-rondreis-filipijnen/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Meer over deze reis
-Filipijnen: de gastvrijheid van 7000 eilanden
-Dit is een zeer afwisselende rondreis door de Filipijnen met diverse activiteiten, waaronder wandelen, culturele uitstapjes, snorkelen en verschillende (meerdaagse) boottochten. Ook is er tijd voor ontspanning aan de hagelwitte stranden van Bohol, Palawan en Coron. We slapen in eenvoudige, sfeervolle hotels. Tijdens deze rondreis door de Filipijnen maken we gebruik van een privé-bus en soms stappen we in een lokaal voertuig; de jeepney. Met binnenlandse vluchten en een enkele ferry reizen we van eiland naar eiland. Tussen El Nido en Coron maken we een tweedaagse zee-expeditie waarbij we één nacht kamperen op een piepklein eilandje.
-Mabuhay op de Filipijnen
-Naar welk eiland je ook reist, de Filipino's zullen je begroeten met een brede lach; de inwoners van de Filipijnen, de Filipino's, zijn een hoogtepunt op zich. 'Mabuhay' betekent 'welkom' in het Filipijns, een woord dat je absoluut vaak zult horen tijdens je bezoek aan de Filipijnen. De meeste inwoners spreken goed Engels, wat communiceren erg makkelijk maakt. Ze vertellen je graag over hun geschiedenis, hun eetgewoonten en kijk ook niet raar op als ze met je op de foto willen. Het toerisme staat hier nog redelijk in de kinderschoenen, dat maakt deze reis extra speciaal.
-Eeuwenoude rijstterrassen
-Na het verkennen van de hoofdstad Manila reizen we naar het bergachtige noorden van het eiland Luzon. Hier bezoeken we de eeuwenoude en wereldberoemde rijstterrassen van Bangaan en Maligcong, een gebied dat door de UNESCO is erkend als werelderfgoed. We maken wandelingen over het platteland en stappen in lokale Jeepneys. In Sagada maken we kennis met de bijzondere manier waarop men de overledenen hun laatste rustplaats gunt, in doodskisten die aan rotswanden hangen. Het charmante 15e -eeuwse stadje Vigan brengt je volledig in Spaanse sferen.
-Bohol: Chocolate Hills en spookdiertjes
-Op het prachtige eiland Bohol bezoeken we de Chocolate Hills, koepelvormige kalkstenen heuvels die bruin kleuren tijdens de zomermaanden. Bohol is ook het thuis van de Filipijnse Tarsier, oftewel het spookdiertje. We gaan ze proberen te spotten in de heuvels van Corella waarna we naar het kleine eilandje Panglao reizen voor een vleugje ontspanning aan het strand.
-Eilandhoppen
-We zetten onze reis voort op het idyllische eiland Palawan. Vanuit Puerto Princesa maken we een boottocht op de langste ondergrondse rivier ter wereld en bezoeken we de Batak stam. Hierna is het tijd om te genieten van de parelwitte stranden en aan boord te stappen om te gaan eilandhoppen, uiteraard altijd met je snorkel binnen handbereik. Tijdens de tweedaagse zee-expeditie van El Nido naar Coron krijg je de ultieme Filipijnen vibe, enjoy! Met een ontspannen gevoel stap je weer op het vliegtuig richting Amsterdam.
-
-#Comfort en zwaarte van de reis
-Zwaarte van de reis
-Niveau 3: Reis met enkele lange reisdagen en/of zwaardere (dag)wandelingen.
-Comfort van de overnachtingen
-Niveau 3: Comfortabele hotels, mogelijk afgewisseld met enkele kampeer- en/of andersoortige overnachtingen
-
-#Groepsgrootte
-Maximaal 20 personen
-
-#Waarom deze reis?
-Maak kennis met de gastvrije en vriendelijke Filipino's
-Wandel door de eeuwenoude rijstterrassen in het noorden van Luzon
-Ervaar het ultieme Filipijnen gevoel tijdens de expeditie per boot van El Nido naar Coron
-Ontdek de beroemde Chocolate Hills op Bohol
-Ga eiland hoppen langs de tropische eilanden van Palawan
-Ontdek de tarsier, het spookdiertje van Bohol
-Bezoek het 15e eeuwse Vigan, UNESCO Werelderfgoed locatie
-Vaar over de Underground River bij Puerto Princesa
-Bezoek lokale dorpjes op Luzon
-Ontdek de multiculturele wijken van Manila
-
-#Reisprogramma
-Dag 1
-Vlucht Amsterdam - Manila
-Dag 2
-Aankomst Manila
-Dag 3
-Manila / vrije dag
-Dag 4
-Beklimming Mount Pinatubo / naar Clark
-Dag 5
-Naar Banaue
-Dag 6
-Banaue / Batad & Bangaan tour
-Dag 7
-Naar Sagada
-Dag 8
-Sagada / Maligcong rijstterrassen
-Dag 9
-Naar Vigan
-Dag 10
-Naar Manila
-Dag 11
-Naar Bohol
-Dag 12
-Bohol / Chocolate Hills, Cadapdapan rijstterrassen & Candijay watervallen
-Dag 13
-Bohol / vrije dag
-Dag 14
-Naar Puerto Princesa
-Dag 15
-Underground river / naar Port Barton
-Dag 16
-Port Barton / vrije dag
-Dag 17
-Naar El Nido
-Dag 18
-El Nido / vrije dag
-Dag 19
-Tweedaagse boottocht / naar Linapacan
-Dag 20
-Tweedaagse boottocht / naar Coron
-Dag 21
-Coron / vrije dag
-Dag 22
-Naar Manila
-Dag 23
-Vlucht Manila - Amsterdam
-Dag 24
-Aankomst Amsterdam
-
-#Dag tot dag
-Tijdens deze avontuurlijke rondreis door de Filipijnen ontdekken jullie een land dat bekend staat om zijn grenzeloze gastvrijheid en de vriendelijke glimlach van de mensen. Meer dan 7.000 eilanden die sierlijk verspreid liggen in de Stille Oceaan, dát zijn de Filipijnen. De Filipijnen zal je hart veroveren met haar diversiteit aan mensen, natuur, avontuur en prachtige stranden. Voor iedereen die op zoek is naar een nieuwe en fascinerende beleving is dit de perfecte reis.
-Dag 1
-Vlucht Amsterdam - Manila
-We vliegen vandaag naar Manila. Voor gegevens over de vlucht verwijzen we naar het vluchtschema verderop in deze reisroute.
-Dag 2
-Aankomst Manila
-Welkom in Manila, Filipijnen! Bij aankomst ontmoet je de reisbegeleider en word je naar je hotel gebracht. De reis begint op het eiland Luzon, het grootste en economisch gezien het belangrijkste eiland van de Filipijnen. De hoofdstad Manila is een intrigerende stad vol verrassingen. Er is veel te zien, doen, proeven en ervaren. In de avond staat er een welkomstbijeenkomst op het programma waarna je met de groep de avond kunt doorbrengen en genieten van een paar drankjes in Poblacion.
-Maaltijd inbegrepen deze dag
-Dag 3
-Manila / vrije dag
-Maak je klaar om de levendige hoofdstad Manila te verkennen. Vandaag heb je alle tijd om de stad op je eigen tempo te ontdekken. Struin door historische wijken zoals Intramuros, bezoek indrukwekkende musea of geniet van een lunch in een lokaal restaurant. Zin in wat meer comfort en gemak? Sluit je aan bij de optionele stadstour en laat je meenemen langs de hoogtepunten van Manila. Liever shoppen? De stad telt talloze moderne winkelcentra waar je kunt winkelen, eten en ontspannen.
-2
-2
-Optioneel
-Real Manila City Tour
-(€ 100,- p.p.)
-Begin met een rustige boottocht over de Pasig-rivier voordat je op avontuur gaat door de multiculturele straten van Manila. In het hart van deze stad ervaar je een smeltkroes van culturen: islamitisch, katholiek en boeddhistisch. Terwijl je door de straten van Quiapo en Binondo wandelt (één van ’s werelds oudste en grootste “Chinatowns”, ouder dan de komst van de Spaanse kolonisten), leer je niet alleen over de invloeden op de Filipijnse cultuur, maar zie je deze ook terug in de architectuur, keuken en meer. Tijdens deze tour kun je lokale vruchten en streetfood proeven, en bezoek je culinaire hotspots zoals Wai Ying en The Original Shanghai Fried Siopao.
-Daarna volgt een historische tour door Intramuros, het voormalige centrum van kerkelijke en commerciële macht. Afgeschermd van de rest van de stad door goed bewaarde hoge muren, is Intramuros een rustige wijk met een rijk historisch erfgoed. Bezoek onder andere Fort Santiago, San Agustin Church & Museum, en Casa Manila. Met de beroemde Filipijnse Jeepney reis je van het historische Manila naar het moderne en trendy BGC (Bonifacio Global City). Bezoek populaire plekken zoals McKinley, High Street, en de American Cemetery, waar het grootste aantal graven ligt van Amerikaanse militairen die zijn omgekomen tijdens de Tweede Wereldoorlog.
-Duur: 9 uur
-Inclusief: lunch, transfers, Engelssprekende gids, flesje water, entreegelden
-Real Manila City Tour
-Begin met een rustige boottocht over de Pasig-rivier voordat je op avontuur gaat door de multiculturele straten van Manila. In het hart van deze stad ervaar je een smeltkroes van culturen: islamitisch, katholiek en boeddhistisch. Terwijl je door de straten van Quiapo en Binondo wandelt (één van ’s werelds oudste en grootste “Chinatowns”, ouder dan de komst van de Spaanse kolonisten), leer je niet alleen over de invloeden op de Filipijnse cultuur, maar zie je deze ook terug in de architectuur, keuken en meer. Tijdens deze tour kun je lokale vruchten en streetfood proeven, en bezoek je culinaire hotspots zoals Wai Ying en The Original Shanghai Fried Siopao.
-Daarna volgt een historische tour door Intramuros, het voormalige centrum van kerkelijke en commerciële macht. Afgeschermd van de rest van de stad door goed bewaarde hoge muren, is Intramuros een rustige wijk met een rijk historisch erfgoed. Bezoek onder andere Fort Santiago, San Agustin Church & Museum, en Casa Manila. Met de beroemde Filipijnse Jeepney reis je van het historische Manila naar het moderne en trendy BGC (Bonifacio Global City). Bezoek populaire plekken zoals McKinley, High Street, en de American Cemetery, waar het grootste aantal graven ligt van Amerikaanse militairen die zijn omgekomen tijdens de Tweede Wereldoorlog.
-Duur: 9 uur
-Inclusief: lunch, transfers, Engelssprekende gids, flesje water, entreegelden
-Maaltijd inbegrepen deze dag
-Dag 4
-Beklimming Mount Pinatubo / naar Clark
-Na het ontbijt verlaten we Manila en reizen we richting Clark. Onderweg maken we een bijzondere stop: we trekken erop uit naar de indrukwekkende Mount Pinatubo. Samen met een gids rijden we naar het startpunt van de tour. Vervolgens maken we een spectaculaire tocht door een ruig landschap van lavazand en rotsformaties. De krater van Mount Pinatubo biedt een adembenemend uitzicht over het turquoise kratermeer. Na deze ervaring reizen we verder naar ons hotel in Clark, waar we kunnen nagenieten van deze actieve dag.
-De trekking is in totaal ongeveer 6 kilometer en duurt gemiddeld 3-4 uur. De duur en afstand zijn afhankelijk van het tempo van de groep, het weer en de conditie van het pad.
-Maaltijd inbegrepen deze dag
-Dag 5
-Naar Banaue
-Vanuit Clark reizen we verder naar Banaue, hier begint je reis naar het hart van de Cordillera hooglanden. We maken een schilderachtige rit door ruige berglandschappen, kronkelende wegen en weelderige valleien. In het noorden van Luzon zijn vele rijstterrassen te vinden, zoals de UNESCO-genoteerde Ifugao rijstterrassen. Geniet van adembenemende uitzichten onderweg. Rust lekker uit na aankomst in het hotel in Banaue, hier zullen we de komende twee nachten verblijven.
-Maaltijd inbegrepen deze dag
-Dag 6
-Banaue / Batad & Bangaan tour
-Vandaag dompelen we ons onder in het lokale leven! Stap in een typisch Filipijnse Jeepney, de meest iconische manier om de omgeving te verkennen, om de markt van de stad te bezoeken. Vanaf daar is het ongeveer een uur rijden naar het startpunt van de Batad-trektocht. Het Batad-pad is uitdagend, met steile hellingen en trappen, rotsachtige paden en smalle voetpaden. De Batad rijstterrassen zijn een must-see ervaring voor iedereen die de Filipijnen bezoekt. Trek terug naar de Jeepney voor een rit van 20 minuten naar het volgende dorp. De Banga-an Village trektocht voert je over goed onderhouden paden die prachtig door de terrassen slingeren. Onderweg ontmoet je de vriendelijke lokale bevolking en krijg je een unieke blik op hun traditionele huizen. Een perfecte manier om de cultuur en de adembenemende omgeving van dichtbij te ervaren.
-Maaltijd inbegrepen deze dag
-Dag 7
-Naar Sagada
-Verken vandaag het schilderachtige stadje Sagada, een unieke mix van natuurlijke schoonheid en eeuwenoude tradities. Hier ontdek je torenhoge pijnbomen, indrukwekkende kalkstenen kliffen en nabijgelegen watervallen. Maar Sagada staat vooral bekend om zijn bijzondere begraafplaatsen: de beroemde hangende doodskisten die aan de rotswanden hangen, en de ondergrondse grotten die eveneens als laatste rustplaats dienen. Breng een bezoek aan de hangende doodskist, de mysterieuze begraafplaatsgrot en Echo Valley.
-Optioneel
-Sagada Tour
-(€ 45,- p.p.)
-​Verken dit charmante stadje en zijn wonderen. Begin je wandeling bij St. Mary’s Church en ga via het kerkhof naar de schilderachtige Echo Valley, met weelderige bomen en indrukwekkende kalkstenen kliffen. Zie de hangende doodskisten van vroegere bewoners aan de kliffen. Hoe deze daar in de oudheid zijn geplaatst, blijft voor velen een mysterie. Bezoek ook de ingang van grotten die vroeger als begraafplaatsen dienden, de kisten zijn er nog steeds te zien.
-Sagada Tour
-​Verken dit charmante stadje en zijn wonderen. Begin je wandeling bij St. Mary’s Church en ga via het kerkhof naar de schilderachtige Echo Valley, met weelderige bomen en indrukwekkende kalkstenen kliffen. Zie de hangende doodskisten van vroegere bewoners aan de kliffen. Hoe deze daar in de oudheid zijn geplaatst, blijft voor velen een mysterie. Bezoek ook de ingang van grotten die vroeger als begraafplaatsen dienden, de kisten zijn er nog steeds te zien.
-Maaltijd inbegrepen deze dag
-Dag 8
-Sagada / Maligcong rijstterrassen
-Vandaag staat er een bijzondere verkenning op het programma: de Maligcong rijstterrassen, een verborgen juweel hoog in de bergen van Bontoc. We trekken naar Favarey Village, waar je een unieke en diepgewortelde traditie ontdekt. Hier zul je zien hoe de lokale bevolking hun voorouders op een bijzondere manier eert: door overleden familieleden te begraven in hun eigen achtertuinen.
-Maaltijd inbegrepen deze dag
-Dag 9
-Naar Vigan
-Vandaag start je je reis naar Vigan, Ilocos Sur, een echte Spaanse nederzetting uit de 15e eeuw. Vigan heeft zijn Spaanse charme behouden met zijn geplaveide straten en paardenkoetsen, en een mix van Spaanse en Filipijnse architectuur. Bezoek het Heritage Village van Vigan, één van de zes UNESCO-werelderfgoedlocaties in de Filipijnen. Je ziet hier prachtige, goed bewaarde stenen huizen, ook wel 'Bahay na Bato' genoemd, gebouwd van robuuste adobestenen. Als de tijd het toelaat, zijn er nog tal van andere bezienswaardigheden die je kunt verkennen, zoals het Juna Luna Shrine, Pagburnayan (Pottenbakkerij), St. Paul Kathedraal en Palacio del Arzobispo.
-Maaltijd inbegrepen deze dag
-Dag 10
-Naar Manila
-Vandaag vertrekken we vroeg naar de luchthaven van Laoag voor de vlucht naar Manila. Geniet na van je tijd in de bergen en bereid je voor op het tweede deel van de reis naar de eilanden Bohol en Palawan.
-Maaltijd inbegrepen deze dag
-Dag 11
-Naar Bohol
-In het hart van de zuidelijke Filipijnen ligt het bruisende eiland Bohol. Dit eiland is rijk aan natuurlijke wonderen, van de iconische Chocolate Hills tot de kristalheldere bronnen, rivieren en idyllische stranden waar je heerlijk kunt ontspannen. Maar Bohol is meer dan alleen natuurschoon; het eiland kent ook een rijke geschiedenis, die je terugziet in de vele voorouderlijke huizen en de prachtige eeuwenoude kerken.
-We verblijven drie nachten op het eiland Bohol in een hotel gelegen aan de Loboc River. Deze smaragdgroene rivier stroomt door het tropische landschap van Bohol. Vanaf hier heb je uitzicht op palmbomen en kleine dorpjes. Het is een brede en rustige rivier en daarmee ook de perfecte plek om bijvoorbeeld te suppen, kajakken of een boottocht te maken.
-Maaltijd inbegrepen deze dag
-Dag 12
-Bohol / Chocolate Hills, Cadapdapan rijstterrassen & Candijay watervallen
-Ga vandaag naar het hoogste punt om de verbazingwekkende Chocolate Hills te bewonderen. Deze maar liefst 1.268 heuvels variëren in hoogte van 40 tot 120 meter. Tijdens de droge zomermaanden kleurt het gras op deze koepelvormige kalkstenen heuvels prachtig bruin, waardoor het landschap verandert in rijen van chocolade 'kussen'. Daarnaast bewonderen we de prachtige Cadapdapan rijstterrassen en kun je een verfrissende duik nemen bij de nabijgelegen Can-umantad watervallen, de hoogste waterval van Bohol.
-Maaltijden inbegrepen deze dag
-Dag 13
-Bohol / vrije dag
-De provincie Bohol is ook de trotse thuisbasis van de tarsier, 's werelds kleinste aapje! Deze fascinerende diertjes, niet groter dan een vuist, leven op de glooiende heuvels van Corella, op ongeveer tien kilometer van Tagbilaran. Bezoek de tarsier sanctuary op Bohol om de diertjes zelf te ontdekken. Spendeer de rest van de dag zoals je wilt. Bezoek een van de witte zandstranden of kies voor een snorkeltocht om de onderwaterwereld te leren kennen.
-Maaltijd inbegrepen deze dag
-Dag 14
-Naar Puerto Princesa
-Vandaag staat een van de langere reisdagen van dit avontuur op het programma. Met de veerboot reizen we van Bohol naar Cebu, vanaf waar er een vlucht klaarstaat naar Puerto Princesa, Palawan. Op de luchthaven van Puerto Princesa vind je geldautomaten en wisselkantoren om je klaar te maken voor je volgende etappe. Tip: Zorg dat je alvast wat klein geld en muntjes op zak hebt voor spontane, kleine aankopen onderweg!
-Maaltijd inbegrepen deze dag
-Dag 15
-Underground river / naar Port Barton
-In Puerto Princesa ontdekken we de Underground River, een UNESCO-Werelderfgoedlocatie welke wordt gekenmerkt door een 8,2 kilometer lange bevaarbare ondergrondse rivier. Het wordt beschouwd als de langste ondergrondse rivier ter wereld en kronkelt door een indrukwekkende grot voordat hij uitmondt in de Zuid-Chinese Zee. Bij binnenkomst in de grot word je begroet door kathedraalachtige kamers, brede gangen en unieke geologische formaties.
-Reis vervolgens verder van Puerto Princesa naar Port Barton. Het is tijd om even heerlijk te ontspannen en op je eigen tempo dit charmante, kleine stadje te verkennen. Dwaal rustig rond, geniet van de relaxte sfeer en laat de eilandvibes op je inwerken. Wat ga jij als eerste ontdekken?
-Maaltijden inbegrepen deze dag
-Dag 16
-Port Barton / vrije dag
-Verken het eilandhopparadijs van Port Barton: bezoek afgelegen witte zandstranden, ontdek levendige koraalriffen en verken verborgen lagunes. Breng de dag door met snorkelen, zwemmen en genieten van de ongerepte schoonheid van één van de best bewaarde geheimen van de Filipijnen. Natuurlijk is het vandaag ook mogelijk om op het strand te genieten van wat welverdiende rust.
-Optioneel
-Port Barton Island Hopping
-(€ 45,- p.p.)
-Met een privéboottocht kun je op je gemak de natuurlijke schoonheid van de eilanden in Port Barton Bay ontdekken. De eilanden zijn ideaal om te zwemmen en te ontspannen, ver weg van de drukte, met kristalhelder blauw water en ongerepte stranden.
-Bezochte eilanden en locaties:
-Exotic / Maxima Island
-Peña Plata
-Star Fish Sand Bar
-Twin Reef
-Fantastic Reef
-Turtle Spot
-Port Barton Island Hopping
-Met een privéboottocht kun je op je gemak de natuurlijke schoonheid van de eilanden in Port Barton Bay ontdekken. De eilanden zijn ideaal om te zwemmen en te ontspannen, ver weg van de drukte, met kristalhelder blauw water en ongerepte stranden.
-Bezochte eilanden en locaties:
-Exotic / Maxima Island
-Peña Plata
-Star Fish Sand Bar
-Twin Reef
-Fantastic Reef
-Turtle Spot
-Maaltijd inbegrepen deze dag
-Dag 17
-Naar El Nido
-Reis vandaag door naar de laatste bestemming op het tropische Palawan: El Nido. Na een rit van ongeveer drie uur over een schilderachtige route langs groene heuvels, kleine dorpjes en kustlandschappen, bevind je je in het noorden van het eiland. El Nido staat bekend om zijn indrukwekkende kalkstenen rotsformaties en turquoise baaien. Geniet van een vrije dag in dit relaxte plaatsje. Ontdek één van de vele stranden, scoor een souvenir in het centrum en droom weg bij een prachtige zonsondergang.
-Maaltijd inbegrepen deze dag
-Dag 18
-El Nido / vrije dag
-El Nido biedt vele mogelijkheden. Een dag op het strand, een relaxte massage of het maken van een mooi wandeling. Ook een dag op het water is een goede optie. Kies één van de island hopping tours welke je meenemen naar verbazingwekkende rotsformaties en lagunes in de iconische Bacuit Bay. Ontdek bijvoorbeeld de Big Lagoon, Shimizu Island en 7 Commando Beach. Wat je ook gaat doen het wordt een dag vol onvergetelijke momenten!
-Optioneel
-El Nido eilandhoppen Tour A: lagoons & stranden
-(€ 80,- p.p.)
-Deze tour brengt je naar de meest indrukwekkende rotsformaties en lagunes in Bacuit Bay. Spendeer de gehele dag op de boot en geniet van de blauwe wateren en de relaxte Filipijnse sfeer.
-Secret Lagoon: Gelegen op een klein eiland, omringd door kalkstenen kliffen. Via een kleine opening kom je in een grote caldera, ooit een ingestorte grot, nu een lagune.
-Shimizu Island: Bekend om zijn kalkstenen kliffen en nestelende swiftlets. Hun nesten worden gebruikt voor de beroemde “bird’s nest soup”, die volgens Aziatische traditie genezende krachten heeft. Hier krijg je een stevige maaltijd en kun je snorkelen.
-Big Lagoon: Een boottocht door kristalhelder water, broedplaats voor vissen en schaaldieren.
-Seven Commandos Beach: Genoemd naar 7 Japanse soldaten die hier na WOII verbleven. Het strand heeft wit zand en palmbomen.
-Inclusief: Engelssprekende gids, gedeelde boot, zwemvest, snorkeluitrusting, picknicklunch met een drankje.
-El Nido eilandhoppen Tour A: lagoons & stranden
-Deze tour brengt je naar de meest indrukwekkende rotsformaties en lagunes in Bacuit Bay. Spendeer de gehele dag op de boot en geniet van de blauwe wateren en de relaxte Filipijnse sfeer.
-Secret Lagoon: Gelegen op een klein eiland, omringd door kalkstenen kliffen. Via een kleine opening kom je in een grote caldera, ooit een ingestorte grot, nu een lagune.
-Shimizu Island: Bekend om zijn kalkstenen kliffen en nestelende swiftlets. Hun nesten worden gebruikt voor de beroemde “bird’s nest soup”, die volgens Aziatische traditie genezende krachten heeft. Hier krijg je een stevige maaltijd en kun je snorkelen.
-Big Lagoon: Een boottocht door kristalhelder water, broedplaats voor vissen en schaaldieren.
-Seven Commandos Beach: Genoemd naar 7 Japanse soldaten die hier na WOII verbleven. Het strand heeft wit zand en palmbomen.
-Inclusief: Engelssprekende gids, gedeelde boot, zwemvest, snorkeluitrusting, picknicklunch met een drankje.
-Maaltijd inbegrepen deze dag
-Dag 19
-Tweedaagse boottocht / naar Linapacan
-Vandaag staat de tweedaagse boottocht van El Nido naar Coron op het programma. Dit is precies wat je van de Filipijnen verwacht. Geniet van prachtige uitzichten terwijl je onderweg een paar fijne stops maakt. Afhankelijk van de weersomstandigheden, bezoeken we ook het prachtige Tackling Island – een plek om heerlijk te ontspannen en te genieten van de omgeving. De nacht breng je door bij de campsite op Linapacan, een bijzondere ervaring.
-Maaltijden inbegrepen deze dag
-Dag 20
-Tweedaagse boottocht / naar Coron
-Na de tropische ervaring op Linapacan is het tijd om weer aan boord te gaan. De tweede dag op de boot is een lange, maar adembenemende zeereis die je van de Linapacan-eilanden naar Coron brengt. Onderweg maken we, afhankelijk van de weersomstandigheden, verschillende stops op schilderachtige eilandjes. Zo kun je optimaal genieten van de prachtige archipel.
-Maaltijd inbegrepen deze dag
-Dag 21
-Coron / vrije dag
-Neem vandaag de tijd om de laatste nieuwe bestemming van je Filipijnen avontuur te verkennen. Ontdek de ongeëvenaarde schoonheid van Coron, beginnend met de schilderachtige uitzichten op torenhoge kalksteenformaties. Ga bijvoorbeeld mee met de optionele tour en ontdek de absolute 'must-see' bestemmingen van Coron: betoverende meren en lagunes met kristalhelder water, uitnodigende witte zandstranden en prachtige kusten. Bij Coron zijn meerdere oude gezonken schepen en scheepswrakken te vinden welke omringd worden door diverse en kleurrijke vissen en levendige onderwatertuinen.
-Optioneel
-Coron ultiem eilandhoppen
-(€ 45,- p.p.)
-Ga optioneel mee op een eilandhoptour. Ontdek de ongeëvenaarde schoonheid van Coron Island, met torenhoge kalkstenen formaties. Bezoek unieke en betoverende plekken zoals meren, lagunes, witte zandstranden, scheepswrakken en kleurrijke onderwaterlandschappen.
-Bezienswaardigheden:
-Kayangan Lake
-Barracuda Lake
-Twin Lagoons
-Balinsasayaw Reef
-Beach 91
-Twin Peaks
-CYC Beach
-Coron ultiem eilandhoppen
-Ga optioneel mee op een eilandhoptour. Ontdek de ongeëvenaarde schoonheid van Coron Island, met torenhoge kalkstenen formaties. Bezoek unieke en betoverende plekken zoals meren, lagunes, witte zandstranden, scheepswrakken en kleurrijke onderwaterlandschappen.
-Bezienswaardigheden:
-Kayangan Lake
-Barracuda Lake
-Twin Lagoons
-Balinsasayaw Reef
-Beach 91
-Twin Peaks
-CYC Beach
-Maaltijd inbegrepen deze dag
-Dag 22
-Naar Manila
-Het is tijd om afscheid te nemen van Coron en terug te vliegen naar het eiland Luzon. Nadat we geland zijn in Clark reizen we per transfer naar Manila. Hiermee zijn we aangekomen op de laatste bestemming van deze reis. Scoor in Manila de laatste souvenirs of eet je favoriete Filipijnse lekkernij. Wat dacht je van het typisch Filipijnse nagerecht halo-halo? Natuurlijk kun je ook de avond gebruiken of nog eventjes uit te rusten..
-Maaltijd inbegrepen deze dag
-Dag 23
-Vlucht Manila - Amsterdam
-Vandaag staat de terugvlucht naar Amsterdam gepland. Geniet nog even na van deze tropische ervaring voordat je de Filipijnen verlaat. Voor de vluchtgegevens verwijzen wij naar het vluchtschema.
-Maaltijd inbegrepen deze dag
-Dag 24
-Aankomst Amsterdam
-
-#Accommodaties
-Verblijf & vervoer
-Hieronder volgt een selectie van de accommodaties die we gebruiken tijdens deze reis. De meest actuele lijst is na boeking te vinden in de Sawadee Reisapp. Deze lijst is onder voorbehoud van wijzigingen. Het kan voorkomen dat we vanwege beschikbaarheid uitwijken naar een gelijkwaardige accommodatie.
-Benieuwd naar meer info over de accommodaties of naar het vervoer ter plaatse? Klik op de links voor meer informatie.
-Coro Hotel - Manila
-Coro Hotel in Manila biedt een comfortabel verblijf met een buitenzwembad en gratis wifi. Het is gelegen op slechts 15 minuten lopen van Power Plant Mall in Manila. De kamers zijn modern ingericht en uitgerust met airco en een koelkast. Geniet van een uitgebreid buffetontbijt voordat je aan een dag vol ontdekkingen in de stad begint.
-Wifi
-Eigen badkamer
-Zwembad
-Abe's Farm - Magalang
-Abe’s Farm is een resort aan de voet van Mt. Arayat in Magalang. Je verblijft in traditionele Filipijnse huizen die zijn omgetoverd tot kamers met moderne voorzieningen. Het terrein biedt een rustgevende omgeving met een spa, zwembad en botanische tuin. In het restaurant geniet je van authentieke Filipijnse gerechten, bereid volgens familierecepten.
-Wifi
-Eigen badkamer
-Zwembad
-Banaue Grand View Hotel - Banaue
-Banaue Grand View Hotel biedt comfortabel verblijf in de buurt van de indrukwekkende Rijstterrassen van Banaue. Dit hotel beschikt over een tuin en een restaurant met bar. Start de dag met een heerlijk ontbijt alvorens de omgeving te verkennen. Banaue Grand View Hotel is de perfecte uitvalsbasis voor het verkennen van deze iconische regio.
-Wifi
-Eigen badkamer
-Masferre Inn - Sagada
-Het Masferre Inn is een zeer centraal gelegen accommodatie met comfortabele kamers. Alle kamers beschikken over een eigen badkamer en er is wifi beschikbaar. Het is een uitstekende uitvalsbasis voor reizigers die de natuurlijke schoonheid en culturele erfgoed van Sagada willen verkennen.
-Wifi
-Eigen badkamer
-Hotel Luna - Vigan
-Hotel Luna in Vigan is het eerste en enige museumhotel in de Filipijnen. Het hotel beschikt over een tuin, terras, restaurant, buitenzwembad en spacentrum. Daarnaast is er ook een indrukwekkende collectie Filipijnse kunstwerken te bewonderen. De kamers combineren moderne luxe met klassieke architectuur, wat bijdraagt aan de charme van dit historische pand. Het heeft een ideale ligging om de rijke geschiedenis van Vigan te verkennen.
-Wifi
-Eigen badkamer
-Zwembad
-Loboc River Resort - Loboc
-Gelegen aan de oevers van de rivier de Loboc vind je het Loboc River Resort. Vanuit hier kun je de verschillende hoogtepunten van Bohol verkennen. De kamers, waar gebruik wordt gemaakt van regionale materialen, beschikken over verschillende faciliteiten waaronder airconditioning en een eigen balkon. Geniet van een massage in het wellnesscentrum of van regionale specialiteiten in het restaurant en bij de bar.
-Wifi
-Eigen badkamer
-Zwembad
-Daluyon Beach and Mountain Resort - Puerto Princesa
-Daluyon Beach and Mountain Resort is gelegen aan het prachtige Sabang-strand. Dit resort biedt een adembenemend uitzicht op de West-Filippijnse Zee en beschikt over een verfrissend zwembad en gratis wifi. Elke kamer is voorzien van airconditioning en moderne gemakken. Het restaurant serveert zowel Filippijnse als internationale gerechten. Verder vind je op korte afstand Puerto Princesa Subterranean River.
-Wifi
-Eigen badkamer
-Zwembad
-Holiday Suites Port Barton - Port Barton
-Holiday Suites Port Barton is een strandresort op slechts drie minuten lopen van Itaytay Beach. Dit hotel biedt comfortabele kamers met airconditioning en een scala aan voorzieningen, waaronder een eigen strand, buitenzwembad en restaurant. Geniet hier van uitzicht op de zonsondergang en ontspan. Deze accommodatie combineert een prachtig strand met helder water voor een ontspannen verblijf.
-Wifi
-Eigen badkamer
-Zwembad
-Funny Lion - El Nido
-The Funny Lion El Nido is een boutiquehotel op een rustige locatie net buiten het centrum van El Nido. De kamers zijn stijlvol ingericht en voorzien van airconditioning en een eigen badkamer. Vanaf het dakterras met zwembad en bar heb je een prachtig uitzicht op de baai. In het restaurant worden Filipijnse en internationale gerechten geserveerd, vaak met verse lokale ingrediënten.
-Wifi
-Eigen badkamer
-Zwembad
-Linapacan Campsite - Linapacan
-De campsite op Linapacan is een tropische ervaring. Spendeer de nacht in een eenvoudig hutje op het strand. Geniet in de nacht van de rust en de sterrenhemel en stap in de ochtend je bed uit zo het strand op.
-Funny Lion - Coron
-The Funny Lion in Coron is een 4-sterrenresort met een buitenzwembad en een openluchtbad met prachtig uitzicht op de natuur. De kamers zijn ingericht met natuurlijke tinten en voorzien van moderne gemakken. Je kunt er genieten van internationale gerechten en zeevruchten in restaurant The Hunt, of Filipijnse specialiteiten bij Pride Rock Deck, dat uitkijkt over Coron Bay. Bij de spa kun je terecht voor een massage en ontspanning na een dag vol ontdekkingen.
-Wifi
-Eigen badkamer
-Zwembad
-Accommodatie algemeen
-Tijdens deze reis overnachten we afwisselend in eenvoudige en comfortabele hotels, soms met zwembad. Een aantal van deze accommodaties zijn erg kleinschalig en sommigen worden gerund door lokale families. Voor de strandbestemmingen maken we voornamelijk gebruik van comfortabele hotels. Tijdens de expeditie van El Nido naar Coron is het verblijf op het strand eenvoudig.
-Kamerindeling en éénpersoonskamer
-1 persoonAls je alleen op reis gaat hoef je geen eenpersoonskamertoeslag te betalen. Dan deel je de kamer (of tent indien van toepassing) met iemand van hetzelfde geslacht, zoals vermeld op paspoort*. Wanneer je kiest voor een kamer op indeling wordt er gedurende de reis steeds gerouleerd.
-Wanneer je liever een eigen kamer hebt, dan kun je een eenpersoonskamer boeken vanaf € 1.175,00. Je kunt het exacte bedrag terugvinden onder data & prijzen bij de gewenste vertrekdatum als je op de rekenmachine klikt.
-2 personenAls je met z'n tweeën op reis gaat, deel je samen een kamer (of tent). Je kunt kiezen tussen een 'twin' of een 'double'. Een twin-kamer heeft twee aparte bedden; een double heeft een tweepersoonsbed. Sommige hotels hebben alleen maar twin-kamers en soms zijn alle doubles al vergeven waardoor je toch twee aparte bedden hebt.
-3 personenAls je met z'n drieën op reis gaat, delen twee personen een 'double' of 'twin' kamer (of tent) en één deelnemer wordt ingedeeld in een twin-kamer (of tent) met een andere medereiziger van hetzelfde geslacht. Wanneer je liever een eigen kamer hebt, dan kun je een eenpersoonskamer boeken vanaf € 1.175,00.
-*Wij realiseren ons dat dat het geslacht zoals vermeld in paspoort, niet per definitie overeen hoeft te komen met hoe iemand zich identificeert. Misschien ben je transgender, in transitie of staat er een X in je paspoort. Geldt dit voor jou? Neem dan gerust contact met ons op, we denken graag met je mee.
-Bij het maken van de boeking kun je opgeven wat voor kamerindeling je wenst. Bij het boeken van een kamer op indeling, wordt van je verwacht dat je rekening houdt met je kamergenoot. Denk je dat jouw kamergenoot last van je gaat ondervinden omdat je snurkt, laat opblijft of vaak midden in de nacht op moet staan? Dan boek je te allen tijde een eenpersoonskamer. Boek je toch op indeling, maar blijkt tijdens de reis dat jouw kamergenoot overlast ervaart? Dan vragen we je waar mogelijk ter plekke alsnog je eigen kamer te boeken. De kosten die hieruit voortvloeien zijn in beginsel voor jouw rekening, of kunnen in sommige gevallen in goed overleg met je kamergenoot gedeeld worden, en dienen ter plekke te worden voldaan.
-Vervoer ter plaatse
-De gehele reis hebben we de beschikking over een privé-bus. Zo zijn we flexibel in de tijdsindeling en kunnen we stoppen waar we willen. Voor sommige dagtrips maken we gebruik van de lokale Jeepneys. Voor de reis naar Manila, Bohol, Palawan en Clark maken we gebruik van binnenlandse vluchten.
-
-#Praktische informatie
-Praktische informatie
-Financiën
-De munteenheid van de Filipijnen is de peso. Eén peso is honderd centavo/sentimo.
-1 euro = ongeveer 66 peso's.
-Cash, creditcard of pinnen?
-Contante euro’s en dollars worden geaccepteerd en zijn dus handig om op zak te hebben. Ook met je pinpas (met Maestro- of Cirrussymbool) kun je goed terecht op de Filipijnen. Pinautomaten zijn in alle grote steden aanwezig en op steeds meer andere toeristische plekken. Hou er wel rekening mee dat je maximaal 10.000 per keer kan opnemen en maar één keer per dag. Bovendien kost pinnen 200 peso’s per opname. We raden je aan om altijd naast je pinpas een tweede pinpas en/of creditcard mee te nemen voor onverwachte uitgaven of noodgevallen.
-Het is altijd handig om een klein bedrag aan contante euro’s en contante dollars mee te nemen. Deze worden op de meeste plekke geaccepteerd. Houd er wel rekening mee dat je je wisselgeld in peso's terug krijgt.
-Een overzicht van beschikbare pinautomaten en plekken waar je met creditcard kunt betalen vind je op deze pagina van Mastercard. In het buitenland is voor het gebruik van een creditcard altijd een pincode nodig.
-Steeds meer banken vervangen Maestro- en V PAY-passen door passen met Debit Mastercard of Visa Debit. Oudere Maestro- en V PAY-passen worden buiten Europa steeds minder geaccepteerd en hierdoor kan het dus voorkomen dat geld opnemen niet mogelijk is, ook als je pas is ingesteld voor gebruik buiten Europa. Controleer daarom vóór vertrek welk logo op je betaalpas staat en informeer bij je bank of je pas op je bestemming bruikbaar is én is ingesteld voor gebruik buiten Europa. Vraag indien nodig een nieuwe betaalpas aan.
-Neem tijdens je reis bij voorkeur meerdere betaalmiddelen mee, bijvoorbeeld naast je betaalpas een creditcard en/of tweede betaalpas. Zo ben je minder afhankelijk van één betaalmiddel en beter voorbereid op verlies, misbruik of beperkte acceptatie.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 200 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 300,-
-Fooien	€ 120,-
-Overige optionele excursies en entreegelden	€ 100,-
-Enkele voorbeelden:
-Citytour Manila	€ 100,-
-Tour door Sagada		€ 45,-
-Eilandtour Port Barton		€ 45,-
-Eilandtour bij El Nido	€ 80,-
-Eilandtour Coron		€ 45,-
-- Luchthavenbelasting binnenlandse vluchten	PHP 200
-- Toeristenbelasting El Nido	PHP 200
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.
-Beste reistijd
-De Filipijnen hebben een tropisch klimaat zonder een duidelijk verschil tussen de seizoenen. De regenperiode valt in principe tussen juni en september. Tijdens deze periode kunnen er ook tropische stormen en orkanen voorkomen. Wij bieden daarom in deze periode geen reizen aan. De eilanden die wij bezoeken, hebben het gehele jaar aangename temperaturen die over het gehele jaar vrij constant zijn (tussen 25 en 30 graden Celsius). Alleen in de hoger gelegen gedeeltes liggen de temperaturen gemiddeld iets lager.
-Wat neem ik mee op reis?
-Bagagekeuze
-Ter plaatse maakt het vervoer vaak deel uit van het avontuur. Reizen per (privé) bus, truck, boot, trein, terreinwagen; tijdens een Sawadee reis kan het allemaal! Omdat de bagageruimte in deze vervoermiddelen vaak beperkt is, raden we je af om een harde koffer mee te nemen. Het beste kun je kiezen voor een flexibele rugzak, sporttas of zachte koffer. Kijk daarnaast ook eens kritisch naar wat je echt nodig hebt op reis, de ervaring leert dat je al snel te veel meeneemt. Omdat je zelf verantwoordelijk bent voor het dragen van je bagage naar de accommodatie, geldt in dit geval: less is more!
-Luchtvaartmaatschappijen staan meestal 1 stuk ruimbagage van maximaal 20 kilo toe. Voor binnenlandse vluchten hanteren sommige luchtvaartmaatschappijen een lagere bagagelimiet. Dit staat dan vermeld in het tabblad 'vluchtinfo', onder het kopje vluchtinformatie. Wij adviseren om onmisbare spullen, zoals bijvoorbeeld medicatie en wandelschoenen, aan te trekken of in je handbagage te stoppen.
-Kleding
-Op de Filipijnen is het meestal warm. Lichte en luchtige kleding (katoen of viscose) draagt koel en is snel droog na het wassen.
-Wat je écht nodig hebt:
-dagrugzak
-goed ingelopen enkelhoge wandelschoenen
-zonnebril / hoofddeksel / zonnebrandcrème
-lange broek
-regenjas of poncho
-zaklantaarn
-warme trui, sweater of fleece voor koelere avonden
-zwemkleding / badlaken
-Een kopie van je verzekeringspasje
-DEET (tegen de muggen)
-Als je heel gevoelig bent voor muggensteken, raden we je aan om een klamboe mee te nemen, maar dit hoeft niet per se. Denk er aan dat de hotels niet altijd een haak hebben om een klamboe op te hangen. Als je geen klamboe mee wilt nemen, moet je je ’s avonds goed in te smeren met een insecten werend middel.
-Fotografie, video en opladen
-In de meeste hotels kun je de batterijen van je camera opladen. Hiervoor heb je een wereldstekker nodig.
-Een drone mee op reis?
-Drones worden een steeds populairder hulpmiddel om foto’s of video-opnamen te maken. Het is echter lang niet altijd toegestaan deze te gebruiken. Mocht je overwegen een drone mee te nemen, dan raden we je ten zeerste aan je goed te verdiepen in de lokale wet- en regelgeving omtrent het gebruik ervan. Daarnaast is het van belang dat je je verdiept in de regels van de luchtvaartmaatschappij waarmee je vliegt, naar/van de bestemming en eventuele binnenlandse vluchten. Niet alle maatschappijen hanteren dezelfde regels voor het meenemen van een drone. Je kunt verplicht worden deze in je ruimbagage te doen of juist als handbagage mee te nemen.
-Graag willen we het volgende benadrukken:
-Het eventueel meenemen en gebruiken van een drone is geheel op eigen verantwoordelijkheid en risico.
-Twijfel je over de regels omtrent het gebruik van een drone, neem deze dan niet mee op reis.
-Houd er rekening mee dat het ongeoorloofd gebruik van een drone zwaar gestraft kan worden.
-Neem je toch een drone mee, gebruik deze dan op momenten dat je de tijdsplanning / voortgang van de groepsreis niet belemmert.
-In ‘gevoelige gebieden’, bijvoorbeeld gebieden met militaire activiteiten, kunnen afwijkende regels gelden.
-Lees op de website Droneopreis.nl meer over de regels bij het meenemen van een drone naar jouw reisbestemming.
-Visuminformatie
-Voor deze reis hoeft voor vertrek geen visum te worden aangevraagd. Op de luchthaven van Manila, krijg je gratis een visum voor 30 dagen, dat is genoeg voor deze reis. Zorg dat je bij aankomst nog minstens één lege pagina in je paspoort hebt voor het visum.
-Belangrijk: blijf je langer dan 30 dagen op de Filipijnen, dan moeten zowel Nederlanders als Belgen voor vertrek een visum aanvragen. Dit visum moet je persoonlijk aanvragen bij de ambassade van de Filipijnen in Den Haag. Deze aanvraag mag niet worden uitbesteed aan een derde partij. Laat je hierover goed informeren.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken.
-Deze richtlijnen gelden voor reizigers met de Nederlandse of Belgische nationaliteit. Reizigers met een andere nationaliteit dienen zelf contact op te nemen met de ambassade, Visumcentrale-Nederland of Visumcentrale-België.
-RegistratieHet is verplicht binnen 72 uur voor vertrek naar en van de Filipijnen je gratis te registreren op het E-Travel-portaal. Na registratie ontvang je een QR-code die je op de luchthaven laat zien voor het boarden van het vliegtuig.
-Paspoortinformatie
-Je hebt een paspoort nodig dat, na vertrek uit de Filipijnen, nog 6 maanden geldig is.
-NB: Belgische reizigers hebben een internationale reispas nodig.
-Paspoortscan mailen! De trekking bij Mount Pinatubo wordt gereguleerd door de Philippine Air Force (PAF). Hierdoor is voorafgaande goedkeuring van de PAF vereist om deze activiteit te mogen uitvoeren. Wij verzorgen de aanvraag, maar de trekking kan pas definitief worden bevestigd nadat deze toestemming is verleend. De uiteindelijke beslissing ligt volledig bij de Philippine Air Force en is buiten onze invloed. Om de aanvraag in gang te zetten, ontvangen wij graag een duidelijke kopie of scan van je paspoort. Wij verzoeken je om direct na boeking (of uiterlijk 45 dagen voor vertrek) de scan(s) te sturen naar: service@sawadee.nl. Zonder paspoortscan kunnen wij geen aanvraag indienen voor de Mount Pinatubo trekking. Zorg ervoor dat er geen doorhalingen of teksten over de scan staan, anders worden ze niet geaccepteerd.
-LET OP: Mocht je je paspoort moeten vernieuwen nadat je bij ons geboekt hebt, geef dan bij boeking je oude paspoortgegevens door. Geef zodra je je nieuwe paspoort hebt deze gegevens inclusief scan, aan ons door. Indien je een nieuw paspoort hebt neem dan je oude én je nieuwe paspoort mee op reis!
-Indien de trekking niet wordt goedgekeurd of geannuleerd moet worden (bijvoorbeeld door weersomstandigheden, operationele, veiligheids- of andere omstandigheden), wordt er een alternatief programma aangeboden. In alle andere gevallen kun je ervan uitgaan dat de aanvraag in behandeling is en de trekking volgens planning doorgaat.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken. Hou er rekening mee dat bij sommige beroepen (o.a. @media en/of krijgsmacht) soms een andere dan de reguliere visumprocedure moet worden gevolgd.
-Let op: Controleer bij een overstap altijd de paspoorteisen van het land waar je overstapt. Ook wanneer je slechts op doorreis bent, kunnen er specifieke eisen gelden voor de minimale geldigheidsduur van je paspoort.
-Indien je paspoort niet lang genoeg geldig is voor deze reis, vraag dan tijdig een nieuw paspoort aan, zodat je de paspoortgegevens uiterlijk 8 weken voor vertrek aan ons kunt doorgeven. Worden de paspoortgegevens na deze termijn aan ons doorgegeven, dan kan dit (financiële) gevolgen hebben voor de reeds geboekte reisonderdelen. Neem in dat geval voor de zekerheid ook je oude paspoort mee op reis.
-Voor reizigers met een andere dan de Nederlandse of Belgische nationaliteit kunnen afwijkende visumvoorwaarden van toepassing zijn, anders dan in onze reisbeschrijving vermeld. Indien door de desbetreffende Ambassade en/of Consulaat om persoonlijke redenen geen visum aan jou wordt toegekend, kan Sawadee Reizen niet aansprakelijk worden gesteld. Conform de ANVR-Reizigersvoorwaarden (Boekingsvoorwaarden) 2019 art. 6.4 komen onkosten voor het niet (geheel) kunnen maken van de reis vanwege het ontbreken van geldige (reis)documenten voor rekening van de reiziger. Wel kun je het risico op het buiten je schuld om niet krijgen van een visum bij sommige verzekeraars laten afdekken.
-Verder dienen alleenreizende ouders en ouders met een andere achternaam dan hun (minderjarige = t/m 17 jaar) kind bij reizen buiten het Schengen-gebied te kunnen aantonen dat zij het ouderlijk gezag hebben over het meereizende kind. Denk hierbij bijvoorbeeld aan (advies Rijksoverheid en Koninklijke Marechaussee): Verklaring toestemming vakantie en kopie paspoort andere (niet-meereizende) ouder, recent uittreksel BRP kind, eventueel uitspraak met betrekking tot gezag en omgang/ouderschapsplan/geboorteakte kind. Zorg dus dat je op tijd over de juiste papieren beschikt. De Koninklijke Mareschaussee heeft extra controles aangekondigd voor deze zomer. Voor overige informatie kun je terecht op de website van de Rijksoverheid en Koninklijke Marechaussee. Voor reizigers met de Belgische nationaliteit verwijzen wij graag naar Buitenlandse Zaken.
-Let op: De letter ‘O’ komt in het Nederlandse paspoortnummer niet voor. Het gaat dus altijd om het cijfer ‘0’. Dit geldt ook voor het nummer op een identiteitskaart.
-Gezond en veilig op reis
-Medicijnen
-We raden je aan om een bescheiden reisapotheek mee te nemen. Denk hierbij o.a. aan pijnstillers, desinfecterende middelen, zonnebrand, (blaren)pleisters, middelen tegen koorts, diarree, verstopping, insectenbeten en reisziekte. Daarnaast zijn een tekentang en ORS (Oral Rehydration Salts, tegen uitdroging) aan te raden. Onze reisbegeleiders hebben zelf ook een beperkte EHBO-kit mee. Gebruik je speciale medicijnen(bijv. medicijnen die onder de opiumwet vallen en/of grote hoeveelheden), neem dan voldoende mee en vraag je apotheek om een KNMP-reisdocument voor je op te stellen. Houd dit document in je handbagage.
-Vaccinaties
-Buiktyfus
-Dengue (knokkelkoorts)
-DTP (difterie, tetanus, polio)
-Hepatitis A
-Thuisvaccinatie.nl
-Sawadee werkt samen met Thuisvaccinatie.nl. Dit is een landelijk werkend vaccinatiecentrum. Zij vaccineert aan huis of op locatie en geeft je advies over het gebruik van malariaprofylaxe. Gecertificeerde medewerkers komen bij je langs wanneer het jou uitkomt, zelfs in de avonduren. Dus geen reis- en wachttijd! De tarieven liggen op het niveau van of zelfs lager dan die van de GGD of huisarts. Klik hier voor meer informatie over Thuisvaccinatie, zoals de voordelen, de werkwijze, en het maken van een afspraak.
-Check je reisverzekering!
-De kosten van medische verzorging in het buitenland of een onverwachte vlucht naar huis kunnen enorm oplopen. Wie goed verzekerd op reis gaat voorkomt hoge kosten. Daarom stellen we een individuele reisverzekering verplicht. Meer informatie over het Sawadee Verzekeringspakket i.s.m. Ik kies zelf van a.s.r. vind je hier.
-Veiligheid en reisadvies en entreevoorwaardenDe veiligheid van klanten en personeel staat bij Sawadee altijd op de eerste plaats. Via onze contacten met agenten en lokale autoriteiten volgen wij de veiligheidssituatie op al onze bestemmingen doorlopend. Daarnaast is het belangrijk om te weten wat de entreevoorwaarden zijn voor jouw bestemming. Als Nederlandse reisorganisatie baseert Sawadee haar adviezen op die van de Nederlandse overheid. Belgische reizigers raden we aan ook de adviezen van de Belgische overheid te raadplegen. Afwijkende adviezen kunnen effect hebben op de reisverzekering. Check altijd de voorwaarden van je eigen reisverzekering.
-Voor Nederlandse reizigers: Check deze pagina voor meer informatie
-Voor Belgische reizigers: Check deze pagina voor meer informatie
-Let op: reisadviezen en entreevoorwaarden worden altijd gebaseerd op het land van vertrek. Vlieg je vanuit Nederland maar heb je de Belgische nationaliteit, dan zijn de Nederlandse reisadviezen van toepassing. Mochten er entreevoorwaarden zijn om van België naar Nederland te reizen, neem dan even contact met ons op.
-Moeilijker bereikbare gebieden en trekking op grote hoogte Een aantal van onze reizen gaat (deels) door meer afgelegen gebieden. Dit heeft tot gevolg dat wanneer er (medische) hulp ingeroepen moet worden, dit langer kan duren dan we in Nederland gewend zijn. Ook kan de standaard van de mogelijk te bieden zorg lager liggen dan gewend. Neem dit risico in overweging alvorens deze reis te maken. Ga je tijdens de reis een meerdaagse trekking maken op (grote) hoogte? Check dan de maximale hoogte die je bereikt en of jouw reisverzekering een repatriëring op die hoogte dekt, bijvoorbeeld een helikopter redding boven de 4.000 meter.
-Risicovolle activiteitenSawadee organiseert avontuurlijke actieve rondreizen. Voor sommige reizigers bestaat het avontuur uit activiteiten zoals raften, kajakken, zip-linen, sandboarden, ballonvaren, mountainbiken of snorkelen. Waar wij dit soort activiteiten (optioneel) aanbieden hebben wij uiterste zorg betracht in het vinden van betrouwbare partners met een hoge standaard voor veiligheid. Echter, zelfs met goede voorzorgsmaatregelen en goede partners blijven dit risicovolle en onvoorspelbare activiteiten.
-Wanneer wij op bepaalde bestemmingen deze activiteiten niet aanbieden is dat met een goede reden. Besluit je zelf toch zo'n activiteit te ondernemen, dan is dat op eigen risico. Informeer te alle tijden of je reisverzekering dekking biedt voor deze activiteiten.
-Veiligheid op de wegDe staat van het wegennet en het weggedrag van de overige weggebruikers is van mindere kwaliteit en minder voorspelbaar dan in Nederland. Dit brengt enig risico met zich mee. Wij maken gebruiken van uitvoerig gekeurde voertuigen en getrainde en ervaren chauffeurs. De chauffeurs en de lokale partners voldoen aan de door ons gestelde criteria en worden met regelmaat getoetst om de risico's te minimaliseren. Tijdens de rit is het dragen van veiligheidsgordels verplicht.
-Fietsen in het buitenlandTijdens enkele van onze reizen bieden wij de mogelijkheid van een fietstocht of fietsverhuur aan. Hoewel wij Nederlanders natuurlijk zeer ervaren fietsers zijn dien je er rekening mee te houden dat de wegen en de medeweggebruikers in het buitenland minder berekend zijn op fietsers. Houd je aan de aanwijzingen en voorschriften van de reisbegeleiding, wees extra alert en rijd defensief.
-Zwemmen in open waterTijdens veel van onze reizen heb je verschillende mogelijkheden om een verfrissende duik te nemen of te zwemmen in een meer, rivier of de zee. Omdat je zwemt in onbekend gebied dien je de nodige voorzorgsmaatregelen te nemen. Voordat je besluit om ergens te gaan zwemmen raden wij je aan om altijd de reisleider te raadplegen in verband met bijvoorbeeld sterkte stromingen die we in Nederland niet gewend zijn. Kijk ook altijd of er veiligheidsinformatie wordt gegeven in de vorm van bijvoorbeeld waarschuwingsvlaggen. Wees op de hoogte van je omgeving en zwem niet alleen of ’s nachts.
-Zika virusHet zika-virus komt ook op deze bestemming voor. Dit virus wordt verspreid door de zogenaamde Aedes-mug. Volgens het RIVM is het zika-virus op zich niet gevaarlijk voor mensen. Zwangere vrouwen lopen daarentegen wel een verhoogd risico omdat het zika-virus gevaarlijk kan zijn voor het ongeboren kind. Ben je op dit moment zwanger of heb je de wens om dat op korte termijn te worden, dan raden we je aan om voor het boeken van je reis eerst contact op te nemen met de GGD of je huisarts. Omdat het op dit moment nog niet mogelijk is om je tegen dit virus in te enten, kun je muggensteken het beste zoveel mogelijk voorkomen. De muggen die het virus overbrengen steken ook overdag. Het is dus verstandig dat je je ook overdag en ’s avonds insmeert met muggenwerende middelen met 30-50% DEET. Het is daarom aan te bevelen om bedekte kleding te dragen (lange mouwen, lange broek, sokken, dichte schoenen).
-Malaria virusDe GGD, je huisarts of Thuisvaccinatie.nl kan precies vertellen of en welke profylaxe nodig is. Verder is het belangrijk om tussen zonsondergang en zonsopgang muggensteken te voorkomen. Raadzaam is om voor de schemering valt je in te smeren met muggenmelk met 30-50% DEET. 's Avonds is het aan te bevelen om bedekte kleding te dragen (lange mouwen, lange broek, sokken, dichte schoenen).
-Maaltijden
-Tijdens deze reis zijn de volgende maaltijden inclusief:
-21x ontbijt
-3x lunch
-2x diner
-Eten en drinken
-Op de Filipijnen kun je prima eten, de maaltijden zijn hier milder gekruid dan in andere Aziatische landen. Het eten dat verkocht wordt bij kraampjes op straat is goedkoop, snel klaar en vaak heel lekker. Op het platteland is het raadzaam met enige voorzichtigheid een restaurant te kiezen. Hoe meer mensen er zitten, hoe lekkerder en verser het eten. Op de Filipijnen kun je allerlei frisdranken en alcoholische drankjes kopen. Ook de verse fruitsapjes zijn een aanrader!
-Deskundige reisbegeleiding
-Deze reis wordt begeleid door een Nederlandstalige reisbegeleid(st)er of een lokale Engelstalige reisbegeleid(st)er
-Onze reisbegeleiders zijn stuk voor stuk professioneel en gepassioneerd en hebben een intensieve, door Sawadee ontwikkelde training gevolgd. De reisbegeleiders zorgen ervoor dat de reis zo optimaal mogelijk verloopt en zijn je eerste aanspreekpunt bij vragen of opmerkingen. Zij geven je graag tips over mogelijke excursies, mooie plekjes en leuke restaurants. Onze reisbegeleiders beantwoorden graag al je vragen, maar neem zelf ook een goede reisgids mee. De reisbegeleider verwelkomt je op de bestemming bij aankomst op de luchthaven.
-Contact tijdens de reis
-Tijdsverschil
-Het tijdsverschil met de Filipijnen is 7 uur (tijdens de zomertijd 6 uur).
-Contact met het thuisfront
-Mobiel bellen is op de Filipijnen in de steden overal mogelijk. Informeer voor vertrek bij je provider of mobiele telefonie met je bestaande abonnement en telefoontoestel mogelijk is. Ook vind je op sommige plekken internet cafés. E-mail is de goedkoopste manier om met het thuisfront te communiceren. Post vanuit de Filipijnen doet er normaal gesproken zo'n twee weken over.
-Noodgevallen en calamiteiten
-Zorg ervoor dat thuisblijvers altijd op de hoogte zijn van zowel je reisschema als je vluchtgegevens. Actuele vluchttijden zijn te vinden op de website of in de app van de betreffende luchthaven. De apps zijn meestal gratis te downloaden in de app stores. Bijvoorbeeld:
-Amsterdam Schiphol Airport - schiphol.nl / Schiphol Amsterdam Airport app
-Brussels Airport - brusselsairport.be/nl / Brussels Airport App
-Rotterdam The Hague Airport - rotterdamthehagueairport.nl
-Eindhoven Airport - eindhovenairport.nl
-We sturen geen lijst van de hotels waar we tijdens de reis verblijven omdat deze nog wel eens wisselen en de kamers vaak onder een andere naam geboekt zijn. In geval van nood zijn we voor zowel reizigers als thuisblijvers 24 uur per dag bereikbaar. Bel daarom niet met het hotel maar met Sawadee. Tijdens kantooruren kun je ons bellen op +31 20 420 2220. Buiten kantooruren word je doorgeschakeld met onze alarmdienst of kun je direct ons noodnummer bellen: +31 20 651 6035.
-Tip: maak een digitaal dossier aan. Scan je paspoort, visa, e-tickets en andere belangrijke bescheiden en mail deze naar jezelf. Zo heb je, ingeval van diefstal of verlies tijdens de reis, altijd kopieën van je belangrijke papieren achter de hand.
-Taal en cultuur
-Behalve Filipijns is ook het Engels een officiële taal van de Filipijnen. Hiernaast worden nog 175 andere talen gesproken op de Filipijnen.
-Park Sleep Fly
-Natuurlijk komen er bij het maken van een reis ook wat voorbereidingen kijken. Wil jij verzekerd zijn van een zorgeloos begin van je reis? Goed nieuws, want via Sawadee kun je extra voordelig een Park Sleep Fly arrangement boeken bij Hotel ibis Schiphol Amsterdam Airport. Rijd de dag voor vertrek in alle rust naar het hotel, gelegen vlak bij luchthaven Schiphol, en parkeer maximaal 21 dagen kosteloos je auto (voor de prijs van 15 dagen). Check vervolgens in voor je overnachting en pak de volgende dag heerlijk uitgerust de gratis shuttlebus, die van 3:45 tot 00:40 uur rijdt, naar de vertrekhal. Dit arrangement is met name een uitkomst bij een vroege heenvlucht of late terugvlucht.
-Bekijk deze pagina voor meer informatie en de voorwaarden.
-Onze impact
-Toerisme is één van de grootste industrieën ter wereld, met een enorm potentieel voor economische groei en werkgelegenheid. Als ervaren reisorganisatie zien we echter ook dat reizen impact heeft op het klimaat en op de sociale en natuurlijke leefomgeving van de bestemmingen die we bezoeken. Daarom zetten we ons in om met onze reizen een positieve impact achter te laten voor mens, natuur en cultuur, en onze negatieve impact waar mogelijk te verkleinen. Zo willen we bijdragen aan het behoud van de bijzondere plekken en ontmoetingen die onze reizen zo waardevol maken. Daarbij hebben we respect voor lokale gebruiken en culturele codes, en vragen we onze reizigers hetzelfde te doen. Zo zijn we bijvoorbeeld lid van The Code: de gedragscode voor het beschermen van kinderen tegen seksuele uitbuiting. Het kan voorkomen dat je op reis geconfronteerd wordt met signalen van kindermisbruik. Meld deze vermoedens altijd bij je reisbegeleider en via www.dontlookaway.nl.
-Wil je weten hoe jij, naast het meenemen van een hervulbare drinkfles, kunt bijdragen aan een positieve reisimpact? Bekijk hier onze 15 tips om de positieve impact van je reis te vergroten.
-
-#Beste reistijd
-De Filipijnen hebben een tropisch klimaat zonder een duidelijk verschil tussen de seizoenen. De regenperiode valt in principe tussen juni en september. Tijdens deze periode kunnen er ook tropische stormen en orkanen voorkomen. Wij bieden daarom in deze periode geen reizen aan. De eilanden die wij bezoeken, hebben het gehele jaar aangename temperaturen die over het gehele jaar vrij constant zijn (tussen 25 en 30 graden Celsius). Alleen in de hoger gelegen gedeeltes liggen de temperaturen gemiddeld iets lager.
-
-#Inbegrepen in de reissom
-Wat is inbegrepen in de reissom?
-Internationale vluchten incl. (ruim)bagage, luchthavenbelastingen en brandstoftoeslag op moment van boeking
-Vervoer en overnachtingen volgens programma
-Specifiek voor deze reis:
-Tijdbesparende binnenlandse vluchten
-Beklimming Mount Pinatubo
-Batad & Bangaan tour
-Bezoek aan de Maligcong rijstterrassen
-Chocolate Hills, Cadapdapan rijstterrassen & Candijay watervallen
-Veerboot van Bohol naar Cebu
-Excursie Subterranean River
-2-daagse boottour van El Nido naar Coron
-Bijzondere overnachting op Linapacan
-21x ontbijt, 3x lunch, 2x diner
-Landarrangement
-Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 4.362 tot € 4.886.
-Het landarrangement begint en eindigt in Manila.
-
-#Bijkomende kosten
-Bijkomende kosten vooraf
-Boekingskosten:
-1 persoon: € 25,-
-2 personen: € 40,-
-3 of meer deelnemers: € 50,-
-Bijdrage SGR (per persoon): €5,-
-Bijdrage Calamiteitenfonds (per factuur): € 2,50 
-Reis- en/of annuleringsverzekering (indien van toepassing)
-(Optionele) eenpersoonskamer
-Wanneer je liever een eigen kamer hebt, dan kun je voor deze reis een eenpersoonskamer boeken vanaf € 1.175,00.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 200 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 300,-
-Fooien	€ 120,-
-Overige optionele excursies en entreegelden	€ 100,-
-Enkele voorbeelden:
-Citytour Manila	€ 100,-
-Tour door Sagada		€ 45,-
-Eilandtour Port Barton		€ 45,-
-Eilandtour bij El Nido	€ 80,-
-Eilandtour Coron		€ 45,-
-- Luchthavenbelasting binnenlandse vluchten	PHP 200
-- Toeristenbelasting El Nido	PHP 200
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.]]></get-trip-scraped-content>
+    <get-trip-scraped-content>Unknown</get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-16137</get-trip-id>
@@ -7078,7 +6567,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Ghana, Togo en Benin</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>3.899</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.699</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Ghana</get-trip-country>
     <get-trip-country>Togo</get-trip-country>
@@ -8783,7 +8272,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Java en Bali Kort</get-trip-name>
-    <get-trip-duration>16</get-trip-duration>
+    <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>2.599</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
@@ -23009,7 +22498,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Sikkim en Bhutan</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>4.599</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>4.499</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Bhutan</get-trip-country>
     <get-trip-country>India</get-trip-country>
@@ -25149,7 +24638,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Sri Lanka Hoogtepunten</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>2.379</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.389</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Sri Lanka</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/groepsrondreizen/azie/sri-lanka/slh-vakantie-sri-lanka-groepsreis/</get-trip-url>
@@ -40596,455 +40085,16 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   <trip>
     <get-trip-id>GT-SAWADEE-23269</get-trip-id>
     <get-trip-id-org>TQF</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
+    <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Thailand Hoogtepunten</get-trip-name>
-    <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>2.699</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Thailand</get-trip-country>
+    <get-trip-duration>Unknown</get-trip-duration>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
+    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-country>Unknown</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/familiereizen/azie/thailand/tqf-rondreis-thailand-hoogtepunten-familiereis/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Meer over deze reis
-Avontuur voor het hele gezin
-Onze familiereizen zijn speciaal ontwikkeld voor gezinnen met kinderen, extra leuk om samen met leeftijdsgenoten op avontuur te gaan! Afhankelijk van de bestemming zijn de reizen geschikt voor kinderen vanaf 8, 12 of 16 jaar. Voor elke leeftijdscategorie wordt de reis op een passende manier uitgevoerd: de routes blijven hetzelfde, maar de invulling van de reis en de activiteiten zijn afgestemd op de leeftijd van de kinderen. Zo sluiten de activiteiten goed aan en zorgt dit voor een extra leuke beleving.
-Zeg sawadee tegen Thailand
-Deze comfortabele familiereis brengt je via de mooiste hoogtepunten door het land van de vele contrasten. Een reis door Thailand betekent een reis door een land met een vriendelijke en gastvrije bevolking, rijkversierde tempels, de overheerlijke Thaise keuken, tropische jungle én witte stranden. We slapen in comfortabele hotels met zwembad zodat we kunnen afkoelen aan het einde van de dag. We reizen met privé vervoer, leggen het traject Ayutthaya – Chiang Mai af per nachttrein en varen per boot van en naar het eiland Koh Samet.
-Bruisend Bangkok
-De reis begint in de hoofdstad van Thailand. Bangkok is een drukke stad vol contrasten, kleuren en bijzondere tempels. Je kunt rustig de tijd nemen om het Aziatische leven op je in te laten werken. Ervaar geuren en kleuren, proef van de heerlijke streetfood en wie weet durf jij het aan om een insect op straat te eten. Een leuke manier om deze bruisende metropool te ontdekken is per fiets. Ook is het gaaf om in één van de gekleurde tuktuk's rond te scheuren. In de avond wordt Bangkok omgetoverd tot sfeervolle stad met lichtjes, muziek en gezelligheid.
-River Kwai en tempels in Ayutthaya
-Via de drijvende markt van Lao Tak Lak bereiken we Kanchanaburi. We verblijven hier op drijvende vlotten aan de River Kwai rivier. In de omgeving kun je een duik nemen in het koude water van de beroemde Erawan watervallen. In Ayutthaya, de voormalige hoofdstad van het Siamese Rijk, bezoeken we de overblijfselen van tempelcomplexen en vele Boeddhabeelden uit de rijke tijd. De Thaise geschiedenis en cultuur kan hier optimaal beleefd worden. Het Historical park is uitgeroepen tot UNESCO werelderfgoed.
-Chiang Mai, het uiterste Noorden
-Per nachttrein reizen we naar Chiang Mai, wat al een beleving op zich is. In deze stad kun je letterlijk de Thaise cultuur proeven door een kookcursus te volgen. Ook is het mogelijk om een optionele excursie te maken naar de olifant vriendelijke Chang Chill opvang. Gek op tempels? Bezoek dan het gouden heiligdom Doi Suthep. Na het puffen en hijgen van de meterslange slangentrap wordt je beloond door prachtig uitzicht over de stad.
-Witte zandstranden en cocktails op Ko Samet
-Na al die indrukken die we hebben opgedaan, is het de hoogste tijd om te relaxen. We nemen een binnenlandse vlucht naar Bangkok en sluiten deze reis af met een ontspannen strandverblijf op het eiland Ko Samet aan het witte zandstrand. De koraalriffen nodigen uit tot snorkelen, je kan een boot huren, een strandwandeling maken of je kunt gewoon luieren onder de palmen met een heerlijke cocktail. Niets hoeft, alles kan.
-
-#Comfort en zwaarte van de reis
-Zwaarte van de reis
-Niveau 1: Zeer lichte reis met rustige reisdagen en/of zeer lichte dagwandelingen
-Comfort van de overnachtingen
-Niveau 4: Comfortabele, luxere accommodaties
-
-#Groepsgrootte
-Maximaal 24 personen
-
-#Waarom deze reis?
-Reis langs de mooiste hoogtepunten van Thailand
-Verblijf bij Kanchanaburi op drijvende vlotten aan de River Kwai
-Bezoek aan kleurrijke steden Bangkok en Chiang Mai
-Tijdbesparende vlucht van Chiang Mai naar Bangkok
-Optionele tweedaagse trekking in het noorden
-Relaxte afsluiting met een 3-daags verblijf op het tropische eiland Ko Samet
-Alle hotelovernachtingen inclusief ontbijt
-Bezoek aan UNESCO werelderfgoed Ayutthaya
-Leuke optionele excursies te boeken voor jong en oud
-Optioneel bezoek aan de Chang Chill olifantenopvang
-
-#Reisprogramma
-Dag 1
-Vlucht Amsterdam – Bangkok
-Dag 2
-Aankomst Bangkok
-Dag 3
-Bangkok / vrije dag
-Dag 4
-Bangkok / vrije dag
-Dag 5
-Naar Kanchanaburi via drijvende markt Lao Tak Lak
-Dag 6
-Kanchanaburi / vrije dag
-Dag 7
-Ayutthaya / nachttrein naar Chiang Mai
-Dag 8
-Chiang Mai / vrije dag
-Dag 9
-Chiang Mai / vrije dag
-Dag 10
-Chiang Mai / vrije dag
-Dag 11
-Vlucht naar Bangkok / naar Ko Samet
-Dag 12
-Ko Samet / vrije dag
-Dag 13
-Ko Samet / vrije dag
-Dag 14
-Naar Bangkok / vlucht naar Amsterdam
-Dag 15
-Aankomst Amsterdam
-
-#Dag tot dag
-Tijdens deze familiereis bezoek je in korte tijd de mooiste hoogtepunten van Thailand. Deze complete rondreis door Midden- en Noord-Thailand neemt je mee naar de kleurrijke steden Bangkok en Chiang Mai en UNESCO Werelderfgoed Ayutthaya en Kanchanaburi aan de River Kwai. We bezoeken een drijvende markt, het is mogelijk om watervallen te bezoeken of leer de Thaise keuken kennen tijdens een kookcursus. Het eiland Ko Samet is het decor voor een heerlijke strandafsluiting. Een reis met veel individuele vrijheid in een land van vele contrasten, zeer geschikt voor jong en oud!
-Dag 1
-Vlucht Amsterdam – Bangkok
-Eindelijk is het zover! Een reis waar je misschien wel lang naar uit hebt gekeken. Op naar het vliegveld waar de familiereis naar Thailand kan gaan beginnen. Voor de vluchtgegevens verwijzen wij naar het vluchtschema.
-Dag 2
-Aankomst Bangkok
-Na aankomst rijden we naar ons hotel in het centrum van Bangkok. De rest van de dag kun je bijkomen van de vlucht of alvast met het gezin op pad om de eerste indrukken van Thailand op je in te laten werken. Bangkok is een drukke stad met vele contrasten, kleuren en bijzondere tempels. Je kunt hier heerlijk rondslenteren en je neus achterna gaan. Proef de oosterse lekkernijen van de diverse eetstalletjes. Ooit al eens insecten willen eten? Dan is dit je kans! ‘s Avonds is Bangkok zeer sfeervol met lichtjes, muziek en gezelligheid.
-Maaltijd inbegrepen deze dag
-Dag 3
-Bangkok / vrije dag
-Je hebt vandaag de hele dag de tijd om op eigen houtje rond te dwalen. Een leuke manier om samen Bangkok te verkennen is per fiets, een heel bijzondere beleving. Ook is het gaaf om in één van de gekleurde tuktuk's rond te scheuren, bijvoorbeeld naar de Chinatown van Bangkok. Deze gezellige wijk kent een drukte van jewelste, dus houd elkaar goed in de gaten!
-Bangkok heeft meer dan 400 tempels waarbij de een nog mooier is dan de ander. Een bezoekje aan de Grand Palace en Wat Phra Kaew zijn zeker de moeite waard. Eens kijken wie de goudgekleurde torens, die boven de paleismuren uitkomen, als eerste spot. Een spectaculair aanzicht! Eenmaal binnen bevindt zich een groot complex met gouden tempels, stenen beelden en prachtig versierde torens. Je kijkt je ogen uit.
-Optioneel
-Fietstocht Bangkok
-(€ 54,- p.p.)
-Een leuke en bijzondere manier om Bangkok te verkennen is per fiets. In de ochtend (of begin van de middag) vertrek je vanaf het startpunt en fiets je in ongeveer drie uur door Bangkok. De tocht voert je door lokale wijken en biedt een authentiek kijkje in het dagelijks leven, buiten de gebruikelijke toeristische trekpleisters. Onderweg maak je kennis met levendige lokale markten, verken je prachtige tempels vol cultuur en geschiedenis en kun je genieten van lokale hapjes. Ervaar de Thaise cultuur en historie op een tocht door sfeervolle straatjes. Geniet van de geuren en kleuren van de stad die je zintuigen prikkelen.
-NB: de fietsroute kan variëren, afhankelijk van de locatie van het hotel.
-Fietstocht Bangkok
-Een leuke en bijzondere manier om Bangkok te verkennen is per fiets. In de ochtend (of begin van de middag) vertrek je vanaf het startpunt en fiets je in ongeveer drie uur door Bangkok. De tocht voert je door lokale wijken en biedt een authentiek kijkje in het dagelijks leven, buiten de gebruikelijke toeristische trekpleisters. Onderweg maak je kennis met levendige lokale markten, verken je prachtige tempels vol cultuur en geschiedenis en kun je genieten van lokale hapjes. Ervaar de Thaise cultuur en historie op een tocht door sfeervolle straatjes. Geniet van de geuren en kleuren van de stad die je zintuigen prikkelen.
-NB: de fietsroute kan variëren, afhankelijk van de locatie van het hotel.
-Maaltijd inbegrepen deze dag
-Dag 4
-Bangkok / vrije dag
-Vandaag hebben jullie nog een dag de tijd om zelf in te delen hoe je Bangkok wilt ontdekken. Misschien vinden jullie het wel leuk om richting Chinatown te gaan in één van de gekleurde tuktuk’s. Avontuur gegarandeerd! Ook kun je een leuke boottocht maken door de Klongs, de kanalen die de zijtakken vormen van de machtige Chao Praya Rivier. Dit is een unieke manier om kennis te maken met het leven in de stad, ver van de wolkenkrabbers en grote winkelcentra. Met een longtailboot vaar je door de smalle kanalen langs goed bewaard gebleven houten huizen, winkeltjes en historische, maar niet-toeristische tempels.
-Maaltijd inbegrepen deze dag
-Dag 5
-Naar Kanchanaburi via drijvende markt Lao Tak Lak
-Hopelijk is vroeg opstaan voor jullie geen probleem! In de vroege morgen gaan we op weg naar de drijvende markt van Lao Tak Lak. Deze markt geeft toegang tot de bekende Damnoen Saduak Floating Market. Aanschouw hier het werk en het traditionele leven van de Thaise bevolking. Vanuit bootjes verkopen marktlieden hun handelswaar, een prachtig gezicht! Leuke ervaring om met het gezin ook in een bootje te stappen en een rondje te maken.
-Ook bezoeken we vandaag het Nang Yai Wat Khanon National Museum. In de vorm van een tentoonstelling wordt de Thaise geschiedenis verteld. We vervolgen onze weg via Photharam naar Wat Tham Suea, een prachtige tempel gelegen op een heuvel. Je kunt de klim naar de grootste Boeddhabeeld in de omgeving wagen via de 157 trappen of met de kabelbaan. Eind van de middag komen we aan in Kanchanaburi waar we twee nachten verblijven op drijvende vlotten aan de River Kwai.
-Maaltijd inbegrepen deze dag
-Dag 6
-Kanchanaburi / vrije dag
-Deze dag kan naar eigen wens ingevuld worden. Kanchanaburi is beroemd om de prachtige Erawan watervallen, maar vooral ook om de heftige geschiedenis. De wereldberoemde ´Bridge over the River Kwai´ is een enorme klus geweest. En dan te bedenken dat arbeiders in zeer armoedige omstandigheden dit treintraject, de beruchte Birma spoorlijn, aan moesten leggen. Lijkt het je interessant om hier meer over te weten? Bezoek dan het JEATH Museum en het Thailand–Burma Railway Centre museum.
-Optioneel
-Erawan Watervallen en Hellfire Pass
-(€ 50,- p.p.)
-Tijdens de dagexcursie naar de Erawan watervallen kun je de 7 prachtige terraswatervallen bewonderen in een groene, jungle-achtige, idyllische omgeving. Hoe hoger, hoe mooier. We wandelen in ongeveer 1,5 uur langs de waterval naar het hoogste niveau. Je kunt zelf bepalen op welk niveau je een verfrissende duik in het water neemt. Na een lokale lunch zullen we doorrijden naar de Hellfire Pass.
-Tijdens de Tweede Wereldoorlog wensten de Japanners een veilige bevoorradingsroute tussen het voormalige Birma (Myanmar) en Siam (Thailand) en lieten een 400 kilometer lange spoorlijn aanleggen. Midden door de Thaise jungle en bergketens. In helse omstandigheden werden krijgsgevangenen gedwongen deze weg uit te graven. Na de bouw kreeg de Birma-spoorlijn de naam 'Death Railway' omdat er meer dan 100.000 levens verloren gingen bij de aanleg. Na het bezoek aan het museum bewandelen we de Hellfire Pass met een gids.
-Inbegrepen: transfers, entreegelden, gids en lunch.
-NB: deze excursie gaat door bij een minimale deelname van 5 personen.
-Erawan Watervallen en Hellfire Pass
-Tijdens de dagexcursie naar de Erawan watervallen kun je de 7 prachtige terraswatervallen bewonderen in een groene, jungle-achtige, idyllische omgeving. Hoe hoger, hoe mooier. We wandelen in ongeveer 1,5 uur langs de waterval naar het hoogste niveau. Je kunt zelf bepalen op welk niveau je een verfrissende duik in het water neemt. Na een lokale lunch zullen we doorrijden naar de Hellfire Pass.
-Tijdens de Tweede Wereldoorlog wensten de Japanners een veilige bevoorradingsroute tussen het voormalige Birma (Myanmar) en Siam (Thailand) en lieten een 400 kilometer lange spoorlijn aanleggen. Midden door de Thaise jungle en bergketens. In helse omstandigheden werden krijgsgevangenen gedwongen deze weg uit te graven. Na de bouw kreeg de Birma-spoorlijn de naam 'Death Railway' omdat er meer dan 100.000 levens verloren gingen bij de aanleg. Na het bezoek aan het museum bewandelen we de Hellfire Pass met een gids.
-Inbegrepen: transfers, entreegelden, gids en lunch.
-NB: deze excursie gaat door bij een minimale deelname van 5 personen.
-Maaltijd inbegrepen deze dag
-Dag 7
-Ayutthaya / nachttrein naar Chiang Mai
-We rijden in 3 uur naar Ban-Pa In voor een bezoek aan de Wat Niwet Thammaprawat, die alleen te bereiken is per kabelbaan en uitgevoerd wordt door monniken. Een leuke ervaring! We vervolgen onze weg naar Ayutthaya, de voormalige hoofdstad van Thailand. Ruim 400 jaar geleden een machtig koninkrijk wat later is geplunderd door de Birmezen. Nadat Bangkok tot nieuwe hoofdstad is uitgeroepen bleef Ayutthaya achter met geruïneerde tempelcomplexen. Deze historische stad barst van de tempel-ruïnes en Boeddhabeelden en heeft een Historical Park dat uitgeroepen is tot UNESCO werelderfgoed.
-De tempels liggen verspreid over het park waardoor het een leuke zoektocht is. Daarom maken we gebruik van Tuk-Tuks om onszelf te verplaatsen. Aan het eind van de dag worden we afgezet bij het treinstation om de nachttrein naar Chiang Mai te pakken.
-Maaltijd inbegrepen deze dag
-Dag 8
-Chiang Mai / vrije dag
-Na aankomst met de trein kun je meteen de stad verkennen. Chiang Mai is de op één na grootste stad van Thailand en erg populair onder vele reizigers. Binnen de voormalige stadsmuren- en poorten bevindt zich een levendig centrum met vele lokale restaurants en gezellige markten waar je heerlijk kunt rondslenteren en leuke souvenirs kunt kopen. Ook een bezoek aan de Doi Suthep, wat net buiten de stad ligt, is zeker een aanrader. Dit gouden heiligdom is te bereiken via een bijzondere ‘slangentrap’. De trap is lang... Is jouw conditie goed op pijl?
-4
-4
-4
-4
-Optioneel
-2-daagse trekking Chiang Mai - Karen Village
-(€ 110,- p.p.)
-Tijdens deze tweedaagse trekking maak je een intensieve, maar prachtige hike langs de verschillende Karen dorpen. In deze streek is een scala aan bergvolkeren vertegenwoordigd in de dorpen van de Karen, Akha, Lahu, en Lisu. Je krijgt een unieke kijk in het leven van deze verschillende stammen. Een kennismaking met de levenswijze van een unieke groep mensen, die je op een andere manier nooit zou ontmoeten.
-In de prijs van deze optionele excursie is rekening gehouden met de gemiste overnachting in Chiang Mai. Inbegrepen zijn: het lokale vervoer, de maaltijden, een Thaise gids en dragers. De excursie gaat door bij minimaal 6 deelnemers.
-Je hoeft alleen bagage mee te nemen voor deze twee dagen, de rest laat je achter in het hotel in Chiang Mai.
-Dag 1
-Het avontuur gaat beginnen! We beginnen bij een typisch Thaise markt waar de gids alvast inkopen doet voor onze maaltijden de komende dagen. Laat je zintuigen het werk doen en proef de lokale specialiteiten! Vervolgens rijden we richting het startpunt van de wandeling. Vandaag is een pittige dag, we wandelen (bijna) alleen maar omhoog.
-Om even goed af te koelen maken we een stop bij de watervallen waar je kunt zwemmen, vergeet dus ook je zwemkleding niet! Na de lunch trekken we verder de bergen in naar het eerste Karen-dorp. Ontmoet hier de locals......varkens! Aan het einde van de middag komen we, na een wandeling door het bos, aan bij het laatste Karen dorp van vandaag, en tevens onze overnachtingsplek. Geniet van het lokale leven tijdens een heerlijk diner.
-Dag 2
-We worden wakker gemaakt door het gekraai van de hanen. Na een stevig ontbijt bij de lokale familie is het tijd om afscheid te nemen van het dorp en te beginnen aan de afdaling terug naar de bewoonde wereld. We trekken door het bos, langs de rijstvelden tot we aankomen bij het volgende Karen-dorp. In de jungle genieten we van een picknick om deze prachtige dag af te sluiten in de verkoelende watervallen. Na een korte tocht komen we weer aan bij ons vervoer welke ons terugbrengt naar Chiang Mai.
-2-daagse trekking Chiang Mai - Karen Village
-Tijdens deze tweedaagse trekking maak je een intensieve, maar prachtige hike langs de verschillende Karen dorpen. In deze streek is een scala aan bergvolkeren vertegenwoordigd in de dorpen van de Karen, Akha, Lahu, en Lisu. Je krijgt een unieke kijk in het leven van deze verschillende stammen. Een kennismaking met de levenswijze van een unieke groep mensen, die je op een andere manier nooit zou ontmoeten.
-In de prijs van deze optionele excursie is rekening gehouden met de gemiste overnachting in Chiang Mai. Inbegrepen zijn: het lokale vervoer, de maaltijden, een Thaise gids en dragers. De excursie gaat door bij minimaal 6 deelnemers.
-Je hoeft alleen bagage mee te nemen voor deze twee dagen, de rest laat je achter in het hotel in Chiang Mai.
-Dag 1
-Het avontuur gaat beginnen! We beginnen bij een typisch Thaise markt waar de gids alvast inkopen doet voor onze maaltijden de komende dagen. Laat je zintuigen het werk doen en proef de lokale specialiteiten! Vervolgens rijden we richting het startpunt van de wandeling. Vandaag is een pittige dag, we wandelen (bijna) alleen maar omhoog.
-Om even goed af te koelen maken we een stop bij de watervallen waar je kunt zwemmen, vergeet dus ook je zwemkleding niet! Na de lunch trekken we verder de bergen in naar het eerste Karen-dorp. Ontmoet hier de locals......varkens! Aan het einde van de middag komen we, na een wandeling door het bos, aan bij het laatste Karen dorp van vandaag, en tevens onze overnachtingsplek. Geniet van het lokale leven tijdens een heerlijk diner.
-Dag 2
-We worden wakker gemaakt door het gekraai van de hanen. Na een stevig ontbijt bij de lokale familie is het tijd om afscheid te nemen van het dorp en te beginnen aan de afdaling terug naar de bewoonde wereld. We trekken door het bos, langs de rijstvelden tot we aankomen bij het volgende Karen-dorp. In de jungle genieten we van een picknick om deze prachtige dag af te sluiten in de verkoelende watervallen. Na een korte tocht komen we weer aan bij ons vervoer welke ons terugbrengt naar Chiang Mai.
-Dag 9
-Chiang Mai / vrije dag
-De Thaise keuken is geliefd bij jong en oud. Wie geniet er nou niet van een overheerlijke Pad Thai of curry met verse groente? Je leert veel over de Thaise keuken tijdens een optionele kookcursus, ook erg leuk om met het onbekende eten bezig te zijn. Mocht je geen genoeg krijgen van tempels, bezoek dan Chiang Mai's oudste tempel; Wat Chiang Man. Liever iets actiever? Je kunt ter plaatse een excursie boeken naar de avontuurlijke jungle of een leuke fietstocht maken. Afkoelen na de drukke dag kan daarna heerlijk in het zwembad van het hotel.
-Optioneel
-Kookcursus Chiang Mai incl. maaltijd
-(€ 40,- p.p.)
-In Chiang Mai heb je de mogelijkheid om aan een kookcursus deel te nemen. Tijdens deze cursus leer je over en krijg je een kijkje in de Thaise keuken. Je wordt meegenomen naar de kleurrijke markt van Chiang Mai waar de geuren van het eten je tegemoet komen. Na het bezoek aan de markt bereid je samen met de chef je eigen maaltijd. Al met al een ervaring waar je uitgebreid de mogelijkheid krijgt om kennis te maken met de Thaise keuken, die je wellicht ook thuis kan toepassen.
-NB: de kookcursus is ook mogelijk voor vegetariërs. Geef dit aan ons door bij het maken van de boeking.
-Kookcursus Chiang Mai incl. maaltijd
-In Chiang Mai heb je de mogelijkheid om aan een kookcursus deel te nemen. Tijdens deze cursus leer je over en krijg je een kijkje in de Thaise keuken. Je wordt meegenomen naar de kleurrijke markt van Chiang Mai waar de geuren van het eten je tegemoet komen. Na het bezoek aan de markt bereid je samen met de chef je eigen maaltijd. Al met al een ervaring waar je uitgebreid de mogelijkheid krijgt om kennis te maken met de Thaise keuken, die je wellicht ook thuis kan toepassen.
-NB: de kookcursus is ook mogelijk voor vegetariërs. Geef dit aan ons door bij het maken van de boeking.
-Maaltijd inbegrepen deze dag
-Dag 10
-Chiang Mai / vrije dag
-De op één na grootste stad van Thailand heeft nog zoveel te ontdekken. Je kunt vandaag zelf kiezen wat je vandaag nog wilt bezoeken. Hebben jullie de Thapae Gate, één van de vier oorspronkelijke stadspoorten, al bezocht? Of breng een bezoek aan het Thai Elephant Care Center. Je kunt er natuurlijk ook voor kiezen lekker bij te komen aan het zwembad van ons hotel.
-Indien je graag alle 3 de excursies in Chiang Mai wilt ondernemen, is het mogelijk om de kookcursus in de ochtend op dag 10 te doen en in de middag Chang Chill olifantenopvang te bezoeken. Houd er wel rekening mee dat dit een druk programma is en de kookcursus iets wordt ingekort.
-Optioneel
-Puur Sawadee - Bezoek Chang Chill olifantenopvang - incl. lunch
-(€ 58,- p.p.)
-Op ongeveer anderhalf uur rijden van Chiang Mai ligt Chang Chill, een olifantvriendelijke opvang in een groene vallei aan de Mae Puai rivier. De naam betekent letterlijk ‘relaxte olifant’ in het Thais, en dat is precies wat deze plek biedt: een veilige, rustige omgeving waar olifanten vrij kunnen leven zonder direct contact met bezoekers.
-Bij Chang Chill worden olifanten niet bereden, gewassen of gevoerd door toeristen. In plaats daarvan observeer je de dieren vanaf een uitkijkpost en krijg je een inkijkje in hun dagelijkse leven. Gidsen vertellen uitgebreid over de Aziatische olifant en je maakt kennis met de mahouts, de traditionele verzorgers. De excursie is inclusief transfers van en naar het hotel, entreegelden, begeleiding door lokale gidsen en een lunch.
-In veel van onze reizen hebben we Puur Sawadee-projecten en -accommodaties opgenomen. Puur Sawadee laat zien waar Sawadee voor staat: reizen op een manier die zowel onze reizigers als onze bestemmingen verrijkt. Via Puur Sawadee komen reizigers in contact met bewoners, bezoeken zij lokale initiatieven en krijgen zij een uniek inkijkje in het dagelijks leven op hun bestemming. Zo ontstaan betekenisvolle ontmoetingen en komen authentieke ervaringen tot stand die verder gaan dan de bekende highlights en bijdragen aan een beter begrip van de plek, de cultuur en de mensen die er wonen.
-Puur Sawadee - Bezoek Chang Chill olifantenopvang - incl. lunch
-Op ongeveer anderhalf uur rijden van Chiang Mai ligt Chang Chill, een olifantvriendelijke opvang in een groene vallei aan de Mae Puai rivier. De naam betekent letterlijk ‘relaxte olifant’ in het Thais, en dat is precies wat deze plek biedt: een veilige, rustige omgeving waar olifanten vrij kunnen leven zonder direct contact met bezoekers.
-Bij Chang Chill worden olifanten niet bereden, gewassen of gevoerd door toeristen. In plaats daarvan observeer je de dieren vanaf een uitkijkpost en krijg je een inkijkje in hun dagelijkse leven. Gidsen vertellen uitgebreid over de Aziatische olifant en je maakt kennis met de mahouts, de traditionele verzorgers. De excursie is inclusief transfers van en naar het hotel, entreegelden, begeleiding door lokale gidsen en een lunch.
-In veel van onze reizen hebben we Puur Sawadee-projecten en -accommodaties opgenomen. Puur Sawadee laat zien waar Sawadee voor staat: reizen op een manier die zowel onze reizigers als onze bestemmingen verrijkt. Via Puur Sawadee komen reizigers in contact met bewoners, bezoeken zij lokale initiatieven en krijgen zij een uniek inkijkje in het dagelijks leven op hun bestemming. Zo ontstaan betekenisvolle ontmoetingen en komen authentieke ervaringen tot stand die verder gaan dan de bekende highlights en bijdragen aan een beter begrip van de plek, de cultuur en de mensen die er wonen.
-Maaltijd inbegrepen deze dag
-Dag 11
-Vlucht naar Bangkok / naar Ko Samet
-Vanuit Chiang Mai nemen we een binnenlandse vlucht naar Bangkok. Vanaf de luchthaven rijden we in ongeveer drie uur naar het haventje van Ban Phe om op de boot te stappen naar het eiland Ko Samet. Vanaf nu wordt het alleen nog maar ontspannen! Kijk tijdens de boottocht goed om je heen want de omgeving is fantastisch! De komende drie nachten verblijven we in een comfortabel hotel met zwembad. Dat je binnen een paar stappen op het mooie witte strand staat is natuurlijk heerlijk en maakt dit verblijf zeer aangenaam om de reis af te sluiten.
-Maaltijd inbegrepen deze dag
-Dag 12
-Ko Samet / vrije dag
-Ko Samet is een klein eiland van ongeveer 7 km lang en 3 km breed. Officieel is het een natuurpark, maar vandaag de dag meer een eiland om te relaxen. Hoe fijn is dat na alle inspanningen van de laatste dagen? Hoewel Ko Samet niet heel groot is, heeft het maar liefst 14 zandstranden verspreid over het eiland. Zacht, wit zandstrand, een helderblauwe zee... Ideaal om lange strandwandelingen te maken of te genieten van de zon en de zee.
-Maaltijd inbegrepen deze dag
-Dag 13
-Ko Samet / vrije dag
-Vandaag heb je nog een laatste volle dag om heerlijk te relaxen. Ga te water met snorkelset en ontdek de onderwaterwereld met haar vele kleurrijke vissen! Kijk uit dat ze niet aan je tenen gaan knabbelen. In de buurt van Ko Samet liggen verschillende kleine eilandjes die te bereiken zijn met een bootje. Huur met elkaar een bootje en verken de omgeving; het windje op zee is zeer aangenaam. De keuze is helemaal aan jullie!
-Maaltijd inbegrepen deze dag
-Dag 14
-Naar Bangkok / vlucht naar Amsterdam
-Aan al het moois komt helaas altijd een einde. Ons Thaise avontuur zit er vandaag op en we zullen het eiland moeten verlaten. Wat is de tijd snel gegaan hè? Hopelijk kijken jullie terug op een mooie reis. Met de boot keren we terug naar het vasteland waar onze privéchauffeur ons op staat te wachten en ons naar de luchthaven zal brengen.
-Let op:
-Bij de reizen met een dagvlucht van Bangkok naar Amsterdam op dag 15 verblijven we nog een nacht in een hotel nabij de luchthaven van Bangkok.
-Maaltijd inbegrepen deze dag
-Dag 15
-Aankomst Amsterdam
-Voor de vluchtgegevens verwijzen wij naar het vluchtschema. Welkom terug in Nederland!
-
-#Accommodaties
-Verblijf & vervoer
-Hieronder volgt een selectie van de accommodaties die we gebruiken tijdens deze reis. De meest actuele lijst is na boeking te vinden in de Sawadee Reisapp. Deze lijst is onder voorbehoud van wijzigingen. Het kan voorkomen dat we vanwege beschikbaarheid uitwijken naar een gelijkwaardige accommodatie.
-Benieuwd naar meer info over de accommodaties of naar het vervoer ter plaatse? Klik op de links voor meer informatie.
-Centara Life Hotel Phra Nakhon - Bangkok
-Dit comfortabele 4-sterren hotel is gelegen op een mooie locatie in Bangkok. Het beschikt over een buitenzwembad, terras, restaurant en gratis wifi. De moderne kamers zijn voorzien van een eigen badkamer en airconditioning.
-Wifi
-Eigen badkamer
-Zwembad
-4-sterren
-Puur Sawadee - Boutique Raft Resort - River Kwai
-Je verblijft aan de bekende River Kwai in een unieke accommodatie, namelijk op drijvende vlotten. In de omgeving zijn genoeg leuke activiteiten te ondernemen zoals een bezoek aan het naastgelegen Erawan National Park. De medewerkers van Boutique Raft verzorgen dagelijks de lunch voor schoolkinderen van de Ban Khao Pung.
-In veel van onze reizen hebben we Puur Sawadee-projecten en -accommodaties opgenomen. Puur Sawadee laat zien waar Sawadee voor staat: reizen op een manier die zowel onze reizigers als onze bestemmingen verrijkt. Via Puur Sawadee komen reizigers in contact met bewoners, bezoeken zij lokale initiatieven en krijgen zij een uniek inkijkje in het dagelijks leven op hun bestemming. Zo ontstaan betekenisvolle ontmoetingen en komen authentieke ervaringen tot stand die verder gaan dan de bekende highlights en bijdragen aan een beter begrip van de plek, de cultuur en de mensen die er wonen.
-Wifi
-Eigen badkamer
-Zwembad
-.st0 {
-fill: #fff;
-}
-Puur Sawadee
-Nachttrein naar Chiang Mai - Thailand
-De nachttrein is een comfortabele en snelle manier van reizen. Alle bedden worden netjes met schone lakens opgemaakt en voor elk afzonderlijk bed kan een gordijntje geschoven worden. Zo heb je genoeg privacy. De coupés beschikken over airconditioning. Voor je het weet ben je bij de volgende bestemming, ideaal!
-Decharme Hotel - Chiang Mai
-Centraal in Chiang Mai vind je het Decharme Hotel, gelegen vlakbij de oude tempels van de stad. Deze accommodatie is ingericht in een mooie mix van historisch en moderne stijl. De kamers beschikken over airconditioning, gratis wifi en een eigen badkamer. Liefhebbers van een goed boek kunnen zich uitleven in de bibliotheek van het hotel. Ook is er een fitnessruimte en buitenzwembad aanwezig.
-Wifi
-Eigen badkamer
-Zwembad
-Sai Kaew Beach Resort - Ko Samet
-Sai Kaew Beach Resort beschikt over huisjes en moderne kamers met uitzicht op zee of op de tuin. Elke kamer is voorzien van een televisie, een waterkoker en een koelkast. Verder beschikt het hotel over drie buitenzwembaden en twee restaurants.
-Wifi
-Eigen badkamer
-Zwembad
-4-sterren
-The Cottage Suvarnabhumi - Bangkok
-Je verblijft in een comfortabel hotel in de buurt van de luchthaven van Bangkok. Er is een zwembad aanwezig voor de nodige verkoeling. Daarnaast kun je in het restaurant hapjes en drankjes nuttigen. De kamers zijn van alle gemakken voorzien en zorgen voor een goede nachtrust.
-Wifi
-Eigen badkamer
-Zwembad
-Accommodatie algemeen
-Tijdens de hele reis wordt overnacht in comfortabele hotels met zwembad.
-Kamerindeling en éénpersoonskamer
-1 persoonAls je alleen op reis gaat hoef je geen eenpersoonskamertoeslag te betalen. Dan deel je de kamer (of tent indien van toepassing) met iemand van hetzelfde geslacht, zoals vermeld op paspoort*. Wanneer je kiest voor een kamer op indeling wordt er gedurende de reis steeds gerouleerd.
-Wanneer je liever een eigen kamer hebt, dan kun je een eenpersoonskamer boeken vanaf € 365,00.
-2 personenAls je met z'n tweeën op reis gaat, deel je samen een kamer (of tent). Je kunt kiezen tussen een 'twin' of een 'double'. Een twin-kamer heeft twee aparte bedden; een double heeft een tweepersoonsbed. Sommige hotels hebben alleen maar twin-kamers en soms zijn alle doubles al vergeven waardoor je toch twee aparte bedden hebt.
-3 personenAls je met z’n drieën op reis gaat, kun je in veel gevallen een driepersoonskamer boeken. Dit houdt in de meeste gevallen in dat er een extra bed in een gewone tweepersoonskamer wordt bijgeplaatst. Voor gezinnen met oudere kinderen raden wij dit af. Als je met zijn drieën reis, maar je wilt geen driepersoonskamer boeken, dan kun je vanaf € 365,00 een eenpersoonskamer bijboeken. We proberen er dan voor te zorgen dat de geboekte kamers zo veel mogelijk bij elkaar in de buurt liggen. Tijdens reizen met tentovernachtingen, is het niet mogelijk een driepersoonstent te boeken.
-4 personenAls je met meer dan 3 personen op reis gaat, dan proberen wij om twee kamers naast elkaar te boeken. We kunnen dit echter niet garanderen.
-*Wij realiseren ons dat dat het geslacht zoals vermeld in paspoort, niet per definitie overeen hoeft te komen met hoe iemand zich identificeert. Misschien ben je transgender, in transitie of staat er een X in je paspoort. Geldt dit voor jou? Neem dan gerust contact met ons op, we denken graag met je mee.
-Bij het maken van de boeking kun je opgeven wat voor kamerindeling je wenst. Bij het boeken van een kamer op indeling, wordt van je verwacht dat je rekening houdt met je kamergenoot. Denk je dat jouw kamergenoot last van je gaat ondervinden omdat je snurkt, laat opblijft of vaak midden in de nacht op moet staan? Dan boek je te allen tijde een eenpersoonskamer. Boek je toch op indeling, maar blijkt tijdens de reis dat jouw kamergenoot overlast ervaart? Dan vragen we je waar mogelijk ter plekke alsnog je eigen kamer te boeken. De kosten die hieruit voortvloeien zijn in beginsel voor jouw rekening, of kunnen in sommige gevallen in goed overleg met je kamergenoot gedeeld worden, en dienen ter plekke te worden voldaan.
-Vervoer ter plaatse
-Van Ayutthaya naar Chiang Mai maken we gebruik van een nachttrein, waarin we couchettes hebben. Alle bedden worden netjes met schone lakens opgemaakt en voor elk afzonderlijk bed kan een gordijntje geschoven worden. Tijdens de andere verplaatsingen beschikken we over eigen (mini)busjes. Voor de transfer naar Ko Samet maken we gebruik van een boot.
-Vervoer - Bus
-Minivan/bus Thailand
-Er wordt veelal gebruik gemaakt van één of meerdere 9 tot 10 persoons minivans. Bij grotere groepen wordt er een grote bus ingezet tenzij de weg niet geschikt is voor een grote bus. Houdt er rekening mee dat het uiterlijk van de bus kan afwijken van de foto's.
-
-#Praktische informatie
-Praktische informatie
-Financiën
-De munteenheid van Thailand is de Thaise Baht. Voor de actuele wisselkoers verwijzen we naar Oanda.
-Het is niet raadzaam veel contant geld mee te nemen, want dat brengt onnodige risico's met zich mee. In Thailand zijn er volop pinautomaten aanwezig. In alle grote plaatsen is het mogelijk om met je pinpas (met Maestro- of Cirrussymbool) geld te pinnen.
-We raden aan om het grootste deel van het geld ter plekke te pinnen en een 1/3 deel in contante Euro’s mee te nemen. Bij aankomst in Bangkok kun je direct op de luchthaven geld wisselen of pinnen.
-Een overzicht van beschikbare pinautomaten en plekken waar je met creditcard kunt betalen vind je op deze pagina van Mastercard. In het buitenland is voor het gebruik van een creditcard altijd een pincode nodig.
-Steeds meer banken vervangen Maestro- en V PAY-passen door passen met Debit Mastercard of Visa Debit. Oudere Maestro- en V PAY-passen worden buiten Europa steeds minder geaccepteerd en hierdoor kan het dus voorkomen dat geld opnemen niet mogelijk is, ook als je pas is ingesteld voor gebruik buiten Europa. Controleer daarom vóór vertrek welk logo op je betaalpas staat en informeer bij je bank of je pas op je bestemming bruikbaar is én is ingesteld voor gebruik buiten Europa. Vraag indien nodig een nieuwe betaalpas aan.
-Neem tijdens je reis bij voorkeur meerdere betaalmiddelen mee, bijvoorbeeld naast je betaalpas een creditcard en/of tweede betaalpas. Zo ben je minder afhankelijk van één betaalmiddel en beter voorbereid op verlies, misbruik of beperkte acceptatie.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 250 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 280,-
-Fooien	€ 60,-
-Optionele excursies en optionele entreegelden (vooraf te boeken of ter plaatse te betalen)	€ 170,-
-- Fietstocht Bangkok	€ 54,-
-- Erawan Watervallen en Hellfire Pass	€ 50,-
-- Tweedaagse trekking Chiang Mai - Karen Village	€ 110,-
-- Chang Chill olifantenopvang	€ 58,-
-- Kookcursus Chiang Mai	€ 40,-
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.
-Beste reistijd
-Thailand heeft een tropisch klimaat wat betekent dat het gedurende het hele jaar warm tot heet is. Overdag kan de temperatuur oplopen tot 30 °C, 's avonds koelt het iets af. In de regentijd voelt de warmte nogal drukkend aan. In het heuvelachtige noorden kan het tijdens de droge tijd 's nachts fris zijn, vooral in december/ januari.
-Regentijd
-Tijdens de regentijd rond de maanden mei tot oktober is het reizen zwaarder, maar wel goed mogelijk. Het regent zelden de hele dag. Meestal betreft het een enorme bui die een uur of twee duurt (voornamelijk in de namiddag of 's avonds/'s nachts). Natuurlijk kan het ook weleens een dagje regenen, daarentegen kan het ook een week droog blijven. Vlak vóór de regentijd, van eind maart tot en met mei, is het flink warm.
-Beste reistijd: van oktober tot en met maart, als het weinig regent en de dagtemperaturen aangenaam zijn (25-30°C). Ook in de overige maanden is Thailand echter prima te bereizen. Het regent zelden de hele dag en de natuur is extra groen en fris.
-Wat neem ik mee op reis?
-Bagagekeuze
-Ter plaatse maakt het vervoer vaak deel uit van het avontuur. Reizen per (privé) bus, truck, boot, trein, terreinwagen; tijdens een Sawadee reis kan het allemaal! Omdat de bagageruimte in deze vervoermiddelen vaak beperkt is, raden we je af om een harde koffer mee te nemen. Het beste kun je kiezen voor een flexibele rugzak, sporttas of zachte koffer. Kijk daarnaast ook eens kritisch naar wat je echt nodig hebt op reis, de ervaring leert dat je al snel te veel meeneemt. Omdat je zelf verantwoordelijk bent voor het dragen van je bagage naar de accommodatie, geldt in dit geval: less is more!
-Luchtvaartmaatschappijen staan meestal 1 stuk ruimbagage van maximaal 20 kilo toe. Voor binnenlandse vluchten hanteren sommige luchtvaartmaatschappijen een lagere bagagelimiet. Dit staat dan vermeld in het tabblad 'vluchtinfo', onder het kopje vluchtinformatie. Wij adviseren om onmisbare spullen, zoals bijvoorbeeld medicatie en wandelschoenen, aan te trekken of in je handbagage te stoppen.
-Kleding
-In Thailand is het vrij warm. Lichte, luchtige, ruimvallende kleding (katoen, viscose) draagt koel en is snel droog na het wassen. In december kan het ’s avonds en ’s nachts koud zijn. Dan is een warme trui/jas en een warmere lange broek nodig. Goedkope en gemakkelijke reiskleding is in Bangkok en Chiang Mai te koop. Je kunt onderweg je kleren (laten) wassen. Tip: koop een sarong, die je als sjaal, (strand)laken of badjas kunt gebruiken.
-Als je deelneemt aan de optionele 2-daagse trekking vanuit Chiang Mai laat je je bagage achter in Chiang Mai en neem je alleen mee wat je nodig hebt voor twee dagen.
-Wat je écht nodig hebt:
-kleine tas/ rugzak voor je dagelijkse uitstapjes en voor in de bus
-zonnebril / hoofddeksel
-zwemkleding
-handdoek
-tas voor kleine aankopen (scheelt plastic afval)
-eventueel wandelschoenen (ingelopen) met goed profiel en steun aan de enkels
-lichte schoenen, sandalen en/of slippers
-in de maanden nov-febr: warme trui, fleece, jack en een warmere lange broek
-regenjas/poncho in de zomer (ook in Thailand te koop)
-hervulbare drinkfles (scheelt plastic afval)
-DEET (tegen de muggen)
-Fotografie, video en opladen
-Voor het opladen van je elektrische apparaten tijdens de reis heb je de juiste stekker nodig. Het is handig om van te voren te controleren of een wereldstekker noodzakelijk is. Een overzicht van de type stopcontacten van elk land vind je via deze link.
-Roken / elektronische sigaretten
-In Thailand geldt een rookverbod op verschillende populaire Thaise stranden. Wanneer je toch een sigaret opsteekt riskeer je een forse boete van 100.000 Thaise baht (€ 2500) of zelfs een celstraf. Daarnaast is de invoer van elektronische sigaretten en vullingen strafbaar in Thailand.
-Een drone mee op reis?
-Drones worden een steeds populairder hulpmiddel om foto’s of video-opnamen te maken. Het is echter lang niet altijd toegestaan deze te gebruiken. Mocht je overwegen een drone mee te nemen, dan raden we je ten zeerste aan je goed te verdiepen in de lokale wet- en regelgeving omtrent het gebruik ervan. Daarnaast is het van belang dat je je verdiept in de regels van de luchtvaartmaatschappij waarmee je vliegt, naar/van de bestemming en eventuele binnenlandse vluchten. Niet alle maatschappijen hanteren dezelfde regels voor het meenemen van een drone. Je kunt verplicht worden deze in je ruimbagage te doen of juist als handbagage mee te nemen.
-Graag willen we het volgende benadrukken:
-Het eventueel meenemen en gebruiken van een drone is geheel op eigen verantwoordelijkheid en risico.
-Twijfel je over de regels omtrent het gebruik van een drone, neem deze dan niet mee op reis.
-Houd er rekening mee dat het ongeoorloofd gebruik van een drone zwaar gestraft kan worden.
-Neem je toch een drone mee, gebruik deze dan op momenten dat je de tijdsplanning / voortgang van de groepsreis niet belemmert.
-In ‘gevoelige gebieden’, bijvoorbeeld gebieden met militaire activiteiten, kunnen afwijkende regels gelden.
-Lees op de website Droneopreis.nl meer over de regels bij het meenemen van een drone naar jouw reisbestemming.
-Visuminformatie
-Bij aankomst in Thailand krijg je een stempel in je paspoort waarmee je maximaal 60 dagen in het land kunt verblijven.
-Vanaf 1 mei 2025 moet iedere reiziger die naar Thailand reist verplicht een Thailand Digital Arrival Card (TDAC) aanvragen. Dit kan via de officiële website: https://tdac.immigration.go.th.
-Let op: je kunt de aanvraag pas drie dagen voor aankomst in Thailand starten. Je ontvangt per e-mail een bevestiging, die je bij aankomst moet laten zien aan de immigratiedienst. Aan de aanvraag zijn geen kosten verbonden.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken.
-Deze richtlijnen gelden voor reizigers met de Nederlandse of Belgische nationaliteit. Reizigers met een andere nationaliteit dienen zelf contact op te nemen met de ambassade, Visumcentrale-Nederland of Visumcentrale-België.
-Paspoortinformatie
-Je hebt een paspoort nodig dat nog minimaal zes maanden geldig is op het moment van aankomst in Thailand.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken. Hou er rekening mee dat bij sommige beroepen (o.a. @media en/of krijgsmacht) soms een andere dan de reguliere visumprocedure moet worden gevolgd.
-Let op: Controleer bij een overstap altijd de paspoorteisen van het land waar je overstapt. Ook wanneer je slechts op doorreis bent, kunnen er specifieke eisen gelden voor de minimale geldigheidsduur van je paspoort.
-Indien je paspoort niet lang genoeg geldig is voor deze reis, vraag dan tijdig een nieuw paspoort aan, zodat je de paspoortgegevens uiterlijk 8 weken voor vertrek aan ons kunt doorgeven. Worden de paspoortgegevens na deze termijn aan ons doorgegeven, dan kan dit (financiële) gevolgen hebben voor de reeds geboekte reisonderdelen. Neem in dat geval voor de zekerheid ook je oude paspoort mee op reis.
-Voor reizigers met een andere dan de Nederlandse of Belgische nationaliteit kunnen afwijkende visumvoorwaarden van toepassing zijn, anders dan in onze reisbeschrijving vermeld. Indien door de desbetreffende Ambassade en/of Consulaat om persoonlijke redenen geen visum aan jou wordt toegekend, kan Sawadee Reizen niet aansprakelijk worden gesteld. Conform de ANVR-Reizigersvoorwaarden (Boekingsvoorwaarden) 2019 art. 6.4 komen onkosten voor het niet (geheel) kunnen maken van de reis vanwege het ontbreken van geldige (reis)documenten voor rekening van de reiziger. Wel kun je het risico op het buiten je schuld om niet krijgen van een visum bij sommige verzekeraars laten afdekken.
-Verder dienen alleenreizende ouders en ouders met een andere achternaam dan hun (minderjarige = t/m 17 jaar) kind bij reizen buiten het Schengen-gebied te kunnen aantonen dat zij het ouderlijk gezag hebben over het meereizende kind. Denk hierbij bijvoorbeeld aan (advies Rijksoverheid en Koninklijke Marechaussee): Verklaring toestemming vakantie en kopie paspoort andere (niet-meereizende) ouder, recent uittreksel BRP kind, eventueel uitspraak met betrekking tot gezag en omgang/ouderschapsplan/geboorteakte kind. Zorg dus dat je op tijd over de juiste papieren beschikt. De Koninklijke Mareschaussee heeft extra controles aangekondigd voor deze zomer. Voor overige informatie kun je terecht op de website van de Rijksoverheid en Koninklijke Marechaussee. Voor reizigers met de Belgische nationaliteit verwijzen wij graag naar Buitenlandse Zaken.
-Let op: De letter ‘O’ komt in het Nederlandse paspoortnummer niet voor. Het gaat dus altijd om het cijfer ‘0’. Dit geldt ook voor het nummer op een identiteitskaart.
-Gezond en veilig op reis
-Medicijnen
-We raden je aan om een bescheiden reisapotheek mee te nemen. Denk hierbij o.a. aan pijnstillers, desinfecterende middelen, zonnebrand, (blaren)pleisters, middelen tegen koorts, diarree, verstopping, insectenbeten en reisziekte. Daarnaast zijn een tekentang en ORS (Oral Rehydration Salts, tegen uitdroging) aan te raden. Onze reisbegeleiders hebben zelf ook een beperkte EHBO-kit mee. Gebruik je speciale medicijnen(bijv. medicijnen die onder de opiumwet vallen en/of grote hoeveelheden), neem dan voldoende mee en vraag je apotheek om een KNMP-reisdocument voor je op te stellen. Houd dit document in je handbagage.
-Thailand stelt geen vaccinaties verplicht.
-Vaccinaties
-Buiktyfus
-Dengue (knokkelkoorts)
-DTP (difterie, tetanus, polio)
-Hepatitis A
-Rabiës
-Thuisvaccinatie.nl
-Sawadee werkt samen met Thuisvaccinatie.nl. Dit is een landelijk werkend vaccinatiecentrum. Zij vaccineert aan huis of op locatie en geeft je advies over het gebruik van malariaprofylaxe. Gecertificeerde medewerkers komen bij je langs wanneer het jou uitkomt, zelfs in de avonduren. Dus geen reis- en wachttijd! De tarieven liggen op het niveau van of zelfs lager dan die van de GGD of huisarts. Klik hier voor meer informatie over Thuisvaccinatie, zoals de voordelen, de werkwijze, en het maken van een afspraak.
-Check je reisverzekering!
-De kosten van medische verzorging in het buitenland of een onverwachte vlucht naar huis kunnen enorm oplopen. Wie goed verzekerd op reis gaat voorkomt hoge kosten. Daarom stellen we een individuele reisverzekering verplicht. Meer informatie over het Sawadee Verzekeringspakket i.s.m. Ik kies zelf van a.s.r. vind je hier.
-Veiligheid en reisadvies en entreevoorwaardenDe veiligheid van klanten en personeel staat bij Sawadee altijd op de eerste plaats. Via onze contacten met agenten en lokale autoriteiten volgen wij de veiligheidssituatie op al onze bestemmingen doorlopend. Daarnaast is het belangrijk om te weten wat de entreevoorwaarden zijn voor jouw bestemming. Als Nederlandse reisorganisatie baseert Sawadee haar adviezen op die van de Nederlandse overheid. Belgische reizigers raden we aan ook de adviezen van de Belgische overheid te raadplegen. Afwijkende adviezen kunnen effect hebben op de reisverzekering. Check altijd de voorwaarden van je eigen reisverzekering.
-Voor Nederlandse reizigers: Check deze pagina voor meer informatie
-Voor Belgische reizigers: Check deze pagina voor meer informatie
-Let op: reisadviezen en entreevoorwaarden worden altijd gebaseerd op het land van vertrek. Vlieg je vanuit Nederland maar heb je de Belgische nationaliteit, dan zijn de Nederlandse reisadviezen van toepassing. Mochten er entreevoorwaarden zijn om van België naar Nederland te reizen, neem dan even contact met ons op.
-Moeilijker bereikbare gebieden en trekking op grote hoogte Een aantal van onze reizen gaat (deels) door meer afgelegen gebieden. Dit heeft tot gevolg dat wanneer er (medische) hulp ingeroepen moet worden, dit langer kan duren dan we in Nederland gewend zijn. Ook kan de standaard van de mogelijk te bieden zorg lager liggen dan gewend. Neem dit risico in overweging alvorens deze reis te maken. Ga je tijdens de reis een meerdaagse trekking maken op (grote) hoogte? Check dan de maximale hoogte die je bereikt en of jouw reisverzekering een repatriëring op die hoogte dekt, bijvoorbeeld een helikopter redding boven de 4.000 meter.
-Risicovolle activiteitenSawadee organiseert avontuurlijke actieve rondreizen. Voor sommige reizigers bestaat het avontuur uit activiteiten zoals raften, kajakken, zip-linen, sandboarden, ballonvaren, mountainbiken of snorkelen. Waar wij dit soort activiteiten (optioneel) aanbieden hebben wij uiterste zorg betracht in het vinden van betrouwbare partners met een hoge standaard voor veiligheid. Echter, zelfs met goede voorzorgsmaatregelen en goede partners blijven dit risicovolle en onvoorspelbare activiteiten.
-Wanneer wij op bepaalde bestemmingen deze activiteiten niet aanbieden is dat met een goede reden. Besluit je zelf toch zo'n activiteit te ondernemen, dan is dat op eigen risico. Informeer te alle tijden of je reisverzekering dekking biedt voor deze activiteiten.
-Veiligheid op de wegDe staat van het wegennet en het weggedrag van de overige weggebruikers is van mindere kwaliteit en minder voorspelbaar dan in Nederland. Dit brengt enig risico met zich mee. Wij maken gebruiken van uitvoerig gekeurde voertuigen en getrainde en ervaren chauffeurs. De chauffeurs en de lokale partners voldoen aan de door ons gestelde criteria en worden met regelmaat getoetst om de risico's te minimaliseren. Tijdens de rit is het dragen van veiligheidsgordels verplicht.
-Fietsen in het buitenlandTijdens enkele van onze reizen bieden wij de mogelijkheid van een fietstocht of fietsverhuur aan. Hoewel wij Nederlanders natuurlijk zeer ervaren fietsers zijn dien je er rekening mee te houden dat de wegen en de medeweggebruikers in het buitenland minder berekend zijn op fietsers. Houd je aan de aanwijzingen en voorschriften van de reisbegeleiding, wees extra alert en rijd defensief.
-Zwemmen in open waterTijdens veel van onze reizen heb je verschillende mogelijkheden om een verfrissende duik te nemen of te zwemmen in een meer, rivier of de zee. Omdat je zwemt in onbekend gebied dien je de nodige voorzorgsmaatregelen te nemen. Voordat je besluit om ergens te gaan zwemmen raden wij je aan om altijd de reisleider te raadplegen in verband met bijvoorbeeld sterkte stromingen die we in Nederland niet gewend zijn. Kijk ook altijd of er veiligheidsinformatie wordt gegeven in de vorm van bijvoorbeeld waarschuwingsvlaggen. Wees op de hoogte van je omgeving en zwem niet alleen of ’s nachts.
-Malaria virusDe GGD, je huisarts of Thuisvaccinatie.nl kan precies vertellen of en welke profylaxe nodig is. Verder is het belangrijk om tussen zonsondergang en zonsopgang muggensteken te voorkomen. Raadzaam is om voor de schemering valt je in te smeren met muggenmelk met 30-50% DEET. 's Avonds is het aan te bevelen om bedekte kleding te dragen (lange mouwen, lange broek, sokken, dichte schoenen).
-Maaltijden
-Tijdens deze reis zijn de volgende maaltijden inclusief:
-12x ontbijt
-De overige maaltijden zijn niet bij de reissom inbegrepen. Dit is een bewuste keus omdat we de vrijheid van het individueel reizen willen combineren met het gemak van een groepsreis.
-Eten en drinken
-Thailand beschikt over een uitstekende en gevarieerde keuken, zij het naar westerse smaak pikant en soms zelfs zeer scherp gekruid. Als het eten te heet is, neem dan wat droge rijst of een hapje suiker. Ter introductie geeft een lunchbuffet, dat vaak in hotels wordt gehouden, je een uitstekende indruk van de Thaise en Chinese keuken. Eten in hotels is, ook al ben je er geen gast, een normale zaak. Vanzelfsprekend liggen de prijzen hier hoger dan in lokale restaurants en bij eetkraampjes. Menukaarten zijn in het algemeen in het Thais en Engels. Het eten van kraampjes op straat is goedkoop en vaak heel lekker. Het aardige hierbij is dat je de gerechten kunt aanwijzen. Eet vlees en kip altijd goed doorbakken (soek soek) en eet geen rauwe vis of schaal- en schelpdieren.
-Leidingwater, sterk gechloreerd, is als drinkwater niet te drinken. Mineraalwater is overal te koop. Drink alleen water uit flessen waar een sluitende kroon- of draaidop op zit. Koffie wordt meestal van instant-poeder gemaakt. Bijna overal is frisdrank en vers vruchtensap te koop. De prijzen van alcoholische dranken zijn relatief hoog, zeker in nachtclubs, hotels, disco's en pubs. Goedkoper zijn de lokale Seang Som rum en Mekong-whisky, die meestal met cola en ijs worden gedronken. Het lokale bier is van goede kwaliteit en niet duur.
-Deskundige reisbegeleiding
-Deze Thailand Hoogtepunten reis wordt begeleid door een Nederlandstalige reisbegeleid(st)er of een lokale Engelstalige reisbegeleid(st)er.
-Onze reisbegeleiders zijn stuk voor stuk professioneel en gepassioneerd en hebben een intensieve, door Sawadee ontwikkelde training gevolgd. De reisbegeleiders zorgen ervoor dat de reis zo optimaal mogelijk verloopt en zijn je eerste aanspreekpunt bij vragen of opmerkingen. Zij geven je graag tips over mogelijke excursies, mooie plekjes en leuke restaurants. Onze reisbegeleiders beantwoorden graag al je vragen, maar neem zelf ook een goede reisgids mee. De reisbegeleider verwelkomt je op de bestemming bij aankomst op de luchthaven.
-Boek je een reis met een Nederlandse reisbegeleider? Dan gaat er naast je reisbegeleider ook een lokale Thaise gids mee gedurende de reis. Dit is in Thailand namelijk verplicht maar tevens ook nog eens ontzettend handig. Hij/zij spreekt de taal en kan je veel vertellen over het land en zijn cultuur. Je Nederlandse reisbegeleider heeft echter de eindverantwoordelijkheid voor de uitvoering van de reis en blijft te allen tijde je eerste aanspreekpunt voor wat betreft planning, programma en organisatorische zaken.
-Contact tijdens de reis
-Tijdsverschil
-Het tijdsverschil met Thailand is 6 uur (tijdens de zomertijd 5 uur).
-Contact met het thuisfront
-Bellen vanuit Thailand kan bij de verschillende telecomkantoortjes. Mobiel bellen is in Thailand in de steden overal mogelijk. Informeer voor vertrek bij je provider of mobiele telefonie met je bestaande abonnement en telefoontoestel mogelijk is. Internet cafés zijn overal in Thailand te vinden. E-mail is de goedkoopste manier om met het thuisfront te communiceren. Post vanuit Thailand doet er normaal gesproken zo'n twee weken over.
-Noodgevallen en calamiteiten
-Zorg ervoor dat thuisblijvers altijd op de hoogte zijn van zowel je reisschema als je vluchtgegevens. Actuele vluchttijden zijn te vinden op de website of in de app van de betreffende luchthaven. De apps zijn meestal gratis te downloaden in de app stores. Bijvoorbeeld:
-Amsterdam Schiphol Airport - schiphol.nl / Schiphol Amsterdam Airport app
-Brussels Airport - brusselsairport.be/nl / Brussels Airport App
-Rotterdam The Hague Airport - rotterdamthehagueairport.nl
-Eindhoven Airport - eindhovenairport.nl
-We sturen geen lijst van de hotels waar we tijdens de reis verblijven omdat deze nog wel eens wisselen en de kamers vaak onder een andere naam geboekt zijn. In geval van nood zijn we voor zowel reizigers als thuisblijvers 24 uur per dag bereikbaar. Bel daarom niet met het hotel maar met Sawadee. Tijdens kantooruren kun je ons bellen op +31 20 420 2220. Buiten kantooruren word je doorgeschakeld met onze alarmdienst of kun je direct ons noodnummer bellen: +31 20 651 6035.
-Tip: maak een digitaal dossier aan. Scan je paspoort, visa, e-tickets en andere belangrijke bescheiden en mail deze naar jezelf. Zo heb je, ingeval van diefstal of verlies tijdens de reis, altijd kopieën van je belangrijke papieren achter de hand.
-Taal en cultuur
-In Thailand is de officiële taal Thai. In de steden kun je goed terecht met Engels. In de handel wordt verder veel Chinees gesproken. Het is een ware sport om enkele Thaise sleutelwoorden onder de knie te krijgen, want een woord kan met vijf verschillende intonaties ook vijf verschillende betekenissen hebben. Er zijn kleine woordenboekjes te koop.
-In samenwerking met onze reisbegeleiders hebben we een taalgidsje Thai samengesteld. Deze kun je hier uitprinten en meenemen / gebruiken tijdens je reis: Taalgids Familieavontuur: Thai.
-Park Sleep Fly
-Natuurlijk komen er bij het maken van een reis ook wat voorbereidingen kijken. Wil jij verzekerd zijn van een zorgeloos begin van je reis? Goed nieuws, want via Sawadee kun je extra voordelig een Park Sleep Fly arrangement boeken bij Hotel ibis Schiphol Amsterdam Airport. Rijd de dag voor vertrek in alle rust naar het hotel, gelegen vlak bij luchthaven Schiphol, en parkeer maximaal 21 dagen kosteloos je auto (voor de prijs van 15 dagen). Check vervolgens in voor je overnachting en pak de volgende dag heerlijk uitgerust de gratis shuttlebus, die van 3:45 tot 00:40 uur rijdt, naar de vertrekhal. Dit arrangement is met name een uitkomst bij een vroege heenvlucht of late terugvlucht.
-Bekijk deze pagina voor meer informatie en de voorwaarden.
-Onze impact
-Toerisme is één van de grootste industrieën ter wereld, met een enorm potentieel voor economische groei en werkgelegenheid. Als ervaren reisorganisatie zien we echter ook dat reizen impact heeft op het klimaat en op de sociale en natuurlijke leefomgeving van de bestemmingen die we bezoeken. Daarom zetten we ons in om met onze reizen een positieve impact achter te laten voor mens, natuur en cultuur, en onze negatieve impact waar mogelijk te verkleinen. Zo willen we bijdragen aan het behoud van de bijzondere plekken en ontmoetingen die onze reizen zo waardevol maken. Daarbij hebben we respect voor lokale gebruiken en culturele codes, en vragen we onze reizigers hetzelfde te doen. Zo zijn we bijvoorbeeld lid van The Code: de gedragscode voor het beschermen van kinderen tegen seksuele uitbuiting. Het kan voorkomen dat je op reis geconfronteerd wordt met signalen van kindermisbruik. Meld deze vermoedens altijd bij je reisbegeleider en via www.dontlookaway.nl.
-Wil je weten hoe jij, naast het meenemen van een hervulbare drinkfles, kunt bijdragen aan een positieve reisimpact? Bekijk hier onze 15 tips om de positieve impact van je reis te vergroten.
-Helaas worden in Thailand op veel plekken nog activiteiten aangeboden waar olifanten worden gewassen, gevoerd of gereden. Olifanten zijn echter wilde dieren en worden jarenlang mishandeld voordat zij mensen zonder problemen dichtbij zich laten komen. Omdat deze activiteiten erg slecht zijn voor de dieren worden deze niet aangeboden door Sawadee. Afhankelijk van de reisroute zijn er verschillende plekken om olifanten te bewonderen. In de buurt van Chiang Mai heb je de mogelijkheid om de olifantenopvang Chang Chill of het olifantenziekenhuis in Lampang te bezoeken. Meer lezen? Hier lees je ons dierenwelzijnsbeleid: https://www.sawadee.nl/onze-impact/ons-beleid/
-
-#Beste reistijd
-Thailand heeft een tropisch klimaat wat betekent dat het gedurende het hele jaar warm tot heet is. Overdag kan de temperatuur oplopen tot 30 °C, 's avonds koelt het iets af. In de regentijd voelt de warmte nogal drukkend aan. In het heuvelachtige noorden kan het tijdens de droge tijd 's nachts fris zijn, vooral in december/ januari.
-Regentijd
-Tijdens de regentijd rond de maanden mei tot oktober is het reizen zwaarder, maar wel goed mogelijk. Het regent zelden de hele dag. Meestal betreft het een enorme bui die een uur of twee duurt (voornamelijk in de namiddag of 's avonds/'s nachts). Natuurlijk kan het ook weleens een dagje regenen, daarentegen kan het ook een week droog blijven. Vlak vóór de regentijd, van eind maart tot en met mei, is het flink warm.
-Beste reistijd: van oktober tot en met maart, als het weinig regent en de dagtemperaturen aangenaam zijn (25-30°C). Ook in de overige maanden is Thailand echter prima te bereizen. Het regent zelden de hele dag en de natuur is extra groen en fris.
-
-#Inbegrepen in de reissom
-Wat is inbegrepen in de reissom?
-Internationale vluchten incl. (ruim)bagage, luchthavenbelastingen en brandstoftoeslag op moment van boeking
-Vervoer en overnachtingen volgens programma
-Specifiek voor deze reis:
-Nederlandstalige reisbegeleiding of lokale Engelssprekende reisbegeleiding
-Bezoek aan Lao Tak Lak drijvende markt
-Bezoek aan het Nang Yai Wat Khanon National Museum
-Bezoek aan Wat Tham Suea
-Overnachtingen op een drijvend hotel op de River Kwai
-bezoek aan Wat Niwet Thammaprawat
-Bezoek aan de oude stad Ayutthaya
-Nachttrein van Ayutthaya naar Chiang Mai
-Tijdbesparende binnenlandse vlucht Chiang Mai - Bangkok
-Boot naar Ko Samet v.v.
-Entreegeld Ko Samet National Park
-Taalgidsje Thai voor kinderen (te downloaden bij het kopje 'Taal')
-12x ontbijt
-Landarrangement
-Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.363 tot € 1.703.
-Het landarrangement begint en eindigt in Bangkok.
-NB: een eventuele extra overnachting nabij Bangkok Airport, die onderdeel kan zijn van het programma rondom de door ons georganiseerde groepsvluchten, is niet inbegrepen bij het landarrangement.
-
-#Bijkomende kosten
-Bijkomende kosten vooraf
-Boekingskosten:
-1 persoon: € 25,-
-2 personen: € 40,-
-3 of meer deelnemers: € 50,-
-Bijdrage SGR (per persoon): €5,-
-Bijdrage Calamiteitenfonds (per factuur): € 2,50 
-Reis- en/of annuleringsverzekering (indien van toepassing)
-(Optionele) eenpersoonskamer
-Wanneer je liever een eigen kamer hebt, dan kun je voor deze reis een eenpersoonskamer boeken vanaf € 365,00.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 250 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 280,-
-Fooien	€ 60,-
-Optionele excursies en optionele entreegelden (vooraf te boeken of ter plaatse te betalen)	€ 170,-
-- Fietstocht Bangkok	€ 54,-
-- Erawan Watervallen en Hellfire Pass	€ 50,-
-- Tweedaagse trekking Chiang Mai - Karen Village	€ 110,-
-- Chang Chill olifantenopvang	€ 58,-
-- Kookcursus Chiang Mai	€ 40,-
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.]]></get-trip-scraped-content>
+    <get-trip-scraped-content>Unknown</get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-23280</get-trip-id>
@@ -42503,7 +41553,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Thailand</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>2.599</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.499</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/groepsrondreizen/azie/thailand/thn-rondreis-thailand/</get-trip-url>
@@ -51653,7 +50703,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>22-35ers reis Marokko</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>1.849</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>1.899</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Marokko</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/22-35ersreizen/midden-oosten-en-noord-afrika/marokko/jrmrh-groepsrondreis-marokko-22-35/</get-trip-url>
@@ -60465,7 +59515,7 @@ Game drive in het onbekende en spectaculaire Tarangire NP
 10x ontbijt, 1x lunch en geen diner
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 3.198 tot € 3.623.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 3.198 tot € 3.523.
 Het landarrangement begint in Nairobi en eindigt in Dar es Salaam.
 
 #Bijkomende kosten
@@ -66366,7 +65416,7 @@ Lokale reisbegeleiding
 7x ontbijt, 1x lunch
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.154 tot € 1.230.
+De prijs van het landarrangement voor deze reis is € 1.154.
 Het landarrangement begint en eindigt in Athene.
 
 #Bijkomende kosten
@@ -70823,7 +69873,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Galapagoseilanden</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>7.529</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>7.559</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Ecuador</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/groepsrondreizen/midden-en-zuid-amerika/galapagos/gas-rondreis-galapagoseilanden/</get-trip-url>
@@ -71121,7 +70171,7 @@ Transitcard Galapagos
 9x ontbijt, 7x lunch, 7x diner
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 6.192 tot € 7.422.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 6.212 tot € 7.422.
 Het landarrangement begint in het hotel in Quito en eindigt in het hotel in Guayaquil.
 
 #Bijkomende kosten
@@ -75284,7 +74334,7 @@ Entrees duinen bij Nida en Angla windmolens op Saareema
 13x ontbijt
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.839 tot € 2.229.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.839 tot € 2.079.
 Het landarrangement begint in Tallinn en eindigt in Vilnius.
 
 #Bijkomende kosten
@@ -78866,7 +77916,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Ecuador &amp; Galapagos</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>4.339</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>4.399</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Ecuador</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/groepsrondreizen/midden-en-zuid-amerika/ecuador/ecg-rondreis-ecuador-galapagos/</get-trip-url>
