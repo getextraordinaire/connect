@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="asiadirect" partner="AsiaDirect" generated="2026-09-08T18:53:50.002Z" count="5">
+<trips feed="asiadirect" partner="AsiaDirect" generated="2026-09-08T19:50:30.894Z" count="5">
   <trip>
     <get-trip-id>GT-ASIADIRECT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -701,7 +701,7 @@ per persoon vanaf
 per persoon vanaf
 € 3.016
 ]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-temp-getaway image-size="900x600" image-weight="517475">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Self-drive-Weg-pas-op-voor-olifanten.jpg</get-trip-image-url-manual-temp-getaway>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="250484">https://images.panoramix.getaway.nl/media/default/0023/39/f5e13be0a0aaf340387f0a399455cfb18c914c9a.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
     <get-trip-id>GT-ASIADIRECT-00002</get-trip-id>
@@ -1468,7 +1468,7 @@ per persoon vanaf
 per persoon vanaf
 € 2.878
 ]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-temp-getaway image-size="900x599" image-weight="134052">https://www.asiadirect.nl/wp-content/uploads/2023/01/maleisie-taman-negara-makaken-apen-8.jpg</get-trip-image-url-manual-temp-getaway>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="148025">https://images.panoramix.getaway.nl/media/default/0023/39/42199379fce31120915a9673dc6059ea55060ea1.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
     <get-trip-id>GT-ASIADIRECT-00003</get-trip-id>
@@ -2147,7 +2147,7 @@ per persoon vanaf
 per persoon vanaf
 € 308
 ]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-temp-getaway image-size="900x600" image-weight="500267">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Perhintians-eilanden-Strand-met-houten-steiger.jpg</get-trip-image-url-manual-temp-getaway>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="259242">https://images.panoramix.getaway.nl/media/default/0023/39/e1256e3d1d956312b2603b1f8cbcf5cce3eaac8d.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Borneo-Neusaap-tussen-de-bladeren-450x300.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
@@ -2884,7 +2884,7 @@ Fietstour Kuala Lumpur
 per persoon vanaf
 € 71
 ]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-temp-getaway image-size="900x600" image-weight="349206">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Borneo-Neusaap.jpg</get-trip-image-url-manual-temp-getaway>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="438306">https://images.panoramix.getaway.nl/media/default/0023/39/d9c12914894c893cfcf97bbbce0bc276b7bfd64a.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
     <get-trip-id>GT-ASIADIRECT-00005</get-trip-id>
@@ -3662,7 +3662,7 @@ Vragen of advies nodig?
 Boek met garanties & Reis duurzamer
 18 dagen in het verrassende noordwesten van Borneo. Strand, tropisch regenwoud en bijzondere ontmoetingen met de lokale minderheden.
 Je zoekt iets speciaals. Een reis waarop je tropische regenwouden intrekt, spectaculaire grotten bezoekt, maar ook van het strand geniet. Je wilt een reis]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-temp-getaway image-size="900x600" image-weight="108080">https://www.asiadirect.nl/wp-content/uploads/2023/02/maleisie-sarawak-miri-tusan-beach-strand-52.jpg</get-trip-image-url-manual-temp-getaway>
+    <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="276291">https://images.panoramix.getaway.nl/media/default/0023/39/aa40e402af39c3bca038399c280db5b397fc3399.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Borneo-Neusaap-tussen-de-bladeren-450x300.jpg</get-trip-image-url-overview>
   </trip>
 </trips>
