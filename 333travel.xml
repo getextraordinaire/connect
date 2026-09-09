@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-08T03:00:35.885Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-09T03:00:37.883Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -2789,8 +2789,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Zuid-Thailand: Grand Tour</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>1.761</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.761</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.810</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.810</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.527</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
@@ -4905,8 +4905,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Thailand Highlights</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>1.341</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.341</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.348</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.348</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.049</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
@@ -6459,8 +6459,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Sri Lanka en Malediven</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.937</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.937</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.958</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.958</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.271</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Malediven</get-trip-country>
@@ -14358,7 +14358,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.065</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.065</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.066</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.000</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-en-lombok</get-trip-url>
@@ -15173,7 +15173,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.559</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.559</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.559</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.480</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-en-lombok-deluxe</get-trip-url>
@@ -15649,7 +15649,7 @@ Bij verschillende luchtvaartmaatschappijen geldt er een extra toeslag als je hee
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>489</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>489</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.489</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.404</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/hoogtepunten-van-bali</get-trip-url>
@@ -15793,7 +15793,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>865</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>865</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.865</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.810</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-gili-explorer</get-trip-url>
@@ -15995,7 +15995,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.292</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.292</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.292</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.270</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-en-komodo-national-park</get-trip-url>
@@ -16421,7 +16421,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.353</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.353</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.353</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.273</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-gili-explorer-deluxe</get-trip-url>
@@ -16915,7 +16915,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>900</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>900</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.900</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.847</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-gili-en-lombok</get-trip-url>
@@ -17079,7 +17079,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.157</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.157</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.157</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.105</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/romantisch-bali-gili-en-lombok</get-trip-url>
@@ -17466,7 +17466,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>1.126</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.126</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.128</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.027</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/familiereis-bali</get-trip-url>
@@ -17727,7 +17727,7 @@ P.p. vanaf:
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>410</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>410</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.411</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.346</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-in-2-weken</get-trip-url>
@@ -18095,7 +18095,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>858</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>858</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.858</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.808</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/islandhopping-pareltjes-rondom-bali</get-trip-url>
@@ -23992,8 +23992,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Discover Noord-India</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>1.311</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.311</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.435</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.435</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.185</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>India</get-trip-country>
@@ -24197,8 +24197,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>1.647</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.647</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.653</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.653</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.161</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24357,8 +24357,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>1.103</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.103</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.109</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.109</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>1.616</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24515,8 +24515,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>2.414</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.414</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.421</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.421</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.928</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24729,8 +24729,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>1.480</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.480</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.487</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.487</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>1.994</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24924,7 +24924,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>10</get-trip-duration>
     <get-trip-lowest-price-2p>1.705</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.705</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.625</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.649</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/oman-abu-dhabi-dubai</get-trip-url>
@@ -26207,7 +26207,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>2.279</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.279</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.280</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.228</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/bali-en-flores</get-trip-url>
@@ -26478,7 +26478,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.076</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.076</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.076</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.983</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/de-verborgen-plekjes-van-bali</get-trip-url>
@@ -26724,7 +26724,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>16</get-trip-duration>
     <get-trip-lowest-price-2p>1.269</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.269</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.269</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.169</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/de-natuur-van-bali</get-trip-url>
@@ -27769,8 +27769,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam in Stijl</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>3.558</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.558</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.563</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.563</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.614</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
@@ -38271,7 +38271,7 @@ P.p. vanaf:
     <get-trip-duration>22</get-trip-duration>
     <get-trip-lowest-price-2p>2.232</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.232</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.732</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.765</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
     <get-trip-country>Mauritius</get-trip-country>
@@ -45831,7 +45831,7 @@ P.p. vanaf:
     <get-trip-duration>18</get-trip-duration>
     <get-trip-lowest-price-2p>2.520</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.520</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.221</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.228</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/cultuur-en-jungle-van-thailand</get-trip-url>
@@ -47741,7 +47741,7 @@ P.p. vanaf:
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.510</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.510</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.511</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.424</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.333travel.nl/indonesie/rondreis/wegdromen-in-balinese-luxe</get-trip-url>
@@ -61209,8 +61209,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Oman</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>2.688</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.688</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.699</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.699</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.210</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -63019,7 +63019,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>12</get-trip-duration>
     <get-trip-lowest-price-2p>1.545</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.545</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.906</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.676</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Mauritius</get-trip-country>
     <get-trip-url>https://www.333travel.nl/mauritius/rondreis/highlights-van-het-eiland-mauritius</get-trip-url>
@@ -72994,7 +72994,7 @@ P.p. vanaf:
     <get-trip-duration>13</get-trip-duration>
     <get-trip-lowest-price-2p>3.375</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>3.375</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>4.376</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>4.300</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
     <get-trip-url>https://www.333travel.nl/colombia/rondreis/familiereis-avontuurlijk-colombia</get-trip-url>
