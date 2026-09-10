@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="camperseuropa" partner="Campers Europa" generated="2026-09-09T02:00:01.265Z" count="6">
+<trips feed="camperseuropa" partner="Campers Europa" generated="2026-09-10T02:00:01.270Z" count="6">
   <trip>
     <get-trip-id>GT-CAMPERSEUROPA-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -77,7 +77,7 @@ Meer lezen over Denemarken? Klik hier.
     <get-trip-name>Camperreis IJsland</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
     <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
-    <get-trip-flight>Excluded</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>IJsland</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-ijsland/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Voorbeeldreis camperreis IJsland | Campers Europa
@@ -152,7 +152,7 @@ Meer lezen over IJsland? Klik hier.
     <get-trip-name>Camperreis Noord Spanje</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>3.054</get-trip-lowest-price-2p>
-    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Spanje</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-noord-spanje/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Voorbeeldreis camperreis Noord Spanje | Campers Europa
@@ -221,7 +221,6 @@ Meer lezen over Spanje? Klik hier.
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/8e3b64e7226518ec22e3766acec0cea1ee3beaa1.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/f62f83efd09454883d9037b1e10672a8296b3ad6.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="436177">https://images.panoramix.getaway.nl/media/default/0023/34/06302d8afc975c6868d893be80915325f336f573.jpeg</get-trip-image-url-manual-temp-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Rondreis-Noord-Spanje-vanuit-Madrid.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Fontein-in-Madrid.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Las-Bardenas-Reales.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://camperseuropa.nl/wp-content/uploads/2021/05/Navarra-Elizondo.jpg</get-trip-image-url-overview>
@@ -244,7 +243,7 @@ Meer lezen over Spanje? Klik hier.
     <get-trip-name>Camperreis Portugal</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>2.803</get-trip-lowest-price-2p>
-    <get-trip-flight>Excluded</get-trip-flight>
+    <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Portugal</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-portugal/</get-trip-url>
     <get-trip-scraped-content><![CDATA[Voorbeeldreis camperreis Portugal | Campers Europa
@@ -403,9 +402,9 @@ Meer lezen over het Verenigd Koninkrijk? Klik hier.
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Camperreis Zuid-Zweden</get-trip-name>
+    <get-trip-name>Camperreis Zweden</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>2.800</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>1.400</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zweden</get-trip-country>
     <get-trip-url>https://camperseuropa.nl/blog/camperroutes/voorbeeldreis-zweden/</get-trip-url>
