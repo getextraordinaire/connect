@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-10T03:00:37.812Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-11T03:00:37.406Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -1695,7 +1695,7 @@ Op Koh Kradan is geen pinautomaat aanwezig. Zorg ervoor dat je voldoende geld bi
     <get-trip-duration>15</get-trip-duration>
     <get-trip-lowest-price-2p>1.102</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.102</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.802</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.804</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Thailand</get-trip-country>
     <get-trip-url>https://www.333travel.nl/thailand/rondreis/islandhopping-in-de-golf-van-thailand</get-trip-url>
@@ -3955,7 +3955,7 @@ Let op: plastic tasjes en piepschuim verpakkingen zijn verboden op Koh Samet. Zo
     <get-trip-duration>21</get-trip-duration>
     <get-trip-lowest-price-2p>2.822</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>2.822</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>3.682</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>3.705</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cambodja</get-trip-country>
     <get-trip-country>Laos</get-trip-country>
@@ -10759,8 +10759,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kuala Lumpur, Penang en Langkawi</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>1.144</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.144</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.146</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.146</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>1.904</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Maleisië</get-trip-country>
@@ -24922,9 +24922,9 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman, Abu Dhabi &amp; Dubai</get-trip-name>
     <get-trip-duration>10</get-trip-duration>
-    <get-trip-lowest-price-2p>1.705</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.705</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.674</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p>1.729</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.729</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p-ticket-incl>2.698</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/oman-abu-dhabi-dubai</get-trip-url>
@@ -34809,7 +34809,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>796</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>796</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.697</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.720</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.333travel.nl/amerika/rondreis/best-deal-florida-beach-fun</get-trip-url>
@@ -35176,7 +35176,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>925</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>925</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>1.825</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>1.849</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
     <get-trip-url>https://www.333travel.nl/amerika/rondreis/florida-beach-fun</get-trip-url>
@@ -38269,8 +38269,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Zuid-Afrikaanse Pracht en Mauritius</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest-price-2p>2.232</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.232</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.264</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.264</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.765</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Zuid-Afrika</get-trip-country>
@@ -51330,7 +51330,7 @@ P.p.p.n. vanaf:
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.504</get-trip-lowest-price-2p>
     <get-trip-lowest-price-2p-ticket-excl>1.504</get-trip-lowest-price-2p-ticket-excl>
-    <get-trip-lowest-price-2p-ticket-incl>2.286</get-trip-lowest-price-2p-ticket-incl>
+    <get-trip-lowest-price-2p-ticket-incl>2.415</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
     <get-trip-url>https://www.333travel.nl/oman/rondreis/fly-drive-discover-oman-incl-strandverlenging-dubai</get-trip-url>
@@ -61591,8 +61591,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Spectaculair Dubai en de Seychellen</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>1.393</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.393</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.492</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.492</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.444</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Seychellen</get-trip-country>
@@ -63017,8 +63017,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van het eiland Mauritius</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>1.655</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.655</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.425</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.425</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.676</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Mauritius</get-trip-country>
@@ -72992,8 +72992,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familiereis Avontuurlijk Colombia</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
-    <get-trip-lowest-price-2p>3.375</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.375</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.300</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.300</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.300</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Colombia</get-trip-country>
