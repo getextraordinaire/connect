@@ -1,118 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="oaktravel" partner="Oak Travel" generated="2026-09-10T02:00:01.270Z" count="39">
+<trips feed="oaktravel" partner="Oak Travel" generated="2026-09-11T02:00:01.196Z" count="39">
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Wildlife Rescue Project</get-trip-name>
-    <get-trip-duration>56</get-trip-duration>
-    <get-trip-lowest-price-2p>1.475</get-trip-lowest-price-2p>
+    <get-trip-name>Wildlife Rescue Namibië</get-trip-name>
+    <get-trip-duration>14</get-trip-duration>
+    <get-trip-lowest-price-2p>1.595</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Namibië</get-trip-country>
     <get-trip-url>https://oaktravel.nl/afrika/vrijwilligerswerk/namibie/wildlife-rescue-project/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[Namibië Wildlife Rescue Project • Vrijwilliger in Afrika • Oak Travel
-#Wildlife Rescue Vrijwilligersproject
-#Help Wilde Dieren: Vrijwilligerswerk in Namibie bij het Wildlife Rescue Project
-Op slechts 45 km van Windhoek, de hoofdstad van Namibië, ligt het Wildlife Rescue Project – dé plek waar gewonde dieren of weesdieren een tweede kans krijgen. Hier worden ze liefdevol verzorgd met als doel ze weer in het wild te laten leven. Alleen dieren die ernstig ziek zijn of slecht behandeld zijn, blijven permanent in het reservaat.
-Als vrijwilliger speel jij een cruciale rol in het redden, verzorgen en beschermen van Afrikaanse wilde dieren. Zonder jouw inzet kan dit project niet draaien! Je dagelijkse taken bestaan uit het verzorgen van de dieren, het voorbereiden van hun maaltijden en het voeren van de dieren. Voor de sociale dieren, zoals bavianen, zorg je voor voldoende speeltijd. Heb je interesse in onderzoek? Dan kun je ook helpen met het verzamelen van gegevens over wilde dieren in Namibië.
-Daarnaast krijg je als vrijwilliger de kans om cheeta's te observeren tijdens hun jacht, mee te gaan met ervaren spoorzoekers om dieren te volgen, en wilde honden, leeuwen, olifanten en neushoorns in de gaten te houden. Je kunt zelfs meehelpen bij het voeren van carnivoren en het tellen van wilde dieren. Zin in wat extra actie? Help dan met klusjes in het reservaat of zorg voor olifanten en neushoorns—een ervaring die je nooit zult vergeten!
-Vrijwilligerswerk in Namibië biedt jou niet alleen de kans om unieke dieren van dichtbij te zien, maar ook om een verschil te maken voor de wilde dieren in Afrika. Durf jij het avontuur aan?
-##vanaf €1475
-##2 tot 8 weken
-##Windhoek, Namibië
-- Hulp voor vertrek
-- Vliegveld transfers
-- Alle overnachtingen op het project
-- 3 maaltijden per dag
-- Transport van en naar de opvang
-- Projectkosten en -benodigdheden
+    <get-trip-scraped-content><![CDATA[Wildlife Rescue Namibië | Vrijwilligerswerk in Afrika | Oak Travel
+#Namibie Wildlife Rescue
+#Vrijwilligerswerk met wilde dieren in Namibie
+Op slechts 45 kilometer van Windhoek ligt het Wildlife Rescue Project, een bijzondere plek waar gewonde, verweesde en kwetsbare wilde dieren worden opgevangen en verzorgd. Waar mogelijk wordt gewerkt aan rehabilitatie en terugkeer naar het wild. Dieren die niet meer zelfstandig kunnen overleven, krijgen binnen het project een veilige en permanente plek.
+Als vrijwilliger draai je actief mee in het dagelijkse werk. Je helpt met het voorbereiden van voedsel, het voeren en verzorgen van de dieren en het schoonmaken en onderhouden van hun verblijven. Bij sociale diersoorten, zoals bavianen, kan ook verrijking en speeltijd onderdeel zijn van je werkzaamheden. Heb je interesse in wildlife research? Dan kun je daarnaast helpen bij het verzamelen en vastleggen van gegevens over wilde dieren in Namibië.
+Afhankelijk van het programma en wat er op dat moment nodig is, kun je ook betrokken worden bij verschillende conservation-activiteiten. Denk aan het observeren van cheeta's, meegaan met ervaren spoorzoekers, het monitoren van wilde honden en andere wildlife en het uitvoeren van wildtellingen.
+Vrijwilligerswerk bij het Wildlife Rescue Project betekent leven en werken midden in de Afrikaanse natuur, samen met andere internationale vrijwilligers en een ervaren lokaal team. Je leert meer over wildlife rescue, dierenwelzijn en natuurbehoud en beleeft Namibië op een manier die tijdens een gewone rondreis moeilijk te evenaren is.
+##vanaf €1595
+##Iedere dag
+##Windhoek
+##2 tot 10 weken
+##17+ jaar
+- Luchthaventransfers
+- Alle overnachtingen tijdens het project
+- Dagelijks 3 maaltijden
+- Projectkosten en benodigde materialen
 - Uniform
-- 24/7 ondersteuning door ervaren internationale en lokale medewerkers
-- Volledige oriëntatie
-- Voedselbereiding en voederen van kleine dieren
-- Intensieve zorg verlenen aan jonge dieren in het wild
-- Observatie van jachtluipaarden en een cursus cheeta fysiologie
-- Projectwerk, zoals het bouwen van kampen en nieuwe faciliteiten, het afbreken van oude constructies, onderhoud van wegen, hekwerk en nog veel meer
-- Het monitoren van spraakmakende diersoorten
-- Sluit je aan bij ervaren trackers om de sporen van bepaalde dieren te volgen
-- Monitoren van vrij rondlopende carnivoren
-- Analyseren van GPS-gegevens en cameravallen
-- Assisteren bij verschillende onderzoeken
-- Bijwonen van conflictoproepen (als ze zich voordoen)
-#Rooster Namibie Project
-##Opvangcentrum
-Het vrijwilligerswerkschema werkt volgens een roterend groepssysteem, zodat elke vrijwilliger zoveel mogelijk activiteiten en taken kan ervaren. De groepen voeren dagelijks tussen 08.00 en 17.00 uur twee tot drie activiteiten uit. 's Ochtends hebben vrijwilligers een korte pauze, gevolgd door een lunch van 13.00 tot 14.30 uur.
-Weekends zijn niet in het schema van het Namibië Wildlife Project opgenomen. Op zaterdag nemen vrijwilligers 's ochtends deel aan bepaalde activiteiten, en 's middags is er een leuke niet-werkgerelateerde activiteit gevolgd door een barbecue (braai). Op zondag is er 's ochtends een klein team betrokken bij de voedselbereiding, en 's middags een ander klein team, waardoor je ongeveer een halve dag vrij hebt. Tijdens je vrije tijd kun je eventueel het reservaat verkennen. Het is zo groot dat je niet alles te voet kunt ontdekken.
-Houd er rekening mee dat er van tijd tot tijd onvermijdelijke wijzigingen in de projecten kunnen optreden. Deze wijzigingen kunnen worden veroorzaakt door het weer, prioriteiten voor natuurbescherming, levering van materialen, of doordat lopende projecten sneller of langzamer verlopen dan oorspronkelijk gepland.
-##Lokale Basisschool
-Door verschillende projecten biedt het natuurreservaat werkgelegenheid, huisvesting, onderwijs en gezondheidszorg aan veel lokale gezinnen. Het doel is om de volgende generatie van deze gemeenschap in Namibië de stimulans te geven die ze nodig hebben om een betere en gezondere toekomst op te bouwen. De basisschool bevindt zich op het project zelf en is opgericht in 2009, met als doel gratis onderwijs en ondersteuning te bieden aan alle kinderen van de lokale gezinnen.
-Vrijwilligers die deelnemen aan het vrijwilligerswerkprogramma voor natuurbehoud kunnen ervoor kiezen om de energieke en enthousiaste basisschoolkinderen te ontmoeten. Dit zal één keer per week op een vast tijdstip plaatsvinden. Na een briefing door de schooldirecteur wordt aan geïnteresseerde vrijwilligers gevraagd om een specifieke activiteit van een uur te plannen. Je doel is om iets te bedenken dat onderwijs met plezier combineert.
+- 24/7 ondersteuning door ervaren medewerkers
+- Introductie en oriëntatie bij aankomst
+- Voedsel voorbereiden en kleinere dieren voeren
+- Jonge en kwetsbare wilde dieren verzorgen
+- Cheeta's observeren en meer leren over hun gedrag en fysiologie
+- Het bouwen en onderhouden van verblijven, hekwerken en wegen
+- Verschillende wilde diersoorten monitoren en observeren
+- Samen met ervaren trackers dierensporen volgen
+- Vrij rondlopende carnivoren monitoren
+- GPS-gegevens en beelden van cameravallen analyseren
+- Assisteren bij verschillende wildlife onderzoeken
+- Waar mogelijk meegaan bij meldingen van mens en wildlife conflicten
+#Werkschema Wildlife Rescue
+##Opvangcentrum Dieren
+Het vrijwilligersprogramma werkt met een roterend groepssysteem, zodat je tijdens je verblijf zoveel mogelijk verschillende werkzaamheden en activiteiten meemaakt. Op werkdagen draai je meestal tussen 08.00 en 17.00 uur mee en doe je per dag ongeveer twee tot drie activiteiten. Tussendoor neem je pauze, waaronder een langere lunchpauze van ongeveer 13.00 tot 14.30 uur.
+In het weekend ligt het tempo wat lager. Op zaterdag help je 's ochtends nog mee met enkele werkzaamheden. In de middag is er meestal tijd voor een gezamenlijke activiteit en 's avonds sluit je de dag regelmatig af met een traditionele Namibische braai. Op zondag verdelen kleine teams alleen de noodzakelijke taken, zoals voedselbereiding en dierenverzorging. Daardoor heb je meestal een groot deel van de dag vrij om te ontspannen en van de omgeving te genieten.
+Omdat je met wilde dieren werkt en natuurbescherming altijd vooropstaat, kan het programma veranderen. Het team past de werkzaamheden aan op het weer, de behoeften van de dieren, lopende conservation-projecten en wat er op dat moment het meest nodig is.
+Lokale basisschool
+Naast wildlife conservation ondersteunt het project ook de lokale gemeenschap. Via verschillende initiatieven draagt het bij aan werkgelegenheid, huisvesting, onderwijs en basisgezondheidszorg voor gezinnen uit de omgeving.
+Op het projectterrein vind je ook een basisschool die in 2009 is opgericht. De school biedt gratis onderwijs en extra ondersteuning aan kinderen uit lokale gezinnen en helpt zo hun kansen voor de toekomst te vergroten.
+Als vrijwilliger kun je één keer per week deelnemen aan een activiteit met de kinderen van de basisschool. Na een korte briefing van de schooldirecteur bereid je samen met andere vrijwilligers een activiteit van ongeveer een uur voor. Denk aan iets creatiefs, sportiefs of educatiefs waarbij leren en plezier samenkomen.
 #Extra informatie
-##Startdatums & Projectkosten
-Klik op deze link voor meer informatie over de startdatums en projectkosten van het Wildlife Rescue vrijwilligerswerkproject in Namibië.
-##Vliegveldtransfers
-Bij aankomst op Windhoek Hosea Kutako Airport (WHK) in Namibië word je opgehaald door het lokale team. Aan het einde van je project word je weer afgezet op de luchthaven, zodat je zorgeloos naar je volgende bestemming kunt reizen.
-##Vrije tijd
-In je vrije tijd kun je een transfer naar het stadscentrum boeken voor €12,- enkele reis, waar je souvenirs kunt kopen en lekker kunt eten. De transfer regel je eenvoudig via de vrijwilligerscoördinator.
-##Niet inbegrepen
+##📅 Wanneer kan ik starten en wat kost het?
+Het Wildlife Rescue project in Namibië kun je boeken vanaf 2 weken. De projectkosten bedragen €1595 voor 2 weken. Wil je langer blijven? Dan betaal je €675 per extra week. Je kunt iedere dag starten met dit project.
+Startdata & Boeken
+##🚐 Hoe werken de transfers?
+Bij aankomst op Hosea Kutako International Airport (WDH) bij Windhoek staat het lokale team voor je klaar en word je naar het project gebracht. Na afloop van je verblijf word je weer teruggebracht naar de luchthaven. De transfers op de vaste aankomst- en vertrekdagen zijn inbegrepen.
+##🌿 Wat kun je doen in je vrije tijd?
+In je vrije tijd kun je een transfer naar het centrum van Windhoek boeken. Hier kun je lokale souvenirs en handgemaakte producten shoppen bij craft markets, gezellig iets eten of drinken en een aantal bekende plekken bekijken, zoals de Christuskirche en het Independence Memorial Museum. Heb je wat meer tijd, dan is ook het Daan Viljoen Game Reserve, op ongeveer 24 kilometer van Windhoek, een leuke optie voor wandelen en wildlife spotten. De transfer naar Windhoek kost €12 per enkele reis en regel je eenvoudig via de vrijwilligerscoördinator.
+##➖ Wat is niet inbegrepen?
 - Vliegticket
-- Reisverzekering
 - Visum (indien nodig)
 - Vaccinaties
-- Persoonlijke uitgaven
-##Klimaat
-Windhoek heeft een halfwoestijnklimaat, met hete zomers en milde winters. De zomers, van oktober tot april, kennen temperaturen tot wel 40°C overdag en kunnen 's nachts dalen tot onder de 0°C. Neem naast zomerkleding dus ook warme kleding mee. De gemiddelde temperatuur ligt tussen de 20 en 30°C per dag.
-De meeste regen valt tussen november en maart, vaak in de vorm van zware onweersbuien. De winters, van mei tot september, zijn aangenaam warm overdag, maar de nachten kunnen erg koud zijn, met temperaturen die soms onder het vriespunt dalen. De populairste tijd om aan dit project deel te nemen is van maart tot oktober, wanneer er weinig regen valt en de temperaturen aangenaam zijn.
-##WiFi
-Er is geen WiFi beschikbaar bij het project vanwege het slechte bereik. Zorg ervoor dat je bij aankomst op de luchthaven een lokale simkaart met data aanschaft om verbonden te blijven.
-##Contactloos betalen
-Bij het Wildlife Rescue Project kun je alleen met een kaart betalen, zowel bij de bar en coffeeshop als voor transfers en extra activiteiten. Zorg er dus voor dat je een geschikte betaalpas meeneemt, zodat je zonder zorgen van je avontuur kunt genieten!
-##Feestdagen
-Op feestdagen draait het vrijwilligerswerk net als op zondagen. Dit betekent een chillere dag met minder activiteiten, waarbij de focus ligt op het voeren van de dieren. Check hier de nationale feestdagen van Namibië.
-##Lokale organisatie
-Dit project wordt uitgevoerd door een ervaren lokale organisatie met diepgaande kennis van het land. Na het invullen van het boekingsformulier ontvang je binnen 48 uur een bevestiging met alle projectdetails en de contactinformatie van de lokale partner.
-##Accommodatie
-Tijdens je verblijf op het reservaat overnacht je in een 2- of 3-persoons safari tent, gescheiden op basis van geslacht of voor koppels. De tenten zijn basic maar comfortabel ingericht met eenpersoonsbedden, compleet met beddengoed (dekbed en kussen). De douches en toiletten zijn gedeeld en worden voorzien van warm water via zonne-energie. Stopcontacten voor het opladen van elektrische apparaten vind je in de gemeenschappelijke ruimtes.
-##Veilig opbergen
-In de tenten zijn kluisjes beschikbaar voor je waardevolle spullen en paspoort. Handig en veilig! We raden je aan om hier gebruik van te maken.
-##Maaltijden
-Dagelijks krijg je drie maaltijden geserveerd. Het ontbijt bestaat uit ontbijtgranen, fruit, yoghurt, toast en beleg. De lunch varieert van koude tot warme gerechten, zoals wraps, salades, pasta's en sandwiches. Voor het diner kun je genieten van een warme maaltijd, zoals een traditionele braai (BBQ), stoofschotels of kipgerechten. Heb je specifieke dieetwensen? Laat het ons direct na je boeking weten, zodat we hier rekening mee kunnen houden.
-##Drones
-Wil je een drone gebruiken? Dan heb je eerst toestemming van de beveiligingsmanager nodig. Er wordt alles aan gedaan om wilde dieren, vooral de neushoorns, te beschermen. Drones kunnen namelijk ook door stropers worden gebruikt.
-Daarnaast ligt het project dicht bij Hosea Kutako International Airport, waardoor er extra regels zijn voor dronegebruik. Wil je een drone gebruiken? Vraag het dan even na bij de beveiligingsmanager.
-##Projecten combineren
-Ja, je kunt het Wildlife Rescue dierenopvangproject combineren met andere projecten. Zo kun je na dit project bijvoorbeeld deelnemen aan het Medisch Project, of andere vrijwilligersprojecten ontdekken die aansluiten op jouw interesses. Laat ons weten wat je wensen zijn!
-##Verblijf verlengen
-Wil je langer dan 8 weken vrijwilligerswerk doen in Namibië? Neem dan contact met ons op. In overleg met het natuurreservaat is het mogelijk om je verblijf te verlengen of projecten te combineren.
-##Toelatingseisen
-Om deel te nemen aan dit project moet je minimaal 17 jaar oud zijn. We zoeken vrijwilligers die teamspelers zijn, en een passie hebben voor wilde dieren en de natuur.
-##Reisvoorbereiding
-Ga je naar Namibië voor vrijwilligerswerk? Zorg dan dat je goed voorbereid vertrekt. Voor dit project heb je een toeristenvisum nodig, geen vrijwilligers- of werkvisum. Bij aankomst op de luchthaven kun je een visum krijgen voor NAD 1.600 (€80,-), geldig tot 30 dagen. Blijf je langer? Vraag dan vooraf een e-visum aan via de officiële website van de Namibische overheid (geldig tot 90 dagen). Voor een langer verblijf kun je contact opnemen met de Ambassade van Namibië in Brussel. Meer handige info vind je op onze Reisvoorbereiding Afrika pagina.
+- Drankjes
+- Optionele activiteiten
+##☀️ Hoe is het klimaat bij het project?
+Windhoek ligt op grote hoogte en heeft daardoor een droog klimaat met veel zon en flinke temperatuurverschillen tussen dag en nacht. In de Namibische zomer, van ongeveer oktober tot april, zijn de dagen warm en kan de temperatuur regelmatig boven de 30°C uitkomen. In deze periode valt ook de meeste regen, meestal in korte, stevige buien.
+Van mei tot september is het vrijwel droog en zijn de temperaturen overdag aangenaam. Zodra de zon ondergaat, kan het echter snel afkoelen. Vooral in juni en juli kunnen de ochtenden en avonden behoorlijk fris zijn. Neem daarom luchtige kleding mee voor overdag en altijd een warme trui of jas voor de koelere momenten.
+##🐾 Wie organiseert het project ter plaatse?
+Achter het Wildlife Rescue Project staat een ervaren Namibische organisatie met jarenlange kennis van wildlife rescue en natuurbehoud. Het lokale team begeleidt je tijdens je hele verblijf en zorgt ervoor dat alles rondom het project goed geregeld is, van de dagelijkse planning en werkzaamheden tot accommodatie, maaltijden en transfers.
+##💰 Kun je met contant geld betalen?
+Op het Wildlife Rescue project kun je alleen met kaart betalen. Contant geld wordt op het project niet geaccepteerd. Je kunt je betaalpas of creditcard gebruiken bij onder andere de bar en coffeeshop en voor transfers en optionele activiteiten. Controleer vooraf of je betaalpas buiten Europa gebruikt kan worden en neem bij voorkeur een tweede betaalmiddel mee als back-up.
+##🏕️ Waar verblijf je tijdens het project?
+Tijdens je verblijf overnacht je in een 2- of 3-persoons safari-tent op het Wildlife Rescue Project. De tenten zijn eenvoudig maar comfortabel ingericht met eenpersoonsbedden en beddengoed. Je deelt de tent doorgaans met vrijwilligers van hetzelfde geslacht; koppels kunnen samen worden ingedeeld.
+De douches en toiletten zijn gedeeld en er is warm water beschikbaar via zonne-energie. In de gemeenschappelijke ruimtes vind je stopcontacten om je telefoon en andere elektrische apparaten op te laden.
+##🍽️ Welke maaltijden zijn inbegrepen?
+Dagelijks zijn drie maaltijden inbegrepen. Het ontbijt bestaat bijvoorbeeld uit ontbijtgranen, fruit, yoghurt, toast en beleg. Voor de lunch worden afwisselend koude en warme gerechten geserveerd, zoals wraps, salades, pasta en sandwiches. 's Avonds staat er een warme maaltijd op het menu, bijvoorbeeld een traditionele Namibische braai, stoofschotel of kipgerecht. Heb je dieetwensen of allergieën? Laat het ons dan direct na je boeking weten, zodat hier zoveel mogelijk rekening mee kan worden gehouden.
+##🔗 Kan je projecten combineren?
+Je kunt het Wildlife Rescue project combineren met andere projecten. Zo kun je bijvoorbeeld aansluitend deelnemen aan het Wildlife Sanctuary Project in de omgeving van Gobabis of een van onze andere vrijwilligersprojecten in Afrika kiezen. Laat ons weten wat je plannen zijn, dan kijken we graag met je mee.
+##✅ Aan welke voorwaarden moet je voldoen?
+Je kunt vanaf 17 jaar deelnemen aan het Wildlife Rescue Project. Een open houding, flexibiliteit en zin om actief mee te werken zijn belangrijk. Daarnaast is interesse in wilde dieren, natuur en conservation natuurlijk mooi meegenomen.
+##📱 Is er WiFi op het project?
+Wifi is op het project beperkt beschikbaar. Wil je ook buiten de gemeenschappelijke ruimtes goed bereikbaar blijven? Dan kun je bij aankomst op de luchthaven van Windhoek eenvoudig een lokale simkaart aanschaffen en gebruikmaken van mobiel internet tijdens je verblijf.
+##✈️ Wat moet je regelen voor je reis naar Namibie?
+Voor Namibië geldt voor Nederlandse en Belgische reizigers een visumplicht. Je kunt vooraf een e-visum aanvragen of bij aankomst een visa on arrival verkrijgen. Controleer altijd de actuele voorwaarden. Meer praktische informatie vind je op onze Reisvoorbereiding Afrika pagina.
 #Stel je vraag aan ons!
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
-Als vrijwilliger krijg je in Namibië de kans om actief betrokken te zijn bij het redden, verzorgen en beschermen van Afrikaanse wilde dieren.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4c6421c74ad9c7370c8027eb339e513ce01821f6.jpeg</get-trip-image-url-manual-getaway>
+Doe vrijwilligerswerk bij Windhoek in Namibië en help bij het Wildlife Rescue Project met dierenzorg, rehabilitatie en natuurbehoud.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4ced08ecd5be8cd7231a1ebc67a7eaa4426cdd6b.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Ontmoet-de-olifanten-in-Afrika-van-dichtbij-768x1024.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Vrijwilligerswerk-in-Namibie-voor-behoudt-van-de-wilde-dieren.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/12/Groep-reisgenoten-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Werk-als-vrijwilliger-in-Namibie-.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Voeren-van-leeuwen-in-het-opvangcentrum-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Ook-de-kleinste-diertjes-worden-verzorgd-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Donatie-aan-het-vrijwilligerswerk-project-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Baby-aapjes-verzorgen-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/everzwijn-melk-geven-.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Leeuwin-in-de-opvang.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Help-de-dieren-en-kinderen-in-Namibie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Help-de-wilde-dieren-van-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Groep-vrijwilligers-samen-in-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Giraffen-in-het-Zannier-Reservaat-in-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Donatie-aan-het-vrijwilligerswerk-project-in-Namibie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Help-de-cheeta-in-Namibie.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Omgeving-van-het-vrijwilligerswerk-project-in-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Werk-als-vrijwilliger-in-Namibie-.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/everzwijn-melk-geven-.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Help-de-dieren-en-kinderen-in-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Baby-aapjes-verzorgen-in-Namibie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Namibie-vrijwilligerswerk-.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2026/09/Neushoorns-zijn-er-ook-in-Gobabis.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Zwembad-voor-vrijwilligers-in-Namibie.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Vrijwilligers-accommodatie-in-Namibie.jpg</get-trip-image-url-acco>
     <get-trip-image-url-acco image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Basic-accommodatie.jpg</get-trip-image-url-acco>
-    <get-trip-image-url-acco image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Zwembad-voor-vrijwilligers-in-Namibie.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00002</get-trip-id>
@@ -177,7 +171,6 @@ Je vlucht moet uiterlijk om 13:30 uur aankomen op Harare International Airport. 
 ##Niet inbegrepen
 - Vliegticket
 - Reisverzekering
-- Visum
 - Optionele activiteiten
 - Drankjes
 ##Locatie
@@ -209,8 +202,9 @@ Wanneer je naar Afrika reist, is een goede voorbereiding essentieel. Denk hierbi
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Red als vrijwilliger in Afrika de neushoorn en de olifanten in Zimbabwe van illegale stroperij, overbevolking en verlies van leefgebied.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/9b5ab27bffc2d77f0e9fdad213a1adaf0cb7ce62.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4c40b768d9b0482d409b06a554ba3786f522e650.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Ontmoet-de-olifanten-in-Afrika-van-dichtbij-768x1024.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Met-Oak-Travel-vrijwilligerswerk-projecten-doen-in-Zimbabwe.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Neushoor-en-Olifanten-beschermen-in-Afrika.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Veel-voldoening-halen-uit-Neushoorn-en-Olifanten-vrijwilligerswerk-in-Afrika.jpg</get-trip-image-url-overview>
@@ -320,7 +314,6 @@ Er is WiFi beschikbaar voor $10,- USD per week per apparaat. Hoewel deze service
 ##Niet inbegrepen
 - Vliegticket
 - Reisverzekering
-- Visum
 - Optionele activiteiten
 ##Reisvoorbereiding
 Wanneer je naar Afrika reist, is een goede voorbereiding essentieel. Denk hierbij aan het afsluiten van een betrouwbare reisverzekering, zoals die van FBTO Reisverzekering. Bekijk ook de website van thuisvaccinatie.nl voor meer informatie over de aanbevolen vaccinaties voor Zimbabwe.
@@ -331,7 +324,7 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met diepgaande 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Combineer paardrijden met vrijwilligerswerk in Afrika! Help als vrijwilliger mee de neushoorns en olifanten in Zimbabwe te beschermen.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/a6a897dd93adb90903a5b3d3033cf9aa71f71224.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/1b7ec79fdf01439056e0554500f12a47fb62a02d.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Ontmoet-de-olifanten-in-Afrika-van-dichtbij-768x1024.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Met-Oak-Travel-vrijwilligerswerk-projecten-doen-in-Zimbabwe.jpg</get-trip-image-url-overview>
@@ -438,7 +431,8 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met diepgaande 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Het Big 5 Wildlife Paterson project in Zuid-Afrika zet zich in voor het beschermen van inheemse wilde dieren en hun leefgebied.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c9a8a8bad44f112c01078c8f9abbdb87c6894035.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/deb2738eede0abfc346451a5d52c87e1384a09f3.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Ontmoet-de-olifanten-in-Afrika-van-dichtbij-768x1024.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Vrijwilligerswerk-en-groepsreizen-in-Zuid-Afrika-met-Oak-Travel.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/05/De-dierenarts-ondersteunen.jpg</get-trip-image-url-overview>
@@ -554,7 +548,7 @@ De lokale organisatie biedt bescherming voor pakketreizen zonder vluchten via SA
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Vrijwilligerswerk in Zuid-Afrika: Maak een verschil met het Sport & Kidsclub Project in Kaapstad en help kinderen bij sport en ontwikkeling.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/278b340c514eb1a4c1706a886b0e76986c32f00d.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/b02ffe8c7cd95d7805454a477753f661a4ad6854.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Ontmoet-de-olifanten-in-Afrika-van-dichtbij-768x1024.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/03/Vrijwilligerswerk-en-groepsreizen-in-Zuid-Afrika-met-Oak-Travel.jpg</get-trip-image-url-overview>
@@ -579,7 +573,7 @@ Vrijwilligerswerk in Zuid-Afrika: Maak een verschil met het Sport & Kidsclub Pro
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Budget Backpacker Pass</get-trip-name>
-    <get-trip-duration>21</get-trip-duration>
+    <get-trip-duration>30</get-trip-duration>
     <get-trip-lowest-price-2p>1.345</get-trip-lowest-price-2p>
     <get-trip-flight>Unknown</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
@@ -659,7 +653,7 @@ De Bedhopper hostelpas in Australië biedt ultieme flexibiliteit voor reizigers 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Backpack flexibel door Australië met de Budget Backpacker Pass! Reis met de Greyhound, slaap in toffe hostels en beleef epische avonturen.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/65687f42f154f98c565db5a397b7a77d1ba89176.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/21b9f2c6a122a7be6f07a2b0033e14616597ed29.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Backpackreis-tijdens-je-tussenjaar-in-Australie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/02/Stap-in-de-Magnetic-Island-Barbie-Cars-met-de-Oostkust-Experience-Groepsreis.jpeg</get-trip-image-url-overview>
@@ -807,7 +801,7 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Ontdek de Oostkust van Australië met deze semi-begeleide backpackreis. Verken Byron Bay, K'gari, snorkel op het Great Barrier Reef en de Whitsundays]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4095fd9c6468fb27cf0ec81f6b2e2c5a40506e82.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/6e0e7f58eab8f438ff110a7e9c4011bf97b12db8.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Backpackreis-tijdens-je-tussenjaar-in-Australie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/08/Wit-zand-van-de-Whitsundays-tijdens-de-Oostkust-Beach-n-Bush-groepsreis-voor-jongeren.jpg</get-trip-image-url-overview>
@@ -941,7 +935,7 @@ Je kunt deelnemen aan deze groepsreis als je 18 jaar of ouder bent. Natuurlijk i
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Ontdek in een groep de oostkust van Australië! Neem deel aan de 43-daagse Beach 'n Bush jongerenreis, en maak vrienden voor je leven.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5b56d445c29693dc9b8d2b3e769507ecd69e9d6c.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/a0baa64e37b1f4ce1e6dfc8dc21661794ee44e05.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/08/Fraser-Island-tubben-op-de-rivier.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/08/Great-Barrier-Reef-snorkelen.jpeg</get-trip-image-url-overview>
@@ -1100,7 +1094,7 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Ontdek in een groep de oostkust van Australië! Neem deel aan de 36-daagse Oostkust Budget jongerenreis, en maak vrienden tijdens deze reis.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/e0a06f59b777b3a522ffb59c4622111a16c97a54.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/8cf8f598a02f991c3ad159e5e7382a3a9342de14.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/08/Zeilen-langs-de-eilanden-van-de-Whitsundays.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Dagje-surfen-tijdens-de-Sydney-Explorer-Groepsreis.jpeg</get-trip-image-url-overview>
@@ -1126,29 +1120,30 @@ Ontdek in een groep de oostkust van Australië! Neem deel aan de 36-daagse Oostk
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://oaktravel.nl/australie/jongerenreizen/oostkust-experience/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[Oostkust Experience Groepsreis • Jongerenreizen in Australië
+    <get-trip-scraped-content><![CDATA[Oostkust Experience Jongeren Groepsreis | Australië | Oak Travel
 #Oostkust Experience Groepsreis
-#21-Daagse Oostkust Jongerenreis in Australie • Ontdek, Beleef en Maak Vrienden!
-Ben jij klaar voor het avontuur van je leven? Sluit je aan bij onze onvergetelijke 21-daagse Oostkust Experience jongerenreis en verken de hotspots van Australië. Eerst bezoek je het relaxte Byron Bay, vervolgens het bruisende Brisbane. Van de prachtige stranden van Airlie Beach gaan we naar het levendige Cairns – wij nemen je mee naar de beste plekken!
-Daarnaast beleef je de magie van de Whitsunday Islands tijdens een zeiltocht, ontdek je de ongerepte natuur op Fraser Island, leer je surfen in Surfers Paradise en duik je in de adembenemende onderwaterwereld van het Great Barrier Reef! Dit is niet alleen een reis, maar ook een levenservaring waar je vrienden van over de hele wereld ontmoet.
-Speciaal ontworpen voor solo backpackers of een kleine vriendengroep, onze Oostkust Experience is ideaal voor jongeren tussen 18 en 30 jaar oud. Je reist in een groep van ongeveer 20 avonturiers, begeleid door onze super coole reisleiders die altijd klaar staan om je te helpen.
-Wil je nog meer? Combineer deze trip met onze 'Red Centre' Outback Adventure of ontdek de wonderen van Nieuw-Zeeland. Kortom, jouw avontuur, jouw keuze! Mis deze kans niet om de reis van je leven te maken met leeftijdsgenoten die net zo avontuurlijk zijn als jij!
+#Jongerenreis in Australie: 21 dagen oostkust avontuur
+Wil je de oostkust van Australië ontdekken zonder zelf eindeloos routes, vervoer en activiteiten uit te zoeken? Tijdens deze 21-daagse jongerenreis door Australië reis je van Sydney naar Cairns en beleef je onderweg een mix van surfplaatsen, tropische eilanden, bruisende steden en spectaculaire natuur.
+Je ontdekt onder andere Byron Bay, Surfers Paradise, Brisbane, Noosa en Cairns. Onderweg leer je surfen, trek je met een 4WD over K'gari, slaap je aan boord tijdens een zeiltrip door de Whitsundays en ontdek je het Great Barrier Reefvan dichtbij.
+Veel reizigers boeken deze trip solo, waardoor je vanaf het begin makkelijk nieuwe mensen leert kennen. Je reist met een internationale groep, deelt onderweg de mooiste ervaringen en krijgt begeleiding van ervaren reisleiders die de route en bestemmingen goed kennen.
+Nog niet klaar met Down Under? Reis na Cairns verder naar Nieuw-Zeeland en maak van drie weken langs de Australische oostkust het begin van een nog groter avontuur.
 ##€2695
 ##21 dagen
+##18+ jaar
 ##Sydney ' Cairns
-Boek nu deze reis!
+Startdata & Boeken
 - Vliegveld ophaalservice
 - 20 overnachtingen
 - 4 keer ontbijt
 - 5 keer lunch
 - 6 keer diner
-- Transport met de lokale Greyhound bus
+- Vervoer met de Greyhound bus
 - Entree voor alle Nationale Parken
-- Gezellige reisleider
-- Leuke mede-reisgenoten
+- Professionele groepsleider
+- Leuke reisgenoten!
 - Activiteiten zoals omschreven bij de hoogtepunten
 - Sydney stadstour
-- Behind the Bay Waterfall tour in Byron Bay
+- Waterval tour rondom Byron Bay
 - Cape Byron wandeling
 - Surfles in Surfers Paradise
 - Brisbane stadstour
@@ -1186,48 +1181,41 @@ Ontdek tijdens een snorkeltrip het UNESCO Great Barrier Reef. Zwem de hele dag m
 Vandaag heb je de mogelijkheid om je dag zelf in te vullen. En dit kun je doen door bijvoorbeeld verschillende optionele activiteiten te ondernemen. Denk hierbij aan skydiven, bungeejumpen, raften en hike door het regenwoud. Op de laatste avond doen we met de groep een aantal drankjes in onze favoriete bar.
 Maar de volgende dag rond 10.00 uur is het helaas tijd om uit te checken. Natuurlijk staat de reisleider voor je klaar om je te helpen bij de terugreis, of misschien blijf je nog wat langer in Cairns.
 #Extra informatie
-##Prijzen & Startdatums
-Klik op deze link voor meer informatie over de startdata van de Oostkust Experience jongeren groepsreis in Australië. Voor startdata tussen 18 november en 4 januari geldt een toeslag van €300,- vanwege het hoogseizoen.
-##Niet inbegrepen
+##📅 Wanneer kun je starten?
+Bekijk hieronder de actuele startdata voor de Oostkust Experience jongerenreis in Australië en ontdek welke vertrekdatum het beste past bij jouw avontuur.
+Startdata & Boeken
+##🚐 Hoe werkt de luchthaven ophaalservice?
+De 21-daagse Oostkust Experience groepsreis begint lekker relaxed. Bij aankomst op Sydney Airport word je opgehaald en naar je hostel in het centrum gebracht. Geen gedoe met vervoer na je vlucht, dus je kunt meteen landen, je spullen droppen en aan je Australië avontuur beginnen.
+##➖ Wat is niet inbegrepen?
 - Vliegticket
-- Reisverzekering
 - Overige maaltijden
 - Persoonlijke uitgaven
 - Optionele activiteiten
 - Fraser Island NP Fee van $20,- AUD
 - Great Barrier Reef NP Fee van $20,- AUD
 - Whitsunday Islands NP Fee van $30,- AUD
-##Vliegveld ophaalservice
-Begin je avontuur zonder zorgen: bij aankomst op Sydney Airport word je opgehaald en vervolgens direct naar je centraal gelegen hostel gebracht. Daardoor start je jouw 21-daagse Oostkust Experience jongerenreis in Australië op een comfortabele manier!
-##Maaltijden
-Bij de Oostkust Experience jongerenreis zijn verschillende maaltijden inbegrepen. Zoals 4 keer ontbijt, daarnaast ook 5 keer lunch en 6 keer diner. Verder kun je eten en drinken kopen bij diverse supermarkten. Deze kun je vervolgens bereiden in de keukens van de hostels.
-##Medereizigers
-Tijdens de Oostkust Experience jongerenreis gaan er maximaal 24 andere avontuurlijke internationale reizigers tussen de 18 en 30 jaar oud mee. Bovendien maak je tijdens de trip snel nieuwe vrienden, dus wie weet kun je na de jongerenreis met een mede-reisgenoot verder reizen.
-##Voorwaarden voor deelname
-Je kunt deelnemen aan deze groepsreis als je 18 jaar of ouder bent. Bovendien is het belangrijk dat je een teamplayer bent en, daarnaast dat je avontuurlijk bent ingesteld!
-##Accommodatie
-Tijdens de Oostkust Experience Jongerenreis beleef je eerst 20 onvergetelijke overnachtingen. Vervolgens verblijf je in luxe 5-sterren hostels, waaronder een beachfront hostel, resort-style accommodatie, en een eiland bungalow in een wildlife park. Daarna geniet je van een unieke zeilervaring tijdens de Whitsundays zeiltrip met twee nachten op zee. Ook ontdek je nieuwe plekken met twee nachten in de Greyhound bus, en verder ga je avontuurlijk kamperen op Fraser Island. Ten slotte ontmoet je nieuwe vrienden in toplocaties zoals:
-- Wake Up! Hostel Byron Bay
-- BUNK Hostel Surfers Paradise
-- BUNK Hostel Brisbane
-- Flashpackers Hostel Noosa
+##☀️ Hoe is het klimaat aan de oostkust?
+Tijdens je reis van Sydney naar Cairns kom je door verschillende klimaatzones. Rond Sydney is het klimaat gematigd, terwijl het richting Brisbane subtropischer wordt. In het noorden, rond Cairns en het Great Barrier Reef, heerst een tropisch klimaat en blijft het vrijwel het hele jaar warm.
+Van december tot februari is het Australische zomer en kun je rekenen op warme tot hete dagen. In Noord-Queensland is het dan ook vochtiger en valt meer regen. Van juni tot augustus is het winter: rond Sydney kan het vooral 's ochtends en 's avonds fris zijn, terwijl Cairns overdag nog steeds temperaturen rond de 25°C haalt.
+##🤝 Wie organiseert de reis ter plaatse?
+Deze jongerenreis door Australië wordt georganiseerd in samenwerking met een ervaren lokale reispartner die de Oostkust goed kent. Binnen 24 uur na het invullen van het boekingsformulier ontvang je een bevestiging met de belangrijkste reisdetails en de contactgegevens van de lokale organisatie.
+##✅ Aan welke voorwaarden moet je voldoen?
+Je kunt deelnemen aan deze groepsreis vanaf 18 jaar. Een open houding, zin in avontuur en enthousiasme om samen met andere reizigers op pad te gaan zijn het belangrijkst.
+##🛏️ Waar verblijf je tijdens de reis?
+Tijdens de Oostkust Experience Jongerenreis overnacht je op verschillende bijzondere plekken langs de Australische oostkust. Je verblijft voornamelijk in comfortabele hostels op toplocaties, waaronder beachfront en resort-style accommodaties. Daarnaast slaap je twee nachten aan boord tijdens de Whitsundays zeiltrip, overnacht je twee nachten in de Greyhound nachtbus en kampeer je tijdens het avontuur op K'gari (Fraser Island). Zo is ook je accommodatie onderdeel van de reiservaring.
+- Wake Up! Byron Bay
+- BUNK Surfers Paradise
+- BUNK Brisbane
+- Flashpackers Noosa
 - Freedom Hostel Rainbow Beach
-- Nomads Hostel Airlie Beach
-- Gilligan's Hostel Cairns
-##Reisvoorbereiding
-Voordat je naar Australië vertrekt, is het belangrijk dat je zorgt voor een goede reisvoorbereiding. Ten eerste, denk aan het afsluiten van een goede reisverzekering. Daarnaast, zorg natuurlijk dat je op tijd een visum aanvraagt. Meer informatie hierover kun je nalezen op de pagina Reisvoorbereiding Australië.
-##Lokale gids
-De gids is tijdens de Oostkust Experience jongerenreis 24/7 aanwezig. Bovendien zorgt de gids voor een goede sfeer en is hij of zij professioneel. Daarnaast is de gids in het bezit van een EHBO-certificaat. En ten slotte weet hij of zij natuurlijk ook meer te vertellen over Australië.
-##Transport
-Je reist tussen Sydney en Cairns met de lokale Greyhound bus. Deze grote coach bus, voorzien van airco, comfortabele stoelen, gratis WiFi, USB-opladers en toiletten. Zelfs na een overnachting in de bus, kom je uitgerust aan op je volgende bestemming.
-##Lokale reisorganisatie
-Deze reis wordt georganiseerd in samenwerking met een ervaren lokale reispartner die het land door en door kent. Binnen 24 uur na het invullen van het boekingsformulier ontvang je een bevestiging met alle reisdetails en de contactgegevens van de lokale organisatie.
-#Stel je vraag aan ons!
-##Zeker op Reis
-Duurzaam Reizen
-##BESTEMMINGEN & MEER
-Australië ontdekken in een groep is fantastisch! Maak nieuwe vrienden voor het leven tijdens de Oostkust Experience jongerenreis.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/1511121c35f07f14599db345d273e620d67665d5.jpeg</get-trip-image-url-manual-getaway>
+- Nomads Airlie Beach
+- Gilligan's Cairns
+##🍽️ Welke maaltijden zijn inbegrepen?
+Tijdens de Oostkust Experience jongerenreis krijg je 4 keer ontbijt, 5 lunches en 6 diners. Voor de overige maaltijden haal je eenvoudig boodschappen bij supermarkten onderweg en kook je zelf in de gezamenlijke keukens van de hostels.
+Natuurlijk kun je er ook voor kiezen om ergens te ontbijten, lunchen of uit eten te gaan. Langs de Australische oostkust vind je volop cafés, foodcourts en restaurants. Zo bepaal je zelf hoeveel je uitgeeft en wissel je zelf koken gemakkelijk af met gezellig samen eten.
+##👥 Met wie reis je tijdens de Oostkust Experience?
+Tijdens de Oostkust Experience jongerenreis reis je samen met maximaal 22 internationale reizigers tussen de 18 en 32 jaar. Doordat je drie weken samen optrekt, ontstaan er vaak al snel nieuwe vriendschappen. ]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/d1c131880da9d6509cf6468778211907d6caef38.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/08/Zeilen-langs-de-eilanden-van-de-Whitsundays.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Chillen-op-de-witte-strand-van-Whitehaven-Beach.jpeg</get-trip-image-url-overview>
@@ -1336,7 +1324,6 @@ Word surfleraar in Australië met de 3 maanden Spot X cursus. Leer surfen, volg 
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Wordt-een-surfinstructeur.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Theorie-surflessen-in-de-praktijk-brengen.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Je-sluit-de-beste-vriendschappen-tijdens-het-surfen.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Beach-Volleyballen.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2023/01/Spot-X-surfkamp-aan-het-strand.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Naast-yoga-ook-iedere-dag-surfen.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Surfen-in-Byron-Bay.jpg</get-trip-image-url-overview>
@@ -1350,8 +1337,8 @@ Word surfleraar in Australië met de 3 maanden Spot X cursus. Leer surfen, volg 
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Wildlife Project Australie</get-trip-name>
-    <get-trip-duration>14</get-trip-duration>
+    <get-trip-name>Australië Wildlife Project | Vrijwilligerswerk met Dieren</get-trip-name>
+    <get-trip-duration>56</get-trip-duration>
     <get-trip-lowest-price-2p>1.695</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
@@ -1434,7 +1421,7 @@ Omdat je tijdens het project met dieren werkt, is een tetanusvaccinatie verplich
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Vrijwilligerswerk in Australië met wildlife? Werk met koala's, kangoeroes en krokodillen in Port Douglas en draag bij aan natuurbehoud.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/91f4d4164aa8cd5d116a5c3a671414dea5c0e7c6.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/d748065b3daca82c59fce5ed5ea2eb79595a12db.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2026/09/Vrijwilligerswerk-Australie-Koala-in-Boom.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/12/prepare-food-.jpg</get-trip-image-url-overview>
@@ -1554,7 +1541,7 @@ Wil je je avontuur verlengen met een tweede Working Holiday visum? Onze lokale p
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Werken op een boerderij in Australië tijdens je tussenjaar. Met deze baangarantie kun je direct gaan werken met vee en andere dieren.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/098318ed8faf3a0d3b8bcb1d8e27e1b096a23132.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/a60192b45b4019447dd522497006a6c68b45bb68.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Werk-met-paarden-op-een-boerderij-in-Australie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/De-kudde-bij-elkaar-houden-met-de-paarden.jpeg</get-trip-image-url-overview>
@@ -1665,7 +1652,7 @@ Het Melbourne Intro startpakket wordt uitgevoerd door een ervaren lokale reisorg
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Start je werkvakantie in Australië met het Melbourne Plus startpakket. Regel alles voor werken en reizen in 8 dagen en ontdek Melbourne!]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/7d56646039d93fa585904b9289b3590058b25da8.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/ad2892cd6f92b6835cdd36d40e6494b7e6d41c39.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/12/australie.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Surflessen-in-Melbourne.jpg</get-trip-image-url-overview>
@@ -1778,7 +1765,7 @@ Ja, je krijgt ondersteuning bij het openen van een Australische bankrekening. Zo
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Start je jongerenreis en werkvakantie in Australië met Sydney Intro. Ontdek Sydney, ontmoet andere jongeren en krijg hulp bij werken.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/3b7849c8b6d94b763ce01ad3785393ff9d8128b4.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/90aa007292405d8645ef567f214d33aff7a88b86.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/12/australie.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Werk-vinden-in-de-horece-in-Australie.jpg</get-trip-image-url-overview>
@@ -1898,7 +1885,7 @@ Wil je je avontuur verlengen met een tweede Working Holiday visum? Onze lokale p
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Droom je van werken met paarden tijdens je tussenjaar? Met dit programma word je opgeleid om te werken op Australische paardenboerderijen.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/3213afb19b304b65ca47ceff263c07675b15744c.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/7fa7306b84d7f8a32bc28d55b9c4d2fd8c2f7ffd.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Werk-met-paarden-op-een-boerderij-in-Australie.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Jeep-repareren-op-de-boerderij-in-Australie.jpeg</get-trip-image-url-overview>
@@ -2011,7 +1998,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Neem deel aan de 10-daagse Cambodja Explorer groepsreis voor jongeren. Verken o.a. de Angkor tempels, Koh Rong Samloem tijdens deze trip.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/89255af7cb5e10b559486765cc9bdbd091894cd5.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5ccc518d7e309e67891890e7c8bef5c1598fb7ce.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/05/Reizen-voor-jongvolwassen-in-een-groep-door-Cambodja.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/06/Koh-Rong-Cambodja-met-Oak-Travel.jpeg</get-trip-image-url-overview>
@@ -2120,7 +2107,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Wil je met een groep jongvolwassenen Cambodja verkennen? Boek dan de 10-daagse Cambodja Intro groepsreis met als hoogtepunt de Angkor Wat.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/af7cc0d1e95a419c1ef26050c91fdd22304311c6.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/3464b08631a42a6d78d72cf288f9391e0cd561fc.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/05/Reizen-voor-jongvolwassen-in-een-groep-door-Cambodja.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/03/Bezoek-de-eeuwenoude-tempels.jpg</get-trip-image-url-overview>
@@ -2248,7 +2235,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Tijdens deze 18-daagse Bali & Beyond Groepsreis, ontdek je niet alleen het mooie Bali maar ook nog andere waanzinnige eilanden van Indonesië.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5b7c209cade29116d6e76ef146ffbb77886b0a63.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/ac4ff8db7eb577f2bc7223cf696c138538c94730.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/01/Komodo-eiland-met-de-Bali-Beyond-groepsreis-voor-jongeren.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Bali-Beyond-Jongeren-Groepsreis-Oak-Travel.jpeg</get-trip-image-url-overview>
@@ -2373,7 +2360,7 @@ De Bali & Gili Intro Groepsreis wordt uitgevoerd door een professionele lokale p
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Ontdek Bali en Gili eilanden met de Bali & Gili Intro Jongeren Groepsreis! Inclusief surfles, snorkelen, dolfijnen spotten & sunset swings.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/096fb1bb73fafc4fbca3d9a4ffb6a2ffd19f52c3.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4e9d5daadc062f177d563ac52a4bd06a54b55fe1.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/03/Snorkelen-bij-Gili.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/06/Bali-Gili-Intro-Groepsreis-met-Oak-Travel.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Gili-Islands.jpg</get-trip-image-url-overview>
@@ -2511,7 +2498,7 @@ Tijdens de Bali & Lombok jongerenreis zijn er 14 of 18 overnachtingen inbegrepen
 Op deze groepsreis voor jongeren op Bali en Lombok zijn meerdere maaltijden inbegrepen. Meer informatie hierover vind je onder het kopje 'Inclusief'. Voor de overige maaltijden raden wij een lokaal restaurant aan, waar je al voor een paar euro kunt genieten van overheerlijke lokale gerechten.
 ##Medereizigers
 Op de jongerenreis naar Bali en Lombok is er plaats voor maximaal 20 avontuurlijke internationale deelnemers. Het is een uitgelezen kans om snel nieuwe vrienden te maken; ]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/0264cd35bb6e61ef13ff6cc12199b1dab019caed.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/e354cec5e182099f6a085ffa3a4e3375a3550af6.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2023/05/Monkey-Forest-Ubud-Bali.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2023/05/Met-de-groep-surfen-op-Bali.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/06/Snorkelen-met-roggen-in-Bali.jpeg</get-trip-image-url-overview>
@@ -2662,7 +2649,8 @@ Deze Bali & Penida groepsreis wordt uitgevoerd door een ervaren lokale reisorgan
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Met de 12-daagse Bali & Penida jongerenreis ontdek je in een groep Indonesië, en verken je het beste van Bali, Gili en Nusa Penida.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/219c3b6d8b3bcc13bc96140505c0340a727c1522.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/7a000475aeb370258e9a8a2cca3adb534fc7bb9e.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/07/Rijstvelden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/06/Zwemmen-met-schildpadden-bij-Gili-Trawangan.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/10/Geniet-van-een-gezond-ontbijt-tijdens-de-Bali-Groepsreis-min.jpg</get-trip-image-url-overview>
@@ -2747,8 +2735,6 @@ Klik op deze link voor meer informatie over de startdatums van de Thailand Intro
 Bij aankomst op dag 1 word je opgewacht door een chauffeur die je naar de accommodatie in het centrum van Bangkok brengt. Hier kun je even bijkomen van de reis. 's Avonds ontmoet je de andere reizigers en groepsleider.
 ##Niet inbegrepen
 - Vliegticket
-- Reisverzekering
-- Visum
 - Vaccinaties
 - Overige maaltijden
 ##Unieke Accommodaties
@@ -2771,7 +2757,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Maak je klaar voor de 9- of 12-daagse Thailand Intro jongerenreis. Je start met de groep in Bangkok en eindigt op een prachtig eiland.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/6603194df244c45ed311ab649d36742b42a423ed.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5299c9d0808d7f267e68108bbba1c81405c7f120.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/07/Reizen-door-Thailand-met-een-groep-nieuwe-vrienden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Thailand-Explorer-Groepsreis-met-Oak-Travel.jpeg</get-trip-image-url-overview>
@@ -2882,8 +2868,6 @@ Tijdens de reis verblijf je in een gedeelde kamer samen met een andere reiziger 
 - Wangbarapa in Chiang Mai
 ##Niet inbegrepen
 - Vliegticket
-- Reisverzekering
-- Visum
 - Vaccinaties
 - Overige maaltijden
 ##Lokale reisorganisatie
@@ -2894,14 +2878,12 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/59411c79bbefd7560957222ddc610aa8db39ee73.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/dadff44a39b8d4061b3457e4558db13b98a91624.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/07/Reizen-door-Thailand-met-een-groep-nieuwe-vrienden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Olifantenopvang-Experience-min.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/01/Hill-Tribe-Trek.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/largex_chiang-mai-thailand-2211705_1920__copy_-1480x1004-80_opt.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/07/Puur-genieten-met-de-Thailand-Intro-Groepsreis.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Wat_Chaiwatthanaram_Ayutthaya.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2024/04/Leer-traditioneel-koken-in-Chiang-Mai-met-de-Thailand-Premium-Jongerenreis.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/12/Reis-voor-een-duiksessie-naar-Koh-Tao-in-Thailand.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Chiang-Mai-Hike.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Chiang-Mai-Hill-Tribe.jpg</get-trip-image-url-overview>
@@ -3019,7 +3001,6 @@ Bij aankomst op de luchthaven van Bangkok word je vriendelijk begroet door een c
 Geniet van de culinaire diversiteit tijdens de Thailand Ultimate Groepsreis. Bekijk de sectie 'Inclusief' op deze pagina voor het aantal maaltijden dat is inbegrepen. Voor de overige maaltijden heb je de vrijheid om zelf te kiezen. Proef heerlijke goedkope lokale gerechten of trakteer jezelf op een westerse maaltijd.
 ##Niet inbegrepen
 - Vliegticket
-- Visum
 - Vaccinaties
 - Overige maaltijden
 - Persoonlijke uitgaven
@@ -3051,7 +3032,7 @@ Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaand
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Wil je het beste van Thailand zien in een groep? Kies dan voor de 27-daagse Ultimate groepsreis. Ontdek de stranden, eilanden en cultuur.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/4fbaf9f1f78ef81f4bbb017f223eae377b02436b.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/93d0776f382c4c52d94ef3a3e238c6abf5acea58.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/07/Reizen-door-Thailand-met-een-groep-nieuwe-vrienden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Chiang-Mai-Tempel.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Gekke-Foto-op-Koh-Phi-Phi.jpg</get-trip-image-url-overview>
@@ -3155,8 +3136,6 @@ Klik op deze link voor meer informatie over de startdatums van de Thailand Wande
 Het is aan te raden om op de startdatum te arriveren. Op de eerste dag zijn er geen geplande activiteiten, waardoor je op elk moment van de dag kunt arriveren op de internationale luchthaven van Bangkok. Kom je eerder aan, dan zorgen wij voor vervoer vanaf de luchthaven en regelen we extra overnachtingen in het hotel waar de groepsreis start.
 ##Niet inbegrepen
 - Vliegticket
-- Reisverzekering
-- Visum
 - Vaccinaties
 - Overige maaltijden
 - Persoonlijke uitgaven
@@ -3183,7 +3162,7 @@ Sluit je aan bij een dynamische internationale groep, bestaande uit avontuurlijk
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Met de Thailand Wanderer Groepsreis maak je een reis van je leven! Deze 18-daagse groepsreis start in Bangkok en eidingt in Chiang Mai.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/0dce3add0017cb771e284af76ebcf7435e9836b4.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/13a10ed78aba6269bd2d33bf8bc246bb1c860f0d.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/07/Reizen-door-Thailand-met-een-groep-nieuwe-vrienden.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/07/Mooiste-glimlachjes.jpeg</get-trip-image-url-overview>
@@ -3431,7 +3410,7 @@ Deze groepsreis wordt uitgevoerd door een ervaren lokale reisorganisatie die ges
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Ontdek met de 2-weekse Explorer jongerenreis, het adembenemende Vietnam! Je reist met de groep van Ho Chi Minh via Hoi An naar Hanoi.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/d271af43015f61f81570f3ccf68509bf9e752b86.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/e0dabdd79fd5b0e735459809aa93274a6375d8aa.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/05/Jongeren-groepsreizen-in-Vietnam.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/02/Nha-Trang-Vietnam-Ultimate-tour.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/07/Leuke-reisgenoten-in-Vietnam.jpeg</get-trip-image-url-overview>
@@ -3585,7 +3564,7 @@ De Vietnam Ultimate groepsreis wordt uitgevoerd door een ervaren lokale organisa
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Backpacken in Vietnam? Ontdek samen met andere reizigers alle highlights tijdens de Vietnam Ultimate groepsreis. Avontuur en gezelligheid!]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c2f80204814cd348783d7a4b6984f7a83253ed04.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/1ad880d1fc5f085f2791a8d58d5611fdc400e2d2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/05/Jongeren-groepsreizen-in-Vietnam.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/05/Vietnam-Group-Tour-kayak-group.jpg</get-trip-image-url-overview>
@@ -3900,7 +3879,7 @@ Dit project wordt uitgevoerd door een ervaren lokale organisatie met veel kennis
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/05e24c2f9624bb4759086a0504e703c6f5e577bb.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/ceba22950744c77ddd809a98bec4a6ab679ec5ee.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/05/Als-vrijwillliger-werken-met-de-olifanten-in-Thailand.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/03/Lunchtijd-.jpg</get-trip-image-url-overview>
@@ -3984,7 +3963,7 @@ Dit vrijwilligerswerkproject wordt uitgevoerd door een ervaren lokale organisati
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/8a9a7d6755b360361a07243773b94b2491f3a10a.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c4c2c28f1d956f2e436a8c9d7c42f98424072414.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/12/Vrijwilligerswerk-doen-in-Thailand.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/06/Aap-zoek-troost-bij-een-pop.jpeg</get-trip-image-url-overview>
@@ -4135,7 +4114,7 @@ Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten 
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
 Beleef Nieuw-Zeeland in 13 dagen met de Nieuw-Zeeland Adventure groepsreis. Van Hobbiton tot Milford Sound, een avontuur voor jongvolwassenen!]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/8069b4f85b74917758b98dadb26da186664d09fa.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/92c9763951382d762862dcdd14177334e2b8f592.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Leer-de-Haka-dans-tijdens-de-Nieuw-Zeeland-Frontal-Groepsreis.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/11/Door-Nieuw-Zeeland-reizen-met-Oak-Travel.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Groepsfoto-Nieuw-Zeeland-Adventure.jpg</get-trip-image-url-overview>
@@ -4316,7 +4295,6 @@ Ontdek Nieuw-Zeeland in 24 dagen tijdens een groepsreis voor jongvolwassenen. Re
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/d70ecff236bf836e21f3060e9fff3f4e3df0a71e.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/1fb39d3d4976d02f4499ae5c3ff15d910113510e.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1063" image-weight="246971">https://images.panoramix.getaway.nl/media/default/0023/34/3cb26c12554e4e5d216053dfce39cb0070845a84.jpeg</get-trip-image-url-manual-temp-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/11/Door-Nieuw-Zeeland-reizen-met-Oak-Travel.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2024/06/Nieuw-Zeeland-Mount-Cook-Kiwi-Experience.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Mount-Iron-Hike-Wanaka.jpg</get-trip-image-url-overview>
@@ -4346,46 +4324,49 @@ Ontdek Nieuw-Zeeland in 24 dagen tijdens een groepsreis voor jongvolwassenen. Re
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/jongerenreizen/ultimate-groepsreis/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland Ultimate • Groepsreis Nieuw-Zeeland • Oak Travel
-#Nieuw-Zeeland Ultimate Groepsreis
-#Nieuw-Zeeland Ultimate Groepsreis: Ontdek dit land vol wildernis en wonderen!
-Tijdens de Nieuw-Zeeland Ultimate groepsreis ga je in 17 dagen dit magische land verkennen, van de vulkanische landschappen van het Noordereiland tot de met sneeuw bedekte bergen van het Zuidereiland. Deze jongerenreis neemt je mee naar de absolute hoogtepunten én enkele verrassende avonturen die je niet mag missen!
-Verken het Noordereiland, wandel over de echte Hobbiton-filmset, duik in de traditionele Māori-cultuur, ontspan in thermale warmwaterbronnen en ontdek de fascinerende ondergrondse grotten. Vervolgens vlieg je naar het zuiden om door de mistige fjorden te varen, indrukwekkende hikes te maken, te jetbooten door adembenemende landschappen en nog veel meer. En het beste van de Nieuw-Zeeland Ultimate jongerenreis? Dit alles beleef je met een toffe groepsleider en een nieuwe groep internationale vrienden. Het avontuur van je leven is net nóg beter geworden!
-Heb je een tussenjaar en wil je ook graag werken in Nieuw-Zeeland? Check dan onze startpakketten, waar je werken en reizen in Nieuw-Zeeland combineert. Reis met een groep, ontdek het land en bereid je voor op je ultieme werkavontuur in dit fantastische land!
-##€2895 €2795
+    <get-trip-scraped-content><![CDATA[Nieuw-Zeeland Ultimate Jongerenreis | Beide Eilanden | Oak Travel
+#Nieuw-Zeeland Ultimate
+#Nieuw-Zeeland Ultimate Groepsreis: ontdek beide eilanden
+Tijdens de 17-daagse Nieuw-Zeeland Ultimate groepsreis ontdek je samen met andere jonge reizigers het beste van zowel het Noord- als het Zuidereiland. Van vulkanische landschappen en Māori cultuur tot besneeuwde bergen, helderblauwe meren en indrukwekkende fjorden: deze reis laat je in ruim twee weken verrassend veel van Nieuw-Zeeland zien.
+Op het Noordereiland bezoek je onder andere de beroemde Hobbiton filmset, ontdek je de Waitomo grotten en ontspan je in natuurlijke warmwaterbronnen. Vervolgens reis je verder naar het Zuidereiland voor spectaculaire hikes, een tocht door Milford Sound, avontuurlijke activiteiten en de indrukwekkende natuur rond Wanaka en Queenstown. Onderweg reis je met een internationale groep en een ervaren groepsleider, waardoor je weinig zelf hoeft te regelen.
+Wil je na de groepsreis langer blijven en je avontuur combineren met een werkvakantie in Nieuw-Zeeland? Dan kun je het aanvullende werkprogramma bijboeken. Hiermee krijg je praktische ondersteuning, toegang tot vacatures en hulp bij het vinden van werk. Zo combineer je reizen, nieuwe mensen ontmoeten én werken in Nieuw-Zeeland tijdens één compleet avontuur.
+##vanaf €2895 €2795
 ##17 dagen
+##18+
 ##Auckland ' Queenstown
-- 16 overnachtingen in hippe accommodaties
+- 16 overnachtingen in de beste hostels
 - 8 keer ontbijt
-- 1 keer lunch
-- 4 diners
-- Transport; privé mini-van
-- Binnenlandse vlucht naar Christchurch
-- Ervaren groepsleider
+- 1 lunch
+- 2 diners
+- Werkprogramma (optioneel)
+- Transport; privé bus
+- Professionele groepsleider
 - Leuke reisgenoten!
 - Activiteiten zoals omschreven bij de hoogtepunten
-- Waitomo Glowworm-grotten boottocht
-- Hobbiton Filmlocatie Tour
-- Kerosene Creek
-- Wai o Tapu
-- Māori-ervaring
-- Zeilen op Lake Taupo
-- Huka Falls
-- Wellington Stadsoriëntatie
-- Christchurch Stadsoriëntatie
-- Lake Tekapo Hot Pools
-- Te Papa Tongarewa Museum
-- Wellington Cable Car
-- Mount John-wandeling
-- Mount Cook / Aoraki Nationaal Park
-- Hooker Valley-wandeling
-- Kajakken op Lake Wanaka
-- Queenstown Stadsoriëntatie
-- Milford Sound-cruise
-- Jetboottocht op Lake Wakatipu
+- Vaar door de magische Waitomo Glowworm Caves
+- Wandel over de wereldberoemde Hobbiton filmset
+- Ontspan in het warme water van Kerosene Creek
+- Ontdek de kleurrijke geisers van Wai-O-Tapu
+- Maak kennis met de Māori cultuur
+- Zeil over het indrukwekkende Lake Taupo
+- Bewonder de krachtige Huka Falls
+- Ontdek het bruisende Wellington
+- Maak een rit met de Wellington Cable Car
+- Bezoek het iconische Te Papa Tongarewa Museum
+- Verken Christchurch
+- Ontspan in de warmwaterbronnen van Lake Tekapo
+- Wandel naar Mount John voor spectaculaire uitzichten
+- Ontdek Aoraki / Mount Cook National Park
+- Kajak over het helderblauwe Lake Wanaka
+- Wandel naar de top van Mount Iron
+- Beleef de avontuurlijke sfeer van Queenstown
+- Milford Sound Cruise
+- Scheur over Lake Wakatipu tijdens een jetboottocht
+- Werkprogramma (optioneel)
 #Reisschema
 ##Dag 1 - Aankomst Auckland
-Kia ora! Welkom bij het Nieuw-Zeeland Ultimate avontuur! Zodra je landt in de grootste stad van het land, Auckland, brengen we je naar ons centraal gelegen hostel, waar je kunt bijkomen van je reis. In de avond ontmoet je de rest van je reisgroep, en samen bereiden jullie je voor op alle geweldige avonturen die Nieuw-Zeeland, ofwel Aotearoa, te bieden heeft. Of je nu een jongerenreis maakt of gewoon op zoek bent naar een onvergetelijke ervaring, dit is pas het begin van je ultieme groepsreis in Nieuw-Zeeland!
+Kia ora! Welkom bij de Nieuw-Zeeland Ultimate. Je avontuur begint in Auckland, de grootste stad van Nieuw-Zeeland. Na aankomst word je naar het centraal gelegen hostel gebracht, waar je kunt inchecken en even bijkomen van je reis.
+In de avond ontmoet je je groepsleider en de andere reizigers met wie je de komende 17 dagen op pad gaat. Vanaf hier begint jouw reis door Aotearoa, vol spectaculaire natuur, bijzondere cultuur en onvergetelijke avonturen op zowel het Noord- als het Zuidereiland.
 ##Dag 2 - Glimworm grotten & Hobbiton
 Onze eerste stop is bij Waitomo, de thuisbasis van de wereldberoemde glowwormgrotten. We maken een begeleide tour door dit doolhof van ondergrondse rivieren en bewonderen de fascinerende lichtshow van de gloeiwormen. Dit is een unieke ervaring die je absoluut niet wilt missen tijdens je jongerenreis in Nieuw-Zeeland!
 In de middag staat er nog een hoogtepunt op de planning: we reizen naar Hobbiton, waar je de echte groene weiden van de Gouw kunt verkennen, zoals te zien in The Lord of the Rings en The Hobbit-trilogieën. Na een rondleiding over de filmset en een kijkje achter de schermen van de filmwereld, sluiten we de dag af met een drankje in de iconische Green Dragon Inn. Vervolgens vertrekken we richting Rotorua, vol indrukken en klaar voor meer avonturen in Nieuw-Zeeland. Dit maakt je groepsreis in Nieuw-Zeeland onvergetelijk!
@@ -4420,192 +4401,237 @@ We stappen aan boord voor een fjord-cruise, waar we de betoverende combinatie va
 ##Dag 16 - Jet boating & afscheidsdiner
 Vandaag krijgen we een flinke dosis adrenaline met een spannende jetboottocht! Voel de kick terwijl de ervaren bestuurder ons met hoge snelheid (meer dan 80 km/u) over het water stuurt, met spectaculaire 360-graden spins om de spanning erin te houden.
 Vanavond sluiten we onze avonturen af met een gezellige afscheidsdiner, gevolgd door een laatste avondje uit in het bruisende nachtleven van deze backpacker-hotspot. Dit is je kans om te zien wat Queenstown te bieden heeft na zonsondergang – een perfecte afsluiting van Nieuw-Zeeland Ultimate Groepsreis!
-##Dag 17 - Uitchecken
-Deze ochtend komt je Kiwi-avontuur tot een einde. Je kunt uitchecken en de reis naar huis maken, langer blijven in Queenstown, of je avontuur in Nieuw-Zeeland voortzetten. Als je hulp nodig hebt bij het plannen van je verdere reis, staan wij voor je klaar!
+##Dag 17 - Uitchecken!
+Vandaag komt de Nieuw-Zeeland Ultimate tot een einde. Na 17 dagen vol avontuur, natuur en nieuwe reisgenoten neem je afscheid van de groep en bepaal je zelf hoe jouw reis verdergaat.
+Blijf nog wat langer in Queenstown, reis verder door Nieuw-Zeeland of start aan een werkvakantie. Met het optionele Werkprogramma Nieuw-Zeeland krijg je ondersteuning bij praktische zaken, solliciteren en het vinden van werk. Zo hoeft het einde van de groepsreis nog lang niet het einde van je Nieuw-Zeeland avontuur te zijn.
+##Werkprogramma
+##Werken in Nieuw-Zeeland
+Wil je van je reis een echte werkvakantie in Nieuw-Zeeland maken? Met het optionele werkprogramma krijg je ondersteuning om na je groepsreis zelfstandig verder te reizen én werken. Zo sta je er niet alleen voor wanneer je een baan zoekt of praktische zaken moet regelen.
+Bij het werkprogramma krijg je onder andere:
+- Ondersteuning bij het openen van een lokale bankrekening
+- Hulp bij het regelen van een Nieuw-Zeelandse simkaart
+- Begeleiding bij het aanvragen van je belastingnummer
+- Toegang tot vacatures en een netwerk van werkgevers
+- Toegang tot een community van andere werkende reizigers
+- Persoonlijke hulp bij het opstellen of verbeteren van je CV
+- Ondersteuning bij solliciteren en het zoeken naar werk
+- Voorbereiding op sollicitatiegesprekken
+- Persoonlijke begeleiding tijdens je verblijf
+- Informatie over benodigde trainingen of certificaten
+##Van reizen naar werken
+Tijdens je groepsreis krijg je alvast uitleg over werken in Nieuw-Zeeland en hoe je jouw zoektocht het beste kunt aanpakken. Daarna kun je gebruikmaken van vacatures, werkgeverscontacten en persoonlijke ondersteuning.
+Of je nu graag in de horeca, toerisme, landbouw of een andere sector wilt werken: je krijgt hulp om goed voorbereid op zoek te gaan naar een baan die bij jouw plannen past. Voor functies waarvoor extra trainingen of certificaten nodig zijn, krijg je informatie over wat je moet regelen.
 #Extra informatie
-##Startdatums
-Klik op deze link voor meer informatie over de startdatums van de Nieuw-Zeeland Ultimate jongeren groepsreis.
-##Aankomstinformatie
-Het is het handigst om op de startdatum aan te komen. Omdat er op de eerste dag geen activiteiten gepland staan, heb je genoeg tijd om in te checken. Daarnaast natuurlijk even relaxen en je reisgenoten leren kennen. Als je eerder in Auckland aankomt, kunnen we voor een kleine meerprijs extra overnachtingen voor je regelen.
-##Vliegveld ophaalservice
-Bij de Nieuw-Zeeland Ultimate groepsreis is geen luchthaven ophaalservice inbegrepen. Vanaf Auckland Airport kun je eenvoudig zelf je transfer regelen:
-- SkyDrive – directe en betaalbare bus naar het centrum.
-- Super Shuttle – gedeelde shuttle, ook geschikt voor bagage.
-- Uber of taxi – snel en flexibel vervoer op elk moment.
-Zo begin je zorgeloos aan je avontuur in Nieuw-Zeeland!
-##Accommodatie
-Tijdens je avontuur in Nieuw-Zeeland verblijf je in gezellige, centraal gelegen hostels. Elk hostel biedt comfort en een ontspannen sfeer, met volop mogelijkheden om nieuwe vrienden te maken en je avonturen te plannen. Of je nu midden in de stad of omringd door prachtige natuur bent, deze accommodaties zijn de ideale uitvalsbasis om alles uit je jongerenreis in Nieuw-Zeeland te halen!
-- Auckland 1 nacht – Haka House Auckland City Hostel
-- Rotorua 3 nachten – Haka House Rotorua Hostel
-- Taupo 2 nachten – YHA Finlay Jacks Hostel
-- Wellington 2 nachten – Haka House Wellington Hostel
-- Christchurch 1 nacht – Haka House Christchurch Hostel
-- Lake Tekapo 2 nachten – Haka House Lake Tekapo Hostel
-- Wanaka 2 nachten – Haka House Wanaka Hostel
-- Queenstown 3 nachten – Haka House Lakefront Hostel
-##Niet inbegrepen
-- Vliegticket
-- Reisverzekering
+##🚐 Hoe kom je vanaf Auckland Airport bij je hostel?
+Bij de Nieuw-Zeeland Ultimate is geen luchthaventransfer inbegrepen. Vanaf Auckland Airport reis je gemakkelijk zelf naar het hostel in het centrum. De SkyDrive brengt je rechtstreeks naar downtown Auckland. Je kunt natuurlijk ook kiezen voor een Uber, taxi of shuttle.
+##➖ Wat is niet inbegrepen?
+- Vliegticket naar Nieuw-Zeeland
 - Overige maaltijden
 - Persoonlijke uitgaven
-- Optionele activiteiten
-##Reisgenoten
-Je reisgenoten komen van over de hele wereld! Je maakt deel uit van een groep van maximaal 18 personen in de leeftijd van 18 tot 35 jaar. Door deze trip te maken, kom je direct in contact met andere avontuurlijke reizigers. Dus met de Nieuw-Zeeland Ultimate reis creeër je niet alleen onvergetelijke herinnering. Ook is het een geweldige manier om nieuwe vrienden te maken!
-##Reisvoorbereiding
-Als je je voorbereidt op de Nieuw-Zeeland Ultimate groepsreis, is het belangrijk om een goede reisverzekering met werelddekking af te sluiten. Daarnaast heb je een NZeTA nodig om in Nieuw-Zeeland te kunnen reizen. Meer info hierover vind je op onze pagina over Reisvoorbereiding Nieuw-Zeeland.
-##Deelnamevoorwaarden
-Je kunt deelnemen aan de Nieuw-Zeeland Ultimate jongerenreis als je 18 jaar of ouder bent. En natuurlijk is een flinke dosis gezelligheid altijd welkom!
-##Lokale reisorganisatie
-Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaande kennis van het land. Na het invullen van het boekingsformulier ontvang je binnen 24 uur een bevestiging met alle reisdetails en de contactinformatie van de lokale partner.
-##Garantieregeling
-Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten via ABTOT. Dit houdt in dat je betalingen volledig worden terugbetaald in het geval van een faillissement.
+##🛏️ Waar slaap je tijdens de reis?
+Tijdens de Nieuw-Zeeland Ultimate verblijf je in gezellige hostels op centrale locaties. Je reist van het Noordereiland naar het Zuidereiland en slaapt onderweg onder andere in Auckland, Rotorua, Taupo, Wellington, Christchurch, Wanaka en Queenstown. De hostels zijn fijne plekken om samen met je reisgenoten te ontspannen na een dag vol avontuur.
+- Auckland: 1 nacht – Haka House Auckland City Hostel
+- Rotorua: 3 nachten – Haka House Rotorua Hostel
+- Taupo: 2 nachten – YHA Finlay Jacks Hostel
+- Wellington: 2 nachten – Haka House Wellington Hostel
+- Christchurch: 1 nacht – Haka House Christchurch
+- Lake Tekapo: 2 nachten – Haka House Lake Tekapo
+- Wanaka: 2 nachten – Haka House Wanaka
+- Queenstown: 3 nachten – Haka House Lakefront
+##☀️ Wanneer is de beste tijd om Nieuw-Zeeland te ontdekken?
+Nieuw-Zeeland is het hele jaar door een geweldige bestemming. Van december tot en met februari geniet je van lange, warme dagen die ideaal zijn voor hikes, outdooractiviteiten en tijd aan het water.
+In het voor- en najaar is het vaak rustiger en zijn de temperaturen aangenaam. Tijdens de wintermaanden verandert vooral het Zuidereiland in een indrukwekkend winterlandschap. Welke periode je ook kiest, ieder seizoen geeft de Nieuw-Zeeland Ultimate een andere sfeer.
+##🤝 Wie begeleidt je tijdens de reis?
+De Nieuw-Zeeland Ultimate wordt uitgevoerd door een ervaren lokale reisorganisatie. Tijdens de reis ga je op pad met een groepsleider die Nieuw-Zeeland goed kent. Vervoer, accommodaties en de geplande activiteiten zijn voor je geregeld, zodat jij vooral kunt genieten van het avontuur en je nieuwe reisgenoten.
+##🇳🇿 Wil je na je reis blijven werken in Nieuw-Zeeland?
+Wil je na de groepsreis nog langer in Nieuw-Zeeland blijven? Voor €75 kun je het Werkprogramma Nieuw-Zeeland bijboeken. Je krijgt praktische ondersteuning bij alles wat je nodig hebt om aan de slag te gaan én hulp bij het vinden van werk.
+Het werkprogramma bestaat onder andere uit:
+- Hulp bij het openen van een lokale bankrekening
+- Hulp bij het regelen van een lokale simkaart
+- Ondersteuning bij het aanvragen van je belastingnummer
+- Toegang tot een netwerk van werkgevers
+- Toegang tot actuele vacatures
+- Toegang tot een community met andere reizigers
+- Persoonlijke hulp bij het opstellen of verbeteren van je cv
+- Ondersteuning bij het zoeken en solliciteren naar werk
+- Voorbereiding op sollicitatiegesprekken
+- Persoonlijke ondersteuning tijdens je verblijf
+- Informatie over eventuele trainingen en certificaten
+##🍽️ Hoe zijn de maaltijden geregeld?
+Een aantal maaltijden tijdens de reis is inbegrepen. Welke dit precies zijn, vind je bij 'Inclusief' bovenaan deze pagina. De overige maaltijden betaal je zelf. In de hostels kun je gebruikmaken van de gemeenschappelijke keukens om zelf te koken. Natuurlijk kun je ook samen met je reisgenoten uit eten gaan en onderweg verschillende lokale gerechten ontdekken.
+##✈️ Wat moet je voor vertrek regelen?
+Controleer voor vertrek welk visum of welke reistoestemming je voor Nieuw-Zeeland nodig hebt. Wil je na de groepsreis ook gaan werken? Dan heb je een geldig Working Holiday visum nodig. Daarnaast raden we aan om een goede reisverzekering af te sluiten. Meer informatie over visa, verzekeringen en andere praktische zaken vind je op onze pagina Reisvoorbereiding Nieuw-Zeeland.
+##👥 Wie zijn je reisgenoten?
+Tijdens de Nieuw-Zeeland Ultimate reis je met een internationale groep van maximaal 20 jonge reizigers. Veel deelnemers boeken solo, waardoor je vanaf het begin gemakkelijk nieuwe mensen leert kennen. Samen reis je van Auckland naar Queenstown en ontdek je in 17 dagen zowel het Noord- als het Zuidereiland. Van Rotorua en Lake Taupo tot Lake Tekapo, Wanaka en Queenstown: je deelt alle hoogtepunten en avonturen met je groep.
 #Stel je vraag aan ons!
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
-Ontdek tijdens de 17-daagse Nieuw-Zeeland Ultimate jongenreis het Noorder- en Zuidereiland. Alles komt aan bod tijdens deze groepsreis.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/81ad25bebfe71dd174d6894beff3e3edc2499e8b.jpeg</get-trip-image-url-manual-getaway>
+Ontdek met de 17-daagse Nieuw-Zeeland Ultimate het Noord- en Zuidereiland. Een groepsreis voor jongeren, met optioneel een werkvakantie.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5804c7a9a11c166b9d1c594a721f291161554233.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Leer-de-Haka-dans-tijdens-de-Nieuw-Zeeland-Frontal-Groepsreis.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/11/Door-Nieuw-Zeeland-reizen-met-Oak-Travel.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/05/Ben-Lomond-track-vlakbij-Queenstown.jpeg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/05/Milford-Sound-Nieuw-Zeeland.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/05/Kuaotunu-Nieuw-Zeeland-Groepsreis.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Wai-O-Tapu-Thermal-Pools.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Hobbiton2.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Hooker-Valley-Hike-Snow.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Rotorua-Rafting-Nieuw-Zeeland-Ultimate.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Groepsfoto-Nieuw-Zeeland-Adventure.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Hooker-Valley-Hike-Snow.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Kerosene-Creek-Rotorua-Nieuw-Zeeland-Ultimate.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Huka-Falls-2.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Voor-een-Hobbit-huis-in-Nieuw-Zeeland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Maori-Culture.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Skippers-Canyon-Jet-Boating.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Mount-Iron-Hike-Wanaka.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Lake-Takepo.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Lake-Taupo-Sail-Nieuw-Zeeland-Ultimate.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Hooker-Valley-Hike-Swingbridge.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Wanaka-Tree2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Waitomo-Glowworm-Caves.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Skippers-Canyon-Jet-Boating.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/06/Huka-Falls-2.jpg</get-trip-image-url-overview>
   </trip>
   <trip>
     <get-trip-id>GT-OAKTRAVEL-00037</get-trip-id>
     <get-trip-status>Up</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
-    <get-trip-name>Auckland Intro Startpakket</get-trip-name>
+    <get-trip-name>Noordereiland Explorer</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
     <get-trip-lowest-price-2p>1.475</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://oaktravel.nl/nieuw-zeeland/werken-reizen/auckland-intro-startpakket/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[Auckland Intro • Tussenjaar in Nieuw-Zeeland • Oak Travel
-#Auckland Intro Startpakket
-#Het Auckland Intro Startpakket: werken en reizen in Nieuw-Zeeland tijdens je tussenjaar!
-Start jouw werkvakantie in Nieuw-Zeeland met het Auckland Intro Startpakket! Ervaar tijdens jouw tussenjaar het beste van het Noordereiland. Van het bruisende Auckland tot de glooiende groene bergen en de vulkanische wonderen van Rotorua. Het Noordereiland van Nieuw-Zeeland is adembenemend! Ook krijg je hulp bij het openen van een bankrekening, het aanvragen van een tax file number en het zoeken naar een baan. Zodat je gemakkelijk kunt werken en reizen in dit prachtige land.
-Ontdek Wellington, wandel door de beroemde Hobbiton-filmset en ervaar de traditionele Māori-cultuur. Geniet van natuurlijke warmwaterbronnen, verken ondergrondse grotten, zeil de zonsondergang tegemoet en nog veel meer! Oh, en hebben we al gezegd dat je dit allemaal gaat doen met een toffe groepsleider en nieuwe internationale vrienden? Maak je klaar voor de werkvakantie van je leven met dit Auckland Intro Startpakket!
-Wil je liever op het Zuidereiland werken en reizen? Bekijk dan het 5-daagse Queenstown Easy Start pakket en start je tussenjaar in Nieuw-Zeeland met een knaller!
-##€1475
+    <get-trip-scraped-content><![CDATA[Noordereiland Explorer Jongerenreis | Nieuw-Zeeland | Oak Travel
+#Noordereiland Explorer
+#Noordereiland Explorer: van Auckland tot Wellington
+Tijdens de 9-daagse Noordereiland Explorer ontdek je samen met andere jonge reizigers de hoogtepunten van het Noordereiland van Nieuw-Zeeland. Deze avontuurlijke groepsreis brengt je van Auckland naar Wellington en combineert indrukwekkende natuur, bijzondere activiteiten en de Māori-cultuur.
+Onderweg bezoek je de beroemde Hobbiton filmset en vaar je door de mysterieuze Waitomo Glowworm Caves. Vervolgens reis je naar Rotorua, waar geisers, warmwaterbronnen en vulkanische landschappen op je wachten. Daarnaast maak je kennis met de Māori cultuur en ontdek je het kleurrijke Wai-O-Tapu Geothermal Wonderland.
+Daarna gaat de jongerenreis verder naar Lake Taupo, waar je het water op gaat en de indrukwekkende Huka Falls bezoekt. Tot slot ontdek je Wellington, de sfeervolle hoofdstad van Nieuw-Zeeland. Je reist met een internationale groep en een ervaren groepsleider, waardoor je weinig zelf hoeft te regelen en alle avonturen samen met je reisgenoten beleeft.
+Wil je zowel het Noord- als het Zuidereiland ontdekken? Kies dan voor de 17-daagse Nieuw-Zeeland Ultimate en combineer de hoogtepunten van beide eilanden tijdens één complete groepsreis door Nieuw-Zeeland.
+##vanaf €1475
 ##9 dagen
+##18+
 ##Auckland ' Wellington
-- 8 overnachtingen in hippe accommodaties
+- 8 overnachtingen in de beste hostels
 - 4 keer ontbijt
 - 2 diners
-- Transport; privé mini-van
-- Ervaren groepsleider
-- Hulp bij openen NZ-bankrekening
-- IRD-nummer
-- Lokale simkaart
-- NZ Jobs lidmaatschap
-- Onbeperkt hulp bij het vinden van een baan
+- Werkprogramma (optioneel)
+- Transport; privé bus
+- Professionele groepsleider
+- Leuke reisgenoten!
 - Activiteiten zoals omschreven bij de hoogtepunten
-- Waitomo Glowworm-grotten boottocht
-- Hobbiton Filmlocatie Tour
-- Kerosene Creek
-- Wai o Tapu
-- Māori-ervaring
-- Zeilen op Lake Taupo
-- Huka Falls
-- Wellington Stadsoriëntatie
+- Boottocht door de Waitomo Glowworm Caves
+- Bezoek aan de Hobbiton filmset
+- Bezoek aan Kerosene Creek
+- Wai-O-Tapu Geothermal Wonderland
+- Māori dorpservaring
+- Zeiltocht op Lake Taupo
+- Bezoek aan Huka Falls
+- Kennismaking met Wellington
+- Rit met de Wellington Cable Car
+- Bezoek aan het Te Papa Tongarewa Museum
+- Werkprogramma (optioneel)
 #Reisschema
 ##Dag 1 - Aankomst Auckland
-Kia ora! Welkom bij het Auckland Intro avontuur! Zodra je landt in de grootste stad van het land, Auckland, brengen we je naar ons centraal gelegen hostel waar je kunt bijkomen van je reis. In de avond ontmoet je de rest van je reisgroep, en samen bereiden jullie je voor op alle geweldige avonturen die Nieuw-Zeeland, ofwel Aotearoa, te bieden heeft. Of je nu een tussenjaar invult of bezig bent met een werkvakantie, dit wordt een ervaring om nooit te vergeten. Dit is pas het begin van je ultieme werken en reizen avontuur in Nieuw-Zeeland!
+Kia ora! Welkom bij je Noordereiland Explorer avontuur. Na aankomst in Auckland reis je op eigen gelegenheid naar het centraal gelegen hostel, waar je rustig kunt bijkomen van je vlucht.
+In de avond ontmoet je de rest van je reisgroep en je groepsleider. Samen maken jullie kennis en bereiden jullie je voor op alle avonturen die Nieuw-Zeeland, oftewel Aotearoa, de komende dagen te bieden heeft.
 ##Dag 2 - Glimworm grotten & Hobbiton
-Onze eerste stop is bij Waitomo, de thuisbasis van de wereldberoemde glowwormgrotten. We maken een begeleide tour door dit doolhof van ondergrondse rivieren en bewonderen de fascinerende lichtshow van de gloeiwormen. Een unieke ervaring die je zeker niet wilt missen tijdens je werkvakantie of tussenjaar in Nieuw-Zeeland!
-In de middag staat er nog een hoogtepunt op de planning: we reizen naar Hobbiton, waar je de echte groene weiden van de Gouw kunt verkennen, zoals te zien in The Lord of the Rings en The Hobbit-trilogieën. Na een rondleiding over de filmset en een kijkje achter de schermen van de filmwereld, sluiten we de dag af met een drankje in de iconische Green Dragon Inn. Vervolgens vertrekken we richting Rotorua, vol van indrukken en klaar voor meer avonturen in Nieuw-Zeeland. Dit maakt je werken en reizen avontuur in Nieuw-Zeeland onvergetelijk!
+Onze eerste stop is bij Waitomo, de thuisbasis van de wereldberoemde glowwormgrotten. We maken een begeleide tour door dit doolhof van ondergrondse rivieren en bewonderen de fascinerende lichtshow van de gloeiwormen. Dit is een unieke ervaring die je absoluut niet wilt missen tijdens je jongerenreis in Nieuw-Zeeland!
+In de middag staat er nog een hoogtepunt op de planning: we reizen naar Hobbiton, waar je de echte groene weiden van de Gouw kunt verkennen, zoals te zien in The Lord of the Rings en The Hobbit-trilogieën. Na een rondleiding over de filmset en een kijkje achter de schermen van de filmwereld, sluiten we de dag af met een drankje in de iconische Green Dragon Inn. Vervolgens vertrekken we richting Rotorua, vol van indrukken en klaar voor meer avonturen in Nieuw-Zeeland.
 ##Dag 3 - Rotorua verkennen
 Wanneer je wakker wordt met de geur van zwavel in de lucht, weet je zeker dat je in Rotorua bent! Deze dag duiken we in de unieke geothermische wonderen van Nieuw-Zeeland. We beginnen met een bezoek aan de natuurlijk verwarmde wateren van Kerosene Creek, waar je heerlijk kunt baden in de warme rivier.
 Daarna staat een van de meest indrukwekkende geothermische parken van Nieuw-Zeeland op het programma, namelijk Wai o Tapu. Hier bewonder je dramatische geisers en borrelende modderpoelen, een natuurfenomeen dat je nergens anders zult zien. Dit is werken en reizen in Nieuw-Zeeland op z'n best, waar avontuur en natuur perfect samenkomen!
 ##Dag 4 - Maori cultuur
 Deze ochtend heb je wat vrije tijd om misschien te gaan zorbing of de spannende Skyline Luge uit te proberen. In de avond duiken we in de fascinerende Māori-cultuur met een bezoek aan het Mitai Māori dorp. Hier krijg je een authentieke introductie in de gebruiken, tradities en levenswijze van de Māori. Dit is een unieke kans om diep in de cultuur van Nieuw-Zeeland te duiken en een ervaring die je zeker niet snel zult vergeten!
 ##Dag 5 - Lake Taupo & Zonsondergang zeiltocht
-Houd je camera's in de aanslag, want we reizen naar Taupo, een prachtig stadje aan de oever van het grootste meer van Nieuw-Zeeland, gelegen in het hart van het Noordereiland. In de middag staat er iets bijzonders voor je klaar: een zonsondergang-zeiltocht over het meer. Terwijl de zon langzaam ondergaat, vaar je over het serene water en geniet je van adembenemende uitzichten – hier heb je echt geen filters nodig!
+Houd je camera's in de aanslag, want we reizen naar Taupo, een prachtig stadje aan de oever van het grootste meer van Nieuw-Zeeland, gelegen in het hart van het Noordereiland. In de middag staat er iets bijzonders voor je klaar: een zonsondergang-zeiltocht over het meer. Vanavond hebben we iets bijzonders gepland: een zeiltocht over het meer. De indrukwekkende omgeving en de Maori-rotsgravures zullen ons versteld doen staan.
 ##Dag 6 - Watervallen & Adrenaline
 Deze ochtend beginnen we met een prachtige wandeling naar Huka Falls, waar je de kracht van Moeder Natuur van dichtbij kunt ervaren. Deze adembenemende waterval stort met donderend geweld het kristalheldere water van de Waikato-rivier naar beneden. Je zult het bulderende geluid horen nog voordat je het spektakel ziet – een echte kippenvelervaring!
-Na het bewonderen van dit natuurwonder heb je wat vrije tijd, waarin je de adrenaline kunt laten stromen door een skydive of bungy jump te doen! Voor de echte avonturiers tijdens hun werkvakantie of tussenjaar in Nieuw-Zeeland is dit de ultieme kans om iets onvergetelijks te doen.
+Na het bewonderen van dit natuurwonder heb je wat vrije tijd, waarin je de adrenaline kunt laten stromen door een skydive of bungy jump te doen! Voor de echte avonturiers tijdens deze Noordereiland Explorer Groepsreis.
 ##Dag 7 - Reis naar Wellington
 Vandaag reizen we naar de hoofdstad van Nieuw-Zeeland: Wellington! Dompel je onder in de bruisende energie van deze stad door de charmante cafés te ontdekken, jezelf te trakteren op heerlijke hapjes bij eersteklas restaurants, of gewoon te ontspannen en te genieten van de relaxte sfeer die de stad in de avond biedt. Wellington heeft voor ieder wat wils en is de perfecte plek om de veelzijdigheid van het land te ervaren.
 ##Dag 8 - Verken Wellington
 Maak je klaar om het beste van Wellington te ontdekken met een stadstour! We beginnen met een ritje in de iconische kabelbaan, waar je wordt getrakteerd op adembenemende uitzichten over de stad en de haven. Daarna duiken we in de rijke geschiedenis en bruisende cultuur van Nieuw-Zeeland met een bezoek aan het Te Papa Tongarewa Museum, dat wereldwijd wordt erkend als een van de beste musea.
 ##Dag 9 - Uitchecken
-Deze ochtend komt je Kiwi-avontuur tot een einde. Maar nu begint juist de werkvakantie waarvoor je naar Nieuw-Zeeland bent afgereisd! Als je nog meer van dit prachtige land wilt ontdekken tijdens je tussenjaar of werken en reizen avontuur, staat de reisleider klaar om je te helpen met het plannen van je verdere reis.
+Deze ochtend komt je avontuur op het Noordereiland tot een einde. Na het uitchecken kun je naar huis reizen, nog wat langer in Wellington blijven of je reis door Nieuw-Zeeland voortzetten.
+Wil je na de groepsreis gaan werken in Nieuw-Zeeland? Dan kun je gebruikmaken van het optionele Werkprogramma Nieuw-Zeeland, waarmee je ondersteuning krijgt bij praktische zaken en het vinden van werk. Zo hoeft het einde van de groepsreis nog lang niet het einde van je Nieuw-Zeeland avontuur te zijn.
+##WERKPROGRAMMA
+##Werken in Nieuw-Zeeland
+Wil je na de groepsreis nog langer in Nieuw-Zeeland blijven? Met het aanvullende werkprogramma krijg je praktische ondersteuning om je werkavontuur goed te starten. Je wordt geholpen met belangrijke zaken én krijgt begeleiding bij het zoeken naar een geschikte baan.
+Het werkprogramma bestaat onder andere uit:
+- Hulp bij het openen van een lokale bankrekening
+- Hulp bij het regelen van een Nieuw-Zeelandse simkaart
+- Ondersteuning bij het aanvragen van je belastingnummer
+- Toegang tot een uitgebreid netwerk van werkgevers
+- Toegang tot actuele vacatures
+- Toegang tot een community met andere reizigers
+- Persoonlijke hulp bij het opstellen of verbeteren van je CV
+- Advies en ondersteuning bij het zoeken en solliciteren naar werk
+- Voorbereiding op sollicitatiegesprekken
+- Persoonlijke ondersteuning tijdens je verblijf in Nieuw-Zeeland
+- Informatie over eventuele certificaten en trainingen
+##Ondersteuning bij het vinden van een baan
+Tijdens de reis krijg je praktische uitleg over werken in Nieuw-Zeeland en hoe je jouw zoektocht het beste aanpakt. Daarna kun je gebruik blijven maken van vacatures en persoonlijke ondersteuning.
+Je krijgt hulp bij je CV, sollicitaties en de voorbereiding op gesprekken. Voor sommige functies, bijvoorbeeld in de horeca of bouw, kunnen extra certificaten of trainingen nodig zijn. Je krijgt uitleg over wat je nodig hebt en hoe je dit kunt regelen.
 #Extra informatie
-##Startdatums
-Klik op deze link voor meer informatie over de startdatums van het Auckland Intro Startpakket.
-##Aankomst informatie
-Het is het beste om in Auckland aan te komen op de daadwerkelijke startdatum, want er zijn geen activiteiten gepland op de eerste dag. Hierdoor heb je voldoende tijd om in te checken, te ontspannen en je groep te leren kennen. Mocht je eerder aankomen, dan kunnen we tegen een meerprijs de extra overnachtingen boeken.
-##Vliegveld ophaalservice
-Bij de Auckland Intro groepsreis is geen luchthaven ophaalservice inbegrepen. Vanaf Auckland Airport kun je eenvoudig zelf je transfer regelen:
-- SkyDrive – directe en betaalbare bus naar het centrum.
-- Super Shuttle – gedeelde shuttle, ook geschikt voor bagage.
-- Uber of taxi – snel en flexibel vervoer op elk moment.
-Zo begin je zorgeloos aan je avontuur in Nieuw-Zeeland!
-##Accommodatie
-Tijdens je avontuur op het Noordereiland verblijf je in gezellige, centraal gelegen hostels die perfect aansluiten bij je werkvakantie. Elk hostel biedt comfort en een ontspannen sfeer, met ruime mogelijkheden om nieuwe vrienden te maken en je avonturen te plannen. Of je nu midden in de stad of in de prachtige natuur verblijft, deze accommodaties zijn de ideale uitvalsbasis om alles uit je reis in Nieuw-Zeeland te halen.
-- Auckland 1 nacht – Haka House Auckland City Hostel
-- Rotorua 3 nachten – Haka House Rotorua Hostel
-- Taupo 2 nachten – YHA Finlay Jacks Hostel
-- Wellington 2 nachten – Haka House Wellington Hostel
-##Klimaat
-De ruige schoonheid en het gevarieerde landschap van het Noordereiland maken het altijd een goed moment om te gaan werken en reizen in Nieuw-Zeeland! De zomermaanden (december tot maart) brengen lange, zonnige dagen die perfect zijn om buiten door te brengen en het eiland te ontdekken. Ook in de wintermaanden (juni tot september) biedt het Noordereiland genoeg avonturen, met mildere temperaturen en veel activiteiten. Kortom, het is eigenlijk altijd een goed moment om het Auckland Intro werkavontuur te beginnen!
-##Reisverzekering & Visum
-Bij de voorbereiding om te kunnen werken in Nieuw-Zeeland is het belangrijk dat je een Working Holiday visum aanvraagt. Dit visum is meestal beschikbaar voor jongeren van 18 tot 30 jaar en is 12 of 23 maanden geldig. Meer informatie hierover vind je op onze pagina Reisvoorbereiding Nieuw-Zeeland, waar je ook direct een premie kunt berekenen voor je FBTO reisverzekering.
-##Reisgenoten
-Je reisgenoten komen van over de hele wereld! Je reist in een groep van maximaal 18 personen, in de leeftijd van 18 tot 30 jaar. Door deel te nemen aan het Auckland Intro Startpakket maak je meteen deel uit van een groep, waardoor het een geweldige manier is om anderen te ontmoeten en nieuwe vrienden te maken!
-##Deelnamevoorwaarden
-Je kunt deelnemen aan het Auckland Intro Startpakket als je tussen de 18 en 30 jaar bent. En natuurlijk is gezelligheid ook een belangrijke vereiste!
-##Niet inbegrepen
+##📅 Wat zijn de startdatums?
+De 9-daagse Noordereiland Explorer groepsreis heeft verschillende startdata. Bekijk hieronder alle beschikbare vertrekdata en kies de datum die het beste bij jouw reisplannen past.
+Startdata & Boeken
+##🚐 Hoe reis je vanaf de luchthaven naar het verblijf?
+Bij de Noordereiland Explorer groepsreis is geen luchthaven ophaalservice inbegrepen. Vanaf Auckland Airport kun je eenvoudig zelf naar je hostel in het centrum reizen. Je kunt bijvoorbeeld gebruikmaken van de SkyDrive, die rechtstreeks naar het centrum van Auckland rijdt, of kiezen voor een Uber, taxi of shuttle. Zo reis je gemakkelijk vanaf de luchthaven naar je accommodatie.
+##➖ Wat is er niet inbegrepen?
 - Vliegticket
-- Reisverzekering
 - Overige maaltijden
 - Persoonlijke uitgaven
-- Optionele activiteiten
-##Lokale bankrekening
-Je krijgt hulp bij het openen van een Nieuw-Zeelandse bankrekening bij Wise. Hiermee kunnen werkgevers in Nieuw-Zeeland je salaris rechtstreeks storten, en je kunt de Wise-kaart gebruiken voor betalingen en geldopnames bij geldautomaten. Dit maakt het beheren van je financiën tijdens je werken en reizen avontuur in Nieuw-Zeeland een stuk eenvoudiger.
-##Database voor Jobs
-Je krijgt onbeperkt hulp en ondersteuning bij het vinden van een baan in Nieuw-Zeeland, niet alleen tijdens het Intro Startpakket, maar voor de hele tijd dat je in Nieuw-Zeeland bent. Bovendien ontvang je een levenslang lidmaatschap van het NZ Jobs-programma, waarmee je onbeperkt toegang krijgt tot een groot netwerk van werkgevers in heel Nieuw-Zeeland.
-##Hulp tijdens en na de reis
-Tijdens het Auckland Intro Startpakket krijg je uitgebreide ondersteuning bij het vinden van werk, huisvesting en het plannen van je verdere reis. We zorgen ervoor dat je goed voorbereid bent op wat je gaat doen en waar je naartoe gaat. Daarnaast helpen we je met alles wat je nodig hebt om de reis van je leven te beleven, samen met de nieuwe vrienden die je hebt gemaakt.
-Alle belangrijke zaken die je nodig hebt voordat je in Nieuw-Zeeland aan de slag gaat, worden voor je geregeld. Denk aan een lokale simkaart, een IRD-nummer, en natuurlijk hulp bij het openen van een Nieuw-Zeelandse bankrekening.
-Er is ook ruimte voor één-op-één advies en ondersteuning bij het opstellen van je cv, het vinden van werk, sollicitatievaardigheden en alles wat je verder nodig hebt om succesvol aan de slag te gaan. Wij zorgen ervoor dat je klaar bent om een geweldige tijd te hebben en je ervaring onvergetelijk te maken!
-##Cursussen
-Voor bepaalde banen, zoals barwerk of constructiewerk, heb je specifieke trainingen nodig. Het team ter plaatse legt je uit welke trainingen je eventueel nodig hebt en kan je inboeken voor alle benodigde trainingen na het Auckland Intro Startpakket.
-##Lokale reisorganisatie
-Deze reis wordt uitgevoerd door een ervaren lokale reisorganisatie met diepgaande kennis van het land. Na het invullen van het boekingsformulier ontvang je binnen 24 uur een bevestiging met alle reisdetails en de contactinformatie van de lokale partner.
-##Garantieregeling
-Onze lokale reisorganisatie biedt bescherming voor pakketreizen zonder vluchten via ABTOT. Dit houdt in dat je betalingen volledig worden terugbetaald in het geval van een faillissement.
+##🛏️ Waar verblijf je tijdens de reis?
+Tijdens je avontuur op het Noordereiland verblijf je in gezellige hostels op centrale locaties. De accommodaties hebben een ontspannen sfeer en zijn fijne plekken om je reisgenoten beter te leren kennen. Van Auckland en Rotorua tot Taupo en Wellington: onderweg ontdek je steeds weer een ander stukje van Nieuw-Zeeland.
+- Auckland: 1 nacht – Haka House Auckland City Hostel
+- Rotorua: 3 nachten – Haka House Rotorua Hostel
+- Taupo: 2 nachten – YHA Finlay Jacks Hostel
+- Wellington: 2 nachten – Haka House Wellington Hostel
+##☀️ Wat is de beste reistijd voor het Noordereiland?
+Het Noordereiland van Nieuw-Zeeland kun je het hele jaar door ontdekken. De zomermaanden van december tot en met februari zijn warm en ideaal voor buitenactiviteiten, wandelingen en het ontdekken van meren en vulkanische landschappen.
+Ook het voor- en najaar zijn fijne periodes om te reizen, met mildere temperaturen en vaak minder drukte. In de wintermaanden van juni tot en met augustus is het koeler, maar kun je het Noordereiland nog steeds uitstekend ontdekken. Welke periode het beste bij je past, hangt vooral af van het soort avontuur dat je zoekt.
+##🤝 Hoe is de reis lokaal geregeld?
+De Noordereiland Explorer wordt uitgevoerd door een ervaren lokale reisorganisatie. Tijdens de reis word je begeleid door een groepsleider en zijn vervoer, accommodaties en activiteiten voor je geregeld. Na je boeking ontvang je alle belangrijke reisinformatie en contactgegevens.
+##🇳🇿 Wil je na je reis blijven werken in Nieuw-Zeeland?
+Wil je na de groepsreis nog langer in Nieuw-Zeeland blijven? Voor €75 kun je het Werkprogramma Nieuw-Zeeland toevoegen. Je krijgt praktische ondersteuning bij het regelen van belangrijke zaken én hulp bij je zoektocht naar werk.
+Het werkprogramma bestaat onder andere uit:
+- Hulp bij het openen van een lokale bankrekening
+- Hulp bij het regelen van een lokale simkaart
+- Ondersteuning bij het aanvragen van je belastingnummer
+- Toegang tot een netwerk van werkgevers
+- Toegang tot actuele vacatures
+- Toegang tot een community met andere reizigers
+- Persoonlijke hulp bij het opstellen of verbeteren van je CV
+- Ondersteuning bij solliciteren en het zoeken naar werk
+- Voorbereiding op sollicitatiegesprekken
+- Persoonlijke ondersteuning tijdens je verblijf
+- Informatie over eventuele trainingen en certificaten
+##🍽️ Hoe zijn de maaltijden geregeld?
+Een aantal maaltijden tijdens de reis is inbegrepen. Welke dit precies zijn, zie je bij 'Inclusief' bovenaan deze pagina. De overige maaltijden betaal je zelf. De hostels beschikken over gemeenschappelijke keukens, waardoor je gemakkelijk zelf kunt koken. Daarnaast zijn er onderweg genoeg mogelijkheden om samen met je reisgenoten ergens te eten en verschillende plekken en gerechten uit Nieuw-Zeeland te ontdekken.
+##✈️ Wat moet je voor vertrek regelen?
+Voor vertrek naar Nieuw-Zeeland moet je controleren welk visum of welke reistoestemming voor jouw situatie nodig is. Wil je na de groepsreis ook gaan werken, dan heb je een Working Holiday visum nodig.
+Ook raden we aan om een goede reisverzekering af te sluiten die medische kosten en onverwachte situaties tijdens je reis dekt. Meer informatie over visa, verzekeringen en andere praktische zaken vind je op onze pagina Reisvoorbereiding Nieuw-Zeeland.
+##👥 Wie zijn je reisgenoten?
+Tijdens de Noordereiland Explorer reis je met een internationale groep van maximaal 20 jonge reizigers. Deelnemers komen uit verschillende landen en veel reizigers sluiten alleen aan.
+Daardoor leer je vanaf het begin gemakkelijk nieuwe mensen kennen en beleef je Auckland, Rotorua, Taupo, Wellington en de rest van het Noordereiland samen met je groep.
 #Stel je vraag aan ons!
 ##Zeker op Reis
 Duurzaam Reizen
 ##BESTEMMINGEN & MEER
-Start jouw werkvakantie in Nieuw-Zeeland met het Auckland startpakket. Ontdek het Noordereiland met deze 9-daagse tussenjaar groepsreis.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/36e0ca2bb924047943c576af212599c4982de1cf.jpeg</get-trip-image-url-manual-getaway>
+Ontdek het Noordereiland van Nieuw-Zeeland tijdens een 9-daagse groepsreis voor jongvolwassenen en combineer je avontuur met werken.]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/aafbefb6c705317d319956f457f50e9bc205ba25.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2018/04/IMG_3481_opt.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Leer-de-Haka-dans-tijdens-de-Nieuw-Zeeland-Frontal-Groepsreis.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2026/03/Nieuw-Zeeland-Hoofdfoto-Werkvakantie.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2019/11/Door-Nieuw-Zeeland-reizen-met-Oak-Travel.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2022/09/Werken-en-reizen-combineren-in-Nieuw-Zeeland-Noordereiland.jpeg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Waitomo-Glowworm-Caves.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2025/03/Voor-een-Hobbit-huis-in-Nieuw-Zeeland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Rotorua-Rafting.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Hobbiton-Town-bezoeken-in-Nieuw-Zeeland.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/01/Groep-jongeren-tijdens-de-Noordereiland-Vibes-Groepsreis.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Waitomo-Glowworm-Caves.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Wai-O-Tapu-Thermal-Pools.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2020/04/Kajakken-met-de-groep-op-het-Noordereiland-van-Nieuw-Zeeland.jpeg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Lake-Taupo-Sail.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Kerosene-Creek-Rotorua.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Hobbiton-Town-bezoeken-in-Nieuw-Zeeland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Rotorua-Zorbing.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Auckland-startpakket-working-holiday.jpg</get-trip-image-url-overview>
     <get-trip-image-url-acco image-size="" image-weight="">https://oaktravel.nl/wp-content/uploads/2021/04/Taupo-YHA-Finlay-Jacks-Dorm-Room.jpeg</get-trip-image-url-acco>
