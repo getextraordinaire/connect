@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="walkabout" partner="Walkabout" generated="2026-09-10T02:00:01.270Z" count="11">
+<trips feed="walkabout" partner="Walkabout" generated="2026-09-11T02:00:01.196Z" count="11">
   <trip>
     <get-trip-id>GT-WALKABOUT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -7,7 +7,7 @@
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsreis Western Australia Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>3.655</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.646</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-western-australia-trek.html</get-trip-url>
@@ -100,7 +100,7 @@ Dit is een zware reis. Je dient over een goede conditie te beschikken en in staa
 ALLE TOURS
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c49afa03fce8235753309e4819a39fa82beee205.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/e50c770e6fd957d447f94d26304d0b09c1c94bb5.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-western-australia-trek-slider3.jpg</get-trip-image-url-overview>
@@ -122,7 +122,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsreis Australië Wildlife Conservation Journey</get-trip-name>
     <get-trip-duration>4</get-trip-duration>
-    <get-trip-lowest-price-2p>1.587</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>1.583</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/australie/groepsreis-australie-wildlife-conservation-journey.html</get-trip-url>
@@ -173,7 +173,7 @@ De echidna is (samen met de platypus) het enige eierleggende zoogdier op aarde. 
 ALLE TOURS
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/a57f44c1e7bcf7b63abac01276e104dcb857e181.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/6fde4de1e477ced5d927621d352b069894c300e2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-australie-wildlife-conservation-journey-slider3.jpg</get-trip-image-url-overview>
@@ -375,7 +375,7 @@ Vergeet niet, dit is slechts een voorbeeld en we kunnen het reisschema geheel na
 ALLE SELF-DRIVE
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/5910eba2ca50350c020404e1767559e37eef8c3d.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/a950ae18715db575872c86b78ab287126571b091.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/westkust_kimberley_4wd_3.jpg</get-trip-image-url-overview>
@@ -593,7 +593,7 @@ ALLE SELF-DRIVE
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze
 Complete rondreis door Australië. Een onvergetelijk avontuur. Bijzondere locaties en alle vrijheid]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/fc2c06b02617781aa6e2caa2f7791f32a5387a76.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/7902a6bcb4dc5cb480e1657d1f518113ccfdd904.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-02.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-03.jpg</get-trip-image-url-overview>
@@ -802,7 +802,7 @@ ALLE SELF-DRIVE
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze
 Complete rondreis door Australië. Een onvergetelijk avontuur! Bijzondere locaties en alle vrijheid]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c00f4b30aa1e0ffdd6677bfa08c27bd0eee41c4e.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/a70d3e8918a15778a4fe39e23786e7bff1f7d188.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-08.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-02.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/rondreis-best-of-australia-oktober-mei-03.jpg</get-trip-image-url-overview>
@@ -1038,7 +1038,7 @@ Tijd om de familie en vrienden jullie verhalen te vertellen en foto's te laten z
 ALLE SELF-DRIVE
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/0082592033440e469fac8d95c6aee89282307239.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/edf8349a733bc1069bcda0b135d4f8ed41724523.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-04.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-03.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/voorbeeldreizen/familiereis-kinderen-australie-13.jpg</get-trip-image-url-overview>
@@ -1061,7 +1061,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>New Zealand Adventure</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.711</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.706</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-adventure.html</get-trip-url>
@@ -1249,7 +1249,7 @@ Vertrek: uit Christchurch om 07.00 uur
 ALLE TOURS
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/afc162cf8a12ff3f0d012f9722de9f463a535e8d.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/9bbaa3eb527845961a986a0818972a6e2b56c0dd.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-adventure-slider3.jpg</get-trip-image-url-overview>
@@ -1284,7 +1284,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>The New Zealand Trek</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>3.617</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.610</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-new-zealand-trek.html</get-trip-url>
@@ -1383,7 +1383,7 @@ Deze tour vertrekt gemiddeld 1x per 3 weken. Indien je een offerte aanvraagt nem
 ALLE TOURS
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/e42d3ceac2b283332ffd5dc09d93bc208fa052dc.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/76ded13606c896b5d340d3a8380bdec7cdf398b0.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-new-zealand-trek-slider3.jpg</get-trip-image-url-overview>
@@ -1412,7 +1412,7 @@ onze website te verbeteren en voor statistische doeleinden. Door op onze website
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ultimate New Zealand Trek</get-trip-name>
     <get-trip-duration>24</get-trip-duration>
-    <get-trip-lowest-price-2p>6.632</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>6.620</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/groepsreis-nieuwzeeland-ultimate-new-zealand-trek.html</get-trip-url>
@@ -1518,7 +1518,7 @@ Middelzwaar, zie ook de extra reisinformatie te downloaden onder de kop reisprog
 ALLE TOURS
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/9ea7707c755b153e268e768306c75b1b58cbea4c.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/c6ad6f6c4053f93d6d218846bd6e908b6167a181.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/tours/groepsreis-nieuwzeeland-ultimate-new-zealand-trek-slider3.jpg</get-trip-image-url-overview>
@@ -1725,7 +1725,7 @@ ALLE SELF-DRIVES
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze
 Fantastische rondreis door Nieuw-Zeeland met een mix aan kleinschalige accommodaties. Op maat aan te passen.]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/77b6dd26517b88315ace382d7461902f01302f7f.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/c48400665f1197d4e49756c13564b84a05ad203f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/fly-drive-vlucht-nieuwzeeland-new-zealand-slider3.jpg</get-trip-image-url-overview>
@@ -1756,7 +1756,7 @@ Fantastische rondreis door Nieuw-Zeeland met een mix aan kleinschalige accommoda
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland Comfort B&amp;B Self-Drive</get-trip-name>
     <get-trip-duration>31</get-trip-duration>
-    <get-trip-lowest-price-2p>2.419</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.415</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Nieuw-Zeeland</get-trip-country>
     <get-trip-url>https://www.walkabout.nl/nieuw-zeeland/self-drive-nieuwzeeland-new-zealand.html</get-trip-url>
@@ -1954,7 +1954,7 @@ Onderaan het Zuidereiland vind je dit eiland dat bekend is om de ruige natuur en
 ALLE SELF-DRIVES
 ##Meer informatie over
 onze website te verbeteren en voor statistische doeleinden. Door op onze website te blijven ga je hiermee akkoord. Meer informatie is te vinden in onze]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/d1d5960caa54c67ab80cdd6fdffd7f070bbea2df.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/24303f8858a3f2e628f10625cef0887cc1d31379.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.walkabout.nl/images/self-drive/self-drive-nieuwzeeland-new-zealand-slider13.jpg</get-trip-image-url-overview>
