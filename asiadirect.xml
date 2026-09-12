@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="asiadirect" partner="AsiaDirect" generated="2026-09-11T02:00:01.196Z" count="5">
+<trips feed="asiadirect" partner="AsiaDirect" generated="2026-09-12T02:00:01.531Z" count="5">
   <trip>
     <get-trip-id>GT-ASIADIRECT-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -702,6 +702,7 @@ per persoon vanaf
 € 3.016
 ]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/da8b1ff757cd992d35c5630a6ad274447355b763.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/11719afb882d9d8a6b4f46fbf03d3ea23b8fa4f4.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="250484">https://images.panoramix.getaway.nl/media/default/0023/39/f5e13be0a0aaf340387f0a399455cfb18c914c9a.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
@@ -1470,6 +1471,7 @@ per persoon vanaf
 € 2.878
 ]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/0adc902f2184ed10739da2cdc8a14f06a045d2a9.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/fe31431b982e39cacd4409bffdc67f8304e0d176.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="148025">https://images.panoramix.getaway.nl/media/default/0023/39/42199379fce31120915a9673dc6059ea55060ea1.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
@@ -2150,6 +2152,7 @@ per persoon vanaf
 € 308
 ]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/bb95f9c1ee7d5d35b314ab3852cd29609c35a477.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/67c9b886ebf06bb2670b1305ec43b95b0cfdd23e.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="259242">https://images.panoramix.getaway.nl/media/default/0023/39/e1256e3d1d956312b2603b1f8cbcf5cce3eaac8d.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Borneo-Neusaap-tussen-de-bladeren-450x300.jpg</get-trip-image-url-overview>
   </trip>
@@ -2888,6 +2891,7 @@ per persoon vanaf
 € 71
 ]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/a6b659723ad0b56b4b79028987542648cb6a183e.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/e3c92ccc44eb89af50aef1cf6ade20ea0f2fe6c1.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="438306">https://images.panoramix.getaway.nl/media/default/0023/39/d9c12914894c893cfcf97bbbce0bc276b7bfd64a.jpeg</get-trip-image-url-manual-temp-getaway>
   </trip>
   <trip>
@@ -3667,6 +3671,7 @@ Boek met garanties & Reis duurzamer
 18 dagen in het verrassende noordwesten van Borneo. Strand, tropisch regenwoud en bijzondere ontmoetingen met de lokale minderheden.
 Je zoekt iets speciaals. Een reis waarop je tropische regenwouden intrekt, spectaculaire grotten bezoekt, maar ook van het strand geniet. Je wilt een reis]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/39/c85778b2f7803ea015c1fd084847b95a7ef5df6f.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/40/f81ce1a4d8b648eb6076e3d3d2033ff21d338901.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="276291">https://images.panoramix.getaway.nl/media/default/0023/39/aa40e402af39c3bca038399c280db5b397fc3399.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.asiadirect.nl/wp-content/uploads/2020/11/Maleisie-Borneo-Neusaap-tussen-de-bladeren-450x300.jpg</get-trip-image-url-overview>
   </trip>
