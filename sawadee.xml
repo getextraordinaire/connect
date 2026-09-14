@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="sawadee" partner="Sawadee" generated="2026-09-14T03:00:35.815Z" count="184">
+<trips feed="sawadee" partner="Sawadee" generated="2026-09-14T13:49:51.003Z" count="184">
   <trip>
     <get-trip-id>GT-SAWADEE-16081</get-trip-id>
     <get-trip-id-org>ABF</get-trip-id-org>
@@ -12171,7 +12171,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Japan Hoogtepunten</get-trip-name>
-    <get-trip-duration>16</get-trip-duration>
+    <get-trip-duration>17</get-trip-duration>
     <get-trip-lowest-price-2p>3.989</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
@@ -25645,7 +25645,7 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Groepsrondreis Zambia, Malawi en Tanzania</get-trip-name>
-    <get-trip-duration>25</get-trip-duration>
+    <get-trip-duration>24</get-trip-duration>
     <get-trip-lowest-price-2p>4.699</get-trip-lowest-price-2p>
     <get-trip-flight>Included</get-trip-flight>
     <get-trip-country>Malawi</get-trip-country>
@@ -49749,7 +49749,7 @@ Privébus gedurende de hele reis
 10x ontbijt
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.919 tot € 2.652.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 1.919 tot € 2.545.
 Het landarrangement begint en eindigt in San José.
 
 #Bijkomende kosten
@@ -61063,7 +61063,7 @@ Twee volle vrije dagen aan de kust bij Praia do Forte
 18x ontbijt, 1x lunch
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 2.987 tot € 3.237.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 2.987 tot € 3.172.
 Het landarrangement begint in Rio de Janeiro en eindigt in Salvador de Bahia.
 
 #Bijkomende kosten
@@ -61824,7 +61824,7 @@ Bezoek Popa Falls
 18x ontbijt, 14x lunch, 12x diner
 Landarrangement
 Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 2.820 tot € 3.039.
+De prijs van het landarrangement verschilt per vertrekdatum en varieert voor deze reis van € 2.820 tot € 2.900.
 Het landarrangement begint/eindigt in Windhoek en eindigt/begint in Victoria Falls.
 
 #Bijkomende kosten
@@ -84006,295 +84006,16 @@ Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en 
   <trip>
     <get-trip-id>GT-SAWADEE-36813</get-trip-id>
     <get-trip-id-org>DMT</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
+    <get-trip-status>Down</get-trip-status>
     <get-trip-status-code>200 (OK)</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Wandelvakantie Dutch Mountain Trail</get-trip-name>
-    <get-trip-duration>6</get-trip-duration>
-    <get-trip-lowest-price-2p>769</get-trip-lowest-price-2p>
-    <get-trip-flight>Included</get-trip-flight>
-    <get-trip-country>Nederland</get-trip-country>
+    <get-trip-duration>Unknown</get-trip-duration>
+    <get-trip-lowest-price-2p>Prijs op aanvraag</get-trip-lowest-price-2p>
+    <get-trip-flight>Unknown</get-trip-flight>
+    <get-trip-country>Unknown</get-trip-country>
     <get-trip-url>https://www.sawadee.nl/wandelvakanties/dmt-wandelvakantie-dutch-mountain-trail/</get-trip-url>
-    <get-trip-scraped-content><![CDATA[#Meer over deze reis
-Over de toppen van Nederland
-Tijdens de Dutch Mountain Trail ontdek je hoe verrassend bergachtig Nederland kan zijn. In zes dagen wandel je ruim 100 kilometer door het heuvelachtige Zuid-Limburg, met uitstapjes naar België en Duitsland. De route verbindt de hoogste toppen van ons land en neemt je mee over slingerende bospaden, open weides en stille grensgebieden. Een pittige tocht, bedoeld voor wandelaars met een goede conditie die houden van een echte uitdaging. Deze reis kan bijvoorbeeld ook geboekt worden als voorbereiding op een zwaardere trektocht in het buitenland.
-Een meerdaags avontuur dichtbij huis
-Deze 6-daagse wandeltocht is een complete trektocht waarbij alles voor je is geregeld. Je loopt de volledige Dutch Mountain Trail, met dagelijks stevige etappes en flink wat hoogtemeters. Overdag ben je actief buiten, ’s avonds kom je tot rust in comfortabele en kleinschalige accommodaties. Ontbijt en lunch zijn vaak inbegrepen, zodat je elke dag zorgeloos op pad kunt.
-Uitgerust op pad, ontspannen aankomen
-Na elke wandeldag wacht een fijne plek om te overnachten. Je slaapt in comfortabele hotels met eigen sanitair, waar gastvrijheid centraal staat. Alles is zo georganiseerd dat jij je kunt focussen op het wandelen, de natuur en het genieten. De Dutch Mountain Trail is daarmee het perfecte microavontuur voor wie er écht even uit wil, zonder ver te reizen.
-
-#Comfort en zwaarte van de reis
-Zwaarte van de reis
-Niveau 3: Iets sportievere wandelvakantie. Vier tot zes uur wandelen per dag over goed begaanbare paden. Hoogteverschillen tot 300 meter. Een normale conditie volstaat.
-Comfort van de overnachtingen
-Niveau 4: Comfortabele, luxere accommodaties
-
-#Groepsgrootte
-Maximaal 12 personen
-
-#Waarom deze reis?
-Duurzaam microavontuur dicht bij huis
-Wandel over de 8 hoogste toppen van ons land
-Overnacht in sfeervolle en kleinschalige hotels
-Spectaculaire uitzichten en afwisselend heuvellandschap
-Wandel over slingerpaadjes, bospaden en glooiende hellingen
-Start en finish op goed bereikbare locaties met openbaar vervoer
-Geniet onderweg van boscafés, terrassen en Limburgse gastvrijheid
-
-#Reisprogramma
-Dag 1
-Wandeling Eygelshoven - Kerkrade
-Dag 2
-Wandeling Kerkrade - Vaals
-Dag 3
-Wandeling Vaals - Gulpen
-Dag 4
-Wandeling Gulpen - Slenaken
-Dag 5
-Wandeling Slenaken - Eijsden
-Dag 6
-Wandeling Eijsden - Maastricht
-
-#Dag tot dag
-Tijdens deze uitdagende wandelreis lopen we in zes dagen de volledige Dutch Mountain Trail, de meest avontuurlijke wandelroute van Nederland. We trekken dwars door het heuvelachtige Zuid-Limburg en steken meerdere keren ongemerkt de grens over naar België en Duitsland. We verbinden de hoogste toppen van Nederland en passeren 7 toppen met samen ruim 1700 hoogtemeters. Onderweg wisselen we weidse uitzichten af met verborgen bospieken. We wandelen vooral over slingerende bospaden, door hellingbossen en open weides, met af en toe een kort stuk verhard. Met meer dan 18 kilometer door Duitsland en ruim 20 kilometer door België is dit een intensieve tocht voor ervaren wandelaars, die elke dag wordt beloond met nieuwe vergezichten en een voldaan gevoel bij aankomst.
-Dag 1
-Wandeling Eygelshoven - Kerkrade
-Je reist vandaag met eigen vervoer (wij raden natuurlijk het OV aan) naar station Eygelshoven. Hier starten we met de inmiddels zeer bekende Dutch Mountain Trail. Na een rustige wandeling door het Limburgse landschap beklimmen we de Wilhelminaberg en wandelen we via bossen en het landgoed bij kasteel Erenstein naar Kerkrade. Hier sluiten we de eerste dag af met een drankje op een gezellig terras.
-Wandelafstand: 11,7 km
-Totale stijging: 220 meter
-Totale daling: 200 meter
-We vragen je om uiterlijk 11:45 aanwezig te zijn op het verzamelpunt Station Eygelshoven. Let op: in Eygelshoven zijn twee stations. Zorg er voor dat je naar Station Eygelshoven gaat en niet naar Station Eygelshoven Markt. Indien je met de auto komt kun je deze gratis bij station Eygelshoven parkeren of bij de P+R Noord- Maastricht.
-Dag 2
-Wandeling Kerkrade - Vaals
-Vandaag staat de eerste echt lange wandeldag op het programma. We verlaten Kerkrade via onverharde paden en al snel steken we ongemerkt de Duitse grens over. In de omgeving van Horbach merk je dat je in Duitsland bent beland wanneer je begroet wordt in het Duits. Onderweg komen we meerdere piramidevormige blokken tegen, stille herinneringen aan de Siegfriedlinie uit de jaren ’30.
-Tijdens een deel van de route wandelen langs en over de Nederlands-Duitse grens en we bereiken het Duitse Orsbach. Hier krijg je voor het eerst dat echte berggevoel, met een prachtig uitzicht over het glooiende Limburgse heuvellandschap. Via de top van de Schneeberg wandelen we verder naar Vaals, waar we na een stevige wandeldag overnachten.
-Wandelafstand: 21,3 km
-Totale stijging: 260 meter
-Totale daling: 210 meter
-Maaltijden inbegrepen deze dag
-Dag 3
-Wandeling Vaals - Gulpen
-Vandaag staat een lange en uitdagende wandeldag op het programma. we starten met de beklimming van de Vaalserberg en we lopen vandaag door maar liefst drie landen: Nederland, Duitsland en België. De Vaalserberg hoort officieel niet bij de 7 Summits, maar je beklimt deze hoogste ‘berg’ van Nederland vandaag wel. Wie wil, kan onderweg een korte omweg maken naar het Drielandenpunt en de uitkijktoren bezoeken.
-Via bossen en open weides wandelen we verder in noordelijke richting, waarbij we voortdurend bergaf en weer bergop gaan. Onderweg is er gelegenheid om te pauzeren bij een gezellig boscafé. Daarna volgen prachtige uitzichtpunten over het Zuid-Limburgse heuvellandschap, met zicht op onder andere de wijndorpen Vijlen en Eys en zelfs enkele wijngaarden langs de route.
-Kenmerkend voor deze dag zijn de vele kruisbeelden langs de weg en de Jezusbeelden in bomen, die je herinneren aan het katholieke karakter van de streek. Aan het einde van de etappe wacht ons nog een laatste klim over de Eyserberg, waarna we afdalen naar het sfeervolle dorp Gulpen, waar we overnachten.
-Wandelafstand: 26 km
-Totale stijging: 540 meter
-Totale daling: 670 meter
-Maaltijd inbegrepen deze dag
-Dag 4
-Wandeling Gulpen - Slenaken
-Na het vertrek uit Gulpen begint de dag direct met een klim naar de Gulpenerberg. Aan de voet van het Mariabeeld word je beloond met een mooi uitzicht over Gulpen en zie je de Eyserberg nog eenmaal liggen. Vervolgens wandelen we verder door het heuvelachtige landschap richting de Belgische grens.
-Onderweg verschijnt de Vaalserberg meerdere keren aan de horizon. Op de top van de Hakkenberg markeert een grenspaal het punt waar Nederland en België samenkomen. Daarna voert de route ons een tijdlang door rustige bossen. Aan het einde van de dag verlaten we de trail en wandelen we naar Slenaken, waar we overnachten in een gezellig hotel.
-Wandelafstand: 19,1 km
-Totale stijging: 440 meter
-Totale daling: 390 meter
-Maaltijden inbegrepen deze dag
-Dag 5
-Wandeling Slenaken - Eijsden
-Vandaag wandelen we in een rustig tempo door het grensgebied van Nederland en België. Vanuit Slenaken lopen we op ons gemak naar de route en steken al snel de grens over. Via het kleine Belgische dorp Plank bereiken we Sint-Martens-Voeren. Dit sfeervolle plaatsje, gelegen vlak bij de Nederlands-Belgische grens, is een fijne plek om te pauzeren en iets te drinken op een terras.
-Na Sint-Martens-Voeren begint de klim naar de Kattenroth, de vijfde top van deze wandeltocht. Tijdens de beklimming loont het om af en toe om te kijken: je hebt hier een mooi uitzicht over het dorp en de spoorbrug in het dal. Vervolgens wandelen we verder door het open landschap richting Nederland.
-De laatste kilometers van de dag zijn vlak en rustiger, wat prettig is na de eerdere klim. We eindigen deze wandeldag in het gezellige Eijsden, aan de Maas. Hier kun je ontspannen nagenieten, bijvoorbeeld met een stuk Limburgse vlaai en uitzicht op het water.
-Wandelafstand: 20,3 km
-Totale stijging: 350 meter
-Totale daling: 440 meter
-Maaltijden inbegrepen deze dag
-Dag 6
-Wandeling Eijsden - Maastricht
-Vandaag staat de laatste wandeldag van de Dutch Mountain Trail op het programma. Vanuit Eijsden steken we met de veerpont de Maas over naar het Belgische Lanaye. Vanaf hier wandelen we in noordelijke richting, met onderweg regelmatig mooie uitzichten over de Maasvallei. Weet wel dat er nog een uitdaging op je wacht: de laatste en zwaarste beklimming van deze tocht.
-Via smalle weggetjes en langs steile hellingen klimmen we omhoog naar D’n Observant. Soms klauter je over boomwortels en voel je nog één keer het echte trailgevoel. Eenmaal boven worden we beloond met fraaie uitzichten over de omgeving. Na het bereiken van de zevende en laatste top is het tijd om af te dalen richting Maastricht, via het indrukwekkende landschap van de ENCI-groeve bij de Sint Pietersberg.
-De wandeltocht eindigt bij het treinstation van Maastricht. Neem gerust de tijd om in het centrum stil te staan bij deze prestatie en het einde van ons avontuur te vieren.
-Wandelafstand: 14,3 km
-Totale stijging: 380 meter
-Totale daling: 380 meter
-Let op: wanneer de veerpont i.v.m. weersomstandigheden niet vaart, wandelen we een alternatieve route via de zuidelijke brug, wat de etappe met ongeveer 8 km verlengt.
-Maaltijden inbegrepen deze dag
-
-#Accommodaties
-Verblijf & vervoer
-Hieronder volgt een selectie van de accommodaties die we gebruiken tijdens deze reis. De meest actuele lijst is na boeking te vinden in de Sawadee Reisapp. Deze lijst is onder voorbehoud van wijzigingen. Het kan voorkomen dat we vanwege beschikbaarheid uitwijken naar een gelijkwaardige accommodatie.
-Benieuwd naar meer info over de accommodaties of naar het vervoer ter plaatse? Klik op de links voor meer informatie.
-Abdij Rolduc - Kerkrade
-Abdij Rolduc Hotel is gelegen in een rustig en groen abdijcomplex in Kerkrade, in het zuiden van Limburg. Het hotel beschikt over comfortabele kamers en een brasserie waar gasten terechtkunnen voor ontbijt, lunch en diner. Door de serene ligging en de combinatie van historische elementen en moderne faciliteiten is dit hotel een aangename plek voor een ontspannen verblijf.
-Wifi
-Eigen badkamer
-Vallis Hotel - Vaals
-Vallis Hotel in Vaals is een modern en comfortabel hotel in een karakteristiek pand, centraal gelegen in het dorp en dicht bij de grens met Duitsland en België. Het hotel biedt ruime kamers met een eigen badkamer en gratis Wi-Fi. Ook is er een loungegedeelte aanwezig. Door de ligging in het centrum van Vaals is het een prettig uitgangspunt om de omgeving te verkennen.
-Wifi
-Eigen badkamer
-Hotel de Korenwolf - Gulpen
-Hotel de Korenwolf in Gulpen is een sfeervol en comfortabel hotel, centraal gelegen in het dorp. Het hotel beschikt over comfortabele kamers met een eigen badkamer en gratis Wi-Fi. In de omgeving bevinden zich diverse restaurants en voorzieningen, waardoor alles binnen handbereik ligt. Door de rustige en centrale ligging is Hotel de Korenwolf een prettige uitvalsbasis voor een verblijf in Zuid-Limburg.
-Wifi
-Eigen badkamer
-Hof van Slenaken - Slenaken
-Hof van Slenaken ligt in het Limburgse heuvelland, in het schilderachtige dorp Slenaken vlak bij de Belgische grens. Het hotel beschikt over moderne kamers en suites met een kitchenette, die garant staan voor een comfortabel verblijf. Dankzij de centrale ligging in een sfeervolle omgeving is Hof van Slenaken een ideale uitvalsbasis om Zuid-Limburg te ontdekken.
-Wifi
-Eigen badkamer
-Le Bonheur Hotel - Eijsden
-Le Bonheur Hotel in Eijsden is een stijlvol en sfeervol hotel in het hart van het dorp, vlak bij de Belgische grens. De modern ingerichte, kleurrijke kamers zijn van alle gemakken voorzien, inclusief gratis Wi‑Fi. Dankzij de centrale ligging liggen restaurants, cafés en lokale bezienswaardigheden binnen handbereik.
-Wifi
-Eigen badkamer
-Accommodatie algemeen
-Praktische informatie
-We overnachten in comfortabele hotels. Het zijn kleinschalige accommodaties met eigen faciliteiten, waar je na een intensieve wandeldag prettig kunt ontspannen.
-Kamerindeling en éénpersoonskamer
-1 persoonAls je alleen op reis gaat hoef je geen eenpersoonskamertoeslag te betalen. Dan deel je de kamer (of tent indien van toepassing) met iemand van hetzelfde geslacht, zoals vermeld op paspoort*. Wanneer je kiest voor een kamer op indeling wordt er gedurende de reis steeds gerouleerd.
-Wanneer je liever een eigen kamer hebt, dan kun je een eenpersoonskamer boeken vanaf € 0,00. Je kunt het exacte bedrag terugvinden onder data & prijzen bij de gewenste vertrekdatum als je op de rekenmachine klikt.
-2 personenAls je met z'n tweeën op reis gaat, deel je samen een kamer (of tent). Je kunt kiezen tussen een 'twin' of een 'double'. Een twin-kamer heeft twee aparte bedden; een double heeft een tweepersoonsbed. Sommige hotels hebben alleen maar twin-kamers en soms zijn alle doubles al vergeven waardoor je toch twee aparte bedden hebt.
-3 personenAls je met z'n drieën op reis gaat, delen twee personen een 'double' of 'twin' kamer (of tent) en één deelnemer wordt ingedeeld in een twin-kamer (of tent) met een andere medereiziger van hetzelfde geslacht. Wanneer je liever een eigen kamer hebt, dan kun je een eenpersoonskamer boeken vanaf € 0,00.
-*Wij realiseren ons dat dat het geslacht zoals vermeld in paspoort, niet per definitie overeen hoeft te komen met hoe iemand zich identificeert. Misschien ben je transgender, in transitie of staat er een X in je paspoort. Geldt dit voor jou? Neem dan gerust contact met ons op, we denken graag met je mee.
-Bij het maken van de boeking kun je opgeven wat voor kamerindeling je wenst. Bij het boeken van een kamer op indeling, wordt van je verwacht dat je rekening houdt met je kamergenoot. Denk je dat jouw kamergenoot last van je gaat ondervinden omdat je snurkt, laat opblijft of vaak midden in de nacht op moet staan? Dan boek je te allen tijde een eenpersoonskamer. Boek je toch op indeling, maar blijkt tijdens de reis dat jouw kamergenoot overlast ervaart? Dan vragen we je waar mogelijk ter plekke alsnog je eigen kamer te boeken. De kosten die hieruit voortvloeien zijn in beginsel voor jouw rekening, of kunnen in sommige gevallen in goed overleg met je kamergenoot gedeeld worden, en dienen ter plekke te worden voldaan.
-Vervoer ter plaatse
-Sawadee is een groot voorstander van reizen met het openbaar vervoer. Deze tocht start om 12 uur 's middags op treinstation Eygelshoven en eindigt bij station Maastricht. Kom je met de auto? Dan kun je gratis parkeren bij station Eygelshoven of op de P+R Maastricht Noord.
-Tijdens de reis verplaats je je voornamelijk te voet. Eén keer nemen de de veerboot.
-Je loopt tijdens deze reis alleen met je dagrugzak; je grote bagage wordt van accommodatie naar accommodatie voor je vervoerd (maximaal 20 kilo per koffer/tas). Zo kun je ontspannen wandelen en volop genieten van de omgeving, zonder zware bepakking.
-
-#Praktische informatie
-Praktische informatie
-Financiën
-Valuta
-In Nederland betaal je uiteraard gewoon met de euro.
-Cash, creditcard of pinnen?
-Je kunt vrijwel overal met je pinpas betalen. Neem voor de zekerheid wel wat kleingeld mee voor de veerpont.
-Een overzicht van beschikbare pinautomaten en plekken waar je met creditcard kunt betalen vind je op deze pagina van Mastercard. In het buitenland is voor het gebruik van een creditcard altijd een pincode nodig.
-Steeds meer banken vervangen Maestro- en V PAY-passen door passen met Debit Mastercard of Visa Debit. Oudere Maestro- en V PAY-passen worden buiten Europa steeds minder geaccepteerd en hierdoor kan het dus voorkomen dat geld opnemen niet mogelijk is, ook als je pas is ingesteld voor gebruik buiten Europa. Controleer daarom vóór vertrek welk logo op je betaalpas staat en informeer bij je bank of je pas op je bestemming bruikbaar is én is ingesteld voor gebruik buiten Europa. Vraag indien nodig een nieuwe betaalpas aan.
-Neem tijdens je reis bij voorkeur meerdere betaalmiddelen mee, bijvoorbeeld naast je betaalpas een creditcard en/of tweede betaalpas. Zo ben je minder afhankelijk van één betaalmiddel en beter voorbereid op verlies, misbruik of beperkte acceptatie.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 200 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 200,-
-Fooien	€ 10,-
-Veerpont Eijsden - Lanaye	€ 1,50
-Vervoer van huis naar station Eygelshoven	afhankelijk van woonplaats
-Vervoer van station Maastricht naar huis	afhankelijk van woonplaats
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.
-Beste reistijd
-Je kan deze trail in principe in alle seizoenen lopen. Houd rekening met alle soorten Nederlands weer en zorg voor laagjeskleding die je aan en uit kunt trekken bij wisselende weersomstandigheden.
-Wat neem ik mee op reis?
-Bagagekeuze
-Ter plaatse maakt het vervoer vaak deel uit van het avontuur. Reizen per (privé) bus, truck, boot, trein, terreinwagen; tijdens een Sawadee reis kan het allemaal! Omdat de bagageruimte in deze vervoermiddelen vaak beperkt is, raden we je af om een harde koffer mee te nemen. Het beste kun je kiezen voor een flexibele rugzak, sporttas of zachte koffer. Kijk daarnaast ook eens kritisch naar wat je echt nodig hebt op reis, de ervaring leert dat je al snel te veel meeneemt. Omdat je zelf verantwoordelijk bent voor het dragen van je bagage naar de accommodatie, geldt in dit geval: less is more!
-Luchtvaartmaatschappijen staan meestal 1 stuk ruimbagage van maximaal 20 kilo toe. Voor binnenlandse vluchten hanteren sommige luchtvaartmaatschappijen een lagere bagagelimiet. Dit staat dan vermeld in het tabblad 'vluchtinfo', onder het kopje vluchtinformatie. Wij adviseren om onmisbare spullen, zoals bijvoorbeeld medicatie en wandelschoenen, aan te trekken of in je handbagage te stoppen.
-Wat heb je nodig:
-Kleding voor verschillende weertypen (laagjes- en regenkleding)
-Stevige wandelschoenen met goede zool die goed zijn ingelopen
-Hervulbare waterfles(sen)
-Snacks voor onderweg
-Zonnepet, zonnebril en middelen tegen de zon
-Dagrugzak
-Broodtrommel voor je lunchpakket
-Minstens € 1,50 aan contant geld voor de veerpont
-EHBO materialen voor persoonlijk gebruik (kleine hulpmiddelen als pleisters, pincet, paracetamol, sporttape etc.
-Voldoende water, lunch en snacks voor de wandeling op dag 1 (er is deze dag geen watertappunt onderweg)
-Eventueel een thermosfles voor koffie/thee
-Eventueel een zitmatje voor pauzes onderweg
-We raden je ook aan om wandelstokken mee te nemen.
-Handdoeken zijn bij alle accommodaties aanwezig en hoeven dus niet meegenomen te worden.
-Een drone mee op reis?
-Drones worden een steeds populairder hulpmiddel om foto’s of video-opnamen te maken. Het is echter lang niet altijd toegestaan deze te gebruiken. Mocht je overwegen een drone mee te nemen, dan raden we je ten zeerste aan je goed te verdiepen in de lokale wet- en regelgeving omtrent het gebruik ervan. Daarnaast is het van belang dat je je verdiept in de regels van de luchtvaartmaatschappij waarmee je vliegt, naar/van de bestemming en eventuele binnenlandse vluchten. Niet alle maatschappijen hanteren dezelfde regels voor het meenemen van een drone. Je kunt verplicht worden deze in je ruimbagage te doen of juist als handbagage mee te nemen.
-Graag willen we het volgende benadrukken:
-Het eventueel meenemen en gebruiken van een drone is geheel op eigen verantwoordelijkheid en risico.
-Twijfel je over de regels omtrent het gebruik van een drone, neem deze dan niet mee op reis.
-Houd er rekening mee dat het ongeoorloofd gebruik van een drone zwaar gestraft kan worden.
-Neem je toch een drone mee, gebruik deze dan op momenten dat je de tijdsplanning / voortgang van de groepsreis niet belemmert.
-In ‘gevoelige gebieden’, bijvoorbeeld gebieden met militaire activiteiten, kunnen afwijkende regels gelden.
-Lees op de website Droneopreis.nl meer over de regels bij het meenemen van een drone naar jouw reisbestemming.
-Visuminformatie
-Voor deze reis heb je geen visum nodig.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken.
-Deze richtlijnen gelden voor reizigers met de Nederlandse of Belgische nationaliteit. Reizigers met een andere nationaliteit dienen zelf contact op te nemen met de ambassade, Visumcentrale-Nederland of Visumcentrale-België.
-Paspoortinformatie
-Voor deze reis heb je een ID-kaart of paspoort nodig.
-Als reiziger ben je zelf verantwoordelijk om over de juiste reisdocumenten (een geldig paspoort en eventuele benodigde visa) te beschikken. Hou er rekening mee dat bij sommige beroepen (o.a. @media en/of krijgsmacht) soms een andere dan de reguliere visumprocedure moet worden gevolgd.
-Let op: Controleer bij een overstap altijd de paspoorteisen van het land waar je overstapt. Ook wanneer je slechts op doorreis bent, kunnen er specifieke eisen gelden voor de minimale geldigheidsduur van je paspoort.
-Indien je paspoort niet lang genoeg geldig is voor deze reis, vraag dan tijdig een nieuw paspoort aan, zodat je de paspoortgegevens uiterlijk 8 weken voor vertrek aan ons kunt doorgeven. Worden de paspoortgegevens na deze termijn aan ons doorgegeven, dan kan dit (financiële) gevolgen hebben voor de reeds geboekte reisonderdelen. Neem in dat geval voor de zekerheid ook je oude paspoort mee op reis.
-Voor reizigers met een andere dan de Nederlandse of Belgische nationaliteit kunnen afwijkende visumvoorwaarden van toepassing zijn, anders dan in onze reisbeschrijving vermeld. Indien door de desbetreffende Ambassade en/of Consulaat om persoonlijke redenen geen visum aan jou wordt toegekend, kan Sawadee Reizen niet aansprakelijk worden gesteld. Conform de ANVR-Reizigersvoorwaarden (Boekingsvoorwaarden) 2019 art. 6.4 komen onkosten voor het niet (geheel) kunnen maken van de reis vanwege het ontbreken van geldige (reis)documenten voor rekening van de reiziger. Wel kun je het risico op het buiten je schuld om niet krijgen van een visum bij sommige verzekeraars laten afdekken.
-Verder dienen alleenreizende ouders en ouders met een andere achternaam dan hun (minderjarige = t/m 17 jaar) kind bij reizen buiten het Schengen-gebied te kunnen aantonen dat zij het ouderlijk gezag hebben over het meereizende kind. Denk hierbij bijvoorbeeld aan (advies Rijksoverheid en Koninklijke Marechaussee): Verklaring toestemming vakantie en kopie paspoort andere (niet-meereizende) ouder, recent uittreksel BRP kind, eventueel uitspraak met betrekking tot gezag en omgang/ouderschapsplan/geboorteakte kind. Zorg dus dat je op tijd over de juiste papieren beschikt. De Koninklijke Mareschaussee heeft extra controles aangekondigd voor deze zomer. Voor overige informatie kun je terecht op de website van de Rijksoverheid en Koninklijke Marechaussee. Voor reizigers met de Belgische nationaliteit verwijzen wij graag naar Buitenlandse Zaken.
-Let op: De letter ‘O’ komt in het Nederlandse paspoortnummer niet voor. Het gaat dus altijd om het cijfer ‘0’. Dit geldt ook voor het nummer op een identiteitskaart.
-Gezond en veilig op reis
-Medicijnen
-We raden je aan om een bescheiden reisapotheek mee te nemen. Denk hierbij o.a. aan pijnstillers, desinfecterende middelen, zonnebrand, (blaren)pleisters, middelen tegen koorts, diarree, verstopping, insectenbeten en reisziekte. Daarnaast zijn een tekentang en ORS (Oral Rehydration Salts, tegen uitdroging) aan te raden. Onze reisbegeleiders hebben zelf ook een beperkte EHBO-kit mee. Gebruik je speciale medicijnen(bijv. medicijnen die onder de opiumwet vallen en/of grote hoeveelheden), neem dan voldoende mee en vraag je apotheek om een KNMP-reisdocument voor je op te stellen. Houd dit document in je handbagage.
-Thuisvaccinatie.nl
-Sawadee werkt samen met Thuisvaccinatie.nl. Dit is een landelijk werkend vaccinatiecentrum. Zij vaccineert aan huis of op locatie en geeft je advies over het gebruik van malariaprofylaxe. Gecertificeerde medewerkers komen bij je langs wanneer het jou uitkomt, zelfs in de avonduren. Dus geen reis- en wachttijd! De tarieven liggen op het niveau van of zelfs lager dan die van de GGD of huisarts. Klik hier voor meer informatie over Thuisvaccinatie, zoals de voordelen, de werkwijze, en het maken van een afspraak.
-Check je reisverzekering!
-De kosten van medische verzorging in het buitenland of een onverwachte vlucht naar huis kunnen enorm oplopen. Wie goed verzekerd op reis gaat voorkomt hoge kosten. Daarom stellen we een individuele reisverzekering verplicht. Meer informatie over het Sawadee Verzekeringspakket i.s.m. Ik kies zelf van a.s.r. vind je hier.
-Veiligheid en reisadvies en entreevoorwaardenDe veiligheid van klanten en personeel staat bij Sawadee altijd op de eerste plaats. Via onze contacten met agenten en lokale autoriteiten volgen wij de veiligheidssituatie op al onze bestemmingen doorlopend. Daarnaast is het belangrijk om te weten wat de entreevoorwaarden zijn voor jouw bestemming. Als Nederlandse reisorganisatie baseert Sawadee haar adviezen op die van de Nederlandse overheid. Belgische reizigers raden we aan ook de adviezen van de Belgische overheid te raadplegen. Afwijkende adviezen kunnen effect hebben op de reisverzekering. Check altijd de voorwaarden van je eigen reisverzekering.
-Voor Nederlandse reizigers: Check deze pagina voor meer informatie
-Voor Belgische reizigers: Check deze pagina voor meer informatie
-Let op: reisadviezen en entreevoorwaarden worden altijd gebaseerd op het land van vertrek. Vlieg je vanuit Nederland maar heb je de Belgische nationaliteit, dan zijn de Nederlandse reisadviezen van toepassing. Mochten er entreevoorwaarden zijn om van België naar Nederland te reizen, neem dan even contact met ons op.
-Moeilijker bereikbare gebieden en trekking op grote hoogte Een aantal van onze reizen gaat (deels) door meer afgelegen gebieden. Dit heeft tot gevolg dat wanneer er (medische) hulp ingeroepen moet worden, dit langer kan duren dan we in Nederland gewend zijn. Ook kan de standaard van de mogelijk te bieden zorg lager liggen dan gewend. Neem dit risico in overweging alvorens deze reis te maken. Ga je tijdens de reis een meerdaagse trekking maken op (grote) hoogte? Check dan de maximale hoogte die je bereikt en of jouw reisverzekering een repatriëring op die hoogte dekt, bijvoorbeeld een helikopter redding boven de 4.000 meter.
-Risicovolle activiteitenSawadee organiseert avontuurlijke actieve rondreizen. Voor sommige reizigers bestaat het avontuur uit activiteiten zoals raften, kajakken, zip-linen, sandboarden, ballonvaren, mountainbiken of snorkelen. Waar wij dit soort activiteiten (optioneel) aanbieden hebben wij uiterste zorg betracht in het vinden van betrouwbare partners met een hoge standaard voor veiligheid. Echter, zelfs met goede voorzorgsmaatregelen en goede partners blijven dit risicovolle en onvoorspelbare activiteiten.
-Wanneer wij op bepaalde bestemmingen deze activiteiten niet aanbieden is dat met een goede reden. Besluit je zelf toch zo'n activiteit te ondernemen, dan is dat op eigen risico. Informeer te alle tijden of je reisverzekering dekking biedt voor deze activiteiten.
-Veiligheid op de wegDe staat van het wegennet en het weggedrag van de overige weggebruikers is van mindere kwaliteit en minder voorspelbaar dan in Nederland. Dit brengt enig risico met zich mee. Wij maken gebruiken van uitvoerig gekeurde voertuigen en getrainde en ervaren chauffeurs. De chauffeurs en de lokale partners voldoen aan de door ons gestelde criteria en worden met regelmaat getoetst om de risico's te minimaliseren. Tijdens de rit is het dragen van veiligheidsgordels verplicht.
-Fietsen in het buitenlandTijdens enkele van onze reizen bieden wij de mogelijkheid van een fietstocht of fietsverhuur aan. Hoewel wij Nederlanders natuurlijk zeer ervaren fietsers zijn dien je er rekening mee te houden dat de wegen en de medeweggebruikers in het buitenland minder berekend zijn op fietsers. Houd je aan de aanwijzingen en voorschriften van de reisbegeleiding, wees extra alert en rijd defensief.
-Zwemmen in open waterTijdens veel van onze reizen heb je verschillende mogelijkheden om een verfrissende duik te nemen of te zwemmen in een meer, rivier of de zee. Omdat je zwemt in onbekend gebied dien je de nodige voorzorgsmaatregelen te nemen. Voordat je besluit om ergens te gaan zwemmen raden wij je aan om altijd de reisleider te raadplegen in verband met bijvoorbeeld sterkte stromingen die we in Nederland niet gewend zijn. Kijk ook altijd of er veiligheidsinformatie wordt gegeven in de vorm van bijvoorbeeld waarschuwingsvlaggen. Wees op de hoogte van je omgeving en zwem niet alleen of ’s nachts.
-Maaltijden
-Tijdens deze reis zijn de volgende maaltijden inclusief:
-5x ontbijt
-4x lunch
-In de ochtend kun je in de hotels genieten van een ontbijtbuffet, hier maak je ook direct je eigen lunchpakket klaar.
-Neem hiervoor je eigen lunchtrommel mee.
-Deskundige reisbegeleiding
-De Dutch Mountain Trail is niet gemarkeerd en het is daarom prettig dat deze reis begeleid wordt door één van onze (Nederlandstalige) reisbegeleid(st)ers.
-Onze reisbegeleiders zijn stuk voor stuk professioneel en gepassioneerd en hebben een intensieve, door Sawadee ontwikkelde training gevolgd. De reisbegeleiders zorgen ervoor dat de reis zo optimaal mogelijk verloopt en zijn je eerste aanspreekpunt bij vragen of opmerkingen.
-Contact tijdens de reis
-Noodgevallen en calamiteiten
-Zorg ervoor dat thuisblijvers altijd op de hoogte zijn van zowel je reisschema als je vluchtgegevens. Actuele vluchttijden zijn te vinden op de website of in de app van de betreffende luchthaven. De apps zijn meestal gratis te downloaden in de app stores. Bijvoorbeeld:
-Amsterdam Schiphol Airport - schiphol.nl / Schiphol Amsterdam Airport app
-Brussels Airport - brusselsairport.be/nl / Brussels Airport App
-Rotterdam The Hague Airport - rotterdamthehagueairport.nl
-Eindhoven Airport - eindhovenairport.nl
-We sturen geen lijst van de hotels waar we tijdens de reis verblijven omdat deze nog wel eens wisselen en de kamers vaak onder een andere naam geboekt zijn. In geval van nood zijn we voor zowel reizigers als thuisblijvers 24 uur per dag bereikbaar. Bel daarom niet met het hotel maar met Sawadee. Tijdens kantooruren kun je ons bellen op +31 20 420 2220. Buiten kantooruren word je doorgeschakeld met onze alarmdienst of kun je direct ons noodnummer bellen: +31 20 651 6035.
-Tip: maak een digitaal dossier aan. Scan je paspoort, visa, e-tickets en andere belangrijke bescheiden en mail deze naar jezelf. Zo heb je, ingeval van diefstal of verlies tijdens de reis, altijd kopieën van je belangrijke papieren achter de hand.
-Taal en cultuur
-Park Sleep Fly
-Natuurlijk komen er bij het maken van een reis ook wat voorbereidingen kijken. Wil jij verzekerd zijn van een zorgeloos begin van je reis? Goed nieuws, want via Sawadee kun je extra voordelig een Park Sleep Fly arrangement boeken bij Hotel ibis Schiphol Amsterdam Airport. Rijd de dag voor vertrek in alle rust naar het hotel, gelegen vlak bij luchthaven Schiphol, en parkeer maximaal 21 dagen kosteloos je auto (voor de prijs van 15 dagen). Check vervolgens in voor je overnachting en pak de volgende dag heerlijk uitgerust de gratis shuttlebus, die van 3:45 tot 00:40 uur rijdt, naar de vertrekhal. Dit arrangement is met name een uitkomst bij een vroege heenvlucht of late terugvlucht.
-Bekijk deze pagina voor meer informatie en de voorwaarden.
-Onze impact
-Toerisme is één van de grootste industrieën ter wereld, met een enorm potentieel voor economische groei en werkgelegenheid. Als ervaren reisorganisatie zien we echter ook dat reizen impact heeft op het klimaat en op de sociale en natuurlijke leefomgeving van de bestemmingen die we bezoeken. Daarom zetten we ons in om met onze reizen een positieve impact achter te laten voor mens, natuur en cultuur, en onze negatieve impact waar mogelijk te verkleinen. Zo willen we bijdragen aan het behoud van de bijzondere plekken en ontmoetingen die onze reizen zo waardevol maken. Daarbij hebben we respect voor lokale gebruiken en culturele codes, en vragen we onze reizigers hetzelfde te doen. Zo zijn we bijvoorbeeld lid van The Code: de gedragscode voor het beschermen van kinderen tegen seksuele uitbuiting. Het kan voorkomen dat je op reis geconfronteerd wordt met signalen van kindermisbruik. Meld deze vermoedens altijd bij je reisbegeleider en via www.dontlookaway.nl.
-Wil je weten hoe jij, naast het meenemen van een hervulbare drinkfles, kunt bijdragen aan een positieve reisimpact? Bekijk hier onze 15 tips om de positieve impact van je reis te vergroten.
-
-#Beste reistijd
-Je kan deze trail in principe in alle seizoenen lopen. Houd rekening met alle soorten Nederlands weer en zorg voor laagjeskleding die je aan en uit kunt trekken bij wisselende weersomstandigheden.
-
-#Inbegrepen in de reissom
-Wat is inbegrepen in de reissom?
-Internationale vluchten incl. (ruim)bagage, luchthavenbelastingen en brandstoftoeslag op moment van boeking
-Vervoer en overnachtingen volgens programma
-Specifiek voor deze reis:
-Begeleiding door Nederlandse reisbegeleider
-5 overnachtingen in comfortabele hotels, inclusief toeristenbelasting
-Bagagevervoer (max 1 stuk en max 20 kilo per koffer/tas)
-Bijdrage van € 5 p.p. aan Stichting het Limburgs Landschap (voor natuurbehoud)
-5x ontbijt, 4x lunch
-Landarrangement
-Ben je al op de plaats van bestemming of regel je de vlucht liever zelf? Boek dan het landarrangement van deze reis. We verwachten dan dat je op de dag van aankomst van de groep tijdig bij het eerste hotel bent. Transfers naar het hotel dien je zelf te regelen en te betalen. Een landarrangement zal vaak 1 of 2 dagen korter zijn dan de volledige reis vanwege de vluchtdagen die er onderdeel van uitmaken.
-Sawadee is een groot voorstander van reizen met het openbaar vervoer. Deze tocht start om 12 uur 's middags op treinstation Eygelshoven en eindigt bij station Maastricht. Kom je met de auto? Dan kun je gratis parkeren bij station Eygelshoven of op de P+R Maastricht Noord.
-
-#Bijkomende kosten
-Bijkomende kosten vooraf
-Boekingskosten:
-1 persoon: € 25,-
-2 personen: € 40,-
-3 of meer deelnemers: € 50,-
-Bijdrage SGR (per persoon): €5,-
-Bijdrage Calamiteitenfonds (per factuur): € 2,50 
-Reis- en/of annuleringsverzekering (indien van toepassing)
-(Optionele) eenpersoonskamer
-Wanneer je liever een eigen kamer hebt, dan kun je voor deze reis een eenpersoonskamer boeken vanaf € 0,00.
-Zakgeld
-Het richtbedrag aan zakgeld op deze reis is € 200 per persoon per week.
-Dit bedrag is een gemiddelde van wat reizigers de laatste jaren tijdens deze reis hebben uitgegeven aan maaltijden en drankjes, bijkomende excursies, entreegelden, eventuele plaatselijke luchthavenbelastingen en fooien. Natuurlijk is je eigen uitgavenpatroon hierbij ook bepalend. Souvenirs zijn daarom niet inbegrepen. Tijdens de reis zijn verschillende (optionele) excursies mogelijk, die je ter plaatse (met behulp van de reisbegeleider) kunt boeken. Indien een excursie beter vooraf kan worden geboekt, dan staat deze vermeld in de reisbeschrijving en op het boekingsformulier.
-Enkele voorbeelden van uitgaven tijdens deze reis:
-Persoonlijke uitgaven: eten en drankjes (voor de hele reis)	€ 200,-
-Fooien	€ 10,-
-Veerpont Eijsden - Lanaye	€ 1,50
-Vervoer van huis naar station Eygelshoven	afhankelijk van woonplaats
-Vervoer van station Maastricht naar huis	afhankelijk van woonplaats
-Dit zijn de richtbedragen zoals bekend in 2026. Uiteraard kunnen deze in de loop van het jaar wijzigen. Daarnaast kan de koers van de dollar en lokale valuta gewijzigd zijn waardoor de prijzen van excursies en activiteiten mogelijk anders uitvallen.
-Fooien
-Het genoemde bedrag aan fooien is een richtlijn. Op reis is het gebruikelijk en in veel landen de norm om bijvoorbeeld chauffeurs, koks en gidsen een fooi te geven. Fooien vormen vaak een belangrijk onderdeel van het inkomen, waarvan meestal een hele familie afhankelijk is. Gemeenschappelijke uitgaven (groepsfooien, entreegelden etc.) worden meestal uit de gezamenlijke pot betaald, waarvoor aan alle deelnemers een bijdrage wordt gevraagd. Wanneer je tevreden bent over je reisbegeleider, wordt het zeer gewaardeerd om deze waardering ook met een fooi uit te drukken. Een richtlijn ligt tussen de € 3-5 per persoon per (reis)dag.]]></get-trip-scraped-content>
+    <get-trip-scraped-content>Unknown</get-trip-scraped-content>
   </trip>
   <trip>
     <get-trip-id>GT-SAWADEE-36926</get-trip-id>
