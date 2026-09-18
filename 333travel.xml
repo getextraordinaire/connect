@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="333travel" partner="333travel" generated="2026-09-17T03:00:38.771Z" count="354">
+<trips feed="333travel" partner="333travel" generated="2026-09-18T03:00:36.041Z" count="354">
   <trip>
     <get-trip-id>GT-333TRAVEL-21834</get-trip-id>
     <get-trip-id-org>T-CN-0476</get-trip-id-org>
@@ -18321,8 +18321,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Verborgen plekjes van Java</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.051</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.051</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.067</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.067</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.181</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
@@ -21633,8 +21633,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Verkenningstocht Vietnam</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>1.087</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.087</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.098</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.098</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.145</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
@@ -24197,8 +24197,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>1.689</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.689</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.784</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.784</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.284</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24357,8 +24357,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>1.145</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.145</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.188</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.188</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>1.688</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24515,8 +24515,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>2.456</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.456</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.627</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.627</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.980</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -24729,8 +24729,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>1.522</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.522</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.603</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.603</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.033</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -26974,8 +26974,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Javaans verleden, orang-oetans en Bali</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>2.165</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.165</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.176</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.176</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.288</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
@@ -27769,8 +27769,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vietnam in Stijl</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>3.734</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.734</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.819</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.819</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.869</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Vietnam</get-trip-country>
@@ -28759,8 +28759,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Australië</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
-    <get-trip-lowest-price-2p>3.074</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.074</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.460</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.460</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>6.161</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
@@ -29735,8 +29735,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Dwars door Australië</get-trip-name>
     <get-trip-duration>26</get-trip-duration>
-    <get-trip-lowest-price-2p>3.006</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.006</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.221</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.221</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>6.222</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Australie</get-trip-country>
@@ -31724,8 +31724,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Zuidelijke Charme van Mississippi</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.476</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.476</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.490</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.490</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.241</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Amerika</get-trip-country>
@@ -38758,8 +38758,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Vancouver</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.884</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.884</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.715</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.715</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.516</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -38962,8 +38962,8 @@ N.B. Geef je voorkeur voor een vertrektijd direct bij boeking aan. Dit helpt ons
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Rondreis Highlights West-Canada</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>2.047</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.047</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.864</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.864</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.664</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -39188,8 +39188,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover the Rockies</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.639</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.639</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.492</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.492</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.243</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -39389,8 +39389,8 @@ Laat uw drone thuis, recreatief gebruik is niet toegestaan binnen de grenzen van
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour West-Canada</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.475</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.475</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.253</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.253</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.054</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -39686,8 +39686,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Camperreis West-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>1.667</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.667</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.517</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.517</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.360</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -39952,8 +39952,8 @@ Laat uw drone thuis, recreatief gebruik is niet toegestaan binnen de grenzen van
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oost-Canada</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.952</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.952</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.777</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.777</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.528</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -40153,8 +40153,8 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Oost-Canada</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>2.499</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.499</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.275</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.275</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.876</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -40388,8 +40388,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Capital Express: Per trein door Oost-Canada</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>1.567</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.567</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.427</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.427</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.177</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -40770,8 +40770,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Canadian Rockies en Yellowstone</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>3.082</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.082</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.016</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.016</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.766</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -42664,8 +42664,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van Cambodja</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>1.850</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.850</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.898</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.898</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.949</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Cambodja</get-trip-country>
@@ -43069,8 +43069,8 @@ De boot tussen Bintan en Batam word uitgevoerd door een lokale ferrymaatschappij
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Oost-Canada &amp; Amerika</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest-price-2p>3.219</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.219</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.157</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.157</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.908</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -43350,8 +43350,8 @@ Hou er rekening mee dat je bij sommige hotels moet betalen om de auto daar te ku
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari Discover Kenia</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>2.528</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.528</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.575</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.575</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.875</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Kenia</get-trip-country>
@@ -43520,8 +43520,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari Kenia Highlights</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>3.817</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.817</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.456</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.456</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.756</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Kenia</get-trip-country>
@@ -45363,8 +45363,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Familie fly drive Ontdek West-Canada</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>2.023</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.023</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.842</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.842</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.842</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -46774,8 +46774,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Safari Klassiek Kenia</get-trip-name>
     <get-trip-duration>8</get-trip-duration>
-    <get-trip-lowest-price-2p>2.204</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.204</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.251</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.251</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.102</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Kenia</get-trip-country>
@@ -51328,8 +51328,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Oman &amp; Dubai</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>1.774</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.774</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.856</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.856</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.506</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -54647,8 +54647,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover the Maritimes</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>1.638</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.638</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.491</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.491</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.242</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -54824,8 +54824,8 @@ In iedere grotere toeristische plaats is wel een zogenaamd Visitor Centre te vin
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights van de Maritimes</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>2.855</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.855</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.599</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.599</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.600</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
@@ -55578,8 +55578,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights Deluxe</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>3.072</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.072</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.311</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.311</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.631</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -55794,8 +55794,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Oman Highlights Deluxe</get-trip-name>
     <get-trip-duration>11</get-trip-duration>
-    <get-trip-lowest-price-2p>2.217</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.217</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.374</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.374</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.773</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -56254,8 +56254,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Best Deal Gauchos en koloniale steden in de Andes</get-trip-name>
     <get-trip-duration>16</get-trip-duration>
-    <get-trip-lowest-price-2p>2.985</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.985</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.015</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.015</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.265</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
@@ -61209,8 +61209,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Grand Tour Oman</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>2.710</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.710</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.395</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.395</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.896</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -66343,8 +66343,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fascinerend Hong Kong en de Filipijnen</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>1.850</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>1.850</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>1.873</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>1.873</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.123</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Filipijnen</get-trip-country>
@@ -67258,8 +67258,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Experience Authentiek Oman</get-trip-name>
     <get-trip-duration>9</get-trip-duration>
-    <get-trip-lowest-price-2p>2.543</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.543</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.875</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.875</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.376</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Oman</get-trip-country>
@@ -68113,8 +68113,8 @@ Let op: voor sommige nationale parken, is het in de zomermaanden verplicht om vo
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly Drive Japan</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>2.747</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.747</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.834</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.834</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.984</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
@@ -68539,8 +68539,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Highlights Zuid-Korea en Japan</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest-price-2p>3.534</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.534</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.577</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.577</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.777</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Japan</get-trip-country>
@@ -69905,8 +69905,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Mexicaanse Magie Superior</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
-    <get-trip-lowest-price-2p>2.173</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.173</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.183</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.183</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>2.994</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Mexico</get-trip-country>
@@ -71661,8 +71661,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Langs de Natuurwonderen van Chili en Argentinië</get-trip-name>
     <get-trip-duration>17</get-trip-duration>
-    <get-trip-lowest-price-2p>3.314</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>3.314</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>3.411</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>3.411</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.662</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
@@ -71936,8 +71936,8 @@ P.p. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Discover Argentinië en Brazilië</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
-    <get-trip-lowest-price-2p>2.341</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.341</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.542</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.542</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>4.232</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Argentinië</get-trip-country>
@@ -74260,8 +74260,8 @@ P.p.p.n. vanaf:
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Fly drive van Vancouver tot de Oregon Coast</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
-    <get-trip-lowest-price-2p>2.731</get-trip-lowest-price-2p>
-    <get-trip-lowest-price-2p-ticket-excl>2.731</get-trip-lowest-price-2p-ticket-excl>
+    <get-trip-lowest-price-2p>2.660</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p-ticket-excl>2.660</get-trip-lowest-price-2p-ticket-excl>
     <get-trip-lowest-price-2p-ticket-incl>3.523</get-trip-lowest-price-2p-ticket-incl>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
