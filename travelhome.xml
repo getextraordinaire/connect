@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="travelhome" partner="Travelhome" generated="2026-09-17T02:00:00.641Z" count="31">
+<trips feed="travelhome" partner="Travelhome" generated="2026-09-18T02:00:00.846Z" count="31">
   <trip>
     <get-trip-id>GT-TRAVELHOME-00001</get-trip-id>
     <get-trip-status>Up</get-trip-status>
@@ -296,10 +296,10 @@ Wil je weten wat de voordelen zijn van een campingpakket, lees dan onze blog:
 Let op! Reis je in het voor- of naseizoen, bijvoorbeeld begin mei of begin oktober, dan kan het zijn dat (nog) niet alle campings op je route geopend zijn. Controleer vooraf of de camping waar je wilt overnachten, geopend is in je reisperiode. Lage temperaturen kunnen zorgen voor andere reisbeleving dan in het hoogseizoen. Bij temperaturen onder het vriespunt kunnen niet alle faciliteiten van je camper gebruikt worden. Lees meer over een camperreis in het vroege voor- en najaar in ons blog 'Buiten het seizoen op camperreis: de voor- en nadelen'.
 Vertrekdagen & Prijzen
 - ma 17-05: vr 10-09 ma 13-09
-- Cruise Canada - Campertype C30: € 1.599 p.p. € 1.809 p.p. € 1.719 p.p.
+- Cruise Canada - Campertype C30: € 1.599 p.p. € 1.819 p.p. € 1.729 p.p.
 - Cruise Canada - Campertype C18: € 1.639 p.p. € 1.819 p.p. € 1.749 p.p.
-- Cruise Canada - Campertype C21: € 1.659 p.p. € 1.889 p.p. € 1.819 p.p.
-- Cruise Canada - Campertype C25: € 1.689 p.p. € 1.799 p.p. € 1.729 p.p.
+- Cruise Canada - Campertype C21: € 1.659 p.p. € 1.899 p.p. € 1.829 p.p.
+- Cruise Canada - Campertype C25: € 1.669 p.p. € 1.799 p.p. € 1.729 p.p.
 Wil je van bovenstaande reisdata, campertypes of reisduur afwijken, vraag dan vrijblijvend een offerte aan voor je specifieke reiswensen.
 Travelhome
 Let op: Beschikbaarheid is op aanvraag. Wijzigingen voorbehouden in alle prijzen, voorwaarden, afbeeldingen en productbeschrijvingen.
@@ -428,11 +428,11 @@ paradijs!
 \ \
 - Compact
 - Wendbaar
-3a:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-3b:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-3c:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-3d:T162c,
-3e:T118f,
+40:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+41:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+42:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+43:T162c,
+44:T118f,
 Route - 17-daagse camperreis Sunshine Coast | Travelhome
 #Over de route
 Travelhome
@@ -538,12 +538,12 @@ Camperhuur:
 Overig:
 ##VOORWAARDEN
 Travelhome
-34:Td1e,
-36:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-37:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-38:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-39:Tf97,
-3a:Td50,]]></get-trip-scraped-content>
+3a:Td1e,
+3c:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+3d:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+3e:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+3f:Tf97,
+40:Td50,]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/19c85971ebf824208d5370ea9eb2fb0451ec0a95.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/ba46df9947fd07791989292efe07ec24cbcbe51a.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="416020">https://images.panoramix.getaway.nl/media/default/0023/34/d9afc319dd701af885c4b047987368392d22753a.jpeg</get-trip-image-url-manual-temp-getaway>
@@ -949,11 +949,11 @@ Camperhuur:
 Overig:
 ##VOORWAARDEN
 Travelhome
-3d:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-3e:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-3f:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-40:Taf7,
-41:Tf89,
+43:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+44:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+45:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+46:Taf7,
+47:Tf89,
 Route - 24-daagse camperreis Halifax retour | Travelhome
 #Over de route
 Travelhome
@@ -963,11 +963,8 @@ Overig:]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/d4ad501e0c1434e13c840d3255634b62b4faaaed.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/7e0d8f52c9bb3b80c64d644e8df7a24ed55974a2.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-temp-getaway image-size="1200x803" image-weight="167533">https://images.panoramix.getaway.nl/media/guide/0001/24/7922c8280e9102c76dd7ffb5f3174196198a0c79.jpeg</get-trip-image-url-manual-temp-getaway>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/MXFyN0xY-maxi-motorhome-mha-maritiem-canada.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cm52SmlK-nb-kouchibouguac-02-credit-parks-canada-1.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/bHhIeU1r-fraserway-c-medium-maritiem-canada.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Um1ZWWRY-prince-edward-island-54990_1920.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/X0w2M2Zz-tca-canadream-maritiem-canada.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dUw4SVEz-anthony-maw-ne0esumugxu-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Y0VNMjRp-peggys-cove-631782_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dGJXb0VH-lunenburg-ns-100_0031-1.jpg</get-trip-image-url-overview>
@@ -1091,7 +1088,7 @@ Travelhome
 Sydney
 Vliegreis:
 Overig:]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/f0a6aad6df0cbb0d9fe6affde0e2a57b9a5b1c49.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/38fc530f81e701a0d0b99b214db902f1e484e10f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SlNRZm1K-strand-bij-cairns.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VE83czQx-au_cape-tribulation_01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Uld4eE1O-manny-moreno-x9teqjwmm6q-unsplash.jpg</get-trip-image-url-overview>
@@ -1330,7 +1327,7 @@ Incl. / Excl. - Bucketlist West-Amerika | Travelhome
 #Inclusief - Bucketlist West-Amerika
 *Excursies
 Travelhome]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/829faa540b3eab9c156828bdc24fcbd0d8ac773e.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/5198b3045cb06ba8b771482300ecfeb5da76489f.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/LXZqMWNS-rafts-on-the-merced-river-in-yosemite-valleykl.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/YzM1YTN3-2011-114-003kl.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/U3EyMW9U-gratis-beeld-vanuit-pixabay-3.jpg</get-trip-image-url-overview>
@@ -1389,10 +1386,10 @@ Manning Provincial Park/Hope, 1 nacht - Kelowna, 1 nacht - Revelstoke, 1 nacht -
 Let op: de beschreven route is gebaseerd op de campings die zijn opgenomen in het campingpakket. Deze zijn onder voorbehoud van beschikbaarheid. Indien een camping geen beschikbaarheid heeft, kiezen wij een passend alternatief. We proberen in dat geval een camping te kiezen die op of zo dichtbij mogelijk de oorspronkelijke route ligt.
 Vertrekdagen & Prijzen
 - ma 17-05: vr 04-06 do 24-06
-- Cruise Canada - Campertype C30: € 2.969 p.p. € 3.309 p.p. € 3.879 p.p.
-- Cruise Canada - Campertype C18: € 3.049 p.p. € 3.499 p.p. € 3.849 p.p.
-- Cruise Canada - Campertype C21: € 3.079 p.p. € 3.499 p.p. € 3.829 p.p.
-- Cruise Canada - Campertype C25: € 3.139 p.p. € 3.499 p.p. € 3.959 p.p.
+- Cruise Canada - Campertype C30: € 2.969 p.p. € 3.269 p.p. € 3.869 p.p.
+- Cruise Canada - Campertype C18: € 3.049 p.p. € 3.469 p.p. € 3.839 p.p.
+- Cruise Canada - Campertype C21: € 3.079 p.p. € 3.429 p.p. € 3.809 p.p.
+- Cruise Canada - Campertype C25: € 3.109 p.p. € 3.489 p.p. € 3.959 p.p.
 - Fraserway - Campertype C-Small: € 3.459 p.p. € 3.819 p.p. € 4.559 p.p.
 - Fraserway - Campertype C-Medium: € 3.539 p.p. € 3.959 p.p. € 4.919 p.p.
 - Fraserway - Campertype C-Large: € 3.579 p.p. € 3.979 p.p. € 5.019 p.p.
@@ -1651,11 +1648,11 @@ Dag 7
 \ \
 - Compact
 - Wendbaar
-40:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-41:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-42:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-43:T1647,
-44:T1c6f,
+46:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+47:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+48:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+49:T1647,
+4a:T1c6f,
 Route - Bucketlist West-Canada | Travelhome
 #Over de route
 Travelhome
@@ -1682,10 +1679,8 @@ Dag 7
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NE1PVS1z-ca_whistlerview.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/QUdTeWZx-ca_wellsgraywaterval.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UmJ0eUdI-ca_victoria1.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dFBCSnly-camping.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c3NQNXc2-moraine-lake.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WmtscFo2-dag-9-victoria-fishermans-wharf-%282%29.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eG1wRFVv-chantal-camperreis-canada.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/MnpOTW1D-jasper-tram--town2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N0FqM2ZE-dag-12g-town-of-jasper-%283%29.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VmV6SExv-wells-gray_18-mei.jpg</get-trip-image-url-overview>
@@ -1696,6 +1691,7 @@ Dag 7
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WWJndEI2-uitzicht-rivier-2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/YS1oV0Et-whistler-dorp.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/aGgwYkpo-img_5042.jpeg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dFBCSnly-camping.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00011</get-trip-id>
@@ -1785,7 +1781,7 @@ In het dorp zelf zijn de activiteiten vooral gericht op sportiviteit en de natuu
 Net buiten Whistler ligt het Garibaldi Provincial Park, een mooie bestemming voor wandelingen van verschillende lengtes. De korte hikes van 3 kilometer enkele reis zijn perfect voor een halve dag.
 Een andere manier om het uitzicht te ervaren is de Peak 2 Peak Gondola, die je van Whistler Mountain naar Blackcomb Mountain brengt. Bij helder weer heb je hier een schitterend uitzicht en is het mogelijk over de Cloudraker Suspension Bridge te lopen voor een 360-graden panorama. Er zijn ook diverse wandelpaden om te verkennen.
 Whistler biedt een breed scala aan activiteiten, van mountainbiken en zwemmen tot georganiseerde sightseeingtours en ziplinen. Voor de avontuurlijke reiziger is ziplinen een spannende ervaring waarbij je hoog boven de dennenbossen tussen de bergen door zoeft. Voor een meer ontspannen dag kun je genieten van de stranden bij Alta Lake. Shopliefhebbers kunnen hun hart ophalen in het centrum, en een bezoek aan de Olympische ringen mag niet ontbreken. Als je liever wat rustiger aan doet, kun je ontspannen in de Scandinave Spa.
-33:Tcc2,
+39:Tcc2,
 De rit van Whistler naar Vancouver via de Sea to Sky Highway is een ervaring op zich. Terwijl je met de camper rijdt, zie je de kustlijn en in de verte de bergtoppen van Vancouver Island.
 De laatste nacht in jouw huisje op wielen breekt aan. Tijd om in te pakken, op te ruimen en de camper schoon te maken. De volgende dag ga je naar de camperverhuurder in Vancouver waar je afscheid neemt van je camper. Na het inleveren van de camper ga je de stad in voor een verblijf van twee nachten in een hotel. Hierdoor heb je voldoende tijd om Vancouver te verkennen. Een ideale manier om dit te doen is met een Hop-on Hop-off bus, deze zit dan ook bij het optionele excursiepakket inbegrepen. Hiermee bezoek je gemakkelijk de mooiste trekpleisters van de stad en stap je uit waar en hoe lang je wil.
 #CANADA PLACE / FLY OVER CANADA
@@ -1798,29 +1794,29 @@ Granville Island, dat tijdens Expo '86 werd gerenoveerd, wordt vaak het hart van
 ##STANLEY PARK
 Stanley Park is een van de grootste stadsparken ter wereld, met een oppervlakte van meer dan 405 hectare. Het park ligt op loopafstand van het centrum, en de Seawall-wandeling biedt een goed uitzicht op de stad. Het pad is 8,8 kilometer lang en wordt gebruikt door wandelaars, fietsers en skaters. Een bezienswaardigheid in het park is Brockton Point, waar totempalen met Indiaanse symbolen staan. Ook het Vancouver Aquarium bevindt zich in het park, een geschikte bestemming, vooral op een regenachtige dag. Het bassin met de beloega's en dolfijnen is populair bij bezoekers.
 ✓ Hop-on Hop-off bus Vancouver op dag 21
-34:T582,
+3a:T582,
 Vandaag is een dag die je aan boord van het schip doorbrengen, je vaart door de beroemde Inside Passage. Zorg ervoor dat je veel tijd aan dek doorbrengt, het is namelijk een prachtige vaartocht.
 Alaska's Inside Passage is een netwerk van vaarroutes dat zich een weg baant door fjorden die door gletsjers zijn uitgehouwen, en langs de ruige kust van zuidoostelijk Alaska. Deze route voert je door het hart van weelderige regenwouden en langs imposante kustlijnen. Bekend om zijn natuurschoon, strekt de Inside Passage zich uit van het Misty Fjords National Monument tot het beroemde Glacier Bay National Park & Preserve.
 Een reis door de Inside Passage biedt unieke kansen om Alaska's iconische dieren in hun natuurlijke omgeving te observeren. Bultruggen en orka's worden vaak gespot in de vruchtbare wateren, terwijl zeearenden boven je zweven en bruine beren langs de kust op zoek zijn naar voedsel.
 De havens langs de route geven je een inkijkje in de rijke geschiedenis van Alaska. In Sitka herinnert een kerk met uivormige koepels aan de Russische periode in Alaska. Ketchikan laat je kennismaken met de cultuur van de oorspronkelijke bewoners, met zijn historische totempalen en galerieën vol inheemse kunst. Skagway, een stad die ooit de toegangspoort was tot de Klondike Gold Rush, ademt nog altijd de sfeer van het Wilde Westen uit de tijd rond de eeuwwisseling.
-35:T409,
+3b:T409,
 Ontdek Juneau, Alaska's afgelegen hoofdstad. Gelegen tussen water, bossen en bergen, biedt Juneau de unieke kans om in één dag een gletsjer te verkennen, verse vis te proeven op een terras aan de kust en de vele bezienswaardigheden van de hoofdstad te ontdekken. Juneau, met ongeveer 32.000 inwoners die voornamelijk vissers en kleine ondernemers zijn, heeft de sfeer van een kolonistenplaatsje, maar verwelkomt elke zomer meer dan een miljoen bezoekers. Dit bevestigt Juneau als de nummer één toeristische bestemming van Alaska.
 Juneau is beroemd om zijn buitenactiviteiten, verse vis en verfijnde eetgelegenheden. Het echte hoogtepunt van een bezoek aan deze charmante stad is het spotten van wilde dieren waardoor het een perfecte locatie is om mee te gaan met een Whale Watching tour. Een natuurgids aan boord legt het gedrag en de leefomgeving van de bultrugwalvis en andere dieren die je kunt tegenkomen uit, zoals orka's, Steller-zeelions, Dall's dolfijnen, zeehonden, zeearenden en Sitka zwartstaart herten.
-36:T81e,
+3c:T81e,
 Op het hoogtepunt van de Klondike Gold Rush was de havenstad Skagway de belangrijkste toegangspoort naar de legendarische goudvelden en groeide het snel uit tot de grootste nederzetting in Alaska. Destijds was Skagway een ruw grensstadje vol handelsposten, saloons en pensions. Hoewel de stad na de goudkoorts in de vroege jaren 1900 in verval raakte, heeft het nu een nieuw leven gekregen als toegangspoort voor een ander soort bezoeker: diegenen die de kleurrijke geschiedenis van Alaska en zijn ongerepte natuur willen ontdekken.
 Tijdens de cruise naar Alaska duik je in de geschiedenis van Skagway, waar de folklore van de goudkoorts nog overal aanwezig is. Van de beruchte Red Onion Saloon, waar nog steeds een pistool wordt bewaard dat ooit van Wyatt Earp was, tot de iconische White Pass & Yukon Route-spoorlijn. Dit klassieke smalspoor doorkruist ruige bergen, passeert enorme watervallen en torenhoge gletsjers, en verbindt Skagway met Whitehorse, diep in de Yukon. Skagway, ook wel bekend als de 'Tuinstad van Alaska,' is een plaats vol natuurlijke schoonheid en historische charme. Een groot deel van de stad is behouden gebleven als onderdeel van het Klondike Gold Rush National Historical Park, waar rangers gratis wandeltochten aanbieden in het historische district. Tijdens je bezoek verken je een levendige lokale gemeenschap met een rijke verzameling galerieën, unieke winkeltjes en restaurants waar verse zeevruchten direct uit de nabijgelegen wateren worden geserveerd.
 Een excursie die je volgens ons niet mag overslaan is de White Pass Rail & Yukon Expedition. Je boekt de excursie gemakkelijk bij Holland America Line. Het is een werkelijk onvergetelijke rit over een historische en adembenemende smalspoorrijweg! Let op: Deze excursie overschrijdt de grens tussen de VS en Canada; Amerikaanse en Canadese staatsburgers moeten een paspoort en een identiteitsbewijs van het schip bij zich hebben. Alle andere nationaliteiten moeten een geldig paspoort, visum en identiteitsbewijs van het schip hebben.
-37:Tb2d,
+3d:Tb2d,
 Tijdens de cruise naar Glacier Bay word je omringd door een wereld van natuurlijke wonderen. Terwijl je vaart, hoor je het kraken en bewegen van het eeuwenoude ijs, het geschreeuw van meeuwen en adelaars in de lucht, en het indrukwekkende geluid van een bultrug die uit het water springt. Omgeven door besneeuwde toppen en uitgestrekte getijdegletsjers, waarvan er zeven in het park liggen, biedt Glacier Bay een onvergetelijke ervaring in een steeds veranderend landschap.
 Zelfs in de zomer kan het weer onvoorspelbaar zijn, dus zorg voor warme, waterdichte kleding, inclusief muts, fleece, een warme jas en een goede regenjas, zodat je het spectaculaire landschap vanaf het open dek comfortabel kunt bewonderen. Neem zeker een verrekijker mee, want de kans om gletsjers, fjorden, rivieren en het rijke dierenleven van dichtbij te zien, wil je niet missen.
 De schoonheid van met sneeuw bedekte bergen en dichte bossen langs de kustlijn maakt Glacier Bay Nationaal Park tot een van de meest indrukwekkende landschappen ter wereld. Terwijl je door Glacier Bay vaart, komt de indrukwekkende Margerie-gletsjer in zicht. Dit is een van de beste plekken om het afkalven van gletsjerijs te zien, een ervaring die je niet snel zult vergeten. De natuur zit vol verrassingen, dus houd je camera klaar voor het moment dat een bultrug opduikt of een bruine beer langs de kust slentert.
 Tijdens de Glacier Bay-cruise zorgen lokale experts voor een diepere beleving van dit gebied. Als erkende concessiehouder van Glacier Bay Nationaal Park werkt Holland America Line samen met park-rangers en Huna Tlingit-gidsen, die waardevolle inzichten bieden in zowel het rijke ecosysteem als de eeuwenoude cultuur van het gebied. Na het bezoek aan dit 1,3 miljoen hectare grote UNESCO-werelderfgoed, zul je niet alleen nieuwe indrukken hebben opgedaan, maar ook een dieper begrip en waardering voor deze buitengewone plek.
 Op weg naar Glacier Bay kun je je alvast verdiepen in alles wat deze bestemming te bieden heeft. Aan boord zijn er tal van mogelijkheden om meer te leren over Alaska, bijvoorbeeld door deel te nemen aan de Explorations Central (EXC®)-activiteiten en presentaties over de natuurhistorie van Glacier Bay. Een van de hoogtepunten is de Glacier Bay Primer Talk, waar park-rangers en een Huna Tlingit-culturele gids vertellen over de ecologie van het gebied, de impact van de gletsjers op de inheemse bevolking, en het belang van natuurbehoud.
 Geniet aan boord van de smaken van Alaska, met lokaal gevangen zalm en andere regionale specialiteiten, evenals wijnen en sterke dranken uit Alaska en de Pacific Northwest. Sluit de dag af met avondentertainment, zoals 'Alaska In Concert' en de 'BBC Earth Alaska Stage Show,' die op levendige wijze de geschiedenis en tradities van Glacier Bay en de Tlingit tot leven brengen.
-38:T507,
+3e:T507,
 Ervaar een avontuurlijke cruise naar Ketchikan, Alaska, ook wel de 'Eerste Stad' van Alaska genoemd. Ketchikan, gelegen aan de oevers van de Tongass Narrows, is het eerste grote stoppunt voor veel cruisereizigers die de schilderachtige fjorden van de Inside Passage verkennen. De stad, omgeven door weelderige bossen en vaak verfrist door regen, biedt een unieke mix van cultuur en natuur.
 Ketchikan heeft een lange geschiedenis als centrum van de zalmvisserij en -verwerking. Tijdens je bezoek kun je deelnemen aan sportvissen of genieten van verse visgerechten in lokale restaurants. De stad is ook een uitstekende plek om de rijke cultuur van de inheemse Alaskaanse stammen, zoals de Tlingit, Haida en Tsimshian, te ontdekken. Bezoek het Totem Heritage Center en Totem Bight State Park om de indrukwekkende totempalen met hun ingewikkelde houtsnijwerk te bewonderen. In Saxman Village, net buiten Ketchikan, kun je de Tlingit-cultuur in actie zien, met beeldhouwers die hun vaardigheden demonstreren en een traditionele dansshow in het clanhuis bijwonen. Vergeet ook niet om de historische Creek Street te verkennen, waar je souvenirs, gerookte zalm en lokale kunst kunt kopen en een kijkje kunt nemen in het Dolly's House Museum, een overblijfsel uit de goudkoortstijd.
-39:T815,Waterton Lakes National Park is een verrassend mooi park tijdens je camperreis door West-Canada. Dit park, dat zich uitstrekt tot aan de Amerikaanse grens en overgaat in Glacier National Park, zit vol adembenemende natuur en een overvloed aan wilde dieren. Onderweg heb je de kans om bijvoorbeeld dikhoornschapen en beren te zien.
+3f:T815,Waterton Lakes National Park is een verrassend mooi park tijdens je camperreis door West-Canada. Dit park, dat zich uitstrekt tot aan de Amerikaanse grens en overgaat in Glacier National Park, zit vol adembenemende natuur en een overvloed aan wilde dieren. Onderweg heb je de kans om bijvoorbeeld dikhoornschapen en beren te zien.
 #HOOGTEPUNTEN VAN WATERTON LAKES
 Waterton Lakes bestaat uit twee grote meren, Upper en Lower Waterton Lake, die verbonden zijn door een smal kanaal. Op het meer zijn verschillende watersporten, zoals kanoën, vissen, en zelfs waterskiën. Red Rock Canyon is een absolute must-see, met zijn felgekleurde rotsen en de mogelijkheid om in het koele water te zwemmen. Na de Kenow Wildfire in 2017 herstelt de natuur hier indrukwekkend, met nieuwe vegetatie die de kloof een vernieuwde uitstraling geeft
 Een andere niet te missen plek is Cameron Lake. De rit ernaartoe is al spectaculair, met mooie uitzichten. Onderweg kom je langs Oil City, een historisch monument dat de locatie markeert van de eerste oliebron in West-Canada. Bij Cameron Lake kun je picknicken aan de oever of het meer verkennen via een wandeling.
@@ -1895,14 +1891,14 @@ Pakket 1:
 Pakket 2:
 Travelhome
 #Whistler
-33:Tcc2,
+39:Tcc2,
 #GASTOWN
 ##CHINATOWN
-34:T582,
-35:T409,
-36:T81e,
-37:Tb2d,
-38:T507,
+3a:T582,
+3b:T409,
+3c:T81e,
+3d:Tb2d,
+3e:T507,
 Route - Camper & Cruise: West-Canada en Alaska | Travelhome
 #Calgary
 Travelhome
@@ -1913,9 +1909,9 @@ Een bezoek aan Lake Louise is niet compleet zonder een uitstapje naar Moraine La
 ##Peyto Lake
 Peyto Lake is beroemd om zijn unieke vorm en het adembenemende uitzicht. In tegenstelling tot veel andere meren, kun je hier het meer het beste bewonderen vanaf een uitkijkpunt boven het meer. Het uitzicht op het ijsblauwe meer omringd door bergen is spectaculair, vooral met een laag sneeuw in de herfst. Er is een tweede, rustiger uitkijkpunt iets verderop, dat ook zeker een bezoek waard is.
 ##Banff Village
-32:T7f0,
+38:T7f0,
 #Whistler
-35:Tcc2,
+3b:Tcc2,
 ##CHINATOWN]]></get-trip-scraped-content>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/fc71394700e45d082365fe4e401bfcad84d284fc.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/34/4e1029a454f4f16b9a83880d18edd1798dc959fd.jpeg</get-trip-image-url-manual-getaway>
@@ -2499,7 +2495,6 @@ Logan Pass]]></get-trip-scraped-content>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/T1ZUdFM3-dag-174.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/QnlUbXVH-dag-175.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NkVBc0Nh-dsc04190recht.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/T1FXaWdN-arco---craters-of-the-moon-nm.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VGFFdlZf-waterton-glacier-parkjpg.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NVlGMldP-badlands-drumheller.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c05uQ05h-athabasca-glacier.jpg</get-trip-image-url-overview>
@@ -2803,16 +2798,16 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/YUgxMU9E-aditya-vyas-hckvhaebkus-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OEtodloz-jose-mizrahi-avzgjxchvra-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dGdnX3lT-kevin-sarduy-k5sv7-dror8-unsplash.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/anRxYnV3-img_2464.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UDdfeDVo-brug-keys.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/azVQeXJw-key-292173.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/a2pUaXla-art-deco1.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/TVQ3dm5F-collins-ave.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WjB2S2Qt-miami-panorama-2117310_1920.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SGZabVNl-us_miami-sb.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c1lMczc0-hector-vasquez-7xfkewkuqxk-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ZktEcV8y-kennedy-space-center-2.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://assets.travelhome.eu/hero@4/LUVqel82-lance-asper-pawy7xrslwc-unsplash.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/anRxYnV3-img_2464.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SGZabVNl-us_miami-sb.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00016</get-trip-id>
@@ -3075,7 +3070,7 @@ Overig:
 - THE STRIP
 - BELLAGIO
 \ \]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/e06b363299c5b1963f1fdc9134eeb69805827f42.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/71b558378dbe685e6b49db3cf6785f62ebfdf64c.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Vks1Q1dS-adventure_-hiker-2-hi-res.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/b1NQVTE5-lifestyle_-couple-picnic-2-hi-res.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N2F4RThm-20170930-_dsc4121.jpg</get-trip-image-url-overview>
@@ -3293,18 +3288,18 @@ Camperhuur:
 Overig:
 ##VOORWAARDEN
 Travelhome
-49:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-4a:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-4b:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-4c:Tc56,
-4d:T130c,
+4f:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+50:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+51:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+52:Tc56,
+53:T130c,
 Route - Eastcoast Experience | Travelhome
 #Over de route
 Travelhome
 Vliegreis:
 Camperhuur:
 Overig:]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/02621bff3bbe805a77d2b477d97b8065eb3ae53c.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/81f7f0e9979fa03cac45c924abc0109fc3d479bf.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/aWJ6eGgw-jacques-bopp-igmabomghr8-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OVVjU08y-omer-nezih-gerek-bco4gbgxo9g-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Uld4eE1O-manny-moreno-x9teqjwmm6q-unsplash.jpg</get-trip-image-url-overview>
@@ -3577,7 +3572,7 @@ De dag is aangebroken, vandaag vertrek je met het vliegtuig naar Zuidwest-Amerik
 Travelhome
 Honolulu
 Manoa Falls]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/fda736fed7c83427be6389c0c6ebc1db05e9307a.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/e1fc33cacdba0632153851d3cc4ee87f00f30a89.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NzBfUTlV-02109.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cG1DeUlN-hoomaluhia-botanical-garden-oahu.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/dU5tdU94-waikiki-beach.jpg</get-trip-image-url-overview>
@@ -3728,7 +3723,7 @@ Travelhome
 Route - Golden Outback natuur en stranden | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/f74ece788a5e97951b667f4e6e05ac7f05568655.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/23febb1d675a279c0e39174c2e9b1eb074c33115.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cldLV1gw-natures-window-kalbarri.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VXR0dHUt-esperance-waterfront.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Y1RfZzJl-lucky-bay-beach-esperance.jpg</get-trip-image-url-overview>
@@ -3899,7 +3894,7 @@ Travelhome
 Route - Het ruige westen | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/788f33d93bfa7773a4c27e59668257b304c95d58.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/ebf7d7ba271601d77e7d45b6dc3d36d71261da8d.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/czhYOXZE-au_perth_skyline_01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WDZNb2s0-valley-of-the-giants---tourism-australia.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/TVljaGRo-margaret-river--redgate-beach-margaret-river-surf-school--tourism-australia-2.jpg</get-trip-image-url-overview>
@@ -4321,10 +4316,10 @@ Met wie kampeer jij onder een fonkelende sterrenhemel?
 Let op! Reis je in het voor- of naseizoen, bijvoorbeeld begin mei of begin oktober, dan kan het zijn dat (nog) niet alle campings op je route geopend zijn. Controleer vooraf of de camping waar je wilt overnachten, geopend is in je reisperiode. Lage temperaturen kunnen zorgen voor andere reisbeleving dan in het hoogseizoen. Bij temperaturen onder het vriespunt kunnen niet alle faciliteiten van je camper gebruikt worden. Lees meer over een camperreis in het vroege voor- en najaar in ons blog 'Buiten het seizoen op camperreis: de voor- en nadelen'.
 Vertrekdagen & Prijzen
 - ma 17-05: vr 04-06 do 24-06
-- Cruise Canada - Campertype C30: € 1.819 p.p. € 2.149 p.p. € 2.729 p.p.
-- Cruise Canada - Campertype C18: € 1.889 p.p. € 2.339 p.p. € 2.689 p.p.
-- Cruise Canada - Campertype C21: € 1.929 p.p. € 2.339 p.p. € 2.669 p.p.
-- Cruise Canada - Campertype C25: € 1.979 p.p. € 2.339 p.p. € 2.799 p.p.
+- Cruise Canada - Campertype C30: € 1.819 p.p. € 2.109 p.p. € 2.709 p.p.
+- Cruise Canada - Campertype C18: € 1.889 p.p. € 2.309 p.p. € 2.679 p.p.
+- Cruise Canada - Campertype C21: € 1.929 p.p. € 2.269 p.p. € 2.649 p.p.
+- Cruise Canada - Campertype C25: € 1.949 p.p. € 2.339 p.p. € 2.799 p.p.
 - Fraserway - Campertype C-Small: € 2.299 p.p. € 2.659 p.p. € 3.399 p.p.
 - Fraserway - Campertype C-Medium: € 2.389 p.p. € 2.809 p.p. € 3.759 p.p.
 - Fraserway - Campertype C-Large: € 2.429 p.p. € 2.819 p.p. € 3.869 p.p.
@@ -4586,11 +4581,11 @@ Travelhome
 \ \
 - Compact
 - Wendbaar
-45:I[31675,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-46:I[52593,['8500','static/chunks/8500-9d626ae2cdab96d8.js','8437','static/chunks/8437-010decfa7eb3b47c.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6472d53ddc5a825c.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-76a9c34c2bdf9550.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-ceb6827aa94b5fb2.js'],'default']
-47:I[25243,['8500','static/chunks/8500-9d626ae2cdab96d8.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6472d53ddc5a825c.js','7529','static/chunks/7529-42f6fbf7def21a6e.js','5243','static/chunks/5243-4077516e8cb20f55.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-ebd9b6fa2506ff2b.js'],'default']
-48:T1177,
-49:T1429,
+4b:I[31675,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+4c:I[52593,['8500','static/chunks/8500-1f676d9fc764e8e0.js','8437','static/chunks/8437-9ac4858017ae4dc4.js','6074','static/chunks/6074-03827a6f16fcefb1.js','179','static/chunks/179-486a4345b3ef3826.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','5886','static/chunks/5886-db19de3b69c2e02c.js','9484','static/chunks/9484-c4742e4bd4d0b2e6.js','4523','static/chunks/4523-4245b5eff171ff51.js','2619','static/chunks/app/camperreizen/%5Bslug%5D/layout-d450d9fdffbd852e.js'],'default']
+4d:I[25243,['8500','static/chunks/8500-1f676d9fc764e8e0.js','6074','static/chunks/6074-03827a6f16fcefb1.js','1266','static/chunks/1266-6faa8cf9dcdae937.js','1336','static/chunks/1336-4f7134345f044c63.js','5243','static/chunks/5243-9cd38e5cfce86b4c.js','213','static/chunks/app/camperreizen/%5Bslug%5D/in-exclusief/page-e8d7f214212333af.js'],'default']
+4e:T1177,
+4f:T1429,
 Route - Populairste reis door West-Canada | Travelhome
 #Over de route
 Travelhome
@@ -4763,12 +4758,10 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N3pGRzlY-sun-studio-6754227_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c2tSVUJS-memphis-tennessee-trolley-3799681_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VGw0SHBl-photo-1594437001318-2b5c7a9c7291.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/U0JZaGg5-longwood-house-243078_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/RWNmdV9y-photo-1588897159261-328f3f53715f.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/XzZJd1dB-nashville-603784_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/eTFWMklL-huntsville-1616869_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SV9fb0dQ-french-quarter-557458_1280.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N2JVWXpx-house-1080268_1280.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/bXIwM2d0-photo-1560110734-f03640ca8eda.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/TUxBWWlG-chanttanooga.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NkhRQlBx-img_5004-klein.jpg</get-trip-image-url-overview>
@@ -4783,6 +4776,8 @@ Travelhome]]></get-trip-scraped-content>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/c3pHbFdG-anna-land-2amo2cvwdao-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/aXNZZmtT-aaron-williams-f1qs-gyogei-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/MzhBWjBV-jonathan-rivera-rep8ay50uyu-unsplash.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/U0JZaGg5-longwood-house-243078_1280.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/N2JVWXpx-house-1080268_1280.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00026</get-trip-id>
@@ -4932,7 +4927,6 @@ ICELANDAIR]]></get-trip-scraped-content>
     <get-trip-image-url-manual-temp-getaway image-size="1600x1067" image-weight="279160">https://images.panoramix.getaway.nl/media/default/0023/34/d7b3af94f53d458454486febf78890d2e99652f6.jpeg</get-trip-image-url-manual-temp-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VGpPZ2Vr-grand-teton-national-park.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WU5GRFdI-nikolay-j78ncravn8c-unsplash.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OV9vOVRi-reykjavik-1988082_1920.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WUNvOTl3-einar-h-reynis-lm6qmb_vuso-unsplash.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ekF0Rldf-flyover-iceland.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/MXRsbXd5-p1030723klein.jpg</get-trip-image-url-overview>
@@ -4953,8 +4947,9 @@ ICELANDAIR]]></get-trip-scraped-content>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/cF8tVkNH-_dsc4967_dxo.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/TGtvckJf-motorhome27_highkl.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/RWtyWFVv-rockies-loes.jpg</get-trip-image-url-overview>
-    <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WVoySThP-denver-6.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/VFUybFly-img_8608.jpg</get-trip-image-url-overview>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/OV9vOVRi-reykjavik-1988082_1920.jpg</get-trip-image-url-acco>
+    <get-trip-image-url-acco image-size="" image-weight="">https://www.travelhome.nl/api/public/content/WVoySThP-denver-6.jpg</get-trip-image-url-acco>
   </trip>
   <trip>
     <get-trip-id>GT-TRAVELHOME-00027</get-trip-id>
@@ -5109,7 +5104,7 @@ Camperhuur:
 Villahuur:
 Autohuur:
 Overig:]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/288ea94e304dfa7e3317f03b90f73e75d9d594f6.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/1cbf3a8848ff084806468d006d5ac775bb716379.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SndjZGtN-empire-state-building-1081929_1920-gratis-pixabay.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/ejNFX1JI-new-york-742795.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/SG1mbVpy-dsc_0100-klein.jpg</get-trip-image-url-overview>
@@ -5286,7 +5281,7 @@ Travelhome
 Route - Van oceaan naar outback | Travelhome
 #Over de route
 Travelhome]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/79a111079b7dd9b71351fe0299fc45bb53dbf422.jpeg</get-trip-image-url-manual-getaway>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/9b3f088b2f0254ba841607b6f268c74abb65fe06.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UnRVbFE3-au_litchfield_04.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/Sm0wcURf-au_kakadu_weg-met-camper_01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/YUNIWWJC-au_ayers-rock_06.jpg</get-trip-image-url-overview>
@@ -5641,17 +5636,17 @@ Travelhome kan niet aansprakelijk worden gesteld voor eventuele incorrecte infor
 - Stopover van 3 nachten in Toronto
 - 13-daagse camperreis Calgary retour
 - Prijzen op aanvraag
-34:T966,
-36:T966,
-37:Tb20,
+3a:T966,
+3c:T966,
+3d:Tb20,
 ##West-Canada met citytrip Toronto
 Incl. / Excl. - Travelhome favoriet West-Canada met citytrip Toronto | Travelhome
 #Inclusief - West-Canada met citytrip Toronto
 Travelhome
-34:Tb20,
-36:T966,
-37:Tb20,]]></get-trip-scraped-content>
-    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/a1c01867f38995d54ac7ddab8a8c9883e0dea816.jpeg</get-trip-image-url-manual-getaway>
+3a:Tb20,
+3c:T966,
+3d:Tb20,]]></get-trip-scraped-content>
+    <get-trip-image-url-manual-getaway image-size="" image-weight="">https://images.panoramix.getaway.nl/media/trip/0023/43/53e584665e2b0e45638a210fb7e977963c5c6c15.jpeg</get-trip-image-url-manual-getaway>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/NDRDaUtP-ca_jasper_meer_01.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/R0ozendt-ca_niag_01-klein.jpg</get-trip-image-url-overview>
     <get-trip-image-url-overview image-size="" image-weight="">https://www.travelhome.nl/api/public/content/UkI1YWhi-013325klein.jpg</get-trip-image-url-overview>
