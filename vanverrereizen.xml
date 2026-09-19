@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-18T03:00:36.041Z" count="318">
+<trips feed="vanverrereizen" partner="Van Verre Reizen" generated="2026-09-19T03:00:35.076Z" count="318">
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34880</get-trip-id>
     <get-trip-id-org>21651</get-trip-id-org>
@@ -709,8 +709,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34885</get-trip-id>
     <get-trip-id-org>21544</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>De grote Oost: Sulawesi en de Molukken</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -925,7 +925,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Bali, Flores en Gili</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
-    <get-trip-lowest-price-2p>2.500</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.150</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Indonesie</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/indonesie/rondreizen/bali-flores-gili.htm</get-trip-url>
@@ -10595,8 +10595,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34937</get-trip-id>
     <get-trip-id-org>21281</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Kleurrijk Ecuador</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
@@ -10994,8 +10994,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34939</get-trip-id>
     <get-trip-id-org>21306</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ecuador Compleet</get-trip-name>
     <get-trip-duration>27</get-trip-duration>
@@ -13485,8 +13485,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34951</get-trip-id>
     <get-trip-id-org>21205</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nova Scotia en Newfoundland</get-trip-name>
     <get-trip-duration>20</get-trip-duration>
@@ -14370,7 +14370,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Natuur en cultuur in Oost-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>3.450</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.350</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/oost-canada/natuur-cultuur.htm</get-trip-url>
@@ -14598,7 +14598,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Veelzijdig Ontario &amp; Québec</get-trip-name>
     <get-trip-duration>19</get-trip-duration>
-    <get-trip-lowest-price-2p>3.500</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.700</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/oost-canada/veelzijdig-ontario-quebec.htm</get-trip-url>
@@ -14813,7 +14813,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten West-Canada</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>2.750</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.800</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/west-canada/hoogtepunten.htm</get-trip-url>
@@ -15053,7 +15053,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Drie weken West-Canada per camper</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
-    <get-trip-lowest-price-2p>3.000</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.200</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/west-canada/drie-weekse-camperreis.htm</get-trip-url>
@@ -15283,7 +15283,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Van oost naar west</get-trip-name>
     <get-trip-duration>25</get-trip-duration>
-    <get-trip-lowest-price-2p>4.000</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.650</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/oost-canada/oost-naar-west.htm</get-trip-url>
@@ -15755,7 +15755,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vancouver &amp; the Sunshine Coast</get-trip-name>
     <get-trip-duration>14</get-trip-duration>
-    <get-trip-lowest-price-2p>2.400</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.900</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/west-canada/vancouver.htm</get-trip-url>
@@ -15938,8 +15938,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34963</get-trip-id>
     <get-trip-id-org>21022</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Buiten de gebaande paden van West-Canada</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -16176,12 +16176,12 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34964</get-trip-id>
     <get-trip-id-org>20912</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Ontdek de Canadese Rockies</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
-    <get-trip-lowest-price-2p>2.400</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>3.800</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/west-canada/canadese-rockies.htm</get-trip-url>
@@ -16410,7 +16410,7 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten Oost-Canada</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
-    <get-trip-lowest-price-2p>3.150</get-trip-lowest-price-2p>
+    <get-trip-lowest-price-2p>2.800</get-trip-lowest-price-2p>
     <get-trip-flight>Excluded</get-trip-flight>
     <get-trip-country>Canada</get-trip-country>
     <get-trip-url>https://www.vanverre.nl/canada/rondreizen/oost-canada/hoogtepunten-oost-canada.htm</get-trip-url>
@@ -19127,8 +19127,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34977</get-trip-id>
     <get-trip-id-org>21051</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Compleet Chili</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -22414,8 +22414,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-34990</get-trip-id>
     <get-trip-id-org>21037</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Met je gezin naar Panama</get-trip-name>
     <get-trip-duration>12</get-trip-duration>
@@ -44083,8 +44083,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-35106</get-trip-id>
     <get-trip-id-org>20313</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Noordereiland in 3 weken</get-trip-name>
     <get-trip-duration>22</get-trip-duration>
@@ -44350,8 +44350,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-35107</get-trip-id>
     <get-trip-id-org>20207</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nieuw-Zeeland in 5 weken</get-trip-name>
     <get-trip-duration>35</get-trip-duration>
@@ -44736,8 +44736,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-35108</get-trip-id>
     <get-trip-id-org>20318</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Nature &amp; Wildlife Nieuw-Zeeland</get-trip-name>
     <get-trip-duration>30</get-trip-duration>
@@ -58654,8 +58654,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-36184</get-trip-id>
     <get-trip-id-org>27509</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Hoogtepunten van Yukon</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -60699,8 +60699,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-36197</get-trip-id>
     <get-trip-id-org>27580</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Route 66 roadtrip</get-trip-name>
     <get-trip-duration>21</get-trip-duration>
@@ -61833,8 +61833,8 @@ Reis-/annuleringsverzekering]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREREIZEN-37146</get-trip-id>
     <get-trip-id-org>32206</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Onbekend binnenland van Oregon</get-trip-name>
     <get-trip-duration>13</get-trip-duration>
@@ -64385,7 +64385,7 @@ Overnachting in Hazyview.
 Tip:
 Excursie - Bezoek aan eSwatini vanuit Hazyview
 8 uur
-Een dagtocht naar het bergachtige koninkrijk Eswatini. Het land staat bekend om zijn gastvrije bevo...
+Een dagtocht naar het bergachtige koninkrijk Eswatini. Het land staat bekend om zijn gastvrije ...
 Dag 7: Hazyview - Kruger National Park (centraal)
 Op zoek naar olifanten
 Je wordt van je overnachtingsadres in Hazyview naar je restcamp in het centrale deel van het Krugerpark gebracht (transfer).
