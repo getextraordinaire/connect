@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-18T03:00:36.041Z" count="80">
+<trips feed="vanverrefamiliereizen" partner="Van Verre Familiereizen" generated="2026-09-19T03:00:35.076Z" count="80">
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37175</get-trip-id>
     <get-trip-id-org>32392</get-trip-id-org>
@@ -6060,8 +6060,8 @@ Overige entreegelden]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37213</get-trip-id>
     <get-trip-id-org>17934</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Avontuurlijk Sumatra en relaxt Langkawi</get-trip-name>
     <get-trip-duration>18</get-trip-duration>
@@ -8463,8 +8463,8 @@ Overige entreegelden]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37226</get-trip-id>
     <get-trip-id-org>20693</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Vulkanen, nevelwoud en Pacifische kust</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
@@ -10658,8 +10658,8 @@ Overige entreegelden nationale parken]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37238</get-trip-id>
     <get-trip-id-org>16990</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Sumatra, Java &amp; Bali met je gezin</get-trip-name>
     <get-trip-duration>23</get-trip-duration>
@@ -12998,8 +12998,8 @@ Overige entreegelden]]></get-trip-scraped-content>
   <trip>
     <get-trip-id>GT-VANVERREFAMILIEREIZEN-37251</get-trip-id>
     <get-trip-id-org>27556</get-trip-id-org>
-    <get-trip-status>Up</get-trip-status>
-    <get-trip-status-code>200 (OK)</get-trip-status-code>
+    <get-trip-status>Down</get-trip-status>
+    <get-trip-status-code>NA</get-trip-status-code>
     <get-trip-publish>Push</get-trip-publish>
     <get-trip-name>Magisch Marokko in</get-trip-name>
     <get-trip-duration>15</get-trip-duration>
